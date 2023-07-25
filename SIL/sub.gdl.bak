@@ -1,0 +1,377 @@
+/********* PASS 1 **********/
+table(glyph)	// glyph pass(1)
+
+	// DWUZNAKI PROSTE
+	//CH
+	//SZ RZ
+	cls_do_SZRZCZ = (clsS clsR clsC); clsSZRZCZ = (clsSz clsRz clsCz); // klasy RZ SZ
+
+	//koñcówka cja sja zja (ew. pocz¹tek, bo pasi)
+	cls_do_CZJA = (clsZ clsS clsC clsT); cls_CZJA = (clsZja clsZja clsCja clsTi);
+
+endtable;	// glyph pass(1)
+
+table(substitution)
+pass(1)
+
+
+	// Podmiana 1 za 1
+	clsJ > clsI;
+	clsOacute > clsU;
+
+	//DWUZNAKI PROSTE
+	clsC clsH > clsH:(1 2) _ ; // CH
+	clsD clsZ > clsDz:(1 2) _ ; //DZ
+	cls_do_SZRZCZ clsZ > clsSZRZCZ:(1 2) _; // robie dwuznaki sz i rz (C+z)
+	clsD clsZi > clsDzi:(2) _; //D+Zi=Dzi (chodzi o dŸ)
+	
+	//koñcówka cja sja zja (ew. pocz¹tek, bo pasi) CJA SJA ZJA TJA TIA
+//	cls_do_CZJA clsY? clsJ clsFINA > cls_CZJA clsFINA:(1 2 3 4) _ _ ;
+	cls_do_CZJA clsJ > cls_CZJA:(2) _ ;
+	cls_do_CZJA clsY clsJ > cls_CZJA:(2 3) _ _ ;
+
+endpass;
+endtable;	// substitution pass(1)
+
+
+/********* PASS 2 **********/
+table(glyph)	// glyph pass(2)
+
+
+	// Do ligatur zmiekczajacych
+	clsTwarde = (clsB clsC clsD clsDz clsF clsG clsH clsK clsM clsN clsP clsS clsT clsW clsZ);
+	clsMiekkie = (clsBi clsCi clsDi clsDzi clsFi clsGi clsHi clsKi clsMi clsNi clsPi  clsSi clsTi clsWi clsZi);
+
+	// Do ligatury ST SP ZD
+	cls_do_STP = (clsT clsP clsD); clsSTP = (clsSt clsSp clsZd);
+
+
+    
+    //Do ligatur TW TK etc
+    cls_do_TWK = (clsW clsWi clsK clsKi); clsTWK = (clsTw clsTwi clsTk clsTki);
+
+	// do ligatur ZD ZB etc
+	//cls_do_ZBD = (clsD clsB); clsZBD = (clsZd clsZb);
+	
+	//Do ligatur TW KW etc.
+	cls_do_TKW = (clsT clsK /*clsKi*/ clsD clsH clsG clsB); clsTKW = (clsTw clsKw /*clsKwi*/ clsDw clsHw clsGw clsBw);
+
+
+	//Do ligatur SZK CZK
+	cls_do_SZK = (clsK clsKi); clsSZK = (clsSzk clsSzki); clsCZK = (clsCzk clsCzki);
+	
+endtable;	// glyph pass(2)
+
+table(substitution)
+pass(2)
+
+
+
+	// Ligatury zmiekczone
+	clsTwarde  clsI  >  clsMiekkie:(1 2)  _ ; // robie dwuznaki miekkie (C+i)
+	
+	// Ligatury ST SP
+	clsS cls_do_STP > _ clsSTP:(1 2) ; // ST SP
+	
+
+	
+	//Ligatury TW TK etc.
+	clsT cls_do_TWK > _ clsTWK:(1 2) ; //TW TK etc.
+
+
+	// Ligatura ZD
+	//clsZ cls_do_ZBD > _ clsZBD:(1 2) ; // ZD ZB etc.
+    clsZ clsD > _ clsZd:(1) ; //ZD
+
+	
+	//Po³¹czenie ¯SZ
+	clsRz clsSz > clsSz:(1) _;
+
+	//Ligatury SZK CZK
+	clsSz cls_do_SZK > clsSZK:(1 2) _ ;
+	clsCz cls_do_SZK > clsCZK:(1 2) _ ;
+
+		
+endpass
+endtable;	// substitution pass(2)
+
+
+/********* PASS 3 **********/
+table(glyph)	// glyph pass(3)
+
+
+	
+	// Do ligatur STI SPI
+	// nie potrzeba dod. deklaracji: clsSt, clsSp, clsSti, clsSpi
+
+	// do ligatur syczasych (KS PS etc)
+	clsDos = (clsK clsP); cls_Cs = (clsX clsPs);
+
+	// do ligatur szyczaczych (KSZ PSZ etc)
+	cls_C_bdzw = (clsK clsP clsSp clsT clsSt clsF clsH); // litery bdzw do pochylenia
+	cls_C_dzw = (clsG clsB clsD clsW clsM); // litery dzw
+	cls_Csz = (clsKsz clsPsz clsSpsz clsTsz clsStsz clsFsz clsHsz); // litery bdzw pochylone
+	cls_C_DoSZ = (cls_C_bdzw clsG clsB clsD clsW);
+	cls_Csz_DoSZ = (cls_Csz clsKsz clsPsz clsTsz clsFsz);
+	
+
+	// do ligatur siciacich (KSI pSI etc)
+	cls_C_Dosi = (clsK clsG clsP clsB clsF clsW);
+	cls_Csi_Dosi = (clsKsi clsKsi clsPsi clsPsi clsFsi clsFsi);
+
+	// do ligatur z L i Lslash (ly)
+	cls_DoL = (clsK clsG clsP clsSp clsB clsH clsM);
+	cls_DoL_L = (clsKl clsGl clsPl clsSpl clsBl clsHl clsMl);
+	cls_DoL_Ly = (clsKly clsGly clsPly clsSply clsBly clsHly clsMly);
+	// do wyjatkowych ligatur z Lslash (ly)
+	//cls_Doly = ();
+	
+	//SZCZ ŒÆ
+	clsSISZY = (clsSi clsSz); clsCICZY = (clsCi clsCz);
+	clsSICISZCZ = (clsSici clsSzcz);
+
+endtable;	// glyph pass(3)
+
+table(substitution)
+pass(3)
+
+	// Ligatury STI SPI
+	clsSt clsI > clsSti:(1 2) _ ; // STi
+	clsSp clsI > clsSpi:(1 2) _ ; //  SPi
+	clsSi clsPi > clsSpi:(1 2) _ ; // ŒPI
+
+	// Ligatury syczace KS PS
+	clsDos gs > cls_Cs:(1 2) _ ; // robie dwuznaki syczace (C+s)
+	
+	// Ligatury szyczacze KSZ PSZ
+	cls_C_DoSZ clsSz > cls_Csz_DoSZ:(1 2) _ ; //robie grupy C+sz dzw i bdzw
+	cls_C_bdzw clsSZRZCZ > cls_Csz:(1 2) _ ; // robie grupy bdzw C+rz bdzw
+	
+	
+	// Ligatury siciacie KSI PSI
+	cls_C_Dosi gsi > cls_Csi_Dosi:(1 2) _ ; // robie dwuznaki siciacie (C+si)
+	
+	// Ligatury z L i Lslash (ly)
+	cls_DoL clsL > cls_DoL_L:(1 2) _ ; // robie dwuznaki z C + L
+	cls_DoL clsLy > cls_DoL_Ly:(1 2) _ ; // robie dwuznaki C + lslash (ly)
+
+	//SZCZ ŒÆ
+	clsSISZY clsCICZY > clsSICISZCZ:(1 2) _;
+
+	//
+
+	
+
+endpass;
+endtable;	// substitution pass(3)
+
+
+
+
+
+/********* PASS 4 **********/
+table(glyph)	// glyph pass(4)
+
+
+//wysokie spó³g³oski i grupy
+clsKX = (clsK clsKi clsKl clsKly clsKt);
+clsPX = (clsP clsPi clsPl clsPly clsSp clsSpi clsSpl clsSply);
+clsTX = (clsT clsTi clsTl clsTly clsTk);
+clsSTX = (clsSt clsSti clsStl clsStly);
+clsFX = (clsF clsFi clsFl)
+clsHX = (clsH clsHi clsHl clsHly);
+
+//œrednie spó³g³oski
+clsDX = (clsD clsDl clsDly clsZd clsZdl clsZdly);
+clsMX = (clsM clsMi clsMl clsMly);
+clsGX = (clsG clsGi clsGl clsGly);
+clsBX = (clsB clsBi clsBl clsBly);
+clsWX = (clsW clsWi clsWl clsWly clsWt)
+
+
+	//Do Stk Stw
+	cls_do_STW = (clsTk clsTki clsTw /*clsTwi*/); clsSTW = (clsStk clsStki clsStw /*clsStwi*/);
+
+
+	//Do KT
+	cls_Do_KT = (clsK clsW);
+	cls_KT = (clsKt clsWt);
+
+
+
+endtable;	// glyph pass(4)
+
+table(substitution)
+pass(4)
+
+	//Stk Stw
+	clsS cls_do_STW > clsSTW:(1 2) _ ;
+
+	
+	//KT
+	cls_Do_KT clsT > cls_KT:(1 2) _ ;
+
+	//aby z³o¿enia WSK ³adniej siê wyœwietla³y, zamienimy S na Z
+	clsW clsS clsK > clsW clsZ clsK;
+
+
+endpass
+endtable;	// substitution pass(4)
+
+/********* PASS 5 **********/
+table(glyph)	// glyph pass(5)
+
+
+	// DO LIGATUR DLA FIKSOW!!!
+	//PO - nie wymaga deklaracji
+	cls_do_Jest = (clsI); cls_Jest = (clsEogonek); // Jest zamieñ potem ja gIE
+
+	// Do szykowania dla _ BY _ we wszelkich odmianach
+	cls_do_By = (clsB); cls_By = (clsY); // By
+
+
+	//Alternatywne O U Aogonek
+	cls_do_AltC = (clsRz clsSz clsM clsN clsH clsC clsCi clsCja clsDzi clsSici clsSzcz clsLy);
+	cls_do_AltV = (clsO clsU clsAogonek);
+	cls_AltV = (clsO_alt clsU_alt clsAogonek_alt);
+	
+		//Do INITcjalnych PRZE SPRZY itp.
+	cls_do_PSZY = (clsPsz clsSpsz); clsPSZE = (clsPsze clsSpsze); clsPSZY = (clsPszy clsSpszy);
+
+
+endtable;	// glyph pass(5)
+
+table(substitution)
+pass(5)
+
+
+
+
+// LIGATURY DLA FIKSOW!!!
+	clsP clsO clsR clsO > clsP _ clsR clsO:(2);//PORO na PRO
+	clsP clsO > clsPo gmSPC; // PO
+	cls_do_Jest clsE clsSt > cls_Jest:(1 2 3) _ _ ; // Jest (zmienic jak pojawi sie glif "je")
+
+	// Szykowanie dla _ BY _ we wszelkich odmianach
+//	gSPC [ga gA] gb gy > gSPC _ [ga gA] gy:(1 2 3) ; // aby
+//	gSPC cls_do_By gy > gSPC _ cls_By:(1 2) ; // By
+	
+	//Alternatywne O U Aogonek
+	cls_do_AltV > cls_AltV / _ cls_do_AltC; // przed H M ŒÆ ¯ SZ N Æ D SZCZ
+
+	//INITcjalne PRZE SPRZY itp.
+	//clsINIT cls_do_PSZY clsY > clsINIT clsPSZY:(1 2) _ ;
+	cls_do_PSZY clsY > clsPSZY gNBSP / clsFINA? clsINIT _ _;
+	clsINIT cls_do_PSZY clsE > clsINIT clsPSZE:(1 2) _ ;
+	clsINIT cls_do_PSZY clsE clsD > clsINIT clsPSZE clsD gNBSP;
+	clsINIT cls_do_PSZY clsEogonek > clsINIT clsPSZE clsE;
+
+
+endpass
+endtable;	// substitution pass(5)
+
+/********* PASS 6 **********/
+table(glyph)	// glyph pass(6)
+
+
+//skrzy¿owanie z R
+clsCONR = (clsKX clsTX clsSTX clsPX clsFX clsGX clsDX clsBX clsSz clsSi clsWX);
+
+
+endtable;	// glyph pass(6)
+
+table(substitution)
+pass(6)
+
+	clsR clsA  > clsRa:(1) _ / clsCONR _ _;
+	clsR clsO  > clsRo:(1) _ / clsCONR _ _;
+	clsR clsU  > clsRu:(1) _ / clsCONR _ _;
+	clsR clsO_alt  > clsRo_alt:(1) _ / clsCONR _ _;
+	clsR clsU_alt  > clsRu_alt:(1) _ / clsCONR _ _;
+	clsR clsE  > clsRe:(1) _ / clsCONR _ _;
+	clsR clsEogonek  > clsReogonek:(1) _ / clsCONR _ _;
+	clsR clsY  > clsRy:(1) _ / clsCONR _ _;
+	clsR clsAogonek  > clsRaogonek:(1) _ / clsCONR _ _;
+	clsR clsAogonek_alt  > clsRaogonek_alt:(1) _ / clsCONR _ _;
+
+	////ERV
+	clsR clsY > clsRy:(1) _ /clsE _ _; //ERY
+	clsR clsA > clsRa:(1) _ /clsE _ _; //ERA
+	clsR clsO > clsRo:(1) _ /clsE _ _; //ERO
+	clsR clsO_alt > clsRo_alt:(1) _ /clsE _ _; //ERO
+	clsR clsU > clsRu:(1) _ /clsE _ _; //ERU
+	clsR clsU_alt > clsRu_alt:(1) _ /clsE _ _; //ERU
+	clsR clsAogonek > clsRaogonek:(1) _ / clsE _ _; //ER¥
+	clsR clsAogonek_alt > clsRaogonek_alt:(1) _ / clsE _ _; //ER¥
+	
+// daæ ARE ORE URE YRE ¥RE
+
+	clsR clsE > clsRe:(1) _ /clsA _ _; //ARE
+	clsR clsE > clsRe:(1) _ /clsO _ _; //ORE
+	clsR clsE > clsRe:(1) _ /clsU _ _; //URE
+	clsR clsE > clsRe:(1) _ /clsY _ _; //YRE
+	clsR clsE > clsRe:(1) _ /clsAogonek _ _; //¥RE
+	/*
+	clsR clsU_alt > clsRu_alt:(1) _ /clsE _ _; //ERU
+	clsR clsAogonek > clsRaogonek:(1) _ / clsE _ _; //ER¥
+	clsR clsAogonek_alt > clsRaogonek_alt:(1) _ / clsE _ _; //ER¥
+	*/
+
+endpass
+endtable;	// substitution pass(6)
+
+/********* PASS 7 **********/
+/******** ligatury znaczników ********/
+table(glyph)
+
+
+et;
+table(substitution) p(7)
+
+
+
+//KTÓRY i pochodne
+clsKt clsU clsR > _ _ clsR:(1 2 3);
+
+//TERAZ i pochodne
+clsT clsE clsR clsA clsZ > clsT _ _ clsA clsS:(2 3);
+clsT clsE clsR clsA clsZi > clsT _ _ clsA clsS:(2 3);
+
+//NAJ
+clsN clsA clsI > clsN clsY gNBSP ;
+
+//NIEJSZ- niejszy
+clsNi clsE clsI clsSz > clsNi clsEogonek clsSz _;
+
+//SIÊ
+clsSi clsEogonek > clsSi:(2) _ / _ _ clsFINA clsINIT?;
+
+////ROZUM
+clsR clsO clsZ clsU clsM > clsR _ _ _ clsM:(2 3 4);
+
+
+ep;et;
+
+/********* PASS 8 **********/
+/******** ostatnie sztuczki *********/
+table(glyph)
+clsAEY = (clsA clsO clsY clsU);
+
+
+et;
+table(substitution) p(8)
+
+	//K->G na koñcu wyrazu
+	clsK > clsG / _ clsFINA;
+	//ROZ > R
+	clsR clsO clsZ > clsR:(2) / _ _ _clsCONSALL;
+
+//difony i trifony oje uje aje itp
+clsAEY clsI clsE > clsAEY _ clsE:(2); //aje oje uje yje
+
+clsE clsI > _ clsEogonek:(1 2) /  _ _ clsCONSALL; // ej=ê jeœli potem spó³g³oska
+
+	
+
+ep;
+et;

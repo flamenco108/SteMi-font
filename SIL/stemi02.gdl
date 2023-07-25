@@ -1,0 +1,42 @@
+/***************************************************
+	File: stemi02.gdl
+***************************************************/
+
+#include "stddef.gdh" // niezbedny include na poczatek
+
+//definicje nazw
+
+#define p(x) pass(x)
+#define et endtable
+#define ep endpass
+
+//////USTAWIENIA DO POPRAWNEGO POZYCJONOWANIA NIE RUSZ!!!	
+// tym przesuwamy (dopisując wartości jak do kern.y)
+#define yInc user1
+//to uzupełnia wzór
+#define yShift user2
+//to do pozycjonowania R przekrzyżowanego
+#define rCross user3
+
+
+
+/////////////////////////////
+
+Bidi = false; // czy pismo w dwoch kierunkach, czy tylko L->R
+
+/****************deklaracja znakow***********************/
+#include "znaki.gdl"
+/****************koniec deklaracji znakow********************/
+
+/**************** substitutions **********************/
+#include "sub.gdl"
+/***************** koniec substitutions **********/
+
+/************************
+ *						*
+ *	POZYCJONOWANIE		*
+ *						*
+ *						*
+*************************/
+
+#include "pos.gdl"

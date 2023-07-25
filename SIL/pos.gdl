@@ -1,0 +1,219 @@
+table(glyph) //pozycjonowanie p1
+
+// *************** grupy samogłosek ************************
+//od 0 do półgóra
+clsOA = (clsA clsO clsU clsO_alt clsU_alt clsPSZE );
+clsROA = (clsRa clsRe clsRo clsRo_alt clsRu clsRu_alt);
+//od 0 do góra
+clsYA = (clsY clsAogonek clsAogonek_alt clsRy clsRaogonek clsRaogonek_alt clsPSZY);
+//od 0 do 0
+clsEA = (clsE clsEogonek clsI clsJ);
+
+
+
+//*************grupy spółgłosek *****************************
+//po A nie ruszają się
+clsANR = (clsBX clsPX clsDX  /*clsTX clsKX*/ clsSTX clsX clsMX clsSi clsZi clsSz clsRz clsWX clsGX clsCi clsSici clsSzcz);
+
+//po A opadają o pół
+clsAOP = (clsKX clsTX clsX clsHX clsKsz clsPsz clsHsz clsTsz clsKsi clsPsi clsFX clsFsz clsFsi clsTo clsSpsz clsSpsi clsStsz clsTk clsTki clsKt clsTkt clsTw clsTwi clsCz clsSzk clsCzk clsSzki clsCzki);
+
+// po nich wysokie opadają o całe
+clsAOPo = (clsKX clsTX clsX clsHX clsKsz clsPsz clsHsz clsTsz clsKsi clsPsi clsFX clsFsz clsFsi clsSpsz clsSpsi clsStsz clsTk clsTki clsKt clsTkt clsTw clsTwi clsCz clsSzk clsCzk clsSzki clsCzki);
+
+// po nich średnie opadają o pół
+
+//z A podnoszą się o pół czyli małe i niewymiarowe
+clsMALE = (clsC clsDz clsN clsNi clsR clsDzi clsL clsLy clsS clsZ clsCja clsZja clsEA);
+
+// po E opadają o całe = clsAOP
+// po E opadają o pół = clsANR
+
+
+//po Y nie ruszają się = clsAOP
+// po Y podnoszą się o pół = clsANR
+// po Y podnoszą się o całe = clsMALE
+
+
+
+endtable;
+
+table(positioning) { MUnits = 3000 }
+
+pass(1)
+
+/////wysokie opadające o pół po A
+clsOA clsAOP {yInc = -1000m};
+
+////średnie wznoszą się o pół po Y
+clsYA clsANR {yInc = 900m};
+
+//// małe po Y wznoszą się o całe
+clsYA clsMALE {yInc = 1700m};
+
+///// małe po A wznoszą się o pół
+clsOA clsMALE {yInc = 860m};
+clsROA clsMALE {yInc = 860m};
+
+//// wysokie po małych (E) opadające o całe
+clsMALE clsAOP {yInc = -1800m};
+
+//// średnie po małych (E) opadające o pół
+clsMALE clsANR {yInc = -900m};
+
+/// średnie po średnich opadają o pół
+clsANR clsANR {yInc = -950m};
+/// średnie po wysokich opadają o pół
+clsAOPo clsANR {yInc = -950m;};
+
+
+/// wysokie po średnich opadają o całe
+clsANR clsAOP {yInc = -1800m};
+/// wysokie po wysokich opadają o całe
+clsAOPo clsAOP {yInc = -1800m};
+clsTo clsAOP {yInc = -950m;}; //jeśli chodzi o następną, to clsTo zachowuje się jak średnia
+endpass;
+et;
+
+table(glyph)
+
+
+/******* dla indywidualnych ********/
+
+clsKP = (clsKX clsPX);
+clsGB = (clsGX clsBX);
+clsKGTD = (clsKP clsGB clsTX clsDX);
+ /**/
+clsZS = (clsS clsZ);
+clsBP = (clsP clsPi clsB clsBi);
+clsSZYP = (clsKsz clsKsi clsFsz clsTsz); //nie ma psz spsz bo inne reguły
+
+clsOUAog = (clsO clsRo clsU clsRu clsAogonek clsRaogonek);
+//clsAY = (clsA clsY clsU clsAogonek clsRaogonek clsRo clsRu);
+
+
+
+
+
+et;
+
+table(positioning)
+pass(2)
+
+clsAOR  clsCONR {yInc = -80m; kern.x = -100m}  /  _  _ {rCross == 1};
+clsEER  clsCONR {yInc = -80m; kern.x = -150m}  /  _  _ {rCross == 1};
+clsYYR  clsCONR {kern.y = 100m}  /  _  _ {rCross == 1};
+
+
+
+/******************/
+//////reguły dla poszcz złożeń pojedynczych liter i małych grup
+clsDzi clsG {yInc = -400m; kern.x = -150m}; //Dzi+k
+
+clsSi clsVOW {yInc = -350m; kern.x = -230m};//Si+V
+clsSi clsMALE {yInc = -350m; kern.x = -230m};//Si+MALE
+clsSici clsVOW {yInc = -350m; kern.x = -170m};//ŚCI+V
+clsSici clsMALE {yInc = -350m; kern.x = -170m};//ŚCI+MALE
+
+clsZi clsVOW {yInc = -150m; kern.x = -100m};//Zi+V
+clsZS clsKP {yInc = -350m;} ; //sk sp
+clsZS clsGB {yInc = -200m; kern.x = 30m}; //zg zb
+clsW clsZS {kern.x = -50m}; //wz ws
+clsW clsKGTD {yInc = -300m;} ; // wk wt wkl wst etc.
+clsS clsSZYP {kern.x = 100m};
+clsOUAog clsZS {kern.x = -60m}; //pozycja S po O etc
+clsR clsS {yInc = -80m; kern.x = 130m}; //R+S
+clsR clsZ {yInc = -80m; kern.x = 108m}; //R+Z
+clsOUAog clsI {kern.x = 30m}; // U+I
+
+clsTo clsMALE {yInc = 200m};
+
+
+// Ustawienia C + Ł
+//clsAY clsLy {kern.x = 50m};
+clsA clsLy {yInc = 330m;kern.x = 50m};
+clsO clsLy {yInc = 330m;kern.x = 50m}; // jeżeli nie zadziała wymiana na alt
+clsO_alt clsLy {yInc = 330m;kern.x = 40m};
+clsU clsLy {yInc = 330m;kern.x = 10m}; // jeżeli nie zadziała wymiana na alt
+clsU_alt clsLy {yInc = 330m;kern.x = -15m};
+clsRu_alt clsLy {yInc = 350m;kern.x = -15m};
+clsY clsLy {yInc = 620m;kern.x = 40m};
+clsAogonek clsLy {yInc = 650m;kern.x = 40m};
+clsAogonek_alt clsLy {yInc = 620m;kern.x = 40m};
+
+
+
+/// PO + LITERY
+gmSPC clsS {kern.x = -50m} / clsPo _ _; // S - bo ma mały adwans
+gmSPC clsMALE {kern.x = -120m} / clsPo _ _; // małe literki
+gmSPC clsANR {kern.x = -120m} / clsPo _ _; // S - bo ma mały adwans
+
+
+////Miękkie i stsz strz
+clsMiekkie clsStsz {yInc = -470m; kern.x = 100m};
+clsA clsStsz {yInc = -200m; kern.x = 70m};
+clsMALE clsStsz {yInc = -450m; kern.x = 80m};
+clsPsze clsStsz {yInc = -170m; kern.x = 180m};
+
+/// R + LITERY
+
+//clsCONR {yInc = -90m; kern.x = -90m} / clsVOWR {user1 == 1} _;
+//clsCONR {kern.y = 1200m;} / clsEER {user1 == 1} _;
+//clsCONR {kern.y = 1200m; kern.x = -130m} / clsYYR {user1 == 1} _;
+
+
+
+
+clsR clsW {yInc = -250m; kern.x = -180m} ;
+//clsR
+
+
+//// wysokie po małych opadające uzupełniająco
+clsMALE clsAOP {yInc = -730m};
+clsMALE clsANR {yInc = -280m};
+
+endpass;
+et;
+
+table(glyph)
+
+et;
+
+table(positioning)
+p(3)
+
+
+//////////CJA ZJA SJA TJA TIA
+//CJA
+/*
+clsOA clsCja {yInc = 100m}; // pozycja A+CJA
+clsMALE clsCja {yInc = -130m}; //pozycja E+CJA
+clsYA clsCja {yInc = 350m}; //pozycja Y+CJA
+clsANR clsCja {yInc = -180m};// pozycja MI+ZJA
+*/
+//clsVOW clsCja {yInc = 50m}; // pozycja V+CJA
+clsCja clsVOW {yInc = -150m}; //pozycja CJA+V
+clsCja clsN  {yInc = -200m};
+
+//ZJA
+/*
+clsOA clsZja {yInc = 300m }; // pozycja A+ZJA
+clsYA clsZja {yInc = 600m}; // pozycja Y+ZJA
+clsMALE clsZja {yInc = 10m }; // pozycja E+ZJA
+clsANR clsZja {yInc = -50m};// pozycja MI+ZJA
+*/
+clsZja clsVOW {yInc = 150m; kern.x = -10m}; //pozycja ZJA+V
+clsZja clsN {yInc = 150m; kern.x = -10m};
+
+
+
+ep;et;
+
+table(positioning)
+p(4)
+
+//clsLITALL clsLITALL {shift.y = @1.shift.y + yInc} / _ ^ _;
+clsLITALL clsLITALL {shift.y = @1.yShift + yInc; yShift = @1.yShift + yInc;} / _ ^ _;
+
+endpass;
+endtable;
