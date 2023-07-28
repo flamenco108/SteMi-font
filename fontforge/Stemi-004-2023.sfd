@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1690453336
+ModificationTime: 1690465367
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -89,7 +89,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 330 15 13
+WinInfo: 983055 15 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -112,7 +112,7 @@ Grid
  6000 3059.9999088 l 1024
   Named: "wlk_litery"
 EndSplineSet
-BeginChars: 1114123 536
+BeginChars: 1114123 537
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -12725,6 +12725,7 @@ SplineSet
  758 1092 l 1,4,-1
 EndSplineSet
 Validated: 5
+LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable - dwugloski" a j
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable - dwugloski" a i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1 subtable - dwugloski" a y
@@ -14268,6 +14269,29 @@ SplineSet
  119 -298 119 -298 135 -288 c 4,39,40
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: u.lift
+Encoding: 983215 983215 536
+Width: 465
+VWidth: 300
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+219 696 m 1,0,1
+ 243 507 243 507 306 519 c 0,2,3
+ 472 553 472 553 472.4453125 998.984375 c 1,4,-1
+ 630 999 l 1,5,6
+ 607 539 607 539 384 363 c 0,7,8
+ 281.989698362 282.991920284 281.989698362 282.991920284 195 417 c 0,9,10
+ 234 357 234 357 137 137.299804688 c 0,11,-1
+ 94 85.2998046875 l 1,12,-1
+ 0 153.299804688 l 1,13,14
+ 102 345 102 345 78 672 c 1,15,-1
+ 78 696 l 1,16,17
+ 148 696 148 696 219 696 c 1,0,1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
