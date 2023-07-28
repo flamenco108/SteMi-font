@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1690529040
+ModificationTime: 1690537382
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -89,7 +89,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 15 13
+WinInfo: 180 15 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2098,7 +2098,7 @@ Encoding: 110 110 82
 Width: 761
 VWidth: 3070
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 Refer: 294 983054 N 1 0 0 1 -9 -843 2
@@ -3729,32 +3729,11 @@ Encoding: 260 260 135
 Width: 1484
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
-SplineSet
-1685 2054 m 1,0,-1
- 1799 2041 l 1,1,2
- 1788 1848 1788 1848 1743 1663 c 0,3,4
- 1698 1478 1698 1478 1629.5 1322.5 c 0,5,6
- 1561 1167 1561 1167 1469.5 1021 c 0,7,8
- 1378 875 1378 875 1277 756.5 c 0,9,10
- 1176 638 1176 638 1063 531 c 0,11,12
- 950 424 950 424 841 342 c 0,13,14
- 732 260 732 260 621.5 191.5 c 0,15,16
- 511 123 511 123 417.5 77 c 0,17,18
- 324 31 324 31 241 0 c 1,19,-1
- 201 149 l 1,20,21
- 314 199 314 199 429.5 263.5 c 0,22,23
- 545 328 545 328 686.5 427 c 0,24,25
- 828 526 828 526 954.5 640 c 0,26,27
- 1081 754 1081 754 1207.5 908 c 0,28,29
- 1334 1062 1334 1062 1429.5 1230.5 c 0,30,31
- 1525 1399 1525 1399 1594 1612.5 c 0,32,33
- 1663 1826 1663 1826 1685 2054 c 1,0,-1
-EndSplineSet
-Refer: 169 710 S 1 0 0 1 528 1808 2
-Validated: 1
+Refer: 136 261 S 1 0 0 1 0 0 2
+Refer: 169 710 N 1 0 0 1 528 1808 2
 EndChar
 
 StartChar: aogonek
