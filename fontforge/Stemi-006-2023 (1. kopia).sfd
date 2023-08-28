@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1690545546
+ModificationTime: 1692790063
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -89,7 +89,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 983055 15 13
+WinInfo: 30 15 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1498,9 +1498,8 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 78 106 N 1 0 0 1 944 72.3 2
-Refer: 169 710 S 1 0 0 1 184 1784 2
-Validated: 1
+Refer: 77 105 N 1 0 0 1 917 -20 2
+Refer: 169 710 N 1 0 0 1 331 1805 2
 EndChar
 
 StartChar: J
@@ -1513,7 +1512,7 @@ LayerCount: 2
 Fore
 Refer: 78 106 N 1 0 0 1 928 96 2
 Refer: 169 710 S 1 0 0 1 277 1800 2
-Validated: 1
+Validated: 5
 Substitution2: "'liga' Standard Ligatures in Latin lookup 0 subtable - podstawienia" I
 EndChar
 
@@ -1566,6 +1565,7 @@ LayerCount: 2
 Fore
 Refer: 82 110 N 1 0 0 1 690 -12 2
 Refer: 169 710 N 1 0 0 1 384 1792 2
+Validated: 5
 EndChar
 
 StartChar: O
@@ -2003,29 +2003,6 @@ EndChar
 
 StartChar: i
 Encoding: 105 105 77
-Width: 268
-VWidth: 0
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-271 155 m 1,0,-1
- 399 58 l 1,1,-1
- 111 -206 l 1,2,-1
- 111 -26 l 1,3,-1
- 271 155 l 1,0,-1
--50 154 m 1,4,-1
- 111 154 l 1,5,-1
- 111 -206 l 1,6,-1
- -50 -360 l 1,7,-1
- -50 154 l 1,4,-1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: j
-Encoding: 106 106 78
 Width: 49
 VWidth: 0
 GlyphClass: 2
@@ -2033,13 +2010,36 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-120 584 m 5,0,-1
- 120 26 l 5,1,-1
- -29 26 l 5,2,-1
- -29 584 l 5,3,-1
- 120 584 l 5,0,-1
+123 584 m 5,0,-1
+ 123 26 l 5,1,-1
+ -26 26 l 5,2,-1
+ -26 584 l 5,3,-1
+ 123 584 l 5,0,-1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: j
+Encoding: 106 106 78
+Width: 248
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+249 155 m 1,0,-1
+ 377 58 l 1,1,-1
+ 89 -206 l 1,2,-1
+ 89 -26 l 1,3,-1
+ 249 155 l 1,0,-1
+-72 154 m 1,4,-1
+ 89 154 l 1,5,-1
+ 89 -206 l 1,6,-1
+ -72 -360 l 1,7,-1
+ -72 154 l 1,4,-1
+EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: k
@@ -2103,6 +2103,7 @@ LayerCount: 2
 Fore
 Refer: 294 983054 N 1 0 0 1 -9 -843 2
 Refer: 281 983041 N 1 0 0 1 402 0 2
+Validated: 5
 EndChar
 
 StartChar: o
@@ -3734,6 +3735,7 @@ LayerCount: 2
 Fore
 Refer: 136 261 S 1 0 0 1 0 0 2
 Refer: 169 710 N 1 0 0 1 528 1808 2
+Validated: 1
 EndChar
 
 StartChar: aogonek
@@ -7298,6 +7300,7 @@ SplineSet
  -91.2451171875 437.046875 -91.2451171875 437.046875 125.884765625 450.728515625 c 1,53,-1
  125.884765625 450.727539062 l 1,35,36
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: O.alt
@@ -7700,6 +7703,7 @@ LayerCount: 2
 Fore
 Refer: 290 983050 S 1 0 0 1 -166 83 2
 Refer: 88 116 N 1 0 0 1 0 0 2
+Validated: 5
 LCarets2: 1 49
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" t i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" t j
@@ -7715,6 +7719,7 @@ LayerCount: 2
 Fore
 Refer: 169 710 S 1 0 0 1 18 1809 2
 Refer: 311 983071 N 1 0 0 1 692 -66.7 2
+Validated: 5
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" T i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" T j
@@ -7730,6 +7735,7 @@ LayerCount: 2
 Fore
 Refer: 290 983050 S 1 0 0 1 -151 149 2
 Refer: 72 100 N 1 0 0 1 0 0 2
+Validated: 5
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" d i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" d j
@@ -8089,6 +8095,7 @@ SplineSet
  693 3444 l 1,0,-1
 EndSplineSet
 Refer: 313 983073 S 1 0 0 1 696 -24 2
+Validated: 5
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" D i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" D j
@@ -9599,6 +9606,7 @@ Fore
 Refer: 281 983041 N 1 0 0 1 0 0 2
 Refer: 282 983042 S 1 0 0 1 0 -53 2
 Refer: 446 983209 N 1 0 0 1 0 0 2
+Validated: 5
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" s p
 EndChar
@@ -9613,6 +9621,7 @@ LayerCount: 2
 Fore
 Refer: 169 710 N 1 0 0 1 78 1806 2
 Refer: 359 983119 N 1 0 0 1 470 0 2
+Validated: 5
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" S p
 EndChar
@@ -9664,7 +9673,8 @@ Fore
 Refer: 281 983041 N 1 0 -0.268005 1 231 4.54747e-13 2
 Refer: 282 983042 N 1 0 -0.268005 1 255 -101 2
 Refer: 446 983209 N 1 0 -0.268005 1 226 0 2
-LCarets2: 3 251 908 215
+Validated: 5
+LCarets2: 3 215 251 908
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" s p s z
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" sp s z
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" s p r z
@@ -9685,6 +9695,7 @@ LayerCount: 2
 Fore
 Refer: 169 710 N 1 0 0 1 12 1800 2
 Refer: 359 983119 S 1 0 -0.268005 1 926 0 2
+Validated: 5
 LCarets2: 3 0 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" S p s z
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" Sp s z
@@ -9771,6 +9782,7 @@ LayerCount: 2
 Fore
 Refer: 359 983119 N 1 0 0 1 0 0 2
 Refer: 450 983213 N 1 0 0 1 0 0 2
+Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" s p l
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" s b l
 EndChar
@@ -9785,6 +9797,7 @@ LayerCount: 2
 Fore
 Refer: 169 710 N 1 0 0 1 24 1794 2
 Refer: 367 983127 N 1 0 0 1 450 0 2
+Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" S p l
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" S b l
 EndChar
@@ -9832,6 +9845,7 @@ LayerCount: 2
 Fore
 Refer: 290 983050 S 1 0 0 1 -179 115 2
 Refer: 318 983078 N 1 0 0 1 -34 0 2
+Validated: 5
 LCarets2: 2 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" sst j
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" sst i
@@ -9849,6 +9863,7 @@ LayerCount: 2
 Fore
 Refer: 169 710 N 1 0 0 1 234 1782 2
 Refer: 371 983131 N 1 0 0 1 720 0 2
+Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Sst j
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Sst i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" S t j
@@ -9940,6 +9955,7 @@ LayerCount: 2
 Fore
 Refer: 373 983133 N 1 0 0 1 0 0 2
 Refer: 290 983050 N 1 0 0 1 0 0 2
+Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" zd i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" zd j
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" z d i
@@ -9957,6 +9973,7 @@ Fore
 Refer: 169 710 N 1 0 0 1 30 1788 2
 Refer: 373 983133 N 1 0 0 1 500 0 2
 Refer: 290 983050 N 1 0 0 1 490 0 2
+Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Zd i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Zd j
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Z d i
@@ -10059,6 +10076,7 @@ Fore
 Refer: 429 983189 S 1 0 0 1 413 -26.7 2
 Refer: 281 983041 N 1 0 0 1 413 -8 2
 Refer: 294 983054 N 1 0 0 1 0 0 2
+Validated: 5
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" m lslash
 EndChar
@@ -10073,6 +10091,7 @@ LayerCount: 2
 Fore
 Refer: 169 710 N 1 0 0 1 156 1806 2
 Refer: 379 983139 N 1 0 0 1 940 0 2
+Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" M lslash
 EndChar
 
@@ -10086,7 +10105,8 @@ LayerCount: 2
 Fore
 Refer: 87 115 N 1 0 0 1 -565 1483.6 2
 Refer: 335 983095 N 1 0 0 1 96 -45 2
-LCarets2: 3 392 383 390
+Validated: 5
+LCarets2: 3 383 390 392
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" s t s z
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" s t r z
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" s t zdotaccent
@@ -10113,6 +10133,7 @@ LayerCount: 2
 Fore
 Refer: 169 710 N 1 0 0 1 294 1800 2
 Refer: 381 983141 N 1 0 0 1 1280 0 2
+Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" S t s z
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" S t r z
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" S t zdotaccent
@@ -10496,6 +10517,7 @@ Fore
 Refer: 281 983041 N 1 0 0 1 614 -1 2
 Refer: 282 983042 S 1 0 0 1 614 -51 2
 Refer: 448 983211 N 1 0 0 1 -3 916 2
+Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" t e k
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" t k
 LCarets2: 1 0
@@ -10511,6 +10533,7 @@ LayerCount: 2
 Fore
 Refer: 169 710 N 1 0 0 1 192 1806 2
 Refer: 395 983155 N 1 0 0 1 650 0 2
+Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" T k
 EndChar
 
@@ -11430,6 +11453,7 @@ LayerCount: 2
 Fore
 Refer: 443 983206 N 1 0 0 1 149 231 2
 Refer: 395 983155 N 1 0 0 1 0 0 2
+Validated: 5
 EndChar
 
 StartChar: Stk
@@ -11442,6 +11466,7 @@ LayerCount: 2
 Fore
 Refer: 169 710 N 1 0 0 1 114 1800 2
 Refer: 436 983199 N 1 0 0 1 470 0 2
+Validated: 5
 EndChar
 
 StartChar: zja
@@ -11638,7 +11663,7 @@ Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" Dz j i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" Dz j
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" D z j i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" D z j
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" C j i 
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" C j i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" C j
 EndChar
 
@@ -12236,7 +12261,8 @@ Fore
 Refer: 158 382 N 1 0 0 1 408 0 2
 Refer: 282 983042 N 1 0 0 1 378 744 2
 Refer: 294 983054 N 1 0 0 1 -32 900 2
-LCarets2: 2 389 375
+Validated: 5
+LCarets2: 2 375 389
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" m zcaron
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" m r z
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" m zdotaccent
@@ -12254,6 +12280,7 @@ LayerCount: 2
 Fore
 Refer: 169 710 N 1 0 0 1 315 1794 2
 Refer: 460 983224 N 1 0 0 1 550 0 2
+Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" M zcaron
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" M r z
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" M zdotaccent
@@ -12548,8 +12575,8 @@ Refer: 443 983206 N 1 0 0 1 155 256 2
 Refer: 478 983242 N 1 0 0 1 0 0 2
 Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" s t k i
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" st k i
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" st ki
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" sst k i
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" sst ki
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" s t ki
 EndChar
 
@@ -12565,8 +12592,8 @@ Refer: 169 710 N 1 0 0 1 231 1791 2
 Refer: 480 983244 N 1 0 0 1 520 0 2
 Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" S t k i
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" St k i
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" St ki
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Sst k i
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Sst ki
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" S t ki
 EndChar
 
@@ -12644,7 +12671,7 @@ Refer: 142 271 N 1 0 0 1 0 990 2
 Refer: 75 103 N 1 0 0 1 0 0 2
 Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" c z k
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" cz k
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" ccaron k
 EndChar
 
 StartChar: Czk
@@ -12659,7 +12686,7 @@ Refer: 169 710 N 1 0 0 1 273 1800 2
 Refer: 486 983250 N 1 0 0 1 800 0 2
 Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" C z k
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Cz k
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Ccaron k
 EndChar
 
 StartChar: czki
@@ -12675,8 +12702,8 @@ Refer: 142 271 N 1 0 0 1 0 999 2
 Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" c z k i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" c z ki
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" cz ki
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" cz k i
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" ccaron ki
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" ccaron k i
 EndChar
 
 StartChar: Czki
@@ -12692,8 +12719,8 @@ Refer: 488 983252 N 0.986206 0 0 1 756 -7 2
 Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" C z k i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" C z ki
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Cz ki
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Cz k i
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Ccaron ki
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Ccaron k i
 EndChar
 
 StartChar: szk
@@ -12708,7 +12735,7 @@ Refer: 156 380 N 1 0 0 1 0 1030 2
 Refer: 75 103 N 1 0 0 1 320 0 2
 Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" s z k
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" sz k
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" scaron k
 EndChar
 
 StartChar: Szk
@@ -12723,7 +12750,7 @@ Refer: 169 710 N 1 0 0 1 213 1788 2
 Refer: 490 983254 N 1 0 0 1 590 0 2
 Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" S z k
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Sz k
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Scaron k
 EndChar
 
 StartChar: szki
@@ -12739,8 +12766,8 @@ Refer: 156 380 N 1 0 0 1 0 1040 2
 Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" s z k i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" s z ki
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" sz ki
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" sz k i
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" scaron ki
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" scaron k i
 EndChar
 
 StartChar: Szki
@@ -12756,8 +12783,8 @@ Refer: 492 983256 N 1 0 0 1 638 0 2
 Validated: 5
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" S z k i
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" S z ki
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Sz ki
-Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Sz k i
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Scaron ki
+Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" Scaron k i
 EndChar
 
 StartChar: aj
@@ -14272,7 +14299,7 @@ Validated: 1
 EndChar
 
 StartChar: zcaron.bak
-Encoding: 983774 983774 535
+Encoding: 983297 983297 535
 Width: 371
 VWidth: 0
 Flags: W
@@ -14348,6 +14375,7 @@ SplineSet
  78 696 l 1,16,17
  148 696 148 696 219 696 c 1,0,1
 EndSplineSet
+Validated: 33
 EndChar
 EndChars
 EndSplineFont
