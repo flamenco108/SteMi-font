@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1700043747
+ModificationTime: 1700053296
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -89,7 +89,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 983130 15 13
+WinInfo: 983003 19 13
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -118,7 +118,7 @@ Grid
  5960 1964 l 1024
   Named: "wysokie-litery"
 EndSplineSet
-BeginChars: 1114123 542
+BeginChars: 1114123 546
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -1555,13 +1555,13 @@ EndChar
 
 StartChar: T
 Encoding: 84 84 56
-Width: 775
+Width: 594
 VWidth: 0
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 169 710 S 1 0 0 1 169 985 2
+Refer: 169 710 S 1 0 0 1 256 985 2
 Refer: 88 116 N 1 0 0 1 680 0 2
 EndChar
 
@@ -1829,25 +1829,14 @@ EndChar
 
 StartChar: d
 Encoding: 100 100 72
-Width: 61
+Width: 430
 VWidth: 0
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-89 1173 m 1,0,-1
- 268 1173 l 1,1,2
- 165 1059 165 1059 165 864 c 4,3,4
- 165 778 165 778 217 581.5 c 128,-1,5
- 269 385 269 385 269 370 c 0,6,7
- 269 174 269 174 115 8 c 1,8,-1
- -64 9 l 1,9,10
- 87 171 87 171 87 368 c 0,11,12
- 87 382 87 382 34 578.5 c 128,-1,13
- -19 775 -19 775 -19 861 c 4,14,15
- -19 1052 -19 1052 89 1173 c 1,0,-1
-EndSplineSet
+Refer: 444 983207 N 1 0 0 1 -303 -36 2
+Refer: 445 983208 S 1 0 0 1 -604 -246 2
 EndChar
 
 StartChar: e
@@ -2007,7 +1996,6 @@ LayerCount: 2
 Fore
 Refer: 294 983054 N 1 0 0 1 -9 -843 2
 Refer: 281 983041 N 1 0 0 1 402 0 2
-Validated: 5
 EndChar
 
 StartChar: o
@@ -2117,14 +2105,14 @@ EndChar
 
 StartChar: t
 Encoding: 116 116 88
-Width: 961
+Width: 594
 VWidth: 0
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 447 983210 N 1 0 0 1 453 0 2
-Refer: 448 983211 N 1 0 0 1 -147 774 2
+Refer: 447 983210 N 1 0 0 1 295 0 2
+Refer: 448 983211 S 1 0 0 1 -314 626 2
 EndChar
 
 StartChar: u
@@ -3591,7 +3579,7 @@ EndChar
 
 StartChar: Aogonek
 Encoding: 260 260 135
-Width: 1160
+Width: 857
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -3603,18 +3591,18 @@ EndChar
 
 StartChar: aogonek
 Encoding: 261 261 136
-Width: 1160
+Width: 857
 VWidth: 0
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1165 1706 m 5,0,-1
- 1294 1706 l 5,1,2
- 1254 462 1254 462 40 13 c 1,3,-1
- 0 149 l 1,4,5
- 1074 564 1074 564 1165 1706 c 5,0,-1
+862 1706 m 5,0,-1
+ 1006 1706 l 1,1,2
+ 980 528 980 528 -2 -2 c 5,3,-1
+ -2 164 l 1,4,5
+ 786 617 786 617 862 1706 c 5,0,-1
 EndSplineSet
 EndChar
 
@@ -6841,10 +6829,10 @@ LayerCount: 2
 Fore
 SplineSet
 0 161 m 1,0,-1
- 180 161 l 1,1,-1
- 180 110 l 2,2,3
- 180 63 180 63 215 63 c 0,4,5
- 243 63 243 63 284 91.5 c 128,-1,6
+ 172 161 l 5,1,-1
+ 172 110 l 6,2,3
+ 172 63 172 63 207 63 c 4,4,5
+ 235 63 235 63 280 91.5 c 128,-1,6
  325 120 325 120 355 158 c 1,7,-1
  469 68 l 1,8,9
  381 -5 381 -5 323.5 -33 c 128,-1,10
@@ -6853,7 +6841,6 @@ SplineSet
  0 24 0 24 0 92 c 2,14,-1
  0 161 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: stemG
@@ -6920,18 +6907,18 @@ EndChar
 
 StartChar: prostaY
 Encoding: 983045 983045 285
-Width: 704
+Width: 689
 VWidth: 0
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-706 1712 m 5,0,-1
- 824 1644 l 5,1,-1
- 100 45 l 1,2,-1
+687 1712 m 1,0,-1
+ 837 1644 l 1,1,-1
+ 137 45 l 1,2,-1
  -3 124 l 1,3,-1
- 706 1712 l 5,0,-1
+ 687 1712 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -6949,8 +6936,8 @@ SplineSet
  400 1494 400 1494 293.986328125 1492.5 c 0,4,5
  187.36025193 1491.01889478 187.36025193 1491.01889478 186 1389 c 0,6,7
  185 1312 185 1312 183 1083 c 1,0,1
-179 499 m 1,8,-1
- 0 499 l 1,9,-1
+179 976 m 5,8,-1
+ 0 976 l 5,9,-1
  0 1382 l 0,10,11
  0 1490 0 1490 37 1540 c 0,12,13
  137 1674 137 1674 294 1674 c 0,14,15
@@ -6958,7 +6945,7 @@ SplineSet
  580 1506 580 1506 580 1385 c 0,17,18
  580 1360 580 1360 540.5 1254.33333333 c 0,19,20
  487 1111 487 1111 180 834 c 1,21,-1
- 179 499 l 1,8,-1
+ 179 976 l 5,8,-1
 EndSplineSet
 EndChar
 
@@ -7102,19 +7089,13 @@ EndChar
 
 StartChar: aogonek.alt
 Encoding: 983053 983053 293
-Width: 1168
+Width: 851
 VWidth: 0
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-113.090820312 72 m 1,0,-1
- -14.9091796875 104 l 1,1,2
- 65 1255 65 1255 1168.09082031 1709 c 1,3,-1
- 1240.09082031 1621 l 1,4,5
- 245 1175 245 1175 113.090820312 72 c 1,0,-1
-EndSplineSet
+Refer: 136 261 S -1 0 0 -1 968 1781 2
 EndChar
 
 StartChar: luM
@@ -7413,13 +7394,13 @@ EndChar
 
 StartChar: ti
 Encoding: 983071 983071 311
-Width: 961
+Width: 594
 VWidth: 0
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 290 983050 S 1 0 0 1 335 83 2
+Refer: 290 983050 S 1 0 0 1 392 87 2
 Refer: 88 116 N 1 0 0 1 0 0 2
 LCarets2: 1 49
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" t i
@@ -7443,13 +7424,13 @@ EndChar
 
 StartChar: di
 Encoding: 983073 983073 313
-Width: 61
+Width: 430
 VWidth: 0
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 290 983050 S 1 0 0 1 -130 149 2
+Refer: 290 983050 S 1 0 0 1 193 87 2
 Refer: 72 100 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-0 - podstawowe" d i
@@ -7674,11 +7655,12 @@ Encoding: 983078 983078 318
 Width: 112
 VWidth: 0
 GlyphClass: 3
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 Refer: 88 116 N 1 0 0 1 56 0 2
-Refer: 443 983206 N 1 0 0 1 143 39 2
+Refer: 443 983206 S 1 0 0 1 27 522 2
+LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" s t
 EndChar
 
@@ -8777,99 +8759,30 @@ EndChar
 
 StartChar: gl
 Encoding: 983103 983103 343
-Width: 101
+Width: 171
 VWidth: 0
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-0 1250 m 1,0,-1
- 180 1250 l 1,1,-1
- 180 252 l 1,2,-1
- 0 250 l 1,3,-1
- 0 1250 l 1,0,-1
-1 440 m 1,4,-1
- 180 440 l 1,5,-1
- 181 246 l 1,6,7
- 265 149 265 149 310.5 18 c 128,-1,8
- 356 -113 356 -113 356 -237 c 0,9,10
- 356 -363 356 -363 310.5 -444 c 128,-1,11
- 265 -525 265 -525 181 -525 c 0,12,13
- 1 -525 1 -525 1 -149 c 2,14,-1
- 1 48 l 1,15,16
- -31 31 -31 31 -67 31 c 0,17,18
- -122 31 -122 31 -178 78 c 0,19,20
- -202 98 -202 98 -217.5 134.5 c 128,-1,21
- -233 171 -233 171 -233 214 c 0,22,23
- -233 300 -233 300 -178 350 c 0,24,25
- -126 397 -126 397 -67 397 c 0,26,27
- -29 397 -29 397 1 381 c 1,28,-1
- 1 440 l 1,4,-1
-181 143 m 1,29,-1
- 181 -131 l 2,30,31
- 181 -150 181 -150 182 -179.5 c 128,-1,32
- 183 -209 183 -209 185 -249.5 c 128,-1,33
- 187 -290 187 -290 192.5 -317.5 c 128,-1,34
- 198 -345 198 -345 205 -345 c 0,35,36
- 220 -345 220 -345 231.5 -291.5 c 128,-1,37
- 243 -238 243 -238 243 -161 c 0,38,39
- 243 14 243 14 181 143 c 1,29,-1
-EndSplineSet
-Validated: 5
+Refer: 282 983042 S 1 0 0 1 0 0 2
+Refer: 450 983213 N 1 0 0 1 0 0 2
+Refer: 281 983041 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" g l
 EndChar
 
 StartChar: Gl
 Encoding: 983104 983104 344
-Width: 889
+Width: 352
 VWidth: 0
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-790 1250 m 1,0,-1
- 970 1250 l 1,1,-1
- 970 252 l 1,2,-1
- 790 250 l 1,3,-1
- 790 1250 l 1,0,-1
-791 440 m 1,4,-1
- 970 440 l 1,5,-1
- 971 246 l 1,6,7
- 1055 149 1055 149 1100.5 18 c 128,-1,8
- 1146 -113 1146 -113 1146 -237 c 0,9,10
- 1146 -363 1146 -363 1100.5 -444 c 128,-1,11
- 1055 -525 1055 -525 971 -525 c 0,12,13
- 791 -525 791 -525 791 -149 c 2,14,-1
- 791 48 l 1,15,16
- 759 31 759 31 723 31 c 0,17,18
- 668 31 668 31 612 78 c 0,19,20
- 588 98 588 98 572.5 134.5 c 128,-1,21
- 557 171 557 171 557 214 c 0,22,23
- 557 300 557 300 612 350 c 0,24,25
- 664 397 664 397 723 397 c 0,26,27
- 761 397 761 397 791 381 c 1,28,-1
- 791 440 l 1,4,-1
-971 143 m 1,29,-1
- 971 -131 l 2,30,31
- 971 -150 971 -150 972 -179.5 c 128,-1,32
- 973 -209 973 -209 975 -249.5 c 128,-1,33
- 977 -290 977 -290 982.5 -317.5 c 128,-1,34
- 988 -345 988 -345 995 -345 c 0,35,36
- 1010 -345 1010 -345 1021.5 -291.5 c 128,-1,37
- 1033 -238 1033 -238 1033 -161 c 0,38,39
- 1033 14 1033 14 971 143 c 1,29,-1
-735 3426 m 1,40,-1
- 882 3426 l 1,41,-1
- 1128 3050 l 1,42,-1
- 989 3050 l 1,43,-1
- 808 3295 l 1,44,-1
- 628 3050 l 1,45,-1
- 489 3050 l 1,46,-1
- 735 3426 l 1,40,-1
-EndSplineSet
-Validated: 5
+Refer: 169 710 N 1 0 0 1 -578 790 2
+Refer: 343 983103 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" G l
 EndChar
 
@@ -8881,7 +8794,7 @@ GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 449 983212 S 1 0 0 1 46 203 2
+Refer: 449 983212 S 1 0 0 1 46 81 2
 Refer: 282 983042 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" g lslash
@@ -8909,8 +8822,9 @@ GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 450 983213 N 1 0 0 1 -24 0 2
+Refer: 450 983213 S 1 0 0 1 -31 0 2
 Refer: 84 112 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" p l
 EndChar
 
@@ -9000,6 +8914,7 @@ SplineSet
  179 499 l 1,57,-1
 EndSplineSet
 Validated: 5
+LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" b l
 EndChar
 
@@ -9432,6 +9347,7 @@ LayerCount: 2
 Fore
 Refer: 359 983119 N 1 0 0 1 0 0 2
 Refer: 450 983213 N 1 0 0 1 0 0 2
+LCarets2: 2 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" s p l
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" s b l
 EndChar
@@ -9458,9 +9374,10 @@ GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 449 983212 N 1 0 0 1 0 0 2
+Refer: 449 983212 S 1 0 0 1 47 0 2
 Refer: 282 983042 N 1 0 0 1 0 -167 2
 Refer: 446 983209 N 1 0 0 1 0 0 2
+LCarets2: 2 0 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" sp lslash
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" s p lslash
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-2 - trojgloski" s b lslash
@@ -10227,14 +10144,15 @@ EndChar
 
 StartChar: tl
 Encoding: 983161 983161 401
-Width: 224
+Width: 631
 VWidth: 0
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 450 983213 N 1 0 0 1 110 -60 2
-Refer: 88 116 N 1 0 0 1 0 0 2
+Refer: 450 983213 N 1 0 0 1 518 -60 2
+Refer: 88 116 N 1 0 0 1 -10 0 2
+LCarets2: 1 760
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" t l
 EndChar
 
@@ -10253,13 +10171,13 @@ EndChar
 
 StartChar: tly
 Encoding: 983163 983163 403
-Width: 961
+Width: 594
 VWidth: 0
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 449 983212 S 1 0 0 1 553 167 2
+Refer: 449 983212 S 1 0 0 1 595 167 2
 Refer: 88 116 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" t lslash
@@ -10581,14 +10499,15 @@ EndChar
 
 StartChar: dl
 Encoding: 983173 983173 413
-Width: 191
+Width: 431
 VWidth: 0
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 450 983213 N 1 0 0 1 96 0 2
+Refer: 450 983213 N 1 0 0 1 303 -108 2
 Refer: 72 100 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" d l
 EndChar
 
@@ -10607,14 +10526,15 @@ EndChar
 
 StartChar: dly
 Encoding: 983175 983175 415
-Width: 61
+Width: 430
 VWidth: 0
 GlyphClass: 3
 Flags: W
 LayerCount: 2
 Fore
-Refer: 449 983212 N 1 0 0 1 89 10 2
+Refer: 449 983212 S 1 0 0 1 413 6 2
 Refer: 72 100 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" d lslash
 EndChar
 
@@ -10698,7 +10618,6 @@ LayerCount: 2
 Fore
 Refer: 450 983213 N 1 0 0 1 120 -20 2
 Refer: 373 983133 N 1 0 0 1 0 50 2
-Validated: 5
 EndChar
 
 StartChar: Zdl
@@ -10917,11 +10836,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-0 848 m 5,0,-1
- 171 848 l 5,1,-1
- 171 135 l 1,2,-1
+0 848 m 1,0,-1
+ 179 848 l 1,1,-1
+ 179 135 l 1,2,-1
  0 133 l 1,3,-1
- 0 848 l 5,0,-1
+ 0 848 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -11269,50 +11188,13 @@ EndChar
 
 StartChar: brzuchST
 Encoding: 983206 983206 443
-Width: 56
-VWidth: 0
+Width: 353
+VWidth: 3070
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-SplineSet
-222 1032 m 0,0,1
- 210 1017 210 1017 195 995 c 128,-1,2
- 180 973 180 973 171 960.5 c 128,-1,3
- 162 948 162 948 149.5 934 c 128,-1,4
- 137 920 137 920 126.5 918 c 128,-1,5
- 116 916 116 916 102 919 c 128,-1,6
- 88 922 88 922 72 938.5 c 128,-1,7
- 56 955 56 955 36 983 c 0,8,9
- -102 1186 -102 1186 -139 1610 c 0,10,11
- -155 1781 -155 1781 -155 1856 c 0,12,13
- -155 1968 -155 1968 -108 2071 c 128,-1,14
- -61 2174 -61 2174 17 2230 c 0,15,16
- 75 2270 75 2270 157 2270 c 0,17,18
- 210 2270 210 2270 262.5 2254 c 128,-1,19
- 315 2238 315 2238 367 2200.5 c 128,-1,20
- 419 2163 419 2163 458.5 2108 c 128,-1,21
- 498 2053 498 2053 522.5 1968 c 128,-1,22
- 547 1883 547 1883 547 1779 c 0,23,24
- 547 1667 547 1667 526 1571 c 128,-1,25
- 505 1475 505 1475 458 1382.5 c 128,-1,26
- 411 1290 411 1290 359 1214.5 c 128,-1,27
- 307 1139 307 1139 222 1032 c 0,0,1
-139 1158 m 1,28,29
- 260 1310 260 1310 317 1475.5 c 128,-1,30
- 374 1641 374 1641 379 1755 c 0,31,32
- 380 1759 380 1759 380 1765 c 0,33,34
- 380 1825 380 1825 354 1895 c 128,-1,35
- 328 1965 328 1965 279.5 2018.5 c 128,-1,36
- 231 2072 231 2072 177 2072 c 0,37,38
- 159 2072 159 2072 141 2066 c 0,39,40
- 79 2043 79 2043 57 1988 c 128,-1,41
- 35 1933 35 1933 35 1852 c 0,42,43
- 35 1762 35 1762 47 1570 c 0,44,45
- 57 1430 57 1430 79.5 1339 c 128,-1,46
- 102 1248 102 1248 139 1158 c 1,28,29
-EndSplineSet
-Validated: 1
+Refer: 286 983046 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: luDl
@@ -11326,15 +11208,9 @@ Fore
 SplineSet
 424 666 m 1,0,-1
  420 870 l 1,1,2
- 550 808 550 808 610.5 743 c 0,3,4
- 679 670 679 670 734 598.5 c 128,-1,5
- 789 527 789 527 827 436 c 128,-1,6
- 865 345 865 345 882 257 c 128,-1,7
- 899 169 899 169 906 74 c 1,8,-1
- 727 73 l 1,9,10
- 719 269 719 269 699.5 323 c 0,11,12
- 657 440 657 440 603.5 511.5 c 0,13,14
- 552 580 552 580 424 666 c 1,0,-1
+ 850 649 850 649 855 74 c 1,3,-1
+ 676 73 l 1,4,5
+ 660 508 660 508 424 666 c 1,0,-1
 EndSplineSet
 EndChar
 
@@ -11358,22 +11234,22 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-180 520 m 1,0,-1
- 0 522 l 1,1,-1
+180 732 m 1,0,-1
+ 0 734 l 1,1,-1
  3 1536 l 1,2,-1
  3 1537 l 1,3,4
  11 1736 11 1736 71.361328125 1824.54296875 c 0,5,6
- 192 2000 192 2000 392.642578125 2000 c 0,7,8
- 441 2000 441 2000 514.5 1964 c 128,-1,9
- 588 1928 588 1928 634.5 1871 c 0,10,11
- 768 1709 768 1709 768 1412.5 c 0,12,13
- 768 1026 768 1026 495 889 c 1,14,15
- 495 889 495 889 180 767 c 1,16,-1
- 180 520 l 1,0,-1
+ 192 2000 192 2000 328.642578125 2000 c 4,7,8
+ 377 2000 377 2000 450.5 1964 c 132,-1,9
+ 524 1928 524 1928 570.5 1871 c 4,10,11
+ 704 1709 704 1709 704 1412.5 c 4,12,13
+ 704 1026 704 1026 431 889 c 5,14,15
+ 431 889 431 889 180 767 c 1,16,-1
+ 180 732 l 1,0,-1
 183 982 m 1,17,-1
- 455 1096 l 24,18,19
- 573 1170 573 1170 573 1407 c 0,20,21
- 573 1820 573 1820 397.3984375 1818.5 c 0,22,23
+ 391 1096 l 28,18,19
+ 509 1170 509 1170 509 1407 c 4,20,21
+ 509 1820 509 1820 333.3984375 1818.5 c 4,22,23
  180 1817 180 1817 180 1529 c 1,24,25
  183 1463 183 1463 183 982 c 1,17,-1
 EndSplineSet
@@ -11381,20 +11257,18 @@ EndChar
 
 StartChar: luTl
 Encoding: 983210 983210 447
-Width: 557
+Width: 343
 VWidth: 0
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-82 917 m 5,0,-1
- 78 1121 l 5,1,2
- 224 1065 224 1065 427 725 c 0,3,4
- 558 507 558 507 558 81 c 1,5,-1
- 378 80 l 1,6,7
- 398 308 398 308 307 590 c 0,8,9
- 222 857 222 857 82 917 c 5,0,-1
+-21 896 m 1,0,-1
+ -22 1093 l 1,1,2
+ 432 731 432 731 448 62 c 5,3,-1
+ 286 61 l 1,4,5
+ 308 612 308 612 -21 896 c 1,0,-1
 EndSplineSet
 EndChar
 
@@ -11431,42 +11305,41 @@ EndChar
 
 StartChar: luGL
 Encoding: 983213 983213 450
-Width: 101
+Width: 91
 VWidth: 0
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-0 440 m 1,0,-1
- 179 440 l 1,1,-1
- 180 246 l 1,2,3
- 264 149 264 149 309.5 18 c 128,-1,4
+-2 440 m 1,0,-1
+ 169 440 l 1,1,-1
+ 170 246 l 1,2,3
+ 254 149 254 149 304.5 18 c 128,-1,4
  355 -113 355 -113 355 -237 c 0,5,6
  355 -363 355 -363 309.5 -444 c 128,-1,7
- 264 -525 264 -525 179 -525 c 0,8,9
- 0 -525 0 -525 0 -149 c 2,10,-1
- 0 48 l 1,11,12
- -32 31 -32 31 -68 31 c 0,13,14
- -123 31 -123 31 -179 78 c 0,15,16
- -203 98 -203 98 -218.5 134.5 c 128,-1,17
- -234 171 -234 171 -234 214 c 0,18,19
- -234 300 -234 300 -179 350 c 0,20,21
- -127 397 -127 397 -68 397 c 0,22,23
- -30 397 -30 397 0 381 c 1,24,-1
- 0 440 l 1,0,-1
-180 143 m 1,25,-1
- 180 -131 l 2,26,27
- 180 -150 180 -150 181 -179.5 c 128,-1,28
- 182 -209 182 -209 184 -249.5 c 128,-1,29
- 186 -290 186 -290 191.5 -317.5 c 128,-1,30
+ 264 -525 264 -525 169 -525 c 0,8,9
+ 5 -525 5 -525 5 -149 c 2,10,-1
+ 5 48 l 1,11,12
+ -27 31 -27 31 -30 31 c 0,13,14
+ -133 31 -133 31 -189 78 c 0,15,16
+ -213 98 -213 98 -228.5 134.5 c 128,-1,17
+ -244 171 -244 171 -244 214 c 0,18,19
+ -244 300 -244 300 -189 350 c 0,20,21
+ -137 397 -137 397 -37 397 c 0,22,23
+ -32 397 -32 397 -2 381 c 1,24,-1
+ -2 440 l 1,0,-1
+170 143 m 1,25,-1
+ 170 -131 l 2,26,27
+ 170 -150 170 -150 171 -179.5 c 128,-1,28
+ 172 -209 172 -209 174 -249.5 c 128,-1,29
+ 176 -290 176 -290 186.5 -317.5 c 128,-1,30
  197 -345 197 -345 204 -345 c 0,31,32
  213 -345 213 -345 221.5 -321.5 c 128,-1,33
  230 -298 230 -298 236 -254.5 c 128,-1,34
  242 -211 242 -211 242 -161 c 0,35,36
- 242 14 242 14 180 143 c 1,25,-1
+ 242 -6 242 -6 170 143 c 1,25,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: luKL
@@ -11763,8 +11636,8 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 158 382 N 1 0 0 1 408 0 2
-Refer: 282 983042 N 1 0 0 1 378 744 2
-Refer: 294 983054 N 1 0 0 1 -32 900 2
+Refer: 282 983042 N 1 0 0 1 378 746 2
+Refer: 294 983054 N 1 0 0 1 -32 712 2
 LCarets2: 2 375 389
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" m zcaron
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" m r z
@@ -11792,14 +11665,16 @@ EndChar
 
 StartChar: wrz
 Encoding: 983226 983226 462
-Width: 605
+Width: 337
 VWidth: 0
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 91 119 N 1 0 0 1 -90 860 2
-Refer: 158 382 N 1 0 0 1 240 0 2
+Refer: 429 983189 N 1 0 0 1 -58 740.3 2
+Refer: 431 983193 N 1 0 0 1 -38 590 2
+Refer: 158 382 N 1 0 0 1 -28 -119 2
+LCarets2: 2 138 119
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" w zcaron
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" w r z
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" w zdotaccent
@@ -11894,7 +11769,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 91 119 N 1 0 0 1 109 0 2
-Refer: 445 983208 S 1 0 0 1 -665 280 2
+Refer: 445 983208 N 1 0 0 1 -646 280 2
 LCarets2: 1 3
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" d w
 EndChar
@@ -12120,6 +11995,7 @@ LayerCount: 2
 Fore
 Refer: 91 119 N 1 0 0 1 -10 1090 2
 Refer: 447 983210 N 1 0 0 1 340 0 2
+LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" f t
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" f d
 Ligature2: "'liga' Standard Ligatures in Latin lookup 1-1 - dwugloski" w t
@@ -13853,6 +13729,100 @@ SplineSet
  303 818 303 818 302.995117188 580.1015625 c 4,15,16
  303 271 303 271 90 0 c 5,17,-1
  -94 4 l 5,0,1
+EndSplineSet
+EndChar
+
+StartChar: aogonek.alt.bak
+Encoding: 983303 983303 542
+Width: 1168
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+113.090820312 72 m 5,0,-1
+ -14.9091796875 104 l 5,1,2
+ 65 1255 65 1255 1168.09082031 1709 c 5,3,-1
+ 1240.09082031 1621 l 5,4,5
+ 245 1175 245 1175 113.090820312 72 c 5,0,-1
+EndSplineSet
+EndChar
+
+StartChar: t.alt
+Encoding: 983273 983273 543
+Width: 343
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 447 983210 N 1 0 0 1 24 0 2
+EndChar
+
+StartChar: d.bak
+Encoding: 983304 983304 544
+Width: 61
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+89 1173 m 5,0,-1
+ 268 1173 l 5,1,2
+ 165 1059 165 1059 165 864 c 4,3,4
+ 165 778 165 778 217 581.5 c 132,-1,5
+ 269 385 269 385 269 370 c 4,6,7
+ 269 174 269 174 115 8 c 5,8,-1
+ -64 9 l 5,9,10
+ 87 171 87 171 87 368 c 4,11,12
+ 87 382 87 382 34 578.5 c 132,-1,13
+ -19 775 -19 775 -19 861 c 4,14,15
+ -19 1052 -19 1052 89 1173 c 5,0,-1
+EndSplineSet
+EndChar
+
+StartChar: brzuchST.bak
+Encoding: 983305 983305 545
+Width: 56
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+222 1032 m 4,0,1
+ 210 1017 210 1017 195 995 c 132,-1,2
+ 180 973 180 973 171 960.5 c 132,-1,3
+ 162 948 162 948 149.5 934 c 132,-1,4
+ 137 920 137 920 126.5 918 c 132,-1,5
+ 116 916 116 916 102 919 c 132,-1,6
+ 88 922 88 922 72 938.5 c 132,-1,7
+ 56 955 56 955 36 983 c 4,8,9
+ -102 1186 -102 1186 -139 1610 c 4,10,11
+ -155 1781 -155 1781 -155 1856 c 4,12,13
+ -155 1968 -155 1968 -108 2071 c 132,-1,14
+ -61 2174 -61 2174 17 2230 c 4,15,16
+ 75 2270 75 2270 157 2270 c 4,17,18
+ 210 2270 210 2270 262.5 2254 c 132,-1,19
+ 315 2238 315 2238 367 2200.5 c 132,-1,20
+ 419 2163 419 2163 458.5 2108 c 132,-1,21
+ 498 2053 498 2053 522.5 1968 c 132,-1,22
+ 547 1883 547 1883 547 1779 c 4,23,24
+ 547 1667 547 1667 526 1571 c 132,-1,25
+ 505 1475 505 1475 458 1382.5 c 132,-1,26
+ 411 1290 411 1290 359 1214.5 c 132,-1,27
+ 307 1139 307 1139 222 1032 c 4,0,1
+139 1158 m 5,28,29
+ 260 1310 260 1310 317 1475.5 c 132,-1,30
+ 374 1641 374 1641 379 1755 c 4,31,32
+ 380 1759 380 1759 380 1765 c 4,33,34
+ 380 1825 380 1825 354 1895 c 132,-1,35
+ 328 1965 328 1965 279.5 2018.5 c 132,-1,36
+ 231 2072 231 2072 177 2072 c 4,37,38
+ 159 2072 159 2072 141 2066 c 4,39,40
+ 79 2043 79 2043 57 1988 c 132,-1,41
+ 35 1933 35 1933 35 1852 c 4,42,43
+ 35 1762 35 1762 47 1570 c 4,44,45
+ 57 1430 57 1430 79.5 1339 c 132,-1,46
+ 102 1248 102 1248 139 1158 c 5,28,29
 EndSplineSet
 EndChar
 EndChars
