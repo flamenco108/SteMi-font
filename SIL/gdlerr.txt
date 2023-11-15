@@ -1,0 +1,39 @@
+Graphite Compilation Results
+
+GDL file: stemi02.gdl
+Input font file: c:\users\flamenco\temp\tmp6a_kwj
+Output font file: SteMiNormal02.ttf
+Output font family: SteMi
+Silf table version: 2.0
+Create separate control file: no
+
+*******************************************************
+
+sub.gdl(95) : warning(3512): Item 1: mismatched class sizes
+sub.gdl(96) : warning(3512): Item 1: mismatched class sizes
+sub.gdl(215) : warning(3512): Item 1: mismatched class sizes
+sub.gdl(342) : warning(3529): Item 2: deleted item was not associated with another slot
+sub.gdl(369) : warning(3529): Item 4: deleted item was not associated with another slot
+sub.gdl(407) : warning(3529): Item 3: deleted item was not associated with another slot
+sub.gdl(414) : warning(3529): Item 1: deleted item was not associated with another slot
+sub.gdl(415) : warning(3529): Item 3: deleted item was not associated with another slot
+sub.gdl(415) : warning(3529): Item 4: deleted item was not associated with another slot
+sub.gdl(415) : warning(3529): Item 5: deleted item was not associated with another slot
+sub.gdl(416) : warning(3529): Item 3: deleted item was not associated with another slot
+sub.gdl(439) : warning(3529): Item 3: deleted item was not associated with another slot
+pos.gdl(216) : warning(3517): Slot attribute shift.y expects a scaled number
+
+*******************************************************
+
+Table versions generated:
+  Silf: 2.0
+  Gloc: 1.0
+  Glat: 1.0
+  Feat: 1.0
+  Sill: 1.0
+
+Minimal compiler version required: 2.0
+
+*******************************************************
+
+Compilation succeeded - 0 errors, 13 warnings (67 warnings ignored)

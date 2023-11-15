@@ -1,0 +1,829 @@
+#line 1 "stemi02.gdl"
+#line 25
+Bidi = false;
+#line 1 "znaki.gdl"
+table(glyph)
+
+
+gZERO = U+0030; g0 = U+0030;
+gONE = U+0031; g1 = U+0031;
+gTWO = U+0032; g2 = U+0032;
+gTHREE = U+0033; g3 = U+0033;
+gFOUR = U+0034; g4 = U+0034;
+gFIVE = U+0035; g5 = U+0035;
+gSIX = U+0036; g6 = U+0036;
+gSEVEN = U+0037; g7 = U+0037;
+gEIGHT = U+0038; g8 = U+0038;
+gNINE = U+0039; g9 = U+0039;
+
+
+
+gLF = U+000A;
+gCR = U+000D;
+gAKAPIT = U+2029;
+gPILCROW = U+00B6;
+gSPC = U+0020;
+gmSPC = U+F0000;
+gEXCL = U+0021; gWYKRZ = U+0021;
+gQUOTDBL= U+0022; gCUDZS= U+0022;
+gNUMS= U+0023; gHASZ= U+0023;
+gDOLLAR = U+0024; gDOLAR = U+0024;
+gPERCENT = U+0025; gPROCENT = U+0025;
+gAMPERSAND = U+0026; gAND = U+0026;
+gQUOTSNGL = U+0027; gCIAPEK = U+0027;
+gPARLFT = U+0028; gNAWL = U+0028;
+gPARRGHT = U+0029; gNAWP = U+0029;
+gASTERISK = U+002A; gASTER = U+002A;
+gPLUS = U+002B; gPLS = U+002B;
+gCOMMA = U+002C; gCOMA = U+002C;
+gHYPHEN = U+002D; gHYPH = U+002D;
+gPERIOD = U+002E; gKRP = U+002E;
+gSLASH = U+002F; gSLSH = U+002F; gCIACH = U+002F;
+
+gCOLON = U+003A; g2KRP = U+003A;
+gSEMICOL = U+003B; gSRDNK = U+003B;
+gLESS = U+003C; gMNIEJ = U+003C;
+gEQ = U+003D; gRWN = U+003D;
+gGREATER = U+003E; gWCEJ = U+003E;
+gQUESTION = U+003F; gPYTAJ = U+003F;
+gAT = U+0040; gMALPA = U+0040;
+
+gBRACKETL = U+005B; gNAWKWL = U+005B;
+gBSLASH = U+005C; gWTCIACH = U+005C;
+gBRACKETR= U+005D; gNAWKWP= U+005D;
+gASCIICIRC= U+005E; gPOTEGA= U+005E;
+gUNDERSC= U+005F; gPODKR= U+005F;
+gGRAVE = U+0060; gWTCIAP = U+0060;
+
+gBRACEL = U+007B; gKLAML = U+007B;
+gBAR = U+007C; gPALK = U+007C;
+gBRACER = U+007D; gKLAMP = U+007D;
+gASCIITILD = U+007E; gTYLD = U+007E;
+
+gCUDZL = U+201E;
+gCUDZP = U+201D;
+gCIAPL = U+201A;
+gCIAPP = U+2019;
+
+gNBSP = U+00A0;
+
+
+clsINIT = (gSPC gmSPC gNBSP gCUDZS gDOLAR gPROCENT gAND gCIAPEK gNAWL gASTER gPLS gHYPH gCIACH gMNIEJ gRWN gWCEJ gMALPA gNAWKWL gWTCIACH gPOTEGA gPODKR gWTCIAP gKLAML gPALK gTYLD gCUDZL gCIAPL gLF gCR gAKAPIT gPILCROW);
+
+
+clsFINA = (gSPC gmSPC gNBSP gCUDZS gDOLAR gPROCENT gAND gCIAPEK gNAWP gASTER gPLS gHYPH gCIACH gMNIEJ gRWN gWCEJ gMALPA gNAWKWP gWTCIACH gPOTEGA gPODKR gWTCIAP gKLAMP gPALK gTYLD gCUDZP gCIAPP gLF gCR gAKAPIT gPILCROW);
+#line 76
+gA = U+0041; ga = U+0061; clsA = (ga gA);
+gB = U+0042; gb = U+0062; clsB = (gb gB);
+gC = U+0043; gc = U+0063; clsC = (gc gC);
+gD = U+0044; gd = U+0064; clsD = (gd gD);
+gE = U+0045; ge = U+0065; clsE = (ge gE);
+gF = U+0046; gf = U+0066; clsF = (gf gF);
+gG = U+0047; gg = U+0067; clsG = (gg gG);
+gH = U+0048; gh = U+0068; clsH = (gh gH);
+gI = U+0049; gi = U+0069; clsI = (gi gI);
+gJ = U+004A; gj = U+006A; clsJ = (gj gJ);
+gK = U+004B; gk = U+006B; clsK = (gk gK);
+gL = U+004C; gl = U+006C; clsL = (gl gL);
+gM = U+004D; gm = U+006D; clsM = (gm gM);
+gN = U+004E; gn = U+006E; clsN = (gn gN);
+gO = U+004F; go = U+006F; clsO = (go gO);
+gP = U+0050; gp = U+0070; clsP = (gp gP);
+gQ = U+0051; gq = U+0071; clsQ = (gq gQ);
+gR = U+0052; gr = U+0072; clsR = (gr gR);
+gS = U+0053; gs = U+0073; clsS = (gs gS);
+gT = U+0054; gt = U+0074; clsT = (gt gT);
+gU = U+0055; gu = U+0075; clsU = (gu gU);
+gV = U+0056; gv = U+0076; clsV = (gv gV);
+gW = U+0057; gw = U+0077; clsW = (gw gW);
+gX = U+0058; gx = U+0078; clsX = (gx gX);
+gY = U+0059; gy = U+0079; clsY = (gy gY);
+gZ = U+005A; gz = U+007A; clsZ = (gz gZ);
+
+
+gOacute = U+00D3; goacute = U+00F3; clsOacute = (goacute gOacute);
+
+
+gAogonek = U+0104; gaogonek = U+0105; clsAogonek = (gaogonek gAogonek);
+gCi = U+0106; gci = U+0107; clsCi = (gci gCi);
+
+gCz = U+010C; gcz = U+010D; clsCz = (gcz gCz);
+gDzh = U+010E; gdzh = U+010F; clsDzh = (gdzh gDzh);
+
+
+gEogonek = U+0118; geogonek = U+0119; clsEogonek = (geogonek gEogonek);
+
+
+gLy= U+0141; gly= U+0142; clsLy = (gly gLy);
+gNi= U+0143; gni= U+0144; clsNi = (gni gNi);
+
+gSi = U+015A; gsi =U+015B; clsSi = (gsi gSi);
+
+gSz = U+0160; gsz = U+0161; clsSz = (gsz gSz);
+
+gZi = U+0179; gzi = U+017A; clsZi = (gzi gZi);
+gRz = U+017B; grz = U+017C; clsRz = (grz gRz);
+
+gDz = U+01F2; gdz = U+01F3; clsDz = (gdz gDz);
+
+
+
+go_alt = U+F0008; gO_alt = U+F000B; clsO_alt = (go_alt gO_alt);
+gu_alt = U+F0009; gU_alt = U+F000C; clsU_alt = (gu_alt gU_alt);
+gaogonek_alt = U+F000D; clsAogonek_alt = (gaogonek_alt);
+gDzi = U+F000F; gdzi = U+F0010; clsDzi = (gdzi gDzi);
+ggi = U+F0011; gGi = U+F0012; clsGi = (ggi gGi);
+gki = U+F0013; gKi = U+F0014; clsKi = (gki gKi);
+gpi = U+F0015; gPi = U+F0016; clsPi = (gpi gPi);
+gbi = U+F0017; gBi = U+F0018; clsBi = (gbi gBi);
+gwi = U+F0019; gWi = U+F001A; clsWi = (gwi gWi);
+gfi = U+F001B; gFi = U+F001C; clsFi = (gfi gFi);
+ghi = U+F001D; gHi = U+F001E; clsHi = (ghi gHi);
+gti = U+F001F; gTi = U+F0020; clsTi = (gti gTi);
+gdi = U+F0021; gDi = U+F002C; clsDi = (gdi gDi);
+gMi = U+F0023; gmi = U+F0022; clsMi = (gmi gMi);
+#line 151
+clsCONSIMPL = (clsB clsBi clsC clsCi clsCz clsD clsDi clsDz clsDzi clsDzh clsF clsFi clsG clsGi clsH clsHi clsK clsX clsKi clsL clsLy clsM clsMi clsN clsNi clsP clsPi clsR clsQ clsS clsSi clsSz clsT clsTi clsV clsW clsWi clsZ clsZi clsRz);
+
+
+
+gto = U+F0024; gTo = U+F0025; clsTo = (gto gTo);
+gst = U+F0026; gSt = U+F0027; clsSt = (gst gSt);
+
+gkl = U+F0028; gKl = U+F0029; clsKl = (gkl gKl);
+gkly = U+F002A; gKly = U+F002B; clsKly = (gkly gKly);
+
+gps = U+F002D; gPs = U+F002E; clsPs = (gps gPs);
+gksz = U+F002F; gKsz = U+F0030; clsKsz = (gksz gKsz);
+gpsz = U+F0031; gPsz = U+F0032; clsPsz = (gpsz gPsz);
+gfsz = U+F0033; gFsz = U+F0034; clsFsz = (gfsz gFsz);
+ghsz = U+F0035; gHsz = U+F0036; clsHsz = (ghsz gHsz);
+gtsz = U+F0037; gTsz = U+F0038; clsTsz = (gtsz gTsz);
+gksi = U+F0039; gKsi = U+F003A; clsKsi = (gksi gKsi);
+gpsi = U+F003B; gPsi = U+F003C; clsPsi = (gpsi gPsi);
+gfsi = U+F003D; gFsi = U+F003E; clsFsi = (gfsi gFsi);
+ggl = U+F003F; gGl = U+F0040; clsGl = (ggl gGl);
+ggly = U+F0041; gGly = U+F0042; clsGly = (ggly gGly);
+gpl = U+F0043; gPl = U+F0044; clsPl = (gpl gPl);
+gbl = U+F0045; gBl = U+F0046; clsBl = (gbl gBl);
+gply = U+F0047; gPly = U+F0048; clsPly = (gply gPly);
+gbly = U+F0049; gBly = U+F004A; clsBly = (gbly gBly);
+ghl = U+F004B; gHl = U+F004C; clsHl = (ghl gHl);
+ghly = U+F004D; gHly = U+F004E; clsHly = (ghly gHly);
+gsp = U+F004F; gSp = U+F0050; clsSp = (gsp gSp);
+gspi = U+F0051; gSpi = U+F0052; clsSpi = (gspi gSpi);
+gspsz = U+F0053; gSpsz = U+F0054; clsSpsz = (gspsz gSpsz);
+gspsi = U+F0055; gSpsi = U+F0056; clsSpsi = (gspsi gSpsi);
+gspl = U+F0057; gSpl = U+F0058; clsSpl = (gspl gSpl);
+gsply = U+F0059; gSply = U+F005A; clsSply = (gsply gSply);
+gsti = U+F005B; gSti = U+F005C; clsSti = (gsti gSti);
+gzd = U+F005D; gZd = U+F005E; clsZd = (gzd gZd);
+gzdi = U+F005F; gZdi = U+F0060; clsZdi = (gzdi gZdi);
+gml = U+F0061; gMl = U+F0062; clsMl = (gml gMl);
+gmly = U+F0063; gMly = U+F0064; clsMly = (gmly gMly);
+gstsz = U+F0065; gStsz = U+F0066; clsStsz = (gstsz gStsz);
+gpo = U+F0067; gPo = U+F0068; clsPo = (gpo gPo);
+gspo = U+F0069; gSpo = U+F006A; clsSpo = (gspo gSpo);
+gpsze = U+F006B; gPsze = U+F006C; clsPsze = (gpsze gPsze);
+gpszy = U+F006D; gPszy = U+F006E; clsPszy = (gpszy gPszy);
+gspsze = U+F006F; gSpsze = U+F0070; clsSpsze = (gspsze gSpsze);
+gspszy = U+F0071; gSpszy = U+F0072; clsSpszy = (gspszy gSpszy);
+gtk = U+F0073; gTk = U+F0074; clsTk = (gtk gTk);
+gkt = U+F0075; gKt = U+F0076; clsKt = (gkt gKt);
+gtkt = U+F0077; gTkt = U+F0078; clsTkt = (gtkt gTkt);
+gtl = U+F0079; gTl = U+F007A; clsTl = (gtl gTl);
+gtly = U+F007B; gTly = U+F007C; clsTly = (gtly gTly);
+gstl = U+F007D; gStl = U+F007E; clsStl = (gstl gStl);
+gstly = U+F007F; gStly = U+F0080; clsStly = (gstly gStly);
+gsici = U+F0081; gSici = U+F0082; clsSici = (gsici gSici);
+gszcz = U+F0083; gSzcz = U+F0084; clsSzcz = (gszcz gSzcz);
+gdl = U+F0085; gDl = U+F0086; clsDl = (gdl gDl);
+gdly = U+F0087; gDly = U+F0088; clsDly = (gdly gDly);
+#line 212
+clsCONCONS01 = (clsTo clsSt clsKl clsPl clsKsz clsPsz clsFsz clsHsz clsTsz clsKsi clsPsi clsFsi clsGl clsGly clsPl clsBl clsPly clsBly clsHl clsHly clsSp clsSpi clsSpsz clsSpsi clsSply clsSti clsZd clsZdi clsMl clsMly clsStsz clsPo clsSpo clsPsze clsPszy clsSpsze clsSpszy clsTk clsKt clsTkt clsTl clsTly clsStl clsStly clsSici clsSzcz clsDl clsDly);
+
+
+
+gzdl = U+F008B; gZdl = U+F008C; clsZdl = (gzdl gZdl);
+gzdly = U+F008D; gZdly = U+F008E; clsZdly = (gzdly gZdly);
+
+gfl = U+F008F; gFl = U+F0090; clsFl = (gfl gFl);
+gwl = U+F0091; gWl = U+F0092; clsWl = (gwl gWl);
+gwly = U+F0093; gWly = U+F0094; clsWly = (gwly gWly);
+
+gtw = U+F009B; gTw = U+F009C; clsTw = (gtw gTw);
+gstw = U+F009D; gStw = U+F009E; clsStw = (gstw gStw);
+gstk = U+F009F; gStk = U+F00A0; clsStk = (gstk gStk);
+gzja = U+F00A1; gZja = U+F00A2; clsZja = (gzja gZja);
+gcja = U+F00A3; gCja = U+F00A4; clsCja = (gcja gCja);
+
+gdrz = U+F00B2; gDrz = U+F00B3; clsDrz = (gdrz gDrz);
+gbrz = U+F00B4; gBrz = U+F00B5; clsBrz = (gbrz gBrz);
+ggrz = U+F00B6; gGrz = U+F00B7; clsGrz = (ggrz gGrz);
+gmrz = U+F00B8; gMrz = U+F00B9; clsMrz = (gmrz gMrz);
+gwrz = U+F00BA; gWrz = U+F00BB; clsWrz = (gwrz gWrz);
+gzrz = U+F00BC; gZrz = U+F00BD; clsZrz = (gzrz gZrz);
+gbw = U+F00BE; gBw = U+F00BF; clsBw = (gbw gBw);
+gdw = U+F00C0; gDw = U+F00C1; clsDw = (gdw gDw);
+ggw = U+F00C2; gGw = U+F00C3; clsGw = (ggw gGw);
+ghw = U+F00C4; gHw = U+F00C5; clsHw = (ghw gHw);
+gkw = U+F00C6; gKw = U+F00C7; clsKw = (gkw gKw);
+gpw = U+F00C8; gPw = U+F00C9; clsPw = (gpw gPw);
+gtki = U+F00CA; gTki = U+F00CB; clsTki = (gtki gTki);
+gstki = U+F00CC; gStki = U+F00CD; clsStki = (gstki gStki);
+gtwi = U+F00CE; gTwi = U+F00CF; clsTwi = (gtwi gTwi);
+gwt = U+F00D0; gWt = U+F00D1; clsWt = (gwt gWt);
+gczk = U+F00D2; gCzk = U+F00D3; clsCzk = (gczk gCzk);
+gczki = U+F00D4; gCzki = U+F00D5; clsCzki = (gczki gCzki);
+gszk = U+F00D6; gSzk = U+F00D7; clsSzk = (gszk gSzk);
+gszki = U+F00D8; gSzki = U+F00D9; clsSzki = (gszki gSzki);
+gaj = U+F00DA; gAj = U+F00DB; clsAj = (gaj gAj);
+gaja = U+F00DC; gAja = U+F00DD; clsAja = (gaja gAja);
+gyja = U+F00DE;
+gro = U+F00DF; clsRo = (gro gro);
+gra = U+F00E0; clsRa = (gra gra);
+gre = U+F00E1; clsRe = (gre gre);
+gru = U+F00E2; clsRu = (gru gru);
+greogonek = U+F00E3; clsReogonek = (greogonek greogonek);
+gry = U+F00E4; clsRy = (gry gry);
+graogonek = U+F00E5; clsRaogonek = (graogonek graogonek);
+gro_alt = U+F00E6; clsRo_alt = (gro_alt gro_alt);
+gru_alt = U+F00E7; clsRu_alt = (gru_alt gru_alt);
+graogonek_alt = U+F00E8; clsRaogonek_alt = (graogonek_alt graogonek_alt);
+clsRV = (clsRo clsRa clsRe clsRu clsRy clsRaogonek clsReogonek clsRo_alt clsRu_alt clsRaogonek_alt);
+
+
+
+
+clsVOW = (clsA clsAogonek clsAogonek_alt clsE clsEogonek clsI clsJ clsO clsO_alt clsU clsU_alt clsY clsRa clsRe clsRo clsRu clsRy clsRaogonek clsReogonek);
+
+
+
+
+clsCONCONS02 = (clsZdl clsZdly clsTw clsStw clsStk clsDrz clsBrz clsGrz clsMrz clsWrz clsZrz clsBw clsDw clsGw clsHw clsKw clsPw clsTki clsStki clsTwi clsWt clsZja clsCja);
+#line 284
+clsCONSALL = (clsCONSIMPL clsCONCONS01 clsCONCONS02);
+clsLITALL = (clsCONSALL clsVOW);
+
+endtable;
+#line 2 "sub.gdl"
+table(glyph)
+
+
+
+
+cls_do_SZRZCZ = (clsS clsR clsC); clsSZRZCZ = (clsSz clsRz clsCz);
+
+
+cls_do_CZJA = (clsZ clsS clsC clsT); cls_CZJA = (clsZja clsZja clsCja clsTi);
+
+
+
+endtable;
+
+table(substitution)
+pass(1)
+
+
+
+clsJ > clsI;
+clsOacute > clsU;
+
+
+clsC clsH > clsH:(1 2) _ ;
+clsD clsZ > clsDz:(1 2) _ ;
+cls_do_SZRZCZ clsZ > clsSZRZCZ:(1 2) _;
+clsD clsZi > clsDzi:(2) _;
+#line 34
+cls_do_CZJA clsJ > cls_CZJA:(2) _ ;
+cls_do_CZJA clsY clsJ > cls_CZJA:(2 3) _ _ ;
+
+endpass;
+endtable;
+
+
+
+table(glyph)
+
+
+
+clsTwarde = (clsB clsC clsD clsDz clsF clsG clsH clsK clsM clsN clsP clsS clsT clsW clsZ);
+clsMiekkie = (clsBi clsCi clsDi clsDzi clsFi clsGi clsHi clsKi clsMi clsNi clsPi clsSi clsTi clsWi clsZi);
+
+
+cls_do_STP = (clsT clsP clsD); clsSTP = (clsSt clsSp clsZd);
+
+
+
+
+cls_do_TWK = (clsW clsWi clsK clsKi); clsTWK = (clsTw clsTwi clsTk clsTki);
+#line 61
+cls_do_TKW = (clsT clsK clsD clsH clsG clsB); clsTKW = (clsTw clsKw clsDw clsHw clsGw clsBw);
+
+
+
+cls_do_SZK = (clsK clsKi); clsSZK = (clsSzk clsSzki); clsCZK = (clsCzk clsCzki);
+
+endtable;
+
+table(substitution)
+pass(2)
+
+
+
+
+clsTwarde clsI > clsMiekkie:(1 2) _ ;
+
+
+clsS cls_do_STP > _ clsSTP:(1 2) ;
+
+
+
+
+clsT cls_do_TWK > _ clsTWK:(1 2) ;
+
+
+
+
+clsZ clsD > _ clsZd:(1) ;
+
+
+
+clsRz clsSz > clsSz:(1) _;
+
+
+clsSz cls_do_SZK > clsSZK:(1 2) _ ;
+clsCz cls_do_SZK > clsCZK:(1 2) _ ;
+
+
+endpass
+endtable;
+
+
+
+table(glyph)
+#line 112
+clsDos = (clsK clsP); cls_Cs = (clsX clsPs);
+
+
+cls_C_bdzw = (clsK clsP clsSp clsT clsSt clsF clsH);
+cls_C_dzw = (clsG clsB clsD clsW clsM);
+cls_Csz = (clsKsz clsPsz clsSpsz clsTsz clsStsz clsFsz clsHsz);
+cls_C_DoSZ = (cls_C_bdzw clsG clsB clsD clsW);
+cls_Csz_DoSZ = (cls_Csz clsKsz clsPsz clsTsz clsFsz);
+
+
+
+cls_C_Dosi = (clsK clsG clsP clsB clsF clsW);
+cls_Csi_Dosi = (clsKsi clsKsi clsPsi clsPsi clsFsi clsFsi);
+
+
+cls_DoL = (clsK clsG clsP clsSp clsB clsH clsM);
+cls_DoL_L = (clsKl clsGl clsPl clsSpl clsBl clsHl clsMl);
+cls_DoL_Ly = (clsKly clsGly clsPly clsSply clsBly clsHly clsMly);
+
+
+
+
+clsSISZY = (clsSi clsSz); clsCICZY = (clsCi clsCz);
+clsSICISZCZ = (clsSici clsSzcz);
+
+endtable;
+
+table(substitution)
+pass(3)
+
+
+clsT clsO > clsTo:(2) _;
+
+
+clsSt clsI > clsSti:(1 2) _ ;
+clsSp clsI > clsSpi:(1 2) _ ;
+clsSi clsPi > clsSpi:(1 2) _ ;
+
+
+clsDos gs > cls_Cs:(1 2) _ ;
+
+
+cls_C_DoSZ clsSz > cls_Csz_DoSZ:(1 2) _ ;
+cls_C_bdzw clsSZRZCZ > cls_Csz:(1 2) _ ;
+
+
+
+cls_C_Dosi gsi > cls_Csi_Dosi:(1 2) _ ;
+
+
+cls_DoL clsL > cls_DoL_L:(1 2) _ ;
+cls_DoL clsLy > cls_DoL_Ly:(1 2) _ ;
+
+
+clsSISZY clsCICZY > clsSICISZCZ:(1 2) _;
+#line 172
+endpass;
+endtable;
+#line 180
+table(glyph)
+
+
+
+clsKX = (clsK clsKi clsKl clsKly clsKt);
+clsPX = (clsP clsPi clsPl clsPly clsSp clsSpi clsSpl clsSply);
+clsTX = (clsT clsTi clsTl clsTly clsTk);
+clsSTX = (clsSt clsSti clsStl clsStly);
+clsFX = (clsF clsFi clsFl)
+clsHX = (clsH clsHi clsHl clsHly);
+
+
+clsDX = (clsD clsDl clsDly clsZd clsZdl clsZdly);
+clsMX = (clsM clsMi clsMl clsMly);
+clsGX = (clsG clsGi clsGl clsGly);
+clsBX = (clsB clsBi clsBl clsBly);
+clsWX = (clsW clsWi clsWl clsWly clsWt)
+
+
+
+cls_do_STW = (clsTk clsTki clsTw ); clsSTW = (clsStk clsStki clsStw );
+
+
+
+cls_Do_KT = (clsK clsW);
+cls_KT = (clsKt clsWt);
+
+
+
+endtable;
+
+table(substitution)
+pass(4)
+
+
+clsS cls_do_STW > clsSTW:(1 2) _ ;
+
+
+
+cls_Do_KT clsT > cls_KT:(1 2) _ ;
+
+
+clsW clsS clsK > clsW clsZ clsK;
+
+
+endpass
+endtable;
+
+
+table(glyph)
+
+
+
+
+cls_do_Jest = (clsI); cls_Jest = (clsEogonek);
+
+
+cls_do_By = (clsB); cls_By = (clsY);
+
+
+
+cls_do_AltC = (clsRz clsSz clsM clsN clsH clsC clsCi clsCja clsDzi clsSici clsSzcz clsLy);
+cls_do_AltV = (clsO clsU clsAogonek);
+cls_AltV = (clsO_alt clsU_alt clsAogonek_alt);
+
+
+cls_do_PSZY = (clsPsz clsSpsz); clsPSZE = (clsPsze clsSpsze); clsPSZY = (clsPszy clsSpszy);
+
+
+endtable;
+
+table(substitution)
+pass(5)
+#line 258
+clsP clsO clsR clsO > clsP _ clsR clsO:(2);
+clsP clsO > clsPo gmSPC;
+cls_do_Jest clsE clsSt > cls_Jest:(1 2 3) _ _ ;
+#line 273
+cls_do_PSZY clsY > clsPSZY gNBSP / clsFINA? clsINIT _ _;
+clsINIT cls_do_PSZY clsE > clsINIT clsPSZE:(1 2) _ ;
+clsINIT cls_do_PSZY clsE clsD > clsINIT clsPSZE clsD gNBSP;
+clsINIT cls_do_PSZY clsEogonek > clsINIT clsPSZE clsE;
+
+
+endpass
+endtable;
+
+
+table(glyph)
+
+
+
+clsCONR = (clsKX clsTX clsSTX clsPX clsFX clsGX clsDX clsBX clsMX clsHX clsSz clsSi clsWX);
+clsVOWR = (clsA clsE clsEogonek clsO clsO_alt clsAogonek clsAogonek_alt clsY);
+clsAOR = (clsA clsO clsO_alt clsU clsU_alt);
+clsEER = (clsE clsEogonek);
+clsYYR = (clsY clsAogonek clsAogonek_alt);
+
+
+
+endtable;
+
+table(substitution)
+pass(6)
+
+
+
+clsR clsA > clsRa:(1) _ / clsCONR _ _;
+clsR clsO > clsRo:(1) _ / clsCONR _ _;
+clsR clsU > clsRu:(1) _ / clsCONR _ _;
+clsR clsO_alt > clsRo_alt:(1) _ / clsCONR _ _;
+clsR clsU_alt > clsRu_alt:(1) _ / clsCONR _ _;
+clsR clsE > clsRe:(1) _ / clsCONR _ _;
+clsR clsEogonek > clsReogonek:(1) _ / clsCONR _ _;
+clsR clsY > clsRy:(1) _ / clsCONR _ _;
+clsR clsAogonek > clsRaogonek:(1) _ / clsCONR _ _;
+clsR clsAogonek_alt > clsRaogonek_alt:(1) _ / clsCONR _ _;
+
+
+clsR clsY > clsRy:(1) _ /clsE _ _;
+clsR clsA > clsRa:(1) _ /clsE _ _;
+clsR clsO > clsRo:(1) _ /clsE _ _;
+clsR clsO_alt > clsRo_alt:(1) _ /clsE _ _;
+clsR clsU > clsRu:(1) _ /clsE _ _;
+clsR clsU_alt > clsRu_alt:(1) _ /clsE _ _;
+clsR clsAogonek > clsRaogonek:(1) _ / clsE _ _;
+clsR clsAogonek_alt > clsRaogonek_alt:(1) _ / clsE _ _;
+
+
+
+clsR clsE > clsRe:(1) _ /clsA _ _;
+clsR clsE > clsRe:(1) _ /clsO _ _;
+clsR clsE > clsRe:(1) _ /clsU _ _;
+clsR clsE > clsRe:(1) _ /clsY _ _;
+clsR clsE > clsRe:(1) _ /clsAogonek _ _;
+
+
+
+
+clsY clsR > clsY:(2) _ /_ _ clsCONSALL ;
+#line 342
+clsVOWR clsR clsCONR > clsVOWR _ clsCONR {user3 = 1};
+
+
+endpass
+endtable;
+
+
+
+table(glyph)
+
+
+endtable;
+table(substitution) pass(7)
+
+
+
+
+clsKt clsU clsR > _ _ clsR:(1 2 3);
+
+
+clsT clsE clsR clsA clsZ > clsT _ _ clsA clsS:(2 3);
+clsT clsE clsR clsA clsZi > clsT _ _ clsA clsS:(2 3);
+
+
+clsN clsA clsI > clsN clsY gNBSP ;
+
+
+clsNi clsE clsI clsSz > clsNi clsEogonek clsSz _;
+
+
+clsSi clsEogonek > clsSi:(2) _ / _ _ clsFINA clsINIT?;
+
+
+clsR clsO clsZ clsU clsM > clsR _ _ _ clsM:(2 3 4);
+
+
+clsW clsZi > clsZi:(1) _;
+
+endpass;endtable;
+
+
+
+table(glyph)
+clsAEY = (clsA clsO clsY clsU);
+
+
+clsAEOU = (clsA clsE clsO clsU clsO_alt clsU_alt );
+clsGlowka_alt = (clsCi clsRz clsSz clsM clsDzi clsSici);
+
+endtable;
+table(substitution) pass(8)
+
+
+clsK > clsG / _ clsFINA;
+
+clsR clsO clsZ > clsR:(2) / _ _ _clsCONSALL;
+
+
+clsAEY clsI clsE > clsAEY _ clsE:(2);
+
+clsE clsI > _ clsEogonek:(1 2) / _ _ clsCONSALL;
+
+
+
+
+clsINIT clsAEOU clsI > clsINIT clsAEOU _;
+clsO clsGlowka_alt > clsO_alt clsGlowka_alt;
+clsU clsGlowka_alt > clsU_alt clsGlowka_alt;
+
+
+
+
+clsI clsA clsK > _ clsA clsK;
+clsK clsI clsE clsD clsY > clsK clsY _ _ _ ;
+clsG clsD clsY > clsG clsY _ ;
+
+
+endpass;
+endtable;
+#line 428
+table(glyph)
+
+endtable;
+table(substitution) pass(9)
+#line 437
+clsA clsB clsY > clsA gmSPC clsY;
+clsK clsB clsY > clsK gmSPC clsY;
+clsRz clsE clsB clsY > clsRz gmSPC _ clsY;
+
+
+
+endpass;
+endtable;
+#line 1 "pos.gdl"
+table(glyph)
+
+
+
+clsOA = (clsA clsO clsU clsO_alt clsU_alt clsPSZE );
+clsROA = (clsRa clsRe clsRo clsRo_alt clsRu clsRu_alt);
+
+clsYA = (clsY clsAogonek clsAogonek_alt clsRy clsRaogonek clsRaogonek_alt clsPSZY);
+
+clsEA = (clsE clsEogonek clsI clsJ);
+#line 16
+clsANR = (clsBX clsPX clsDX clsSTX clsX clsMX clsSi clsZi clsSz clsRz clsWX clsGX clsCi clsSici clsSzcz);
+
+
+clsAOP = (clsKX clsTX clsX clsHX clsKsz clsPsz clsHsz clsTsz clsKsi clsPsi clsFX clsFsz clsFsi clsTo clsSpsz clsSpsi clsStsz clsTk clsTki clsKt clsTkt clsTw clsTwi clsCz clsSzk clsCzk clsSzki clsCzki);
+
+
+clsAOPo = (clsKX clsTX clsX clsHX clsKsz clsPsz clsHsz clsTsz clsKsi clsPsi clsFX clsFsz clsFsi clsSpsz clsSpsi clsStsz clsTk clsTki clsKt clsTkt clsTw clsTwi clsCz clsSzk clsCzk clsSzki clsCzki);
+
+
+
+
+clsMALE = (clsC clsDz clsN clsNi clsR clsDzi clsL clsLy clsS clsZ clsCja clsZja clsEA);
+#line 39
+endtable;
+
+table(positioning) { MUnits = 3000 }
+
+pass(1)
+
+
+clsOA clsAOP {user1 = -1000m};
+
+
+clsYA clsANR {user1 = 900m};
+
+
+clsYA clsMALE {user1 = 1700m};
+
+
+clsOA clsMALE {user1 = 860m};
+clsROA clsMALE {user1 = 860m};
+
+
+clsMALE clsAOP {user1 = -1800m};
+
+
+clsMALE clsANR {user1 = -900m};
+
+
+clsANR clsANR {user1 = -950m};
+
+clsAOPo clsANR {user1 = -950m;};
+
+
+
+clsANR clsAOP {user1 = -1800m};
+
+clsAOPo clsAOP {user1 = -1800m};
+clsTo clsAOP {user1 = -950m;};
+endpass;
+endtable;
+
+table(glyph)
+
+
+
+
+clsKP = (clsKX clsPX);
+clsGB = (clsGX clsBX);
+clsKGTD = (clsKP clsGB clsTX clsDX);
+
+clsZS = (clsS clsZ);
+clsBP = (clsP clsPi clsB clsBi);
+clsSZYP = (clsKsz clsKsi clsFsz clsTsz);
+
+clsOUAog = (clsO clsRo clsU clsRu clsAogonek clsRaogonek);
+#line 98
+endtable;
+
+table(positioning)
+pass(2)
+
+clsAOR clsCONR {user1 = -80m; kern.x = -100m} / _ _ {user3 == 1};
+clsEER clsCONR {user1 = -80m; kern.x = -150m} / _ _ {user3 == 1};
+clsYYR clsCONR {kern.y = 100m} / _ _ {user3 == 1};
+#line 111
+clsDzi clsG {user1 = -400m; kern.x = -150m};
+
+clsSi clsVOW {user1 = -350m; kern.x = -230m};
+clsSi clsMALE {user1 = -350m; kern.x = -230m};
+clsSici clsVOW {user1 = -350m; kern.x = -170m};
+clsSici clsMALE {user1 = -350m; kern.x = -170m};
+
+clsZi clsVOW {user1 = -150m; kern.x = -100m};
+clsZS clsKP {user1 = -350m;} ;
+clsZS clsGB {user1 = -200m; kern.x = 30m};
+clsW clsZS {kern.x = -50m};
+clsW clsKGTD {user1 = -300m;} ;
+clsS clsSZYP {kern.x = 100m};
+clsOUAog clsZS {kern.x = -60m};
+clsR clsS {user1 = -80m; kern.x = 130m};
+clsR clsZ {user1 = -80m; kern.x = 108m};
+clsOUAog clsI {kern.x = 30m};
+
+clsTo clsMALE {user1 = 200m};
+
+
+
+
+clsA clsLy {user1 = 330m;kern.x = 50m};
+clsO clsLy {user1 = 330m;kern.x = 50m};
+clsO_alt clsLy {user1 = 330m;kern.x = 40m};
+clsU clsLy {user1 = 330m;kern.x = 10m};
+clsU_alt clsLy {user1 = 330m;kern.x = -15m};
+clsRu_alt clsLy {user1 = 350m;kern.x = -15m};
+clsY clsLy {user1 = 620m;kern.x = 40m};
+clsAogonek clsLy {user1 = 650m;kern.x = 40m};
+clsAogonek_alt clsLy {user1 = 620m;kern.x = 40m};
+
+
+
+
+gmSPC clsS {kern.x = -50m} / clsPo _ _;
+gmSPC clsMALE {kern.x = -120m} / clsPo _ _;
+gmSPC clsANR {kern.x = -120m} / clsPo _ _;
+
+
+
+clsMiekkie clsStsz {user1 = -470m; kern.x = 100m};
+clsA clsStsz {user1 = -200m; kern.x = 70m};
+clsMALE clsStsz {user1 = -450m; kern.x = 80m};
+clsPsze clsStsz {user1 = -170m; kern.x = 180m};
+#line 167
+clsR clsW {user1 = -250m; kern.x = -180m} ;
+
+
+
+
+clsMALE clsAOP {user1 = -730m};
+clsMALE clsANR {user1 = -280m};
+
+endpass;
+endtable;
+
+table(glyph)
+
+endtable;
+
+table(positioning)
+pass(3)
+#line 195
+clsCja clsVOW {user1 = -150m};
+clsCja clsN {user1 = -200m};
+#line 205
+clsZja clsVOW {user1 = 150m; kern.x = -10m};
+clsZja clsN {user1 = 150m; kern.x = -10m};
+
+
+
+endpass;endtable;
+
+table(positioning)
+pass(4)
+
+
+clsLITALL clsLITALL {shift.y = @1.user2 + user1; user2 = @1.user2 + user1;} / _ ^ _;
+
+endpass;
+endtable;
