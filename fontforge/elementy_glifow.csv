@@ -1,0 +1,58 @@
+NAZWA_GLIFU;NR_SFD;UTF_CODEPOINT;OPIS
+MODYFIKATORY-UTF;688-900;U+02b0 -- U+0384;modyfikatory do użycia jako materiał graficzny
+Canadian glyphs;;U+1400 -- U+167F;
+PUA;;U+E000 -- U+F8FF;Private Use Area
+malaspacja;57349;U+e005;
+dolTW;57350;U+e006;dół glifu twarde przejście do samogłoski (eg. `ke`) 
+dolMK;57351;U+e007;dół glifu miękkie przejście do samogłoski (eg. `kie`) 
+stemG;57352;U+e008;pionowa długości G 
+stemG.short;57353;U+e009;pionowa krótsza niż G 
+stemK;57354;U+e00a;pionowa długości K (do np. P) 
+stemI;57355;U+e00b;pionowa długości I
+prostaI;57356;U+e00c;skośna prosta (jak do I)
+prostaA;57357;U+e00d;skośna prosta (jak do A)
+prostaY;57358;U+e00e;skośna prosta (jak do Y)
+prostaI.alt;57359;U+e00f; - ref prostaI
+brzuchCZ;57360;U+e010;brzuch dolny średni (jak do CZ) - ref brzuchM
+brzuchSZ;57361;U+e011;brzuch dolny duży (jak do SZ) - ref brzuchD
+brzuchDRZ;57362;U+e012;brzuch dolny mały (jak do DŻ)
+brzuchD;57363;U+e013;brzuch górny duży (jak do P)
+brzuchST;57364;U+e014;brzuch górny duży (jak do ST) przechylony lekko w lewo
+brzuchPS;57365;U+e015;brzuch górny wielki (jak do SP)
+brzuchM;57366;U+e016;brzuch górny mały (jak do B)
+;57367;U+e017;
+;57368;U+e018;
+;57369;U+e019;
+luM;57370;U+e01a;łuk górny lewy (jak do M/H)
+luW;57371;U+e01b;łuk górny prawy (jak do W/F)
+;57372;U+e01c;
+;57373;U+e01d;
+;57374;U+e01e;
+luO;57375;U+e01f;łuk jak dla O
+luAO;57376;U+e020;łuk jak dla aogonek Ą
+luO.alt;57377;U+e021;łuk odwrócony jak dla O - ref luO
+luAO.alt;57378;U+e022;łuk odwrócony jak dla Ą - ref luAO
+luU;57379;U+e023;łuk jak dla U
+luU.alt;57380;U+e024;łuk odwrócony jak dla U - ref luU
+luU.lift;57381;U+e025;łuk alternatywny uniesiony dla U (specjalne)
+;57382;U+e026;
+;57383;U+e027;
+;57384;U+e028;
+;;;
+;;;
+luDl;57385;;łuk 1 kwadrans mały
+luDp;57386;;łuk 3 kwadrans mały
+;57387;;
+;57388;;
+;57389;;
+luTl;57390;;łuk 1 kwadrans duży
+luTp;57391;;łuk 3 kwadrans duży
+;57392;;
+;57393;;
+;57394;;
+luGLY;57395;;zawijas do generowania ligatur z Ł (TŁ, PŁ, GŁ...)
+luGL;57396;;zawijas do generowania ligatur z L mały (PL, TL, GL...)
+luKL;57397;;zawijas do generowania ligatur z L duży (PL, TL, GL...)
+luTj;57398;;zawijas do generowania TJA/TJO/TI - do T
+;57399;;
+;57400;;

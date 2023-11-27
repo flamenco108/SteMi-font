@@ -1,0 +1,86 @@
+LEGENDA: ly=ł, zi=rzi, si=szi
+(w grupach danej głoski RDZENNEJ)
+P 
+p, pi, pl, ply, ps, psz, psze, pszy, pszcz, psi, pis, psici, pk, pki, pt, pr, prt, prw, prwi
+sp, spi, spl, sply, spsz, spsi, spis, spk, spki, spt, spr, sprt, sprw, sprwi
+
+B 
+b, bi, bl, bly, bz, brz, bzi, bk, bki, bd, br
+
+M
+m, mi, ml, mly, mb, mbi, mk, mki, mik, miki, mp, mpi, mip, mipi, mb, mib, mbi, mibi, mh, mih, mhi, mihi, md, mid, midi, mt, mit, miti, mz, mrz, msz, ms, msi, mzi, mk, mki, mr
+
+T
+t, ti, tl, tly, ts, tsz, tsi, tszci, tk, tki, tm, tmi, tn, tni, tr
+
+D
+d, di, dl, dly, d.z, db, dm, dn, dg, dr, drg, drrz, dw
+
+N
+n, nacute, ni, nl, nil, nly, nily, nm, ns, nis, nc, nic, nk, nik, nki, niki,
+
+K
+k, ki, kl, kly, km, kmi, kh, kih, kw, kiw, kwi, kiwi, ksz, kszt, kszw, kszwi, kszm, kszmi, ksi, ksiw, ksiwi, ksim, ksimi, ksit,
+
+G
+g, gi, gb, gd, gdzi, gl, gly, gm, gmi, gr, grz, grzbi, grzd, grzm,  grzw, grzwi, gw, gwi, gz, gzi, gzidzi
+
+H
+h, hi, hl, hly, hm, hmi, him, hr, hir, hw, hiw, hwi, hiwi, hsz, hszt, hszw, hszwi, hsi, ht,
+
+C
+c, cj, ck, cki, cl, cł, cm, cmi, cn, cni, cw, cwi,
+
+CI
+cacute, cii, cil, cily, cir, cik, cikw, cim, cimk, cimki, cimik, cip, cipk, cipki, cipik, cipiki, ciw,
+
+CZ
+ccaron, cz, czci, czch, czcz, czk, czk, czly, czm, czmi, czn, czt, czw
+
+R
+r, r.z (roz/raz), rm, rn, rni, rh, rhi, rk, rki, rg, rd, rt, 
+S
+s, sw, st, sti, stw, str, stsz, sm, smi, 
+sk, ski, skw, skwi, skrw, skrwi, skt, skm, skmi,
+
+SI
+sacute, si, sici, sicim, siciw, siciwi, sicir, sicim, sicin, sicink, sicinki
+
+SZ
+scaron, sz, szw, szm, szcz, szczw, szczwi
+
+DZ
+dz, dzb, dzbi, dzw, dzwi,
+DZI
+dzi, dzig, dziw, dziwi, dziwk, dziwki, dziwt, dziwit
+DRZ
+dcaron, drz, drzw
+Z
+z, zw, zd, zdi, zdw, zdwi, zdr, zdrw, zdrwi, zdrz, zm, zdm, zmi, zdmi, zg, zgi
+ZI
+zacute, zi
+RZ/Ż
+zcaron, zdotaccent, rz, rzm
+RZDRZ
+
+F
+f, fi, fl, fly, fsz, fsi, fr, ft, fc, fci,
+W
+w, wi, wl, wly, wrz, wzi, wr, wd, wdz, wdzw, wdzi
+
+A
+a, ra, aia, aie, aio, aiu, aiao, aiao.alt, ai
+E
+e, re, eia, eie, eio, eiu, eiao, eiao.alt, eieo(gonek), ei
+O
+o, o.alt, ro, ro.alt, oia, o.altia, oie, o.altie, oio, o.altio, oio.alt, oiu, o.altiu, oiu.alt, oiao, oiao.alt, oieo, o.alteo, oi
+U
+u, u.alt, u.lift, ru, ru.alt, ru.lift, uia, u.altia, uie, u.altie, uio, uio.alt, u.altio, uiu, u.altiu, uiu.alt, uiao, uiao.alt, uieo, u.altieo, ui
+I
+i (/|/), i.alt (|), i.beg (/|), i.end (|/), ia, ie, io, io.alt, iu, iu.alt, iao, iao.alt, ieo, ii, i.alti, i.alti.beg, ii.alt
+Y
+y, ry, yia, yie, yio, yio.alt, yiu, yiu.alt, yiao, yiao.alt, yieo, yi
+Ą
+aogonek, aogonek.alt, raogonek, raogonek.alt
+Ę
+eogonek, reogonek
