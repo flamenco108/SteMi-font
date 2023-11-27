@@ -54,5 +54,15 @@ luGLY;57395;;zawijas do generowania ligatur z Ł (TŁ, PŁ, GŁ...)
 luGL;57396;;zawijas do generowania ligatur z L mały (PL, TL, GL...)
 luKL;57397;;zawijas do generowania ligatur z L duży (PL, TL, GL...)
 luTj;57398;;zawijas do generowania TJA/TJO/TI - do T
-;57399;;
-;57400;;
+
+dolTWi;57405;;dół glifu szypiaszcze przejście do samog (eg. `ksza`) 
+dolMKi;57406;;dół glifu sipiascie przejście do samogłoski (eg. `ksie`)
+stemGRZ;57407;;stem dla GRZ
+stemGRZ.short;57408;;stem GRZ krótki
+stemKSZ;57409;;stem dla KSZ itp
+stemIRZ;57410;;stem IRZ (może R?)
+
+LITERY zaczynają się od
+57550
+
+ 

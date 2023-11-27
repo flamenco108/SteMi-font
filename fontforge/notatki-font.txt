@@ -1,0 +1,18 @@
+### Porządek tworzenia i sortowania glifów
+
+- składamy glif z elementów glifów poprzez referencje (Ctrl+G)
+- jeżeli to znak posiadający swój codepoint, najpierw tworzymy glif w PUA o nazwie `litera.orig` np. `a.orig` i z niej referencją przekazujemy to na codepoint
+- LITERY/GŁOSKI  zaczynają się od 57550 - U+e0ce (a.orig)
+- obok `litera.orig` znajdują się warianty litery, np. `k.orig` a obok `ksz.orig` (która nie ma swojego codepointu poza PUA)
+- zostawić wolne codepointy dla wszelkich nagłosów i wygłosów (ok. 50szt średnio) dla danej głoski
+- samogłoski, dwugłosy (np. `ae`), dwugłosy jotowane (np. `aje`) i dyftongi (np. ``) mają być zgrupowane po a.orig
+
+### Pochylenia stemów
+
+- samogłoski: 20st w prawo
+- spółgłoski: 20st w lewo
+- wytworzone obrotem, nie pochyleniem!
+
+### INNE
+
+- znak WIELKIEJ LITERY uzyskujemy przez dodanie CIRCUMFLEX nad znakiem
