@@ -1,0 +1,1215 @@
+
+     <h2
+    class="flex items-center font-semibold leading-5 mt-[20px] mb-sm px-md text-18 xs:hidden"
+  >
+    More posts you may like
+  </h2>
+    <pdp-right-rail class="pdp px-md xs:px-0 block">
+      
+      <faceplate-tabpanel
+        slot="tab-panel"
+        id="pdp-right-rail-topics"
+        pages="1"
+        pageindex="1"
+      >
+        
+    <div slot="page-1" data-slug="pdp_right_rail_related">
+      
+            <faceplate-tracker source="global" action="view" noun="discovery_unit">
+               <ul class="list-none p-0 m-0">
+    
+          <li>
+            
+            
+
+            <reddit-pdp-right-rail-post
+              class="nd:visible"
+              event-data="%7B%22correlation_id%22%3A%2227a47928-da1c-4b73-9ea1-dda6b85c03e1%22%2C%22experiment%22%3A%7B%22name%22%3A%22platformex_listing_below_popular_posts%22%7D%2C%22ml_model%22%3A%7B%22name%22%3A%22search_nlp%22%2C%22features%22%3A%22%7B%5C%22host_post_id%5C%22%3A%5C%22t3_818364%5C%22%7D%22%7D%2C%22action_info%22%3A%7B%22position%22%3A1%7D%2C%22post%22%3A%7B%22archived%22%3Afalse%2C%22created_timestamp%22%3A1700578846928%2C%22id%22%3A%22t3_180ixta%22%2C%22nsfw%22%3Afalse%2C%22number_comments%22%3A28%2C%22promoted%22%3Afalse%2C%22score%22%3A121%2C%22subreddit_id%22%3A%22t5_339ie%22%2C%22subreddit_name%22%3A%22kurzgesagt%22%2C%22title%22%3A%22THE%20LAST%20THING%20THAT%20WILL%20EVER%20HAPPEN%22%2C%22type%22%3A%22link%22%7D%2C%22subreddit%22%3A%7B%22id%22%3A%22t5_339ie%22%2C%22name%22%3A%22kurzgesagt%22%7D%7D"
+              post-id="t3_818364"
+            >
+              
+    <div>
+      
+            <faceplate-tracker
+              source="post_detail"
+              action="view"
+              noun="post"
+            >
+              
+    <div class="flex text-neutral-content text-12">
+      <div class="flex flex-col grow">
+        
+    <div class="items-center">
+      
+    <shreddit-async-loader bundleName="faceplate_hovercard">
+      <faceplate-hovercard
+        class="nd:visible"
+        position="bottom-start"
+        data-id="community-hover-card"
+        aria-label="r/kurzgesagt"
+      >
+        <faceplate-tracker
+              source="post_detail"
+              action="click"
+              noun="post"
+              class="visible"
+            >
+              <a rpl
+      class="flex items-center min-w-0 text-neutral-content-weak hover:text-neutral-content-weak a
+  
+  
+  no-visited
+  hover:underline
+  "
+      href="/r/kurzgesagt"
+      >
+      <div class="flex flex-shrink-0 w-lg h-lg">
+        <faceplate-img
+    src="https://styles.redditmedia.com/t5_339ie/styles/communityIcon_kop6o6xgjkj41.png"
+    alt="r/kurzgesagt icon"
+    class="shreddit-subreddit-icon__icon rounded-full overflow-hidden nd:visible nd:bg-secondary-background text-24 leading-5 h-full w-full"
+    width="24"
+    height="24"
+    
+    loading="lazy"
+    
+    
+    style="color: #218CD9; background-color: #218CD9"
+  ></faceplate-img>
+      </div>
+      <div class="ml-xs truncate">r/kurzgesagt</div>
+    </a
+    >
+            </faceplate-tracker>
+        <div slot="content" class="max-w-[360px] w-[90vw] overflow-hidden p-0 -m-[0.5rem]">
+          <div class="flex flex-col">
+            <div class="h-[80px] w-auto overflow-hidden relative rounded-t-[16px]">
+                  <faceplate-img
+    src="https://styles.redditmedia.com/t5_339ie/styles/bannerBackgroundImage_zdejnnd1jkj41.png"
+    alt="A banner for the subreddit"
+    class="w-auto h-full object-cover absolute"
+    
+    
+    
+  ></faceplate-img>
+                </div>
+            <div class="px-sm pt-sm flex items-center">
+              <span class="w-[48px] h-[48px] text-24 shrink-0"
+                ><faceplate-img
+    src="https://styles.redditmedia.com/t5_339ie/styles/communityIcon_kop6o6xgjkj41.png"
+    alt="r/kurzgesagt icon"
+    class="shreddit-subreddit-icon__icon rounded-full overflow-hidden nd:visible nd:bg-secondary-background "
+    width="48"
+    height="48"
+    
+    loading="lazy"
+    
+    
+    style="color: #218CD9; background-color: #218CD9"
+  ></faceplate-img></span
+              >
+              <span class="flex flex-col ml-xs grow-0 w-100">
+                <faceplate-tracker source="subreddit_hovercard" action="click" noun="title">
+                  <a rpl
+      class="text-18 font-bold text-neutral-content-strong leading-6 a
+  text-14
+  
+  no-visited
+  hover:underline
+  "
+      href="/r/kurzgesagt/"
+      >r/kurzgesagt</a
+    >
+                </faceplate-tracker>
+              </span>
+              <faceplate-tracker
+                    class="ml-auto"
+                    source="subreddit_hovercard"
+                    action="click"
+                    noun="join_signup_cta"
+                  >
+                    <shreddit-join-button
+                      subreddit-id="t5_339ie"
+                      name="kurzgesagt"
+                      buttonsize="x-small"
+                      button-type="secondary"
+                    ></shreddit-join-button>
+                  </faceplate-tracker>
+            </div>
+            <p class="px-md pt-md m-0 whitespace-normal text-14 leading-5 font-normal">
+              The official subreddit of Kurzgesagt - In a Nutshell
+            </p>
+            <hr class="mx-md pt-md border-neutral-border-weak" />
+            <div class="px-md py-md flex items-center">
+              <span class="flex flex-col">
+                <span class="text-14 text-neutral-content leading-5 font-semibold">
+                  <faceplate-number number="207002" pretty></faceplate-number>
+                </span>
+                <span class="text-12 leading-4 text-neutral-content-weak"
+                  >Members</span
+                >
+              </span>
+              <span data-testid="community-hover-card:active-count" class="ml-xl flex flex-col">
+                <span class="text-14 text-neutral-content leading-5 font-semibold">
+                  <faceplate-number number="46" pretty></faceplate-number>
+                </span>
+                <span class="flex items-center">
+                  <span class="bg-kiwigreen-400 rounded-full w-xs h-xs"></span>
+                  <span class="text-12 leading-4 text-neutral-content-weak ml-2xs"
+                    >Online</span
+                  >
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </faceplate-hovercard>
+    </shreddit-async-loader>
+  
+    </div>
+  
+        
+    <div class="flex">
+      
+            <faceplate-tracker
+              source="post_detail"
+              action="view"
+              noun="post"
+            >
+              
+    <a rpl
+      class="flex flex-wrap group
+                  text-neutral-content-weak
+                  hover:text-neutral-content-weak
+                  dark:text-neutral-content-strong
+                  dark:hover:text-neutral-content-strong
+                  xs:dark:text-neutral-content-weak
+                  xs:dark:hover:text-neutral-content-weak
+                 a
+  
+  
+  no-visited
+  no-underline hover:no-underline
+  "
+      href="/r/kurzgesagt/comments/180ixta/the_last_thing_that_will_ever_happen/"
+      > <div class="flex grow min-w-0 mb-2xs mt-2xs">
+        <div class="flex flex-col gap-2xs grow mt-2xs">
+          
+          <h3
+            class="text-14 line-clamp-2 m-0 font-semibold overflow-hidden group-hover:underline"
+            title="THE LAST THING THAT WILL EVER HAPPEN"
+            aria-label="Right rail post - THE LAST THING THAT WILL EVER HAPPEN"
+          >
+            THE LAST THING THAT WILL EVER HAPPEN
+          </h3>
+        </div>
+      </div></a
+    >
+  
+            </faceplate-tracker>
+          
+    </div>
+  
+      </div>
+      <div class="flex shrink-0 ml-sm">
+        <div
+    
+    class="relative rounded-[8px] overflow-hidden box-border border border-solid border-neutral-border-weak xs:h-[84px] xs:w-[84px]"
+  >
+    <a class="block w-100 h-100"  href="/r/kurzgesagt/comments/180ixta/the_last_thing_that_will_ever_happen/" target="_self"
+  aria-label="r/kurzgesagt - THE LAST THING THAT WILL EVER HAPPEN" aria-label="r/kurzgesagt - THE LAST THING THAT WILL EVER HAPPEN"
+      ><faceplate-img
+    src="https://b.thumbs.redditmedia.com/9irxENvXSYUqV77sQJEux0I9igyZ3nEYFigsaa_v73o.jpg"
+    alt="r/kurzgesagt - THE LAST THING THAT WILL EVER HAPPEN"
+    class="h-full w-full object-cover"
+    
+    
+    
+  ></faceplate-img></a
+    ><div class="absolute inset-0 rounded-[8px] thumbnail-shadow pointer-events-none"><div
+    class="absolute bottom-0 bg-media-background text-media-onbackground w-100 text-center truncate px-xs box-border"
+  >
+    youtube
+  </div></div>
+  </div>
+      </div>
+    </div>
+  
+            </faceplate-tracker>
+          
+      
+    <div class="min-w-full mt-2xs truncate">
+      <div class="text-neutral-content-weak text-12">
+        
+      <faceplate-number number="121" pretty></faceplate-number>
+      upvotes
+    
+        <span class="mr-2xs ml-2xs">·</span>
+        
+      <faceplate-number number="28" pretty></faceplate-number>
+      <span >comments</span>
+    
+      </div>
+    </div>
+  
+    </div>
+  
+              <hr class="w-100 my-sm border-neutral-border-weak" />
+            </reddit-pdp-right-rail-post>
+          </li>
+        
+          <li>
+            
+            
+
+            <reddit-pdp-right-rail-post
+              class="nd:visible"
+              event-data="%7B%22correlation_id%22%3A%2227a47928-da1c-4b73-9ea1-dda6b85c03e1%22%2C%22experiment%22%3A%7B%22name%22%3A%22platformex_listing_below_popular_posts%22%7D%2C%22ml_model%22%3A%7B%22name%22%3A%22search_nlp%22%2C%22features%22%3A%22%7B%5C%22host_post_id%5C%22%3A%5C%22t3_818364%5C%22%7D%22%7D%2C%22action_info%22%3A%7B%22position%22%3A2%7D%2C%22post%22%3A%7B%22archived%22%3Afalse%2C%22created_timestamp%22%3A1700065965218%2C%22id%22%3A%22t3_17vxh11%22%2C%22nsfw%22%3Afalse%2C%22number_comments%22%3A38%2C%22promoted%22%3Afalse%2C%22score%22%3A180%2C%22subreddit_id%22%3A%22t5_2sm2u%22%2C%22subreddit_name%22%3A%22smartereveryday%22%2C%22title%22%3A%22This%20TRANSPARENT%20ENGINE%20is%20Fascinating%20(How%20Engines%20Work)%20-%20Smarter%20Every%20Day%20292%22%2C%22type%22%3A%22link%22%7D%2C%22subreddit%22%3A%7B%22id%22%3A%22t5_2sm2u%22%2C%22name%22%3A%22smartereveryday%22%7D%7D"
+              post-id="t3_818364"
+            >
+              
+    <div>
+      
+            <faceplate-tracker
+              source="post_detail"
+              action="view"
+              noun="post"
+            >
+              
+    <div class="flex text-neutral-content text-12">
+      <div class="flex flex-col grow">
+        
+    <div class="items-center">
+      
+    <shreddit-async-loader bundleName="faceplate_hovercard">
+      <faceplate-hovercard
+        class="nd:visible"
+        position="bottom-start"
+        data-id="community-hover-card"
+        aria-label="r/SmarterEveryDay"
+      >
+        <faceplate-tracker
+              source="post_detail"
+              action="click"
+              noun="post"
+              class="visible"
+            >
+              <a rpl
+      class="flex items-center min-w-0 text-neutral-content-weak hover:text-neutral-content-weak a
+  
+  
+  no-visited
+  hover:underline
+  "
+      href="/r/SmarterEveryDay"
+      >
+      <div class="flex flex-shrink-0 w-lg h-lg">
+        <faceplate-img
+    src="https://styles.redditmedia.com/t5_2sm2u/styles/communityIcon_rqhl48nx4kc41.jpg?format=pjpg&amp;s=c20f815a33db9714114a2a8a047d1828dee0d00e"
+    alt="r/SmarterEveryDay icon"
+    class="shreddit-subreddit-icon__icon rounded-full overflow-hidden nd:visible nd:bg-secondary-background text-24 leading-5 h-full w-full"
+    width="24"
+    height="24"
+    
+    loading="lazy"
+    
+    
+    style="color: #24A0ED; background-color: #24A0ED"
+  ></faceplate-img>
+      </div>
+      <div class="ml-xs truncate">r/SmarterEveryDay</div>
+    </a
+    >
+            </faceplate-tracker>
+        <div slot="content" class="max-w-[360px] w-[90vw] overflow-hidden p-0 -m-[0.5rem]">
+          <div class="flex flex-col">
+            
+            <div class="px-sm pt-sm flex items-center">
+              <span class="w-[48px] h-[48px] text-24 shrink-0"
+                ><faceplate-img
+    src="https://styles.redditmedia.com/t5_2sm2u/styles/communityIcon_rqhl48nx4kc41.jpg?format=pjpg&amp;s=c20f815a33db9714114a2a8a047d1828dee0d00e"
+    alt="r/SmarterEveryDay icon"
+    class="shreddit-subreddit-icon__icon rounded-full overflow-hidden nd:visible nd:bg-secondary-background "
+    width="48"
+    height="48"
+    
+    loading="lazy"
+    
+    
+    style="color: #24A0ED; background-color: #24A0ED"
+  ></faceplate-img></span
+              >
+              <span class="flex flex-col ml-xs grow-0 w-100">
+                <faceplate-tracker source="subreddit_hovercard" action="click" noun="title">
+                  <a rpl
+      class="text-18 font-bold text-neutral-content-strong leading-6 a
+  text-14
+  
+  no-visited
+  hover:underline
+  "
+      href="/r/SmarterEveryDay/"
+      >r/SmarterEveryDay</a
+    >
+                </faceplate-tracker>
+              </span>
+              <faceplate-tracker
+                    class="ml-auto"
+                    source="subreddit_hovercard"
+                    action="click"
+                    noun="join_signup_cta"
+                  >
+                    <shreddit-join-button
+                      subreddit-id="t5_2sm2u"
+                      name="SmarterEveryDay"
+                      buttonsize="x-small"
+                      button-type="secondary"
+                    ></shreddit-join-button>
+                  </faceplate-tracker>
+            </div>
+            <p class="px-md pt-md m-0 whitespace-normal text-14 leading-5 font-normal">
+              
+            </p>
+            <hr class="mx-md pt-md border-neutral-border-weak" />
+            <div class="px-md py-md flex items-center">
+              <span class="flex flex-col">
+                <span class="text-14 text-neutral-content leading-5 font-semibold">
+                  <faceplate-number number="70703" pretty></faceplate-number>
+                </span>
+                <span class="text-12 leading-4 text-neutral-content-weak"
+                  >Members</span
+                >
+              </span>
+              <span data-testid="community-hover-card:active-count" class="ml-xl flex flex-col">
+                <span class="text-14 text-neutral-content leading-5 font-semibold">
+                  <faceplate-number number="78" pretty></faceplate-number>
+                </span>
+                <span class="flex items-center">
+                  <span class="bg-kiwigreen-400 rounded-full w-xs h-xs"></span>
+                  <span class="text-12 leading-4 text-neutral-content-weak ml-2xs"
+                    >Online</span
+                  >
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </faceplate-hovercard>
+    </shreddit-async-loader>
+  
+    </div>
+  
+        
+    <div class="flex">
+      
+            <faceplate-tracker
+              source="post_detail"
+              action="view"
+              noun="post"
+            >
+              
+    <a rpl
+      class="flex flex-wrap group
+                  text-neutral-content-weak
+                  hover:text-neutral-content-weak
+                  dark:text-neutral-content-strong
+                  dark:hover:text-neutral-content-strong
+                  xs:dark:text-neutral-content-weak
+                  xs:dark:hover:text-neutral-content-weak
+                 a
+  
+  
+  no-visited
+  no-underline hover:no-underline
+  "
+      href="/r/SmarterEveryDay/comments/17vxh11/this_transparent_engine_is_fascinating_how/"
+      > <div class="flex grow min-w-0 mb-2xs mt-2xs">
+        <div class="flex flex-col gap-2xs grow mt-2xs">
+          
+          <h3
+            class="text-14 line-clamp-2 m-0 font-semibold overflow-hidden group-hover:underline"
+            title="This TRANSPARENT ENGINE is Fascinating (How Engines Work) - Smarter Every Day 292"
+            aria-label="Right rail post - This TRANSPARENT ENGINE is Fascinating (How Engines Work) -..."
+          >
+            This TRANSPARENT ENGINE is Fascinating (How Engines Work) - Smarter Every Day 292
+          </h3>
+        </div>
+      </div></a
+    >
+  
+            </faceplate-tracker>
+          
+    </div>
+  
+      </div>
+      <div class="flex shrink-0 ml-sm">
+        <div
+    
+    class="relative rounded-[8px] overflow-hidden box-border border border-solid border-neutral-border-weak xs:h-[84px] xs:w-[84px]"
+  >
+    <a class="block w-100 h-100"  href="/r/SmarterEveryDay/comments/17vxh11/this_transparent_engine_is_fascinating_how/" target="_self"
+  aria-label="r/SmarterEveryDay - This TRANSPARENT ENGINE is Fascinating (How Engines Work) - Smarter Every Day 292" aria-label="r/SmarterEveryDay - This TRANSPARENT ENGINE is Fascinating (How Engines Work) - Smarter Every Day 292"
+      ><faceplate-img
+    src="https://b.thumbs.redditmedia.com/7q1Y7Rf3hMQp0_mQ9Ba0quCKDy6aAMaP84emkRvDQ0s.jpg"
+    alt="r/SmarterEveryDay - This TRANSPARENT ENGINE is Fascinating (How Engines Work) - Smarter Every Day 292"
+    class="h-full w-full object-cover"
+    
+    
+    
+  ></faceplate-img></a
+    ><div class="absolute inset-0 rounded-[8px] thumbnail-shadow pointer-events-none"><div
+    class="absolute bottom-0 bg-media-background text-media-onbackground w-100 text-center truncate px-xs box-border"
+  >
+    youtube
+  </div></div>
+  </div>
+      </div>
+    </div>
+  
+            </faceplate-tracker>
+          
+      
+    <div class="min-w-full mt-2xs truncate">
+      <div class="text-neutral-content-weak text-12">
+        
+      <faceplate-number number="180" pretty></faceplate-number>
+      upvotes
+    
+        <span class="mr-2xs ml-2xs">·</span>
+        
+      <faceplate-number number="38" pretty></faceplate-number>
+      <span >comments</span>
+    
+      </div>
+    </div>
+  
+    </div>
+  
+              <hr class="w-100 my-sm border-neutral-border-weak" />
+            </reddit-pdp-right-rail-post>
+          </li>
+        
+          <li>
+            
+            
+
+            <reddit-pdp-right-rail-post
+              class="nd:visible"
+              event-data="%7B%22correlation_id%22%3A%2227a47928-da1c-4b73-9ea1-dda6b85c03e1%22%2C%22experiment%22%3A%7B%22name%22%3A%22platformex_listing_below_popular_posts%22%7D%2C%22ml_model%22%3A%7B%22name%22%3A%22search_nlp%22%2C%22features%22%3A%22%7B%5C%22host_post_id%5C%22%3A%5C%22t3_818364%5C%22%7D%22%7D%2C%22action_info%22%3A%7B%22position%22%3A3%7D%2C%22post%22%3A%7B%22archived%22%3Afalse%2C%22created_timestamp%22%3A1700392846287%2C%22id%22%3A%22t3_17yv2us%22%2C%22nsfw%22%3Afalse%2C%22number_comments%22%3A39%2C%22promoted%22%3Afalse%2C%22score%22%3A176%2C%22subreddit_id%22%3A%22t5_2qhps%22%2C%22subreddit_name%22%3A%22literature%22%2C%22title%22%3A%22She&#39;s%20so%20magical%22%2C%22type%22%3A%22link%22%7D%2C%22subreddit%22%3A%7B%22id%22%3A%22t5_2qhps%22%2C%22name%22%3A%22literature%22%7D%7D"
+              post-id="t3_818364"
+            >
+              
+    <div>
+      
+            <faceplate-tracker
+              source="post_detail"
+              action="view"
+              noun="post"
+            >
+              
+    <div class="flex text-neutral-content text-12">
+      <div class="flex flex-col grow">
+        
+    <div class="items-center">
+      
+    <shreddit-async-loader bundleName="faceplate_hovercard">
+      <faceplate-hovercard
+        class="nd:visible"
+        position="bottom-start"
+        data-id="community-hover-card"
+        aria-label="r/literature"
+      >
+        <faceplate-tracker
+              source="post_detail"
+              action="click"
+              noun="post"
+              class="visible"
+            >
+              <a rpl
+      class="flex items-center min-w-0 text-neutral-content-weak hover:text-neutral-content-weak a
+  
+  
+  no-visited
+  hover:underline
+  "
+      href="/r/literature"
+      >
+      <div class="flex flex-shrink-0 w-lg h-lg">
+        <faceplate-img
+    src="https://styles.redditmedia.com/t5_2qhps/styles/communityIcon_mg958hnr6zh71.png"
+    alt="r/literature icon"
+    class="shreddit-subreddit-icon__icon rounded-full overflow-hidden nd:visible nd:bg-secondary-background text-24 leading-5 h-full w-full"
+    width="24"
+    height="24"
+    
+    loading="lazy"
+    
+    
+    style="color: #7193FF; background-color: #7193FF"
+  ></faceplate-img>
+      </div>
+      <div class="ml-xs truncate">r/literature</div>
+    </a
+    >
+            </faceplate-tracker>
+        <div slot="content" class="max-w-[360px] w-[90vw] overflow-hidden p-0 -m-[0.5rem]">
+          <div class="flex flex-col">
+            
+            <div class="px-sm pt-sm flex items-center">
+              <span class="w-[48px] h-[48px] text-24 shrink-0"
+                ><faceplate-img
+    src="https://styles.redditmedia.com/t5_2qhps/styles/communityIcon_mg958hnr6zh71.png"
+    alt="r/literature icon"
+    class="shreddit-subreddit-icon__icon rounded-full overflow-hidden nd:visible nd:bg-secondary-background "
+    width="48"
+    height="48"
+    
+    loading="lazy"
+    
+    
+    style="color: #7193FF; background-color: #7193FF"
+  ></faceplate-img></span
+              >
+              <span class="flex flex-col ml-xs grow-0 w-100">
+                <faceplate-tracker source="subreddit_hovercard" action="click" noun="title">
+                  <a rpl
+      class="text-18 font-bold text-neutral-content-strong leading-6 a
+  text-14
+  
+  no-visited
+  hover:underline
+  "
+      href="/r/literature/"
+      >r/literature</a
+    >
+                </faceplate-tracker>
+              </span>
+              <faceplate-tracker
+                    class="ml-auto"
+                    source="subreddit_hovercard"
+                    action="click"
+                    noun="join_signup_cta"
+                  >
+                    <shreddit-join-button
+                      subreddit-id="t5_2qhps"
+                      name="literature"
+                      buttonsize="x-small"
+                      button-type="secondary"
+                    ></shreddit-join-button>
+                  </faceplate-tracker>
+            </div>
+            <p class="px-md pt-md m-0 whitespace-normal text-14 leading-5 font-normal">
+              Welcome to /r/literature, a community for deeper discussions of plays, poetry, short stories, and novels. Discussions of literary criticism, literary history, literary theory, and critical theory are also welcome.
+
+We are not /r/books: please do not use this sub to seek book recommendations or homework help.
+            </p>
+            <hr class="mx-md pt-md border-neutral-border-weak" />
+            <div class="px-md py-md flex items-center">
+              <span class="flex flex-col">
+                <span class="text-14 text-neutral-content leading-5 font-semibold">
+                  <faceplate-number number="2049121" pretty></faceplate-number>
+                </span>
+                <span class="text-12 leading-4 text-neutral-content-weak"
+                  >Members</span
+                >
+              </span>
+              <span data-testid="community-hover-card:active-count" class="ml-xl flex flex-col">
+                <span class="text-14 text-neutral-content leading-5 font-semibold">
+                  <faceplate-number number="290" pretty></faceplate-number>
+                </span>
+                <span class="flex items-center">
+                  <span class="bg-kiwigreen-400 rounded-full w-xs h-xs"></span>
+                  <span class="text-12 leading-4 text-neutral-content-weak ml-2xs"
+                    >Online</span
+                  >
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </faceplate-hovercard>
+    </shreddit-async-loader>
+  
+    </div>
+  
+        
+    <div class="flex">
+      
+            <faceplate-tracker
+              source="post_detail"
+              action="view"
+              noun="post"
+            >
+              
+    <a rpl
+      class="flex flex-wrap group
+                  text-neutral-content-weak
+                  hover:text-neutral-content-weak
+                  dark:text-neutral-content-strong
+                  dark:hover:text-neutral-content-strong
+                  xs:dark:text-neutral-content-weak
+                  xs:dark:hover:text-neutral-content-weak
+                 a
+  
+  
+  no-visited
+  no-underline hover:no-underline
+  "
+      href="/r/literature/comments/17yv2us/shes_so_magical/"
+      > <div class="flex grow min-w-0 mb-2xs mt-2xs">
+        <div class="flex flex-col gap-2xs grow mt-2xs">
+          
+          <h3
+            class="text-14 line-clamp-2 m-0 font-semibold overflow-hidden group-hover:underline"
+            title="She&#39;s so magical"
+            aria-label="Right rail post - She&#39;s so magical"
+          >
+            She&#39;s so magical
+          </h3>
+        </div>
+      </div></a
+    >
+  
+            </faceplate-tracker>
+          
+    </div>
+  
+      </div>
+      <div class="flex shrink-0 ml-sm">
+        <div
+    
+    class="relative rounded-[8px] overflow-hidden box-border border border-solid border-neutral-border-weak xs:h-[84px] xs:w-[84px]"
+  >
+    <a class="block w-100 h-100"  href="/r/literature/comments/17yv2us/shes_so_magical/" target="_self"
+  aria-label="r/literature - She&#39;s so magical" aria-label="r/literature - She&#39;s so magical"
+      ><faceplate-img
+    src="https://b.thumbs.redditmedia.com/o7-7qVlJEIgepbCnuzl2ih0v_BpLMcXW2ZTkF4MHnTQ.jpg"
+    alt="r/literature - She&#39;s so magical"
+    class="h-full w-full object-cover"
+    
+    
+    
+  ></faceplate-img></a
+    ><div class="absolute inset-0 rounded-[8px] thumbnail-shadow pointer-events-none"><div
+    class="absolute bottom-0 bg-media-background text-media-onbackground w-100 text-center truncate px-xs box-border"
+  >
+    youtube
+  </div></div>
+  </div>
+      </div>
+    </div>
+  
+            </faceplate-tracker>
+          
+      
+    <div class="min-w-full mt-2xs truncate">
+      <div class="text-neutral-content-weak text-12">
+        
+      <faceplate-number number="176" pretty></faceplate-number>
+      upvotes
+    
+        <span class="mr-2xs ml-2xs">·</span>
+        
+      <faceplate-number number="39" pretty></faceplate-number>
+      <span >comments</span>
+    
+      </div>
+    </div>
+  
+    </div>
+  
+              <hr class="w-100 my-sm border-neutral-border-weak" />
+            </reddit-pdp-right-rail-post>
+          </li>
+        
+          <li>
+            
+            
+
+            <reddit-pdp-right-rail-post
+              class="nd:visible"
+              event-data="%7B%22correlation_id%22%3A%2227a47928-da1c-4b73-9ea1-dda6b85c03e1%22%2C%22experiment%22%3A%7B%22name%22%3A%22platformex_listing_below_popular_posts%22%7D%2C%22ml_model%22%3A%7B%22name%22%3A%22search_nlp%22%2C%22features%22%3A%22%7B%5C%22host_post_id%5C%22%3A%5C%22t3_818364%5C%22%7D%22%7D%2C%22action_info%22%3A%7B%22position%22%3A4%7D%2C%22post%22%3A%7B%22archived%22%3Afalse%2C%22created_timestamp%22%3A1700216716972%2C%22id%22%3A%22t3_17xc3ds%22%2C%22nsfw%22%3Afalse%2C%22number_comments%22%3A14%2C%22promoted%22%3Afalse%2C%22score%22%3A110%2C%22subreddit_id%22%3A%22t5_2t4ck%22%2C%22subreddit_name%22%3A%22pjharvey%22%2C%22title%22%3A%22PJ%20Harvey%3A%20Tiny%20Desk%20Concert%22%2C%22type%22%3A%22link%22%7D%2C%22subreddit%22%3A%7B%22id%22%3A%22t5_2t4ck%22%2C%22name%22%3A%22pjharvey%22%7D%7D"
+              post-id="t3_818364"
+            >
+              
+    <div>
+      
+            <faceplate-tracker
+              source="post_detail"
+              action="view"
+              noun="post"
+            >
+              
+    <div class="flex text-neutral-content text-12">
+      <div class="flex flex-col grow">
+        
+    <div class="items-center">
+      
+    <shreddit-async-loader bundleName="faceplate_hovercard">
+      <faceplate-hovercard
+        class="nd:visible"
+        position="bottom-start"
+        data-id="community-hover-card"
+        aria-label="r/pjharvey"
+      >
+        <faceplate-tracker
+              source="post_detail"
+              action="click"
+              noun="post"
+              class="visible"
+            >
+              <a rpl
+      class="flex items-center min-w-0 text-neutral-content-weak hover:text-neutral-content-weak a
+  
+  
+  no-visited
+  hover:underline
+  "
+      href="/r/pjharvey"
+      >
+      <div class="flex flex-shrink-0 w-lg h-lg">
+        <faceplate-img
+    src="https://styles.redditmedia.com/t5_2t4ck/styles/communityIcon_h3h3l3en98za1.jpg?format=pjpg&amp;s=88d2200dffa72bf3ce16c8ae394c997176ed8ce7"
+    alt="r/pjharvey icon"
+    class="shreddit-subreddit-icon__icon rounded-full overflow-hidden nd:visible nd:bg-secondary-background text-24 leading-5 h-full w-full"
+    width="24"
+    height="24"
+    
+    loading="lazy"
+    
+    
+    style="color: #646D73; background-color: #646D73"
+  ></faceplate-img>
+      </div>
+      <div class="ml-xs truncate">r/pjharvey</div>
+    </a
+    >
+            </faceplate-tracker>
+        <div slot="content" class="max-w-[360px] w-[90vw] overflow-hidden p-0 -m-[0.5rem]">
+          <div class="flex flex-col">
+            <div class="h-[80px] w-auto overflow-hidden relative rounded-t-[16px]">
+                  <faceplate-img
+    src="https://styles.redditmedia.com/t5_2t4ck/styles/bannerBackgroundImage_u8krrizo98za1.jpg?format=pjpg&amp;s=6278fe4a43e9d4f03004e0f211b99fd9f25f3867"
+    alt="A banner for the subreddit"
+    class="w-auto h-full object-cover absolute"
+    
+    
+    
+  ></faceplate-img>
+                </div>
+            <div class="px-sm pt-sm flex items-center">
+              <span class="w-[48px] h-[48px] text-24 shrink-0"
+                ><faceplate-img
+    src="https://styles.redditmedia.com/t5_2t4ck/styles/communityIcon_h3h3l3en98za1.jpg?format=pjpg&amp;s=88d2200dffa72bf3ce16c8ae394c997176ed8ce7"
+    alt="r/pjharvey icon"
+    class="shreddit-subreddit-icon__icon rounded-full overflow-hidden nd:visible nd:bg-secondary-background "
+    width="48"
+    height="48"
+    
+    loading="lazy"
+    
+    
+    style="color: #646D73; background-color: #646D73"
+  ></faceplate-img></span
+              >
+              <span class="flex flex-col ml-xs grow-0 w-100">
+                <faceplate-tracker source="subreddit_hovercard" action="click" noun="title">
+                  <a rpl
+      class="text-18 font-bold text-neutral-content-strong leading-6 a
+  text-14
+  
+  no-visited
+  hover:underline
+  "
+      href="/r/pjharvey/"
+      >r/pjharvey</a
+    >
+                </faceplate-tracker>
+              </span>
+              <faceplate-tracker
+                    class="ml-auto"
+                    source="subreddit_hovercard"
+                    action="click"
+                    noun="join_signup_cta"
+                  >
+                    <shreddit-join-button
+                      subreddit-id="t5_2t4ck"
+                      name="pjharvey"
+                      buttonsize="x-small"
+                      button-type="secondary"
+                    ></shreddit-join-button>
+                  </faceplate-tracker>
+            </div>
+            <p class="px-md pt-md m-0 whitespace-normal text-14 leading-5 font-normal">
+              For all things Polly Jean Harvey.
+            </p>
+            <hr class="mx-md pt-md border-neutral-border-weak" />
+            <div class="px-md py-md flex items-center">
+              <span class="flex flex-col">
+                <span class="text-14 text-neutral-content leading-5 font-semibold">
+                  <faceplate-number number="3434" pretty></faceplate-number>
+                </span>
+                <span class="text-12 leading-4 text-neutral-content-weak"
+                  >Members</span
+                >
+              </span>
+              <span data-testid="community-hover-card:active-count" class="ml-xl flex flex-col">
+                <span class="text-14 text-neutral-content leading-5 font-semibold">
+                  <faceplate-number number="12" pretty></faceplate-number>
+                </span>
+                <span class="flex items-center">
+                  <span class="bg-kiwigreen-400 rounded-full w-xs h-xs"></span>
+                  <span class="text-12 leading-4 text-neutral-content-weak ml-2xs"
+                    >Online</span
+                  >
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </faceplate-hovercard>
+    </shreddit-async-loader>
+  
+    </div>
+  
+        
+    <div class="flex">
+      
+            <faceplate-tracker
+              source="post_detail"
+              action="view"
+              noun="post"
+            >
+              
+    <a rpl
+      class="flex flex-wrap group
+                  text-neutral-content-weak
+                  hover:text-neutral-content-weak
+                  dark:text-neutral-content-strong
+                  dark:hover:text-neutral-content-strong
+                  xs:dark:text-neutral-content-weak
+                  xs:dark:hover:text-neutral-content-weak
+                 a
+  
+  
+  no-visited
+  no-underline hover:no-underline
+  "
+      href="/r/pjharvey/comments/17xc3ds/pj_harvey_tiny_desk_concert/"
+      > <div class="flex grow min-w-0 mb-2xs mt-2xs">
+        <div class="flex flex-col gap-2xs grow mt-2xs">
+          
+          <h3
+            class="text-14 line-clamp-2 m-0 font-semibold overflow-hidden group-hover:underline"
+            title="PJ Harvey: Tiny Desk Concert"
+            aria-label="Right rail post - PJ Harvey: Tiny Desk Concert"
+          >
+            PJ Harvey: Tiny Desk Concert
+          </h3>
+        </div>
+      </div></a
+    >
+  
+            </faceplate-tracker>
+          
+    </div>
+  
+      </div>
+      <div class="flex shrink-0 ml-sm">
+        <div
+    
+    class="relative rounded-[8px] overflow-hidden box-border border border-solid border-neutral-border-weak xs:h-[84px] xs:w-[84px]"
+  >
+    <a class="block w-100 h-100"  href="/r/pjharvey/comments/17xc3ds/pj_harvey_tiny_desk_concert/" target="_self"
+  aria-label="r/pjharvey - PJ Harvey: Tiny Desk Concert" aria-label="r/pjharvey - PJ Harvey: Tiny Desk Concert"
+      ><faceplate-img
+    src="https://b.thumbs.redditmedia.com/jsmdJH931DhW8ZjjJ8eGg7BsRPv6Aw4wqHneWmn2tzU.jpg"
+    alt="r/pjharvey - PJ Harvey: Tiny Desk Concert"
+    class="h-full w-full object-cover"
+    
+    
+    
+  ></faceplate-img></a
+    ><div class="absolute inset-0 rounded-[8px] thumbnail-shadow pointer-events-none"><div
+    class="absolute bottom-0 bg-media-background text-media-onbackground w-100 text-center truncate px-xs box-border"
+  >
+    youtube
+  </div></div>
+  </div>
+      </div>
+    </div>
+  
+            </faceplate-tracker>
+          
+      
+    <div class="min-w-full mt-2xs truncate">
+      <div class="text-neutral-content-weak text-12">
+        
+      <faceplate-number number="110" pretty></faceplate-number>
+      upvotes
+    
+        <span class="mr-2xs ml-2xs">·</span>
+        
+      <faceplate-number number="14" pretty></faceplate-number>
+      <span >comments</span>
+    
+      </div>
+    </div>
+  
+    </div>
+  
+              <hr class="w-100 my-sm border-neutral-border-weak" />
+            </reddit-pdp-right-rail-post>
+          </li>
+        
+          <li>
+            
+            
+
+            <reddit-pdp-right-rail-post
+              class="nd:visible"
+              event-data="%7B%22correlation_id%22%3A%2227a47928-da1c-4b73-9ea1-dda6b85c03e1%22%2C%22experiment%22%3A%7B%22name%22%3A%22platformex_listing_below_popular_posts%22%7D%2C%22ml_model%22%3A%7B%22name%22%3A%22search_nlp%22%2C%22features%22%3A%22%7B%5C%22host_post_id%5C%22%3A%5C%22t3_818364%5C%22%7D%22%7D%2C%22action_info%22%3A%7B%22position%22%3A5%7D%2C%22post%22%3A%7B%22archived%22%3Afalse%2C%22created_timestamp%22%3A1699729163814%2C%22id%22%3A%22t3_17t14o9%22%2C%22nsfw%22%3Afalse%2C%22number_comments%22%3A314%2C%22promoted%22%3Afalse%2C%22score%22%3A121%2C%22subreddit_id%22%3A%22t5_xmk1t%22%2C%22subreddit_name%22%3A%22askbalkans%22%2C%22title%22%3A%22Greece%20has%20decided%20not%20to%20accept%20the%20joint%20letter%20of%20the%2027%20member%20states%20of%20the%20European%20Union%20addressed%20to%20Albania%20for%20the%20opening%20of%20the%20negotiations%20of%20the%20first%20package%20of%20membership%20chapters.%22%2C%22type%22%3A%22link%22%7D%2C%22subreddit%22%3A%7B%22id%22%3A%22t5_xmk1t%22%2C%22name%22%3A%22askbalkans%22%7D%7D"
+              post-id="t3_818364"
+            >
+              
+    <div>
+      
+            <faceplate-tracker
+              source="post_detail"
+              action="view"
+              noun="post"
+            >
+              
+    <div class="flex text-neutral-content text-12">
+      <div class="flex flex-col grow">
+        
+    <div class="items-center">
+      
+    <shreddit-async-loader bundleName="faceplate_hovercard">
+      <faceplate-hovercard
+        class="nd:visible"
+        position="bottom-start"
+        data-id="community-hover-card"
+        aria-label="r/AskBalkans"
+      >
+        <faceplate-tracker
+              source="post_detail"
+              action="click"
+              noun="post"
+              class="visible"
+            >
+              <a rpl
+      class="flex items-center min-w-0 text-neutral-content-weak hover:text-neutral-content-weak a
+  
+  
+  no-visited
+  hover:underline
+  "
+      href="/r/AskBalkans"
+      >
+      <div class="flex flex-shrink-0 w-lg h-lg">
+        <faceplate-img
+    src="https://styles.redditmedia.com/t5_xmk1t/styles/communityIcon_bc6rrftar5l21.jpg?format=pjpg&amp;s=ae13f8ac6b8c7611a1125fc7bda0016d58068bb6"
+    alt="r/AskBalkans icon"
+    class="shreddit-subreddit-icon__icon rounded-full overflow-hidden nd:visible nd:bg-secondary-background text-24 leading-5 h-full w-full"
+    width="24"
+    height="24"
+    
+    loading="lazy"
+    
+    
+    style="color: #B8001F; background-color: #B8001F"
+  ></faceplate-img>
+      </div>
+      <div class="ml-xs truncate">r/AskBalkans</div>
+    </a
+    >
+            </faceplate-tracker>
+        <div slot="content" class="max-w-[360px] w-[90vw] overflow-hidden p-0 -m-[0.5rem]">
+          <div class="flex flex-col">
+            <div class="h-[80px] w-auto overflow-hidden relative rounded-t-[16px]">
+                  <faceplate-img
+    src="https://styles.redditmedia.com/t5_xmk1t/styles/bannerBackgroundImage_adi2xo1t19m71.png"
+    alt="A banner for the subreddit"
+    class="w-auto h-full object-cover absolute"
+    
+    
+    
+  ></faceplate-img>
+                </div>
+            <div class="px-sm pt-sm flex items-center">
+              <span class="w-[48px] h-[48px] text-24 shrink-0"
+                ><faceplate-img
+    src="https://styles.redditmedia.com/t5_xmk1t/styles/communityIcon_bc6rrftar5l21.jpg?format=pjpg&amp;s=ae13f8ac6b8c7611a1125fc7bda0016d58068bb6"
+    alt="r/AskBalkans icon"
+    class="shreddit-subreddit-icon__icon rounded-full overflow-hidden nd:visible nd:bg-secondary-background "
+    width="48"
+    height="48"
+    
+    loading="lazy"
+    
+    
+    style="color: #B8001F; background-color: #B8001F"
+  ></faceplate-img></span
+              >
+              <span class="flex flex-col ml-xs grow-0 w-100">
+                <faceplate-tracker source="subreddit_hovercard" action="click" noun="title">
+                  <a rpl
+      class="text-18 font-bold text-neutral-content-strong leading-6 a
+  text-14
+  
+  no-visited
+  hover:underline
+  "
+      href="/r/AskBalkans/"
+      >r/AskBalkans</a
+    >
+                </faceplate-tracker>
+              </span>
+              <faceplate-tracker
+                    class="ml-auto"
+                    source="subreddit_hovercard"
+                    action="click"
+                    noun="join_signup_cta"
+                  >
+                    <shreddit-join-button
+                      subreddit-id="t5_xmk1t"
+                      name="AskBalkans"
+                      buttonsize="x-small"
+                      button-type="secondary"
+                    ></shreddit-join-button>
+                  </faceplate-tracker>
+            </div>
+            <p class="px-md pt-md m-0 whitespace-normal text-14 leading-5 font-normal">
+              Questions about the Balkan states answered! 
+
+New users check out our Wiki or FAQ page, get to know our community and it&#39;s rules.
+            </p>
+            <hr class="mx-md pt-md border-neutral-border-weak" />
+            <div class="px-md py-md flex items-center">
+              <span class="flex flex-col">
+                <span class="text-14 text-neutral-content leading-5 font-semibold">
+                  <faceplate-number number="121353" pretty></faceplate-number>
+                </span>
+                <span class="text-12 leading-4 text-neutral-content-weak"
+                  >Members</span
+                >
+              </span>
+              <span data-testid="community-hover-card:active-count" class="ml-xl flex flex-col">
+                <span class="text-14 text-neutral-content leading-5 font-semibold">
+                  <faceplate-number number="335" pretty></faceplate-number>
+                </span>
+                <span class="flex items-center">
+                  <span class="bg-kiwigreen-400 rounded-full w-xs h-xs"></span>
+                  <span class="text-12 leading-4 text-neutral-content-weak ml-2xs"
+                    >Online</span
+                  >
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </faceplate-hovercard>
+    </shreddit-async-loader>
+  
+    </div>
+  
+        
+    <div class="flex">
+      
+            <faceplate-tracker
+              source="post_detail"
+              action="view"
+              noun="post"
+            >
+              
+    <a rpl
+      class="flex flex-wrap group
+                  text-neutral-content-weak
+                  hover:text-neutral-content-weak
+                  dark:text-neutral-content-strong
+                  dark:hover:text-neutral-content-strong
+                  xs:dark:text-neutral-content-weak
+                  xs:dark:hover:text-neutral-content-weak
+                 a
+  
+  
+  no-visited
+  no-underline hover:no-underline
+  "
+      href="/r/AskBalkans/comments/17t14o9/greece_has_decided_not_to_accept_the_joint_letter/"
+      > <div class="flex grow min-w-0 mb-2xs mt-2xs">
+        <div class="flex flex-col gap-2xs grow mt-2xs">
+          
+          <h3
+            class="text-14 line-clamp-2 m-0 font-semibold overflow-hidden group-hover:underline"
+            title="Greece has decided not to accept the joint letter of the 27 member states of the European Union addressed to Albania for the opening of the negotiations of the first package of membership chapters."
+            aria-label="Right rail post - Greece has decided not to accept the joint letter of the 27..."
+          >
+            Greece has decided not to accept the joint letter of the 27 member states of the European Union addressed to Albania for the opening of the negotiations of the first package of membership chapters.
+          </h3>
+        </div>
+      </div></a
+    >
+  
+            </faceplate-tracker>
+          
+    </div>
+  
+      </div>
+      <div class="flex shrink-0 ml-sm">
+        <div
+    
+    class="relative rounded-[8px] overflow-hidden box-border border border-solid border-neutral-border-weak xs:h-[84px] xs:w-[84px]"
+  >
+    <a class="block w-100 h-100"  href="/r/AskBalkans/comments/17t14o9/greece_has_decided_not_to_accept_the_joint_letter/" target="_self"
+  aria-label="r/AskBalkans - Greece has decided not to accept the joint letter of the 27 member states of the European Union addressed to Albania for the opening of the negotiations of the first package of membership chapters." aria-label="r/AskBalkans - Greece has decided not to accept the joint letter of the 27 member states of the European Union addressed to Albania for the opening of the negotiations of the first package of membership chapters."
+      ><faceplate-img
+    src="https://b.thumbs.redditmedia.com/4JBvjQcw9tCQKfmJ8zrtl5uHQ3GsvvJtOKC18nyzh9o.jpg"
+    alt="r/AskBalkans - Greece has decided not to accept the joint letter of the 27 member states of the European Union addressed to Albania for the opening of the negotiations of the first package of membership chapters."
+    class="h-full w-full object-cover"
+    
+    
+    
+  ></faceplate-img></a
+    ><div class="absolute inset-0 rounded-[8px] thumbnail-shadow pointer-events-none"><div
+    class="absolute bottom-0 bg-media-background text-media-onbackground w-100 text-center truncate px-xs box-border"
+  >
+    youtube
+  </div></div>
+  </div>
+      </div>
+    </div>
+  
+            </faceplate-tracker>
+          
+      
+    <div class="min-w-full mt-2xs truncate">
+      <div class="text-neutral-content-weak text-12">
+        
+      <faceplate-number number="121" pretty></faceplate-number>
+      upvotes
+    
+        <span class="mr-2xs ml-2xs">·</span>
+        
+      <faceplate-number number="314" pretty></faceplate-number>
+      <span >comments</span>
+    
+      </div>
+    </div>
+  
+    </div>
+  
+              
+            </reddit-pdp-right-rail-post>
+          </li>
+        
+    
+  </ul>
+            </faceplate-tracker>
+          
+    </div>
+  
+      </faceplate-tabpanel>
+    </pdp-right-rail>
+  

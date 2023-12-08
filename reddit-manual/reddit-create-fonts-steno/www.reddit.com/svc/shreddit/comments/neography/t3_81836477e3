@@ -1,0 +1,3008 @@
+
+    <shreddit-async-loader bundleName="comment_body_header">
+      <comment-body-header
+        class="block px-md xs:px-0 bg-[color:var(--shreddit-content-background)] text-tone-1"
+      >
+        
+        <shreddit-async-loader bundleName="shreddit_sort_dropdown">
+          <div class="flex items-center box-border py-sm">
+            <span class="lg:mr-2xs text-neutral-content-weak text-12"> Sort by: </span>
+            <shreddit-comments-sort-dropdown
+              target="comment-tree-content-anchor-818364"
+              path="/svc/shreddit/comments/neography/t3_818364?render-mode=partial"
+            >
+              <shreddit-sort-dropdown
+                class="nd:hidden"
+                header-text="Sort by"
+                telemetry-source="comment_sort"
+                trigger-id="comment-sort-button"
+                sort-event="comment-sort"
+              >
+                <div slot="selected-item">Best</div>
+                <div slot="tooltip-content">
+        Open comment sort options
+      </div>
+                <div slot="dropdown-items">
+                  
+      <data value="CONFIDENCE">
+        <li rpl rpl-selected
+      class="relative list-none mt-0 "
+      role="presentation">
+      <div
+        role="menuitem"
+        class="flex justify-between px-md gap-[0.5rem] text-secondary-onBackground bg-neutral-background-selected hover:bg-neutral-background-selected hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-xs  -outline-offset-1 "
+        style="padding-right: 16px">
+        
+    <span class="flex items-center gap-xs min-w-0 shrink">
+       <span class="flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4">
+            <icon-best  class="active icon"></icon-best>
+          </span>
+      
+      <span class="flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]">
+        <span class="text-14">Best</span>
+        <span class="text-12 text-secondary-weak"></span>
+      </span>
+    </span>
+    <span class="flex items-center shrink-0">
+    <span class="flex items-center justify-center h-lg"></span>
+  </span>
+  
+      </div> 
+    </li>
+      </data>
+    
+      <data value="TOP">
+        <li rpl
+      class="relative list-none mt-0 "
+      role="presentation">
+      <div
+        role="menuitem"
+        class="flex justify-between px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-xs  -outline-offset-1 "
+        style="padding-right: 16px">
+        
+    <span class="flex items-center gap-xs min-w-0 shrink">
+       <span class="flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4">
+            <icon-top  class="icon"></icon-top>
+          </span>
+      
+      <span class="flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]">
+        <span class="text-14">Top</span>
+        <span class="text-12 text-secondary-weak"></span>
+      </span>
+    </span>
+    <span class="flex items-center shrink-0">
+    <span class="flex items-center justify-center h-lg"></span>
+  </span>
+  
+      </div> 
+    </li>
+      </data>
+    
+      <data value="NEW">
+        <li rpl
+      class="relative list-none mt-0 "
+      role="presentation">
+      <div
+        role="menuitem"
+        class="flex justify-between px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-xs  -outline-offset-1 "
+        style="padding-right: 16px">
+        
+    <span class="flex items-center gap-xs min-w-0 shrink">
+       <span class="flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4">
+            <icon-new  class="icon"></icon-new>
+          </span>
+      
+      <span class="flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]">
+        <span class="text-14">New</span>
+        <span class="text-12 text-secondary-weak"></span>
+      </span>
+    </span>
+    <span class="flex items-center shrink-0">
+    <span class="flex items-center justify-center h-lg"></span>
+  </span>
+  
+      </div> 
+    </li>
+      </data>
+    
+      <data value="CONTROVERSIAL">
+        <li rpl
+      class="relative list-none mt-0 "
+      role="presentation">
+      <div
+        role="menuitem"
+        class="flex justify-between px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-xs  -outline-offset-1 "
+        style="padding-right: 16px">
+        
+    <span class="flex items-center gap-xs min-w-0 shrink">
+       <span class="flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4">
+            <icon-controversial  class="icon"></icon-controversial>
+          </span>
+      
+      <span class="flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]">
+        <span class="text-14">Controversial</span>
+        <span class="text-12 text-secondary-weak"></span>
+      </span>
+    </span>
+    <span class="flex items-center shrink-0">
+    <span class="flex items-center justify-center h-lg"></span>
+  </span>
+  
+      </div> 
+    </li>
+      </data>
+    
+      <data value="QA">
+        <li rpl
+      class="relative list-none mt-0 "
+      role="presentation">
+      <div
+        role="menuitem"
+        class="flex justify-between px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer  py-xs  -outline-offset-1 "
+        style="padding-right: 16px">
+        
+    <span class="flex items-center gap-xs min-w-0 shrink">
+       <span class="flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4">
+            <icon-author  class="icon"></icon-author>
+          </span>
+      
+      <span class="flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]">
+        <span class="text-14">Q&amp;A</span>
+        <span class="text-12 text-secondary-weak"></span>
+      </span>
+    </span>
+    <span class="flex items-center shrink-0">
+    <span class="flex items-center justify-center h-lg"></span>
+  </span>
+  
+      </div> 
+    </li>
+      </data>
+    
+                </div>
+              </shreddit-sort-dropdown>
+            </shreddit-comments-sort-dropdown>
+          </div>
+        </shreddit-async-loader>
+      
+  
+    <faceplate-tracker
+      action="click"
+      noun="button"
+      source="shreddit_comment_count_button"
+      class="flex item-center xs:w-fit mb-sm mt-lg"
+    >
+      <button rpl
+      class="w-full xs:w-auto
+button-medium pl-[var(--rem10)] pr-[var(--rem14)]
+button-bordered
+
+
+
+button inline-flex items-center justify-center ">
+      <span
+      class="flex items-center justify-center">
+      <span class="flex mr-xs"><svg rpl
+      fill="currentColor"
+      height="20"
+      icon-name="add-outline"
+      viewBox="0 0 20 20"
+      width="20"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M19 9.375h-8.375V1h-1.25v8.375H1v1.25h8.375V19h1.25v-8.375H19v-1.25Z"></path>
+    </svg></span>
+      <span class="flex items-center gap-xs">Add a Comment</span>
+    </span>
+    
+    
+    </button>
+    </faceplate-tracker>
+  
+        
+      </comment-body-header>
+    </shreddit-async-loader>
+  <div id="comment-tree-content-anchor-818364"> 
+    <faceplate-batch target="#comment-tree" size="2">
+       <faceplate-tracker
+    source="post"
+    action="view"
+    noun="comments"
+  >
+    <shreddit-comment-tree
+      id="comment-tree"
+      subreddit-prefixed-name="r/neography"
+      is-shredtop-pdp="true"
+      totalComments="15"
+    >
+      <div id="next-comment"></div>
+      
+    <shreddit-comment
+      author="SweetGale"
+      thingId="t1_dv2i8t9"
+      depth="0"
+      permalink="/r/neography/comments/818364/comment/dv2i8t9/"
+      reload-url="/svc/shreddit/comment/t1_dv2i8t9?depth=0&amp;isLastRenderedNode=false&amp;hasChildren=true&amp;hasMoreLink=false&amp;hasRenderedComments=true"
+      score="12"
+      postId="818364"
+      content-type="text"
+      class="pt-md px-md xs:px-0"
+      is-shredtop-pdp="true"
+      has-rendered-comments="true"
+      moderation-verdict=""
+    >
+      <div slot="commentAvatar">
+        
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="SweetGale"
+    >
+      <div class="flex flex-row items-center">
+      <faceplate-tracker
+            source="post_detail"
+            action="click"
+            noun="comment_author_avatar"
+            class="flex items-center"
+            ><a
+      href="/user/SweetGale/"
+      class="flex items-center mr-sm"
+      aria-label="u/SweetGale avatar"
+      ><div class="flex items-center justify-center w-lg h-lg xs:w-xl xs:h-xl">
+      <span
+    class="inline-flex items-center justify-center"
+    rpl>
+    
+    <span class="inline-flex relative  fp-avatar-container box-border rounded-full w-[2rem] h-[2rem] isolate"
+    ><span
+      style="background: var(--color-avatar-gradient)"
+      class="rounded-full box-border border-solid border-neutral-background border relative h-100 w-100 justify-center ">
+      <span
+      class="absolute left-0 z-[2] bottom-0 inline-flex shrink-0 justify-center w-[2rem] h-[2rem]">
+      <svg
+    width="100%"
+    height="100%"
+    viewBox="0 0 121 122"
+    xmlns="http://www.w3.org/2000/svg"
+    class="overflow-hidden">
+    <defs>
+      <clipPath id="04065b821827d">
+        <path
+          d="M0 0V79L28.1628 105.5C35.013 115.465 46.4934 122 59.5 122C72.5066 122 83.987 115.465 90.8372 105.5L120.5 79V0H0Z" />
+      </clipPath>
+    </defs>
+    <image
+      href="https://styles.redditmedia.com/t5_cvydm/styles/profileIcon_snoo76fa9e05-7c68-4a08-811d-f69b0885ef25-headshot.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;s=4021d8d5f421beacf2e11fb6a5393c07b7a0d5da"
+      alt="User Avatar"
+      clip-path="url(#04065b821827d)"
+      height="100%"
+      width="100%" />
+  </svg>
+    </span>
+    </span>
+  </span></span
+  >
+    </div></a
+    >
+          </faceplate-tracker>
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/SweetGale" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  
+      </div>
+      <div slot="commentMeta" class="py-[2px]">
+        
+      <div class="flex items-center pr-xs overflow-hidden">
+        <div class="flex flex-col overflow-hidden">
+          <div class="flex flex-none flex-row flex-nowrap items-center">
+            
+     
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="SweetGale"
+    >
+      <div class="flex flex-row items-center overflow-hidden">
+      
+      <faceplate-tracker
+        source="post_detail"
+        action="click"
+        noun="comment_author"
+        class="contents"
+      >
+         <a
+      class="truncate font-bold text-neutral-content-strong text-12 hover:underline"
+      href="/user/SweetGale/"
+      aria-label="u/SweetGale avatar"
+    >
+      SweetGale
+    </a>
+      </faceplate-tracker>
+    
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/SweetGale" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  <span class="inline-flex ml-2xs"><span class="inline-flex">
+      <shreddit-comment-author-modifier-icon
+        thing-id="t1_dv2i8t9"
+      ></shreddit-comment-author-modifier-icon>
+    </span></span>
+    
+  
+    
+  <span class="inline-block my-0 mx-2xs text-12 text-neutral-content-weak">•</span>
+ <a
+      href="/r/neography/comments/818364/comment/dv2i8t9/"
+      class="text-neutral-content-weak text-12 hover:no-underline"
+      rel="nofollow noopener noreferrer"
+      ><faceplate-timeago
+      class="text-neutral-content-weak text-12"
+      ts="2018-03-02T13:36:29.383000+0000"
+      short
+    ></faceplate-timeago></a
+    >
+    
+  
+            
+      <shreddit-comment-badges
+        thing-id="t1_dv2i8t9"
+        is-shredtop-pdp="true"
+      ></shreddit-comment-badges>
+    
+            
+          </div>
+          
+        </div>
+      </div>
+    
+      </div>
+      
+      
+      
+      
+      <div
+              class="md ml-[28px] xs:ml-xl text-14 rounded-[8px] mb-2xs
+  relative
+  before:content-[&#39;&#39;]
+  before:absolute
+  before:pointer-events-none
+  before:border-l-[1px]
+  before:border-r-[0px]
+  before:border-y-0
+  before:border-tone-4
+  before:border-solid
+  before:top-0
+  before:left-[-16.5px]
+  xs:before:left-[-15.5px]
+  before:h-[calc(100%+7px)]"
+              id="t1_dv2i8t9-comment-rtjson-content"
+              slot="comment"
+            >
+              <div
+    id="-post-rtjson-content"
+    class="py-0 mx-sm inline-block max-w-full"
+    style="--emote-size: 20px"
+  >
+    <p>
+    Wow! I can&#39;t thank you enough! I made an attempt to design a font using Inkscape and Fontforge about 1½ year ago. I ended up with a horribly broken mess and just gave up after that. I&#39;ll give your tutorial a try during the weekend and maybe give some feedback. Any plans for a PDF version of the full tutorial once it&#39;s done?
+  </p><p>
+    I have had plans for a similar step-by-step tutorial for Donald Knuth&#39;s <a
+    href="https://en.wikipedia.org/wiki/Metafont"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >Metafont</a
+  >. While a Metafont font is a lot less useful than a TrueType or OpenType one, I really like the idea of parametric font design and being able to use both outlines and pen strokes. The biggest obstacle is the lack of resources.
+  </p>
+  </div>
+            </div>
+            
+            
+            
+    
+       <faceplate-perfmark
+    name="first-comment-meaningful-paint"
+  ></faceplate-perfmark>
+      
+    <shreddit-comment-action-row
+      slot="actionRow"
+      score="12"
+      is-shredtop-pdp="true"
+      is-desktop-viewport="true"
+      permalink="/r/neography/comments/818364/comment/dv2i8t9/"
+      moderation-verdict=""
+      class="block ml-xl"
+      comment-id="t1_dv2i8t9"
+      vote-state="NONE"
+    >
+      <faceplate-tracker
+    source="post_detail"
+    action="click"
+    noun="reply_comment"
+    slot="comment-reply"
+  >
+    <button rpl
+      class="button border-md  text-12 button-plain disabled:text-interactive-content-disabled text-secondary-weak inline-flex items-center 
+       px-sm
+       hover:text-secondary hover:bg-secondary-background-hover hover:border-secondary-background-hover
+      "
+      style="height: var(--size-button-sm-h); font: var(--font-button-sm)">
+      <span class="flex items-center">
+      <span class="flex text-16 mr-[var(--rem6)]"><svg rpl
+      aria-hidden="true"
+      fill="currentColor"
+      height="16"
+      icon-name="comment-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.725 19.872a.718.718 0 0 1-.607-.328.725.725 0 0 1-.118-.397V16H3.625A2.63 2.63 0 0 1 1 13.375v-9.75A2.629 2.629 0 0 1 3.625 1h12.75A2.63 2.63 0 0 1 19 3.625v9.75A2.63 2.63 0 0 1 16.375 16h-4.161l-4 3.681a.725.725 0 0 1-.489.191ZM3.625 2.25A1.377 1.377 0 0 0 2.25 3.625v9.75a1.377 1.377 0 0 0 1.375 1.375h4a.625.625 0 0 1 .625.625v2.575l3.3-3.035a.628.628 0 0 1 .424-.165h4.4a1.377 1.377 0 0 0 1.375-1.375v-9.75a1.377 1.377 0 0 0-1.374-1.375H3.625Z"></path>
+    </svg></span>
+      <span> Reply </span>
+    </span>
+    <faceplate-screen-reader-content>
+          reply
+        </faceplate-screen-reader-content>
+    </button>
+  </faceplate-tracker>
+      <shreddit-comment-share-button
+        permalink="/r/neography/comments/818364/comment/dv2i8t9/" is-desktop-viewport
+        slot="comment-share"
+      ></shreddit-comment-share-button>
+      
+    <shreddit-overflow-menu
+      slot="overflow"
+      source="comment"
+      action="click"
+      noun="overflow_menu"
+      comment-id="t1_dv2i8t9"
+      permalink="/r/neography/comments/818364/comment/dv2i8t9/"
+      author-name="SweetGale"
+      author-id="t2_ly6nm"
+      telemetry-source="post_detail"
+      class-override="comment-overflow-menu" can-open-composer
+    >
+      
+    </shreddit-overflow-menu>
+  
+      
+      
+      
+      
+    </shreddit-comment-action-row>
+  
+      <div slot="children">
+            <div id="t1_dv2i8t9-next-reply"></div>
+            
+    <shreddit-comment
+      author="WikiTextBot"
+      thingId="t1_dv2i8zf"
+      depth="1"
+      parentId="t1_dv2i8t9"
+      permalink="/r/neography/comments/818364/comment/dv2i8zf/"
+      reload-url="/svc/shreddit/comment/t1_dv2i8zf?depth=1&amp;isLastRenderedNode=false&amp;hasChildren=false&amp;hasMoreLink=false&amp;hasRenderedComments=false"
+      score="2"
+      postId="818364"
+      content-type="text"
+      is-shredtop-pdp="true"
+      moderation-verdict=""
+    >
+      <div slot="commentAvatar">
+        
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="WikiTextBot"
+    >
+      <div class="flex flex-row items-center">
+      <faceplate-tracker
+            source="post_detail"
+            action="click"
+            noun="comment_author_avatar"
+            class="flex items-center"
+            ><a
+      href="/user/WikiTextBot/"
+      class="flex items-center mr-sm"
+      aria-label="u/WikiTextBot avatar"
+      ><div class="flex items-center justify-center w-lg h-lg xs:w-xl xs:h-xl"><faceplate-img
+    src="https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png"
+    alt="u/WikiTextBot avatar"
+    class="rounded-full overflow-hidden"
+    width="32"
+    height="32"
+    
+    loading="lazy"
+    
+    
+  ></faceplate-img></div></a
+    >
+          </faceplate-tracker>
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/WikiTextBot" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  
+      </div>
+      <div slot="commentMeta" class="py-[2px]">
+        
+      <div class="flex items-center pr-xs overflow-hidden">
+        <div class="flex flex-col overflow-hidden">
+          <div class="flex flex-none flex-row flex-nowrap items-center">
+            
+     
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="WikiTextBot"
+    >
+      <div class="flex flex-row items-center overflow-hidden">
+      
+      <faceplate-tracker
+        source="post_detail"
+        action="click"
+        noun="comment_author"
+        class="contents"
+      >
+         <a
+      class="truncate font-bold text-neutral-content-strong text-12 hover:underline"
+      href="/user/WikiTextBot/"
+      aria-label="u/WikiTextBot avatar"
+    >
+      WikiTextBot
+    </a>
+      </faceplate-tracker>
+    
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/WikiTextBot" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  <span class="inline-flex ml-2xs"><span class="inline-flex">
+      <shreddit-comment-author-modifier-icon
+        thing-id="t1_dv2i8zf"
+      ></shreddit-comment-author-modifier-icon>
+    </span></span>
+    
+  
+    
+  <span class="inline-block my-0 mx-2xs text-12 text-neutral-content-weak">•</span>
+ <a
+      href="/r/neography/comments/818364/comment/dv2i8zf/"
+      class="text-neutral-content-weak text-12 hover:no-underline"
+      rel="nofollow noopener noreferrer"
+      ><faceplate-timeago
+      class="text-neutral-content-weak text-12"
+      ts="2018-03-02T13:36:35.369000+0000"
+      short
+    ></faceplate-timeago></a
+    >
+    
+  
+            
+      <shreddit-comment-badges
+        thing-id="t1_dv2i8zf"
+        is-shredtop-pdp="true"
+      ></shreddit-comment-badges>
+    
+            
+          </div>
+          
+        </div>
+      </div>
+    
+      </div>
+      
+      
+      
+      
+      <div
+              class="md ml-[28px] xs:ml-xl text-14 rounded-[8px] mb-2xs"
+              id="t1_dv2i8zf-comment-rtjson-content"
+              slot="comment"
+            >
+              <div
+    id="-post-rtjson-content"
+    class="py-0 mx-sm inline-block max-w-full"
+    style="--emote-size: 20px"
+  >
+    <p>
+    <strong>Metafont</strong>
+  </p><p>
+    Metafont is a description language used to define raster fonts. It is also the name of the interpreter that executes Metafont code, generating the bitmap fonts that can be embedded into e.g. PostScript. Metafont was devised by Donald Knuth as a counterpart to his TeX typesetting system.
+  </p><hr /><p>
+    <sup>[</sup> <a
+    href="https://www.reddit.com/message/compose?to=kittens_from_space"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >^PM</a
+  > <sup>|</sup> <a
+    href="https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >Exclude ^me</a
+  > <sup>|</sup> <a
+    href="https://np.reddit.com/r/neography/about/banned"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >Exclude from ^subreddit</a
+  > <sup>|</sup> <a
+    href="https://np.reddit.com/r/WikiTextBot/wiki/index"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >FAQ / ^Information</a
+  > <sup>|</sup> <a
+    href="https://github.com/kittenswolf/WikiTextBot"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >^Source</a
+  > <sup>|</sup> <a
+    href="https://www.reddit.com/r/WikiTextBot/wiki/donate"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >^Donate</a
+  >   <sup>]</sup> <sup>Downvote</sup> <sup>to</sup> <sup>remove</sup> <sup>|</sup> <sup>v0.28</sup>
+  </p>
+  </div>
+            </div>
+            
+            
+            
+    
+      
+      
+    <shreddit-comment-action-row
+      slot="actionRow"
+      score="2"
+      is-shredtop-pdp="true"
+      is-desktop-viewport="true"
+      permalink="/r/neography/comments/818364/comment/dv2i8zf/"
+      moderation-verdict=""
+      class="block ml-xl"
+      comment-id="t1_dv2i8zf"
+      vote-state="NONE"
+    >
+      <faceplate-tracker
+    source="post_detail"
+    action="click"
+    noun="reply_comment"
+    slot="comment-reply"
+  >
+    <button rpl
+      class="button border-md  text-12 button-plain disabled:text-interactive-content-disabled text-secondary-weak inline-flex items-center 
+       px-sm
+       hover:text-secondary hover:bg-secondary-background-hover hover:border-secondary-background-hover
+      "
+      style="height: var(--size-button-sm-h); font: var(--font-button-sm)">
+      <span class="flex items-center">
+      <span class="flex text-16 mr-[var(--rem6)]"><svg rpl
+      aria-hidden="true"
+      fill="currentColor"
+      height="16"
+      icon-name="comment-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.725 19.872a.718.718 0 0 1-.607-.328.725.725 0 0 1-.118-.397V16H3.625A2.63 2.63 0 0 1 1 13.375v-9.75A2.629 2.629 0 0 1 3.625 1h12.75A2.63 2.63 0 0 1 19 3.625v9.75A2.63 2.63 0 0 1 16.375 16h-4.161l-4 3.681a.725.725 0 0 1-.489.191ZM3.625 2.25A1.377 1.377 0 0 0 2.25 3.625v9.75a1.377 1.377 0 0 0 1.375 1.375h4a.625.625 0 0 1 .625.625v2.575l3.3-3.035a.628.628 0 0 1 .424-.165h4.4a1.377 1.377 0 0 0 1.375-1.375v-9.75a1.377 1.377 0 0 0-1.374-1.375H3.625Z"></path>
+    </svg></span>
+      <span> Reply </span>
+    </span>
+    <faceplate-screen-reader-content>
+          reply
+        </faceplate-screen-reader-content>
+    </button>
+  </faceplate-tracker>
+      <shreddit-comment-share-button
+        permalink="/r/neography/comments/818364/comment/dv2i8zf/" is-desktop-viewport
+        slot="comment-share"
+      ></shreddit-comment-share-button>
+      
+    <shreddit-overflow-menu
+      slot="overflow"
+      source="comment"
+      action="click"
+      noun="overflow_menu"
+      comment-id="t1_dv2i8zf"
+      permalink="/r/neography/comments/818364/comment/dv2i8zf/"
+      author-name="WikiTextBot"
+      author-id="t2_32duad4"
+      telemetry-source="post_detail"
+      class-override="comment-overflow-menu" can-open-composer
+    >
+      
+    </shreddit-overflow-menu>
+  
+      
+      
+      
+      
+    </shreddit-comment-action-row>
+  
+      
+    </shreddit-comment>
+  
+    <shreddit-comment
+      author="pomdepin"
+      thingId="t1_dv2l8m4"
+      depth="1"
+      parentId="t1_dv2i8t9"
+      permalink="/r/neography/comments/818364/comment/dv2l8m4/"
+      reload-url="/svc/shreddit/comment/t1_dv2l8m4?depth=1&amp;isLastRenderedNode=true&amp;hasChildren=false&amp;hasMoreLink=false&amp;hasRenderedComments=false"
+      score="2"
+      postId="818364"
+      content-type="text"
+      is-shredtop-pdp="true"
+      is-last-rendered-node="true"
+      moderation-verdict=""
+    >
+      <div slot="commentAvatar">
+        
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="pomdepin"
+    >
+      <div class="flex flex-row items-center">
+      <faceplate-tracker
+            source="post_detail"
+            action="click"
+            noun="comment_author_avatar"
+            class="flex items-center"
+            ><a
+      href="/user/pomdepin/"
+      class="flex items-center mr-sm"
+      aria-label="u/pomdepin avatar"
+      ><div class="flex items-center justify-center w-lg h-lg xs:w-xl xs:h-xl">
+      <span
+    class="inline-flex items-center justify-center"
+    rpl>
+    
+    <span class="inline-flex relative  fp-avatar-container box-border rounded-full w-[2rem] h-[2rem] isolate"
+    ><span
+      style="background: var(--color-avatar-gradient)"
+      class="rounded-full box-border border-solid border-neutral-background border relative h-100 w-100 justify-center ">
+      <span
+      class="absolute left-0 z-[2] bottom-0 inline-flex shrink-0 justify-center w-[2rem] h-[2rem]">
+      <svg
+    width="100%"
+    height="100%"
+    viewBox="0 0 121 122"
+    xmlns="http://www.w3.org/2000/svg"
+    class="overflow-hidden">
+    <defs>
+      <clipPath id="0f7e9928e2097">
+        <path
+          d="M0 0V79L28.1628 105.5C35.013 115.465 46.4934 122 59.5 122C72.5066 122 83.987 115.465 90.8372 105.5L120.5 79V0H0Z" />
+      </clipPath>
+    </defs>
+    <image
+      href="https://styles.redditmedia.com/t5_bpfj9/styles/profileIcon_snoo2c5a0161-0fb1-4e06-99f6-964e536456d8-headshot.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;s=bddc47f98a9b9da5208dfc3e91752c541430f3bb"
+      alt="User Avatar"
+      clip-path="url(#0f7e9928e2097)"
+      height="100%"
+      width="100%" />
+  </svg>
+    </span>
+    </span>
+  </span></span
+  >
+    </div></a
+    >
+          </faceplate-tracker>
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/pomdepin" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  
+      </div>
+      <div slot="commentMeta" class="py-[2px]">
+        
+      <div class="flex items-center pr-xs overflow-hidden">
+        <div class="flex flex-col overflow-hidden">
+          <div class="flex flex-none flex-row flex-nowrap items-center">
+            
+     
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="pomdepin"
+    >
+      <div class="flex flex-row items-center overflow-hidden">
+      
+      <faceplate-tracker
+        source="post_detail"
+        action="click"
+        noun="comment_author"
+        class="contents"
+      >
+         <a
+      class="truncate font-bold text-neutral-content-strong text-12 hover:underline"
+      href="/user/pomdepin/"
+      aria-label="u/pomdepin avatar"
+    >
+      pomdepin
+    </a>
+      </faceplate-tracker>
+    
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/pomdepin" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  <span class="inline-flex ml-2xs"><span class="inline-flex">
+      <shreddit-comment-author-modifier-icon
+        thing-id="t1_dv2l8m4"
+        op="true"
+      ></shreddit-comment-author-modifier-icon>
+    </span></span>
+    
+  
+    
+  <span class="inline-block my-0 mx-2xs text-12 text-neutral-content-weak">•</span>
+ <a
+      href="/r/neography/comments/818364/comment/dv2l8m4/"
+      class="text-neutral-content-weak text-12 hover:no-underline"
+      rel="nofollow noopener noreferrer"
+      ><faceplate-timeago
+      class="text-neutral-content-weak text-12"
+      ts="2018-03-02T14:37:01.264000+0000"
+      short
+    ></faceplate-timeago></a
+    >
+    
+  
+            
+      <shreddit-comment-badges
+        thing-id="t1_dv2l8m4"
+        op="true"
+        is-shredtop-pdp="true"
+      ></shreddit-comment-badges>
+    
+            
+          </div>
+          
+        </div>
+      </div>
+    
+      </div>
+      
+      
+      
+      
+      <div
+              class="md ml-[28px] xs:ml-xl text-14 rounded-[8px] mb-2xs"
+              id="t1_dv2l8m4-comment-rtjson-content"
+              slot="comment"
+            >
+              <div
+    id="-post-rtjson-content"
+    class="py-0 mx-sm inline-block max-w-full"
+    style="--emote-size: 20px"
+  >
+    <p>
+    Thanks! That&#39;s interesting, I&#39;d never heard of Metafont before. Depending on how easily ligatures, marks, attachments, initial/finals, ... can be implemented in it that could be interesting. Looking at the list of font that were made with it, those are certainly possible, but I couldn&#39;t find a straightforward tutorial on google. Unfortunately, I already invested so many hours in learning FontForge that I&#39;m not convinced that this would be worth it for me. Parametric glyphs do sound interesting however and according to the github page, it should be possible to import the glyphs inside FontForge, so I might give it a try in the future :
+  </p><blockquote>
+    <p>
+    FontForge has a number of features built in to it to deal with TeX. [...] It can even invoke metafont directly on a &quot;.mf&quot; file, generate a &quot;gf&quot; bitmap from that, autotrace it and generate an outline font.
+  </p>
+  </blockquote><p>
+    There are no plans for a pdf version, but all I would have to do is put a &quot;!&quot; in front of the links to load the images inline then export it to pdf (with some minor editing, such as adding proper code blocks). I might do it someday, but I&#39;d rather focus on writing the rest of the series for now.
+  </p><p>
+    I&#39;m looking forward to your feedback!
+  </p>
+  </div>
+            </div>
+            
+            
+            
+    
+      
+      
+    <shreddit-comment-action-row
+      slot="actionRow"
+      score="2"
+      is-shredtop-pdp="true"
+      is-desktop-viewport="true"
+      permalink="/r/neography/comments/818364/comment/dv2l8m4/"
+      moderation-verdict=""
+      class="block ml-xl"
+      comment-id="t1_dv2l8m4"
+      vote-state="NONE"
+    >
+      <faceplate-tracker
+    source="post_detail"
+    action="click"
+    noun="reply_comment"
+    slot="comment-reply"
+  >
+    <button rpl
+      class="button border-md  text-12 button-plain disabled:text-interactive-content-disabled text-secondary-weak inline-flex items-center 
+       px-sm
+       hover:text-secondary hover:bg-secondary-background-hover hover:border-secondary-background-hover
+      "
+      style="height: var(--size-button-sm-h); font: var(--font-button-sm)">
+      <span class="flex items-center">
+      <span class="flex text-16 mr-[var(--rem6)]"><svg rpl
+      aria-hidden="true"
+      fill="currentColor"
+      height="16"
+      icon-name="comment-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.725 19.872a.718.718 0 0 1-.607-.328.725.725 0 0 1-.118-.397V16H3.625A2.63 2.63 0 0 1 1 13.375v-9.75A2.629 2.629 0 0 1 3.625 1h12.75A2.63 2.63 0 0 1 19 3.625v9.75A2.63 2.63 0 0 1 16.375 16h-4.161l-4 3.681a.725.725 0 0 1-.489.191ZM3.625 2.25A1.377 1.377 0 0 0 2.25 3.625v9.75a1.377 1.377 0 0 0 1.375 1.375h4a.625.625 0 0 1 .625.625v2.575l3.3-3.035a.628.628 0 0 1 .424-.165h4.4a1.377 1.377 0 0 0 1.375-1.375v-9.75a1.377 1.377 0 0 0-1.374-1.375H3.625Z"></path>
+    </svg></span>
+      <span> Reply </span>
+    </span>
+    <faceplate-screen-reader-content>
+          reply
+        </faceplate-screen-reader-content>
+    </button>
+  </faceplate-tracker>
+      <shreddit-comment-share-button
+        permalink="/r/neography/comments/818364/comment/dv2l8m4/" is-desktop-viewport
+        slot="comment-share"
+      ></shreddit-comment-share-button>
+      
+    <shreddit-overflow-menu
+      slot="overflow"
+      source="comment"
+      action="click"
+      noun="overflow_menu"
+      comment-id="t1_dv2l8m4"
+      permalink="/r/neography/comments/818364/comment/dv2l8m4/"
+      author-name="pomdepin"
+      author-id="t2_11c2xn"
+      telemetry-source="post_detail"
+      class-override="comment-overflow-menu" can-open-composer
+    >
+      
+    </shreddit-overflow-menu>
+  
+      
+      
+      
+      
+    </shreddit-comment-action-row>
+  
+      
+    </shreddit-comment>
+  
+          </div>
+    </shreddit-comment>
+  
+    <shreddit-comment
+      author="ProfessorHoneycomb"
+      thingId="t1_dv8nhwt"
+      depth="0"
+      permalink="/r/neography/comments/818364/comment/dv8nhwt/"
+      reload-url="/svc/shreddit/comment/t1_dv8nhwt?depth=0&amp;isLastRenderedNode=false&amp;hasChildren=true&amp;hasMoreLink=false&amp;hasRenderedComments=true"
+      score="5"
+      postId="818364"
+      content-type="text"
+      class="pt-md px-md xs:px-0"
+      is-shredtop-pdp="true"
+      has-rendered-comments="true"
+      moderation-verdict=""
+    >
+      <div slot="commentAvatar">
+        
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="ProfessorHoneycomb"
+    >
+      <div class="flex flex-row items-center">
+      <faceplate-tracker
+            source="post_detail"
+            action="click"
+            noun="comment_author_avatar"
+            class="flex items-center"
+            ><a
+      href="/user/ProfessorHoneycomb/"
+      class="flex items-center mr-sm"
+      aria-label="u/ProfessorHoneycomb avatar"
+      ><div class="flex items-center justify-center w-lg h-lg xs:w-xl xs:h-xl"><faceplate-img
+    src="https://styles.redditmedia.com/t5_crk14/styles/profileIcon_umm0mo2m8pa01.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;s=28add1371088696034c149e298bed6b587fa5af6"
+    alt="u/ProfessorHoneycomb avatar"
+    class="rounded-full overflow-hidden"
+    width="32"
+    height="32"
+    
+    loading="lazy"
+    
+    
+  ></faceplate-img></div></a
+    >
+          </faceplate-tracker>
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/ProfessorHoneycomb" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  
+      </div>
+      <div slot="commentMeta" class="py-[2px]">
+        
+      <div class="flex items-center pr-xs overflow-hidden">
+        <div class="flex flex-col overflow-hidden">
+          <div class="flex flex-none flex-row flex-nowrap items-center">
+            
+     
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="ProfessorHoneycomb"
+    >
+      <div class="flex flex-row items-center overflow-hidden">
+      
+      <faceplate-tracker
+        source="post_detail"
+        action="click"
+        noun="comment_author"
+        class="contents"
+      >
+         <a
+      class="truncate font-bold text-neutral-content-strong text-12 hover:underline"
+      href="/user/ProfessorHoneycomb/"
+      aria-label="u/ProfessorHoneycomb avatar"
+    >
+      ProfessorHoneycomb
+    </a>
+      </faceplate-tracker>
+    
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/ProfessorHoneycomb" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  <span class="inline-flex ml-2xs"><span class="inline-flex">
+      <shreddit-comment-author-modifier-icon
+        thing-id="t1_dv8nhwt"
+      ></shreddit-comment-author-modifier-icon>
+    </span></span>
+    
+  
+    
+  <span class="inline-block my-0 mx-2xs text-12 text-neutral-content-weak">•</span>
+ <a
+      href="/r/neography/comments/818364/comment/dv8nhwt/"
+      class="text-neutral-content-weak text-12 hover:no-underline"
+      rel="nofollow noopener noreferrer"
+      ><faceplate-timeago
+      class="text-neutral-content-weak text-12"
+      ts="2018-03-06T00:03:00.762000+0000"
+      short
+    ></faceplate-timeago></a
+    >
+    
+  
+            
+      <shreddit-comment-badges
+        thing-id="t1_dv8nhwt"
+        is-shredtop-pdp="true"
+      ></shreddit-comment-badges>
+    
+            
+    
+  <span class="inline-block my-0 mx-2xs text-12 text-neutral-content-weak">•</span>
+ <span
+            class="text-neutral-content-weak text-12"
+          >
+            Edited <faceplate-timeago
+      class="text-neutral-content-weak text-12"
+      ts="2018-03-06T07:57:40.543000+0000"
+      short
+    ></faceplate-timeago>
+          </span>
+    
+  
+          </div>
+          
+        </div>
+      </div>
+    
+      </div>
+      
+      
+      
+      
+      <div
+              class="md ml-[28px] xs:ml-xl text-14 rounded-[8px] mb-2xs
+  relative
+  before:content-[&#39;&#39;]
+  before:absolute
+  before:pointer-events-none
+  before:border-l-[1px]
+  before:border-r-[0px]
+  before:border-y-0
+  before:border-tone-4
+  before:border-solid
+  before:top-0
+  before:left-[-16.5px]
+  xs:before:left-[-15.5px]
+  before:h-[calc(100%+7px)]"
+              id="t1_dv8nhwt-comment-rtjson-content"
+              slot="comment"
+            >
+              <div
+    id="-post-rtjson-content"
+    class="py-0 mx-sm inline-block max-w-full"
+    style="--emote-size: 20px"
+  >
+    <p>
+    Been following through the tutorials, and really this is the best resource I&#39;ve seen; thank you so much.
+  </p><p>
+    My only gripe about now taking on this endeavor for <a
+    href="https://www.reddit.com/r/neography/comments/5bw9se/wip_conlang_script_homers_the_iliad_using/"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >my conscript</a
+  > is that as far as I can tell I will need to create something like <em>24,576 separate characters</em> for each individual case (not including punctuation because that stuff&#39;s basically all good already). Despite my language being relatively simple in execution on paper, as a font I&#39;d need to spend some serious time just getting everything down. That doesn&#39;t even consider the time debugging any faulty feature cases and getting everything squared away on that end.
+  </p><p>
+    I just don&#39;t know if I&#39;m missing some core concept that can drastically narrow that down, or if I really should just pack up, since I don&#39;t have the energy to work 5 hours every day for 240+ days minimum.
+  </p>
+  </div>
+            </div>
+            
+            
+            
+    
+      
+      
+    <shreddit-comment-action-row
+      slot="actionRow"
+      score="5"
+      is-shredtop-pdp="true"
+      is-desktop-viewport="true"
+      permalink="/r/neography/comments/818364/comment/dv8nhwt/"
+      moderation-verdict=""
+      class="block ml-xl"
+      comment-id="t1_dv8nhwt"
+      vote-state="NONE"
+    >
+      <faceplate-tracker
+    source="post_detail"
+    action="click"
+    noun="reply_comment"
+    slot="comment-reply"
+  >
+    <button rpl
+      class="button border-md  text-12 button-plain disabled:text-interactive-content-disabled text-secondary-weak inline-flex items-center 
+       px-sm
+       hover:text-secondary hover:bg-secondary-background-hover hover:border-secondary-background-hover
+      "
+      style="height: var(--size-button-sm-h); font: var(--font-button-sm)">
+      <span class="flex items-center">
+      <span class="flex text-16 mr-[var(--rem6)]"><svg rpl
+      aria-hidden="true"
+      fill="currentColor"
+      height="16"
+      icon-name="comment-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.725 19.872a.718.718 0 0 1-.607-.328.725.725 0 0 1-.118-.397V16H3.625A2.63 2.63 0 0 1 1 13.375v-9.75A2.629 2.629 0 0 1 3.625 1h12.75A2.63 2.63 0 0 1 19 3.625v9.75A2.63 2.63 0 0 1 16.375 16h-4.161l-4 3.681a.725.725 0 0 1-.489.191ZM3.625 2.25A1.377 1.377 0 0 0 2.25 3.625v9.75a1.377 1.377 0 0 0 1.375 1.375h4a.625.625 0 0 1 .625.625v2.575l3.3-3.035a.628.628 0 0 1 .424-.165h4.4a1.377 1.377 0 0 0 1.375-1.375v-9.75a1.377 1.377 0 0 0-1.374-1.375H3.625Z"></path>
+    </svg></span>
+      <span> Reply </span>
+    </span>
+    <faceplate-screen-reader-content>
+          reply
+        </faceplate-screen-reader-content>
+    </button>
+  </faceplate-tracker>
+      <shreddit-comment-share-button
+        permalink="/r/neography/comments/818364/comment/dv8nhwt/" is-desktop-viewport
+        slot="comment-share"
+      ></shreddit-comment-share-button>
+      
+    <shreddit-overflow-menu
+      slot="overflow"
+      source="comment"
+      action="click"
+      noun="overflow_menu"
+      comment-id="t1_dv8nhwt"
+      permalink="/r/neography/comments/818364/comment/dv8nhwt/"
+      author-name="ProfessorHoneycomb"
+      author-id="t2_ugoip"
+      telemetry-source="post_detail"
+      class-override="comment-overflow-menu" can-open-composer
+    >
+      
+    </shreddit-overflow-menu>
+  
+      
+      
+      
+      
+    </shreddit-comment-action-row>
+  
+      <div slot="children">
+            <div id="t1_dv8nhwt-next-reply"></div>
+            
+    <shreddit-comment
+      author="SweetGale"
+      thingId="t1_dvar759"
+      depth="1"
+      parentId="t1_dv8nhwt"
+      permalink="/r/neography/comments/818364/comment/dvar759/"
+      reload-url="/svc/shreddit/comment/t1_dvar759?depth=1&amp;isLastRenderedNode=false&amp;hasChildren=true&amp;hasMoreLink=true&amp;hasRenderedComments=false"
+      score="4"
+      postId="818364"
+      content-type="text"
+      is-shredtop-pdp="true"
+      has-more-link="true"
+      moderation-verdict=""
+    >
+      <div slot="commentAvatar">
+        
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="SweetGale"
+    >
+      <div class="flex flex-row items-center">
+      <faceplate-tracker
+            source="post_detail"
+            action="click"
+            noun="comment_author_avatar"
+            class="flex items-center"
+            ><a
+      href="/user/SweetGale/"
+      class="flex items-center mr-sm"
+      aria-label="u/SweetGale avatar"
+      ><div class="flex items-center justify-center w-lg h-lg xs:w-xl xs:h-xl">
+      <span
+    class="inline-flex items-center justify-center"
+    rpl>
+    
+    <span class="inline-flex relative  fp-avatar-container box-border rounded-full w-[2rem] h-[2rem] isolate"
+    ><span
+      style="background: var(--color-avatar-gradient)"
+      class="rounded-full box-border border-solid border-neutral-background border relative h-100 w-100 justify-center ">
+      <span
+      class="absolute left-0 z-[2] bottom-0 inline-flex shrink-0 justify-center w-[2rem] h-[2rem]">
+      <svg
+    width="100%"
+    height="100%"
+    viewBox="0 0 121 122"
+    xmlns="http://www.w3.org/2000/svg"
+    class="overflow-hidden">
+    <defs>
+      <clipPath id="134c863068824">
+        <path
+          d="M0 0V79L28.1628 105.5C35.013 115.465 46.4934 122 59.5 122C72.5066 122 83.987 115.465 90.8372 105.5L120.5 79V0H0Z" />
+      </clipPath>
+    </defs>
+    <image
+      href="https://styles.redditmedia.com/t5_cvydm/styles/profileIcon_snoo76fa9e05-7c68-4a08-811d-f69b0885ef25-headshot.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;s=4021d8d5f421beacf2e11fb6a5393c07b7a0d5da"
+      alt="User Avatar"
+      clip-path="url(#134c863068824)"
+      height="100%"
+      width="100%" />
+  </svg>
+    </span>
+    </span>
+  </span></span
+  >
+    </div></a
+    >
+          </faceplate-tracker>
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/SweetGale" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  
+      </div>
+      <div slot="commentMeta" class="py-[2px]">
+        
+      <div class="flex items-center pr-xs overflow-hidden">
+        <div class="flex flex-col overflow-hidden">
+          <div class="flex flex-none flex-row flex-nowrap items-center">
+            
+     
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="SweetGale"
+    >
+      <div class="flex flex-row items-center overflow-hidden">
+      
+      <faceplate-tracker
+        source="post_detail"
+        action="click"
+        noun="comment_author"
+        class="contents"
+      >
+         <a
+      class="truncate font-bold text-neutral-content-strong text-12 hover:underline"
+      href="/user/SweetGale/"
+      aria-label="u/SweetGale avatar"
+    >
+      SweetGale
+    </a>
+      </faceplate-tracker>
+    
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/SweetGale" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  <span class="inline-flex ml-2xs"><span class="inline-flex">
+      <shreddit-comment-author-modifier-icon
+        thing-id="t1_dvar759"
+      ></shreddit-comment-author-modifier-icon>
+    </span></span>
+    
+  
+    
+  <span class="inline-block my-0 mx-2xs text-12 text-neutral-content-weak">•</span>
+ <a
+      href="/r/neography/comments/818364/comment/dvar759/"
+      class="text-neutral-content-weak text-12 hover:no-underline"
+      rel="nofollow noopener noreferrer"
+      ><faceplate-timeago
+      class="text-neutral-content-weak text-12"
+      ts="2018-03-07T01:31:07.907000+0000"
+      short
+    ></faceplate-timeago></a
+    >
+    
+  
+            
+      <shreddit-comment-badges
+        thing-id="t1_dvar759"
+        is-shredtop-pdp="true"
+      ></shreddit-comment-badges>
+    
+            
+          </div>
+          
+        </div>
+      </div>
+    
+      </div>
+      
+      
+      
+      
+      <div
+              class="md ml-[28px] xs:ml-xl text-14 rounded-[8px] mb-2xs
+  relative
+  before:content-[&#39;&#39;]
+  before:absolute
+  before:pointer-events-none
+  before:border-l-[1px]
+  before:border-r-[0px]
+  before:border-y-0
+  before:border-tone-4
+  before:border-solid
+  before:top-0
+  before:left-[-16.5px]
+  xs:before:left-[-15.5px]
+  before:h-[calc(100%+7px)]"
+              id="t1_dvar759-comment-rtjson-content"
+              slot="comment"
+            >
+              <div
+    id="-post-rtjson-content"
+    class="py-0 mx-sm inline-block max-w-full"
+    style="--emote-size: 20px"
+  >
+    <p>
+    You have free-floating vowel diacritics and the consonant letters are roughly the same size. An easy way to &quot;cheat&quot; would be to use zero-width letters. It&#39;s the same trick used by Tengwar fonts using the <a
+    href="http://tolkiengateway.net/wiki/Dan_Smith#Keymapping"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >Dan Smith encoding</a
+  >.
+  </p><p>
+    You design your vowel diacritics like normal and map them to regular letters. The magic happens when you set their width to zero, the left bearing to a negative number and finally adjust the right bearing so that everything adds up to zero. This will make it so that a diacritic appears above the preceding consonant while not advancing the text input position.
+  </p><p>
+    The main disadvantage is that if your consonants have different widths then your going to need a whole separate set of vowel diacritics for each consonant width. The Dan Smith Tengwar fonts have four sets of vowel diacritics and it&#39;s up to the user to pick the correct one for each letter. (A workaround I&#39;ve been using is to align diacritics along the right side of the letter. That way only one set is needed.)
+  </p><p>
+    I&#39;d love to write a small tutorial for this trick but I&#39;m still confused by widths and bearings. I&#39;ve been trying to fix an old font and they don&#39;t work the way I thought they would. The diacritic in <a
+    href="https://imgur.com/a/OaYon"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >this screenshot</a
+  > has its width set to zero (2 to be exact). The right bearing however still originates at the right edge of the curve meaning its value is dependent on the width of the curve, not the width I set in Metrics.
+  </p>
+  </div>
+            </div>
+            
+            
+            
+    
+      
+      
+    <shreddit-comment-action-row
+      slot="actionRow"
+      score="4"
+      is-shredtop-pdp="true"
+      is-desktop-viewport="true"
+      permalink="/r/neography/comments/818364/comment/dvar759/"
+      moderation-verdict=""
+      class="block ml-xl"
+      comment-id="t1_dvar759"
+      vote-state="NONE"
+    >
+      <faceplate-tracker
+    source="post_detail"
+    action="click"
+    noun="reply_comment"
+    slot="comment-reply"
+  >
+    <button rpl
+      class="button border-md  text-12 button-plain disabled:text-interactive-content-disabled text-secondary-weak inline-flex items-center 
+       px-sm
+       hover:text-secondary hover:bg-secondary-background-hover hover:border-secondary-background-hover
+      "
+      style="height: var(--size-button-sm-h); font: var(--font-button-sm)">
+      <span class="flex items-center">
+      <span class="flex text-16 mr-[var(--rem6)]"><svg rpl
+      aria-hidden="true"
+      fill="currentColor"
+      height="16"
+      icon-name="comment-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.725 19.872a.718.718 0 0 1-.607-.328.725.725 0 0 1-.118-.397V16H3.625A2.63 2.63 0 0 1 1 13.375v-9.75A2.629 2.629 0 0 1 3.625 1h12.75A2.63 2.63 0 0 1 19 3.625v9.75A2.63 2.63 0 0 1 16.375 16h-4.161l-4 3.681a.725.725 0 0 1-.489.191ZM3.625 2.25A1.377 1.377 0 0 0 2.25 3.625v9.75a1.377 1.377 0 0 0 1.375 1.375h4a.625.625 0 0 1 .625.625v2.575l3.3-3.035a.628.628 0 0 1 .424-.165h4.4a1.377 1.377 0 0 0 1.375-1.375v-9.75a1.377 1.377 0 0 0-1.374-1.375H3.625Z"></path>
+    </svg></span>
+      <span> Reply </span>
+    </span>
+    <faceplate-screen-reader-content>
+          reply
+        </faceplate-screen-reader-content>
+    </button>
+  </faceplate-tracker>
+      <shreddit-comment-share-button
+        permalink="/r/neography/comments/818364/comment/dvar759/" is-desktop-viewport
+        slot="comment-share"
+      ></shreddit-comment-share-button>
+      
+    <shreddit-overflow-menu
+      slot="overflow"
+      source="comment"
+      action="click"
+      noun="overflow_menu"
+      comment-id="t1_dvar759"
+      permalink="/r/neography/comments/818364/comment/dvar759/"
+      author-name="SweetGale"
+      author-id="t2_ly6nm"
+      telemetry-source="post_detail"
+      class-override="comment-overflow-menu" can-open-composer
+    >
+      
+    </shreddit-overflow-menu>
+  
+      
+      
+      
+      
+    </shreddit-comment-action-row>
+  
+      <div slot="children">
+            <div id="t1_dvar759-next-reply"></div>
+            
+    <faceplate-partial
+      class=""
+      loading="action"
+      tabindex="0"
+      src="/svc/shreddit/more-comments/neography/818364?sort=CONFIDENCE&amp;startingDepth=2"
+      method="post"
+    >
+      <input type="hidden" name="cursor" value="Y29tbWVudHRyZWU6ZDE6dDFfZHZhcjc1OQ==" />
+      
+    <div class="inline-block ml-px">
+      <button class="text-tone-2 text-12 no-underline hover:underline px-xs py-xs flex ml-[3px] xs:ml-0 !bg-transparent !border-0" type="button">
+    <span class="text-neutral-content-strong mr-xs flex items-center"
+        ><svg rpl
+      fill="currentColor"
+      height="16"
+      icon-name="join-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M10.625 9.375H14v1.25h-3.375V14h-1.25v-3.375H6v-1.25h3.375V6h1.25v3.375ZM20 10A10 10 0 1 1 10 0a10.011 10.011 0 0 1 10 10Zm-1.25 0A8.75 8.75 0 1 0 10 18.75 8.76 8.76 0 0 0 18.75 10Z"></path>
+    </svg></span
+      >
+    <span class="text-secondary-weak font-normal"><faceplate-number number="1"></faceplate-number> more reply</span>
+  </button>
+    </div>
+
+    <div class="w-fit inline-block ml-px" slot="loading">
+      <button aria-hidden="true" class="text-tone-2 text-12 no-underline hover:underline px-xs py-xs flex ml-[3px] xs:ml-0 !bg-transparent !border-0 invisible h-0 !p-0" type="button">
+        
+    <span class="text-neutral-content-strong mr-xs flex items-center"
+        ><svg rpl
+      fill="currentColor"
+      height="16"
+      icon-name="join-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M10.625 9.375H14v1.25h-3.375V14h-1.25v-3.375H6v-1.25h3.375V6h1.25v3.375ZM20 10A10 10 0 1 1 10 0a10.011 10.011 0 0 1 10 10Zm-1.25 0A8.75 8.75 0 1 0 10 18.75 8.76 8.76 0 0 0 18.75 10Z"></path>
+    </svg></span
+      >
+    <span class="text-secondary-weak font-normal"><faceplate-number number="1"></faceplate-number> more reply</span>
+  
+      </button>
+      <button
+        aria-label="Loading"
+        class="text-tone-2 text-12 no-underline hover:underline px-xs py-xs flex ml-[3px] xs:ml-0 !bg-transparent !border-0 pointer-events-none justify-center w-100"
+        type="button"
+      >
+        <icon-load class="animate-spin h-sm"></icon-load>
+      </button>
+    </div>
+  
+    </faceplate-partial>
+  
+          </div>
+    </shreddit-comment>
+  
+    <shreddit-comment
+      author="pomdepin"
+      thingId="t1_dva9zsc"
+      depth="1"
+      parentId="t1_dv8nhwt"
+      permalink="/r/neography/comments/818364/comment/dva9zsc/"
+      reload-url="/svc/shreddit/comment/t1_dva9zsc?depth=1&amp;isLastRenderedNode=true&amp;hasChildren=true&amp;hasMoreLink=true&amp;hasRenderedComments=false"
+      score="3"
+      postId="818364"
+      content-type="text"
+      is-shredtop-pdp="true"
+      is-last-rendered-node="true"
+      has-more-link="true"
+      moderation-verdict=""
+    >
+      <div slot="commentAvatar">
+        
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="pomdepin"
+    >
+      <div class="flex flex-row items-center">
+      <faceplate-tracker
+            source="post_detail"
+            action="click"
+            noun="comment_author_avatar"
+            class="flex items-center"
+            ><a
+      href="/user/pomdepin/"
+      class="flex items-center mr-sm"
+      aria-label="u/pomdepin avatar"
+      ><div class="flex items-center justify-center w-lg h-lg xs:w-xl xs:h-xl">
+      <span
+    class="inline-flex items-center justify-center"
+    rpl>
+    
+    <span class="inline-flex relative  fp-avatar-container box-border rounded-full w-[2rem] h-[2rem] isolate"
+    ><span
+      style="background: var(--color-avatar-gradient)"
+      class="rounded-full box-border border-solid border-neutral-background border relative h-100 w-100 justify-center ">
+      <span
+      class="absolute left-0 z-[2] bottom-0 inline-flex shrink-0 justify-center w-[2rem] h-[2rem]">
+      <svg
+    width="100%"
+    height="100%"
+    viewBox="0 0 121 122"
+    xmlns="http://www.w3.org/2000/svg"
+    class="overflow-hidden">
+    <defs>
+      <clipPath id="9a1cc50c5da81">
+        <path
+          d="M0 0V79L28.1628 105.5C35.013 115.465 46.4934 122 59.5 122C72.5066 122 83.987 115.465 90.8372 105.5L120.5 79V0H0Z" />
+      </clipPath>
+    </defs>
+    <image
+      href="https://styles.redditmedia.com/t5_bpfj9/styles/profileIcon_snoo2c5a0161-0fb1-4e06-99f6-964e536456d8-headshot.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;s=bddc47f98a9b9da5208dfc3e91752c541430f3bb"
+      alt="User Avatar"
+      clip-path="url(#9a1cc50c5da81)"
+      height="100%"
+      width="100%" />
+  </svg>
+    </span>
+    </span>
+  </span></span
+  >
+    </div></a
+    >
+          </faceplate-tracker>
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/pomdepin" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  
+      </div>
+      <div slot="commentMeta" class="py-[2px]">
+        
+      <div class="flex items-center pr-xs overflow-hidden">
+        <div class="flex flex-col overflow-hidden">
+          <div class="flex flex-none flex-row flex-nowrap items-center">
+            
+     
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="pomdepin"
+    >
+      <div class="flex flex-row items-center overflow-hidden">
+      
+      <faceplate-tracker
+        source="post_detail"
+        action="click"
+        noun="comment_author"
+        class="contents"
+      >
+         <a
+      class="truncate font-bold text-neutral-content-strong text-12 hover:underline"
+      href="/user/pomdepin/"
+      aria-label="u/pomdepin avatar"
+    >
+      pomdepin
+    </a>
+      </faceplate-tracker>
+    
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/pomdepin" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  <span class="inline-flex ml-2xs"><span class="inline-flex">
+      <shreddit-comment-author-modifier-icon
+        thing-id="t1_dva9zsc"
+        op="true"
+      ></shreddit-comment-author-modifier-icon>
+    </span></span>
+    
+  
+    
+  <span class="inline-block my-0 mx-2xs text-12 text-neutral-content-weak">•</span>
+ <a
+      href="/r/neography/comments/818364/comment/dva9zsc/"
+      class="text-neutral-content-weak text-12 hover:no-underline"
+      rel="nofollow noopener noreferrer"
+      ><faceplate-timeago
+      class="text-neutral-content-weak text-12"
+      ts="2018-03-06T20:44:22.590000+0000"
+      short
+    ></faceplate-timeago></a
+    >
+    
+  
+            
+      <shreddit-comment-badges
+        thing-id="t1_dva9zsc"
+        op="true"
+        is-shredtop-pdp="true"
+      ></shreddit-comment-badges>
+    
+            
+          </div>
+          
+        </div>
+      </div>
+    
+      </div>
+      
+      
+      
+      
+      <div
+              class="md ml-[28px] xs:ml-xl text-14 rounded-[8px] mb-2xs
+  relative
+  before:content-[&#39;&#39;]
+  before:absolute
+  before:pointer-events-none
+  before:border-l-[1px]
+  before:border-r-[0px]
+  before:border-y-0
+  before:border-tone-4
+  before:border-solid
+  before:top-0
+  before:left-[-16.5px]
+  xs:before:left-[-15.5px]
+  before:h-[calc(100%+7px)]"
+              id="t1_dva9zsc-comment-rtjson-content"
+              slot="comment"
+            >
+              <div
+    id="-post-rtjson-content"
+    class="py-0 mx-sm inline-block max-w-full"
+    style="--emote-size: 20px"
+  >
+    <p>
+    Thanks! I see you&#39;ve updated your count of ~6xxx to 24,576 I&#39;d be interested to know where that came from. I can only assume it is something along the lines of (15vowels)<em>(15 second vowels)</em>(13 consonants)+(13consonnats+15vowels+6punctuation marks)...
+  </p><p>
+    Well, it doesn&#39;t really matter anyway. The great thing about opentype fonts is that there&#39;s always a way to get the number of glyphs equals to your number of radicals. In your case that&#39;s something like 44, or 90 (mostly copy pasted) glyphs if you want initials/finals on top of it. Maybe a bit more copy-pasting and batch-renaming to accommodate the logic as well.
+  </p><p>
+    The feature you&#39;re looking for is the mark-to-base from Part#3. If you have the font from #3 try doing this : Type &#39;T^&#39; and &#39;T¨&#39;. The characters will combine even though they do not exist in the font. There are two things happening here : when you type something like &#39;a¨&#39; your OS replaces it with another glyphs &#39;adieresis&#39;. Building these characters in the font allows you to preview those glyphs in text. However the two glyphs combine just as well if they are simply standing side by side in the glyphs stream. If you define your vowels as marks and your consonants as bases, they will combine in the same way. You then need a lookup to detect the second vowel and replace it with an alternate which will be of a different mark class and stack to the left. A third variant would be used in other cases and would simply align itself vertically with the rest.
+  </p><p>
+    I was gonna do something similar in my next tutorial on abugidas, but I&#39;m a little stuck with it. If you don&#39;t mind, I&#39;ve started designing another script closely based on yours and would like to write Part#7 about it. It&#39;s only a few letters as usual and looks like this: <a
+    href="https://i.imgur.com/us1GFQT.png"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >screen</a
+  > so I should implement most of the things you are asking about. I might need a few days to complete it though.
+  </p><p>
+    Am I right to assume this is written from left to right?
+  </p>
+  </div>
+            </div>
+            
+            
+            
+    
+      
+      
+    <shreddit-comment-action-row
+      slot="actionRow"
+      score="3"
+      is-shredtop-pdp="true"
+      is-desktop-viewport="true"
+      permalink="/r/neography/comments/818364/comment/dva9zsc/"
+      moderation-verdict=""
+      class="block ml-xl"
+      comment-id="t1_dva9zsc"
+      vote-state="NONE"
+    >
+      <faceplate-tracker
+    source="post_detail"
+    action="click"
+    noun="reply_comment"
+    slot="comment-reply"
+  >
+    <button rpl
+      class="button border-md  text-12 button-plain disabled:text-interactive-content-disabled text-secondary-weak inline-flex items-center 
+       px-sm
+       hover:text-secondary hover:bg-secondary-background-hover hover:border-secondary-background-hover
+      "
+      style="height: var(--size-button-sm-h); font: var(--font-button-sm)">
+      <span class="flex items-center">
+      <span class="flex text-16 mr-[var(--rem6)]"><svg rpl
+      aria-hidden="true"
+      fill="currentColor"
+      height="16"
+      icon-name="comment-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.725 19.872a.718.718 0 0 1-.607-.328.725.725 0 0 1-.118-.397V16H3.625A2.63 2.63 0 0 1 1 13.375v-9.75A2.629 2.629 0 0 1 3.625 1h12.75A2.63 2.63 0 0 1 19 3.625v9.75A2.63 2.63 0 0 1 16.375 16h-4.161l-4 3.681a.725.725 0 0 1-.489.191ZM3.625 2.25A1.377 1.377 0 0 0 2.25 3.625v9.75a1.377 1.377 0 0 0 1.375 1.375h4a.625.625 0 0 1 .625.625v2.575l3.3-3.035a.628.628 0 0 1 .424-.165h4.4a1.377 1.377 0 0 0 1.375-1.375v-9.75a1.377 1.377 0 0 0-1.374-1.375H3.625Z"></path>
+    </svg></span>
+      <span> Reply </span>
+    </span>
+    <faceplate-screen-reader-content>
+          reply
+        </faceplate-screen-reader-content>
+    </button>
+  </faceplate-tracker>
+      <shreddit-comment-share-button
+        permalink="/r/neography/comments/818364/comment/dva9zsc/" is-desktop-viewport
+        slot="comment-share"
+      ></shreddit-comment-share-button>
+      
+    <shreddit-overflow-menu
+      slot="overflow"
+      source="comment"
+      action="click"
+      noun="overflow_menu"
+      comment-id="t1_dva9zsc"
+      permalink="/r/neography/comments/818364/comment/dva9zsc/"
+      author-name="pomdepin"
+      author-id="t2_11c2xn"
+      telemetry-source="post_detail"
+      class-override="comment-overflow-menu" can-open-composer
+    >
+      
+    </shreddit-overflow-menu>
+  
+      
+      
+      
+      
+    </shreddit-comment-action-row>
+  
+      <div slot="children">
+            <div id="t1_dva9zsc-next-reply"></div>
+            
+    <faceplate-partial
+      class=""
+      loading="action"
+      tabindex="0"
+      src="/svc/shreddit/more-comments/neography/818364?sort=CONFIDENCE&amp;startingDepth=2"
+      method="post"
+    >
+      <input type="hidden" name="cursor" value="Y29tbWVudHRyZWU6ZDE6dDFfZHZhOXpzYw==" />
+      
+    <div class="inline-block ml-px">
+      <button class="text-tone-2 text-12 no-underline hover:underline px-xs py-xs flex ml-[3px] xs:ml-0 !bg-transparent !border-0" type="button">
+    <span class="text-neutral-content-strong mr-xs flex items-center"
+        ><svg rpl
+      fill="currentColor"
+      height="16"
+      icon-name="join-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M10.625 9.375H14v1.25h-3.375V14h-1.25v-3.375H6v-1.25h3.375V6h1.25v3.375ZM20 10A10 10 0 1 1 10 0a10.011 10.011 0 0 1 10 10Zm-1.25 0A8.75 8.75 0 1 0 10 18.75 8.76 8.76 0 0 0 18.75 10Z"></path>
+    </svg></span
+      >
+    <span class="text-secondary-weak font-normal"><faceplate-number number="4"></faceplate-number> more replies</span>
+  </button>
+    </div>
+
+    <div class="w-fit inline-block ml-px" slot="loading">
+      <button aria-hidden="true" class="text-tone-2 text-12 no-underline hover:underline px-xs py-xs flex ml-[3px] xs:ml-0 !bg-transparent !border-0 invisible h-0 !p-0" type="button">
+        
+    <span class="text-neutral-content-strong mr-xs flex items-center"
+        ><svg rpl
+      fill="currentColor"
+      height="16"
+      icon-name="join-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M10.625 9.375H14v1.25h-3.375V14h-1.25v-3.375H6v-1.25h3.375V6h1.25v3.375ZM20 10A10 10 0 1 1 10 0a10.011 10.011 0 0 1 10 10Zm-1.25 0A8.75 8.75 0 1 0 10 18.75 8.76 8.76 0 0 0 18.75 10Z"></path>
+    </svg></span
+      >
+    <span class="text-secondary-weak font-normal"><faceplate-number number="4"></faceplate-number> more replies</span>
+  
+      </button>
+      <button
+        aria-label="Loading"
+        class="text-tone-2 text-12 no-underline hover:underline px-xs py-xs flex ml-[3px] xs:ml-0 !bg-transparent !border-0 pointer-events-none justify-center w-100"
+        type="button"
+      >
+        <icon-load class="animate-spin h-sm"></icon-load>
+      </button>
+    </div>
+  
+    </faceplate-partial>
+  
+          </div>
+    </shreddit-comment>
+  
+          </div>
+    </shreddit-comment>
+  
+    <shreddit-comment
+      author="SpuneDagr"
+      thingId="t1_dvegitr"
+      depth="0"
+      permalink="/r/neography/comments/818364/comment/dvegitr/"
+      reload-url="/svc/shreddit/comment/t1_dvegitr?depth=0&amp;isLastRenderedNode=false&amp;hasChildren=true&amp;hasMoreLink=false&amp;hasRenderedComments=true"
+      score="4"
+      postId="818364"
+      content-type="text"
+      class="pt-md px-md xs:px-0"
+      is-shredtop-pdp="true"
+      has-rendered-comments="true"
+      moderation-verdict=""
+    >
+      <div slot="commentAvatar">
+        
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="SpuneDagr"
+    >
+      <div class="flex flex-row items-center">
+      <faceplate-tracker
+            source="post_detail"
+            action="click"
+            noun="comment_author_avatar"
+            class="flex items-center"
+            ><a
+      href="/user/SpuneDagr/"
+      class="flex items-center mr-sm"
+      aria-label="u/SpuneDagr avatar"
+      ><div class="flex items-center justify-center w-lg h-lg xs:w-xl xs:h-xl"><faceplate-img
+    src="https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    alt="u/SpuneDagr avatar"
+    class="rounded-full overflow-hidden"
+    width="32"
+    height="32"
+    
+    loading="lazy"
+    
+    
+  ></faceplate-img></div></a
+    >
+          </faceplate-tracker>
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/SpuneDagr" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  
+      </div>
+      <div slot="commentMeta" class="py-[2px]">
+        
+      <div class="flex items-center pr-xs overflow-hidden">
+        <div class="flex flex-col overflow-hidden">
+          <div class="flex flex-none flex-row flex-nowrap items-center">
+            
+     
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="SpuneDagr"
+    >
+      <div class="flex flex-row items-center overflow-hidden">
+      
+      <faceplate-tracker
+        source="post_detail"
+        action="click"
+        noun="comment_author"
+        class="contents"
+      >
+         <a
+      class="truncate font-bold text-neutral-content-strong text-12 hover:underline"
+      href="/user/SpuneDagr/"
+      aria-label="u/SpuneDagr avatar"
+    >
+      SpuneDagr
+    </a>
+      </faceplate-tracker>
+    
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/SpuneDagr" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  <span class="inline-flex ml-2xs"><span class="inline-flex">
+      <shreddit-comment-author-modifier-icon
+        thing-id="t1_dvegitr"
+      ></shreddit-comment-author-modifier-icon>
+    </span></span>
+    
+  
+    
+  <span class="inline-block my-0 mx-2xs text-12 text-neutral-content-weak">•</span>
+ <a
+      href="/r/neography/comments/818364/comment/dvegitr/"
+      class="text-neutral-content-weak text-12 hover:no-underline"
+      rel="nofollow noopener noreferrer"
+      ><faceplate-timeago
+      class="text-neutral-content-weak text-12"
+      ts="2018-03-08T22:50:56.488000+0000"
+      short
+    ></faceplate-timeago></a
+    >
+    
+  
+            
+      <shreddit-comment-badges
+        thing-id="t1_dvegitr"
+        is-shredtop-pdp="true"
+      ></shreddit-comment-badges>
+    
+            
+          </div>
+          
+        </div>
+      </div>
+    
+      </div>
+      
+      
+      
+      
+      <div
+              class="md ml-[28px] xs:ml-xl text-14 rounded-[8px] mb-2xs
+  relative
+  before:content-[&#39;&#39;]
+  before:absolute
+  before:pointer-events-none
+  before:border-l-[1px]
+  before:border-r-[0px]
+  before:border-y-0
+  before:border-tone-4
+  before:border-solid
+  before:top-0
+  before:left-[-16.5px]
+  xs:before:left-[-15.5px]
+  before:h-[calc(100%+7px)]"
+              id="t1_dvegitr-comment-rtjson-content"
+              slot="comment"
+            >
+              <div
+    id="-post-rtjson-content"
+    class="py-0 mx-sm inline-block max-w-full"
+    style="--emote-size: 20px"
+  >
+    <p>
+    Just wanted to encourage you and let you know I&#39;ve been eagerly anticipating every update you make to this.
+  </p><p>
+    Originally I wasn&#39;t going to bother coming up with a unique script for my conlang, but you have inspired me. Now I definitely will, and it will be a FONT!
+  </p><p>
+    Keep up the awesome work.
+  </p>
+  </div>
+            </div>
+            
+            
+            
+    
+      
+      
+    <shreddit-comment-action-row
+      slot="actionRow"
+      score="4"
+      is-shredtop-pdp="true"
+      is-desktop-viewport="true"
+      permalink="/r/neography/comments/818364/comment/dvegitr/"
+      moderation-verdict=""
+      class="block ml-xl"
+      comment-id="t1_dvegitr"
+      vote-state="NONE"
+    >
+      <faceplate-tracker
+    source="post_detail"
+    action="click"
+    noun="reply_comment"
+    slot="comment-reply"
+  >
+    <button rpl
+      class="button border-md  text-12 button-plain disabled:text-interactive-content-disabled text-secondary-weak inline-flex items-center 
+       px-sm
+       hover:text-secondary hover:bg-secondary-background-hover hover:border-secondary-background-hover
+      "
+      style="height: var(--size-button-sm-h); font: var(--font-button-sm)">
+      <span class="flex items-center">
+      <span class="flex text-16 mr-[var(--rem6)]"><svg rpl
+      aria-hidden="true"
+      fill="currentColor"
+      height="16"
+      icon-name="comment-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.725 19.872a.718.718 0 0 1-.607-.328.725.725 0 0 1-.118-.397V16H3.625A2.63 2.63 0 0 1 1 13.375v-9.75A2.629 2.629 0 0 1 3.625 1h12.75A2.63 2.63 0 0 1 19 3.625v9.75A2.63 2.63 0 0 1 16.375 16h-4.161l-4 3.681a.725.725 0 0 1-.489.191ZM3.625 2.25A1.377 1.377 0 0 0 2.25 3.625v9.75a1.377 1.377 0 0 0 1.375 1.375h4a.625.625 0 0 1 .625.625v2.575l3.3-3.035a.628.628 0 0 1 .424-.165h4.4a1.377 1.377 0 0 0 1.375-1.375v-9.75a1.377 1.377 0 0 0-1.374-1.375H3.625Z"></path>
+    </svg></span>
+      <span> Reply </span>
+    </span>
+    <faceplate-screen-reader-content>
+          reply
+        </faceplate-screen-reader-content>
+    </button>
+  </faceplate-tracker>
+      <shreddit-comment-share-button
+        permalink="/r/neography/comments/818364/comment/dvegitr/" is-desktop-viewport
+        slot="comment-share"
+      ></shreddit-comment-share-button>
+      
+    <shreddit-overflow-menu
+      slot="overflow"
+      source="comment"
+      action="click"
+      noun="overflow_menu"
+      comment-id="t1_dvegitr"
+      permalink="/r/neography/comments/818364/comment/dvegitr/"
+      author-name="SpuneDagr"
+      author-id="t2_3uz3w"
+      telemetry-source="post_detail"
+      class-override="comment-overflow-menu" can-open-composer
+    >
+      
+    </shreddit-overflow-menu>
+  
+      
+      
+      
+      
+    </shreddit-comment-action-row>
+  
+      <div slot="children">
+            <div id="t1_dvegitr-next-reply"></div>
+            
+    <shreddit-comment
+      author="pomdepin"
+      thingId="t1_dvg7xjh"
+      depth="1"
+      parentId="t1_dvegitr"
+      permalink="/r/neography/comments/818364/comment/dvg7xjh/"
+      reload-url="/svc/shreddit/comment/t1_dvg7xjh?depth=1&amp;isLastRenderedNode=true&amp;hasChildren=false&amp;hasMoreLink=false&amp;hasRenderedComments=false"
+      score="2"
+      postId="818364"
+      content-type="text"
+      is-shredtop-pdp="true"
+      is-last-rendered-node="true"
+      moderation-verdict=""
+    >
+      <div slot="commentAvatar">
+        
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="pomdepin"
+    >
+      <div class="flex flex-row items-center">
+      <faceplate-tracker
+            source="post_detail"
+            action="click"
+            noun="comment_author_avatar"
+            class="flex items-center"
+            ><a
+      href="/user/pomdepin/"
+      class="flex items-center mr-sm"
+      aria-label="u/pomdepin avatar"
+      ><div class="flex items-center justify-center w-lg h-lg xs:w-xl xs:h-xl">
+      <span
+    class="inline-flex items-center justify-center"
+    rpl>
+    
+    <span class="inline-flex relative  fp-avatar-container box-border rounded-full w-[2rem] h-[2rem] isolate"
+    ><span
+      style="background: var(--color-avatar-gradient)"
+      class="rounded-full box-border border-solid border-neutral-background border relative h-100 w-100 justify-center ">
+      <span
+      class="absolute left-0 z-[2] bottom-0 inline-flex shrink-0 justify-center w-[2rem] h-[2rem]">
+      <svg
+    width="100%"
+    height="100%"
+    viewBox="0 0 121 122"
+    xmlns="http://www.w3.org/2000/svg"
+    class="overflow-hidden">
+    <defs>
+      <clipPath id="c0e4669368c24">
+        <path
+          d="M0 0V79L28.1628 105.5C35.013 115.465 46.4934 122 59.5 122C72.5066 122 83.987 115.465 90.8372 105.5L120.5 79V0H0Z" />
+      </clipPath>
+    </defs>
+    <image
+      href="https://styles.redditmedia.com/t5_bpfj9/styles/profileIcon_snoo2c5a0161-0fb1-4e06-99f6-964e536456d8-headshot.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;s=bddc47f98a9b9da5208dfc3e91752c541430f3bb"
+      alt="User Avatar"
+      clip-path="url(#c0e4669368c24)"
+      height="100%"
+      width="100%" />
+  </svg>
+    </span>
+    </span>
+  </span></span
+  >
+    </div></a
+    >
+          </faceplate-tracker>
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/pomdepin" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  
+      </div>
+      <div slot="commentMeta" class="py-[2px]">
+        
+      <div class="flex items-center pr-xs overflow-hidden">
+        <div class="flex flex-col overflow-hidden">
+          <div class="flex flex-none flex-row flex-nowrap items-center">
+            
+     
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="pomdepin"
+    >
+      <div class="flex flex-row items-center overflow-hidden">
+      
+      <faceplate-tracker
+        source="post_detail"
+        action="click"
+        noun="comment_author"
+        class="contents"
+      >
+         <a
+      class="truncate font-bold text-neutral-content-strong text-12 hover:underline"
+      href="/user/pomdepin/"
+      aria-label="u/pomdepin avatar"
+    >
+      pomdepin
+    </a>
+      </faceplate-tracker>
+    
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/pomdepin" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  <span class="inline-flex ml-2xs"><span class="inline-flex">
+      <shreddit-comment-author-modifier-icon
+        thing-id="t1_dvg7xjh"
+        op="true"
+      ></shreddit-comment-author-modifier-icon>
+    </span></span>
+    
+  
+    
+  <span class="inline-block my-0 mx-2xs text-12 text-neutral-content-weak">•</span>
+ <a
+      href="/r/neography/comments/818364/comment/dvg7xjh/"
+      class="text-neutral-content-weak text-12 hover:no-underline"
+      rel="nofollow noopener noreferrer"
+      ><faceplate-timeago
+      class="text-neutral-content-weak text-12"
+      ts="2018-03-09T20:52:12.819000+0000"
+      short
+    ></faceplate-timeago></a
+    >
+    
+  
+            
+      <shreddit-comment-badges
+        thing-id="t1_dvg7xjh"
+        op="true"
+        is-shredtop-pdp="true"
+      ></shreddit-comment-badges>
+    
+            
+          </div>
+          
+        </div>
+      </div>
+    
+      </div>
+      
+      
+      
+      
+      <div
+              class="md ml-[28px] xs:ml-xl text-14 rounded-[8px] mb-2xs"
+              id="t1_dvg7xjh-comment-rtjson-content"
+              slot="comment"
+            >
+              <div
+    id="-post-rtjson-content"
+    class="py-0 mx-sm inline-block max-w-full"
+    style="--emote-size: 20px"
+  >
+    <p>
+    Thank you! This really helped me to complete part#7. I&#39;d love to see what fonts my tutorials will help you create!
+  </p>
+  </div>
+            </div>
+            
+            
+            
+    
+      
+      
+    <shreddit-comment-action-row
+      slot="actionRow"
+      score="2"
+      is-shredtop-pdp="true"
+      is-desktop-viewport="true"
+      permalink="/r/neography/comments/818364/comment/dvg7xjh/"
+      moderation-verdict=""
+      class="block ml-xl"
+      comment-id="t1_dvg7xjh"
+      vote-state="NONE"
+    >
+      <faceplate-tracker
+    source="post_detail"
+    action="click"
+    noun="reply_comment"
+    slot="comment-reply"
+  >
+    <button rpl
+      class="button border-md  text-12 button-plain disabled:text-interactive-content-disabled text-secondary-weak inline-flex items-center 
+       px-sm
+       hover:text-secondary hover:bg-secondary-background-hover hover:border-secondary-background-hover
+      "
+      style="height: var(--size-button-sm-h); font: var(--font-button-sm)">
+      <span class="flex items-center">
+      <span class="flex text-16 mr-[var(--rem6)]"><svg rpl
+      aria-hidden="true"
+      fill="currentColor"
+      height="16"
+      icon-name="comment-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.725 19.872a.718.718 0 0 1-.607-.328.725.725 0 0 1-.118-.397V16H3.625A2.63 2.63 0 0 1 1 13.375v-9.75A2.629 2.629 0 0 1 3.625 1h12.75A2.63 2.63 0 0 1 19 3.625v9.75A2.63 2.63 0 0 1 16.375 16h-4.161l-4 3.681a.725.725 0 0 1-.489.191ZM3.625 2.25A1.377 1.377 0 0 0 2.25 3.625v9.75a1.377 1.377 0 0 0 1.375 1.375h4a.625.625 0 0 1 .625.625v2.575l3.3-3.035a.628.628 0 0 1 .424-.165h4.4a1.377 1.377 0 0 0 1.375-1.375v-9.75a1.377 1.377 0 0 0-1.374-1.375H3.625Z"></path>
+    </svg></span>
+      <span> Reply </span>
+    </span>
+    <faceplate-screen-reader-content>
+          reply
+        </faceplate-screen-reader-content>
+    </button>
+  </faceplate-tracker>
+      <shreddit-comment-share-button
+        permalink="/r/neography/comments/818364/comment/dvg7xjh/" is-desktop-viewport
+        slot="comment-share"
+      ></shreddit-comment-share-button>
+      
+    <shreddit-overflow-menu
+      slot="overflow"
+      source="comment"
+      action="click"
+      noun="overflow_menu"
+      comment-id="t1_dvg7xjh"
+      permalink="/r/neography/comments/818364/comment/dvg7xjh/"
+      author-name="pomdepin"
+      author-id="t2_11c2xn"
+      telemetry-source="post_detail"
+      class-override="comment-overflow-menu" can-open-composer
+    >
+      
+    </shreddit-overflow-menu>
+  
+      
+      
+      
+      
+    </shreddit-comment-action-row>
+  
+      
+    </shreddit-comment>
+  
+          </div>
+    </shreddit-comment>
+  
+    <shreddit-comment
+      author="SpuneDagr"
+      thingId="t1_dv2vnqz"
+      depth="0"
+      permalink="/r/neography/comments/818364/comment/dv2vnqz/"
+      reload-url="/svc/shreddit/comment/t1_dv2vnqz?depth=0&amp;isLastRenderedNode=true&amp;hasChildren=true&amp;hasMoreLink=false&amp;hasRenderedComments=true"
+      score="2"
+      postId="818364"
+      content-type="text"
+      class="pt-md px-md xs:px-0"
+      is-shredtop-pdp="true"
+      is-last-rendered-node="true"
+      has-rendered-comments="true"
+      moderation-verdict=""
+    >
+      <div slot="commentAvatar">
+        
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="SpuneDagr"
+    >
+      <div class="flex flex-row items-center">
+      <faceplate-tracker
+            source="post_detail"
+            action="click"
+            noun="comment_author_avatar"
+            class="flex items-center"
+            ><a
+      href="/user/SpuneDagr/"
+      class="flex items-center mr-sm"
+      aria-label="u/SpuneDagr avatar"
+      ><div class="flex items-center justify-center w-lg h-lg xs:w-xl xs:h-xl"><faceplate-img
+    src="https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png"
+    alt="u/SpuneDagr avatar"
+    class="rounded-full overflow-hidden"
+    width="32"
+    height="32"
+    
+    loading="lazy"
+    
+    
+  ></faceplate-img></div></a
+    >
+          </faceplate-tracker>
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/SpuneDagr" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  
+      </div>
+      <div slot="commentMeta" class="py-[2px]">
+        
+      <div class="flex items-center pr-xs overflow-hidden">
+        <div class="flex flex-col overflow-hidden">
+          <div class="flex flex-none flex-row flex-nowrap items-center">
+            
+     
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="SpuneDagr"
+    >
+      <div class="flex flex-row items-center overflow-hidden">
+      
+      <faceplate-tracker
+        source="post_detail"
+        action="click"
+        noun="comment_author"
+        class="contents"
+      >
+         <a
+      class="truncate font-bold text-neutral-content-strong text-12 hover:underline"
+      href="/user/SpuneDagr/"
+      aria-label="u/SpuneDagr avatar"
+    >
+      SpuneDagr
+    </a>
+      </faceplate-tracker>
+    
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/SpuneDagr" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  <span class="inline-flex ml-2xs"><span class="inline-flex">
+      <shreddit-comment-author-modifier-icon
+        thing-id="t1_dv2vnqz"
+      ></shreddit-comment-author-modifier-icon>
+    </span></span>
+    
+  
+    
+  <span class="inline-block my-0 mx-2xs text-12 text-neutral-content-weak">•</span>
+ <a
+      href="/r/neography/comments/818364/comment/dv2vnqz/"
+      class="text-neutral-content-weak text-12 hover:no-underline"
+      rel="nofollow noopener noreferrer"
+      ><faceplate-timeago
+      class="text-neutral-content-weak text-12"
+      ts="2018-03-02T17:23:56.728000+0000"
+      short
+    ></faceplate-timeago></a
+    >
+    
+  
+            
+      <shreddit-comment-badges
+        thing-id="t1_dv2vnqz"
+        is-shredtop-pdp="true"
+      ></shreddit-comment-badges>
+    
+            
+          </div>
+          
+        </div>
+      </div>
+    
+      </div>
+      
+      
+      
+      
+      <div
+              class="md ml-[28px] xs:ml-xl text-14 rounded-[8px] mb-2xs
+  relative
+  before:content-[&#39;&#39;]
+  before:absolute
+  before:pointer-events-none
+  before:border-l-[1px]
+  before:border-r-[0px]
+  before:border-y-0
+  before:border-tone-4
+  before:border-solid
+  before:top-0
+  before:left-[-16.5px]
+  xs:before:left-[-15.5px]
+  before:h-[calc(100%+7px)]"
+              id="t1_dv2vnqz-comment-rtjson-content"
+              slot="comment"
+            >
+              <div
+    id="-post-rtjson-content"
+    class="py-0 mx-sm inline-block max-w-full"
+    style="--emote-size: 20px"
+  >
+    <p>
+    Not sure if you meant to link to the French version of the Inkscape site. <a
+    href="https://inkscape.org/en/"
+    rel="noopener nofollow ugc"
+    target="_blank"
+    >Here&#39;s the English one.</a
+  >
+  </p>
+  </div>
+            </div>
+            
+            
+            
+    
+      
+      
+    <shreddit-comment-action-row
+      slot="actionRow"
+      score="2"
+      is-shredtop-pdp="true"
+      is-desktop-viewport="true"
+      permalink="/r/neography/comments/818364/comment/dv2vnqz/"
+      moderation-verdict=""
+      class="block ml-xl"
+      comment-id="t1_dv2vnqz"
+      vote-state="NONE"
+    >
+      <faceplate-tracker
+    source="post_detail"
+    action="click"
+    noun="reply_comment"
+    slot="comment-reply"
+  >
+    <button rpl
+      class="button border-md  text-12 button-plain disabled:text-interactive-content-disabled text-secondary-weak inline-flex items-center 
+       px-sm
+       hover:text-secondary hover:bg-secondary-background-hover hover:border-secondary-background-hover
+      "
+      style="height: var(--size-button-sm-h); font: var(--font-button-sm)">
+      <span class="flex items-center">
+      <span class="flex text-16 mr-[var(--rem6)]"><svg rpl
+      aria-hidden="true"
+      fill="currentColor"
+      height="16"
+      icon-name="comment-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.725 19.872a.718.718 0 0 1-.607-.328.725.725 0 0 1-.118-.397V16H3.625A2.63 2.63 0 0 1 1 13.375v-9.75A2.629 2.629 0 0 1 3.625 1h12.75A2.63 2.63 0 0 1 19 3.625v9.75A2.63 2.63 0 0 1 16.375 16h-4.161l-4 3.681a.725.725 0 0 1-.489.191ZM3.625 2.25A1.377 1.377 0 0 0 2.25 3.625v9.75a1.377 1.377 0 0 0 1.375 1.375h4a.625.625 0 0 1 .625.625v2.575l3.3-3.035a.628.628 0 0 1 .424-.165h4.4a1.377 1.377 0 0 0 1.375-1.375v-9.75a1.377 1.377 0 0 0-1.374-1.375H3.625Z"></path>
+    </svg></span>
+      <span> Reply </span>
+    </span>
+    <faceplate-screen-reader-content>
+          reply
+        </faceplate-screen-reader-content>
+    </button>
+  </faceplate-tracker>
+      <shreddit-comment-share-button
+        permalink="/r/neography/comments/818364/comment/dv2vnqz/" is-desktop-viewport
+        slot="comment-share"
+      ></shreddit-comment-share-button>
+      
+    <shreddit-overflow-menu
+      slot="overflow"
+      source="comment"
+      action="click"
+      noun="overflow_menu"
+      comment-id="t1_dv2vnqz"
+      permalink="/r/neography/comments/818364/comment/dv2vnqz/"
+      author-name="SpuneDagr"
+      author-id="t2_3uz3w"
+      telemetry-source="post_detail"
+      class-override="comment-overflow-menu" can-open-composer
+    >
+      
+    </shreddit-overflow-menu>
+  
+      
+      
+      
+      
+    </shreddit-comment-action-row>
+  
+      <div slot="children">
+            <div id="t1_dv2vnqz-next-reply"></div>
+            
+    <shreddit-comment
+      author="pomdepin"
+      thingId="t1_dv2w6wa"
+      depth="1"
+      parentId="t1_dv2vnqz"
+      permalink="/r/neography/comments/818364/comment/dv2w6wa/"
+      reload-url="/svc/shreddit/comment/t1_dv2w6wa?depth=1&amp;isLastRenderedNode=true&amp;hasChildren=false&amp;hasMoreLink=false&amp;hasRenderedComments=false"
+      score="3"
+      postId="818364"
+      content-type="text"
+      is-shredtop-pdp="true"
+      is-last-rendered-node="true"
+      moderation-verdict=""
+    >
+      <div slot="commentAvatar">
+        
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="pomdepin"
+    >
+      <div class="flex flex-row items-center">
+      <faceplate-tracker
+            source="post_detail"
+            action="click"
+            noun="comment_author_avatar"
+            class="flex items-center"
+            ><a
+      href="/user/pomdepin/"
+      class="flex items-center mr-sm"
+      aria-label="u/pomdepin avatar"
+      ><div class="flex items-center justify-center w-lg h-lg xs:w-xl xs:h-xl">
+      <span
+    class="inline-flex items-center justify-center"
+    rpl>
+    
+    <span class="inline-flex relative  fp-avatar-container box-border rounded-full w-[2rem] h-[2rem] isolate"
+    ><span
+      style="background: var(--color-avatar-gradient)"
+      class="rounded-full box-border border-solid border-neutral-background border relative h-100 w-100 justify-center ">
+      <span
+      class="absolute left-0 z-[2] bottom-0 inline-flex shrink-0 justify-center w-[2rem] h-[2rem]">
+      <svg
+    width="100%"
+    height="100%"
+    viewBox="0 0 121 122"
+    xmlns="http://www.w3.org/2000/svg"
+    class="overflow-hidden">
+    <defs>
+      <clipPath id="a76203fb351a5">
+        <path
+          d="M0 0V79L28.1628 105.5C35.013 115.465 46.4934 122 59.5 122C72.5066 122 83.987 115.465 90.8372 105.5L120.5 79V0H0Z" />
+      </clipPath>
+    </defs>
+    <image
+      href="https://styles.redditmedia.com/t5_bpfj9/styles/profileIcon_snoo2c5a0161-0fb1-4e06-99f6-964e536456d8-headshot.png?width=64&amp;height=64&amp;frame=1&amp;auto=webp&amp;crop=64:64,smart&amp;s=bddc47f98a9b9da5208dfc3e91752c541430f3bb"
+      alt="User Avatar"
+      clip-path="url(#a76203fb351a5)"
+      height="100%"
+      width="100%" />
+  </svg>
+    </span>
+    </span>
+  </span></span
+  >
+    </div></a
+    >
+          </faceplate-tracker>
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/pomdepin" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  
+      </div>
+      <div slot="commentMeta" class="py-[2px]">
+        
+      <div class="flex items-center pr-xs overflow-hidden">
+        <div class="flex flex-col overflow-hidden">
+          <div class="flex flex-none flex-row flex-nowrap items-center">
+            
+     
+    <faceplate-hovercard
+      enter-delay="500"
+      leave-delay="150"
+      position="bottom-start"
+      data-id="user-hover-card" close-on-track
+      aria-label="pomdepin"
+    >
+      <div class="flex flex-row items-center overflow-hidden">
+      
+      <faceplate-tracker
+        source="post_detail"
+        action="click"
+        noun="comment_author"
+        class="contents"
+      >
+         <a
+      class="truncate font-bold text-neutral-content-strong text-12 hover:underline"
+      href="/user/pomdepin/"
+      aria-label="u/pomdepin avatar"
+    >
+      pomdepin
+    </a>
+      </faceplate-tracker>
+    
+    </div>
+      <div slot="content">
+        <faceplate-partial src="/svc/shreddit/user-hover-card/pomdepin" loading="programmatic">
+          <div class="w-5xl h-4xl flex items-center justify-center">
+            <faceplate-progress value="20" class="animate-spin"></faceplate-progress>
+          </div>
+        </faceplate-partial>
+      </div>
+    </faceplate-hovercard>
+  <span class="inline-flex ml-2xs"><span class="inline-flex">
+      <shreddit-comment-author-modifier-icon
+        thing-id="t1_dv2w6wa"
+        op="true"
+      ></shreddit-comment-author-modifier-icon>
+    </span></span>
+    
+  
+    
+  <span class="inline-block my-0 mx-2xs text-12 text-neutral-content-weak">•</span>
+ <a
+      href="/r/neography/comments/818364/comment/dv2w6wa/"
+      class="text-neutral-content-weak text-12 hover:no-underline"
+      rel="nofollow noopener noreferrer"
+      ><faceplate-timeago
+      class="text-neutral-content-weak text-12"
+      ts="2018-03-02T17:32:00.259000+0000"
+      short
+    ></faceplate-timeago></a
+    >
+    
+  
+            
+      <shreddit-comment-badges
+        thing-id="t1_dv2w6wa"
+        op="true"
+        is-shredtop-pdp="true"
+      ></shreddit-comment-badges>
+    
+            
+          </div>
+          
+        </div>
+      </div>
+    
+      </div>
+      
+      
+      
+      
+      <div
+              class="md ml-[28px] xs:ml-xl text-14 rounded-[8px] mb-2xs"
+              id="t1_dv2w6wa-comment-rtjson-content"
+              slot="comment"
+            >
+              <div
+    id="-post-rtjson-content"
+    class="py-0 mx-sm inline-block max-w-full"
+    style="--emote-size: 20px"
+  >
+    <p>
+    Haha, You&#39;re right! Thanks! That wasn&#39;t on purpose :)
+  </p>
+  </div>
+            </div>
+            
+            
+            
+    
+      
+      
+    <shreddit-comment-action-row
+      slot="actionRow"
+      score="3"
+      is-shredtop-pdp="true"
+      is-desktop-viewport="true"
+      permalink="/r/neography/comments/818364/comment/dv2w6wa/"
+      moderation-verdict=""
+      class="block ml-xl"
+      comment-id="t1_dv2w6wa"
+      vote-state="NONE"
+    >
+      <faceplate-tracker
+    source="post_detail"
+    action="click"
+    noun="reply_comment"
+    slot="comment-reply"
+  >
+    <button rpl
+      class="button border-md  text-12 button-plain disabled:text-interactive-content-disabled text-secondary-weak inline-flex items-center 
+       px-sm
+       hover:text-secondary hover:bg-secondary-background-hover hover:border-secondary-background-hover
+      "
+      style="height: var(--size-button-sm-h); font: var(--font-button-sm)">
+      <span class="flex items-center">
+      <span class="flex text-16 mr-[var(--rem6)]"><svg rpl
+      aria-hidden="true"
+      fill="currentColor"
+      height="16"
+      icon-name="comment-outline"
+      viewBox="0 0 20 20"
+      width="16"
+      xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.725 19.872a.718.718 0 0 1-.607-.328.725.725 0 0 1-.118-.397V16H3.625A2.63 2.63 0 0 1 1 13.375v-9.75A2.629 2.629 0 0 1 3.625 1h12.75A2.63 2.63 0 0 1 19 3.625v9.75A2.63 2.63 0 0 1 16.375 16h-4.161l-4 3.681a.725.725 0 0 1-.489.191ZM3.625 2.25A1.377 1.377 0 0 0 2.25 3.625v9.75a1.377 1.377 0 0 0 1.375 1.375h4a.625.625 0 0 1 .625.625v2.575l3.3-3.035a.628.628 0 0 1 .424-.165h4.4a1.377 1.377 0 0 0 1.375-1.375v-9.75a1.377 1.377 0 0 0-1.374-1.375H3.625Z"></path>
+    </svg></span>
+      <span> Reply </span>
+    </span>
+    <faceplate-screen-reader-content>
+          reply
+        </faceplate-screen-reader-content>
+    </button>
+  </faceplate-tracker>
+      <shreddit-comment-share-button
+        permalink="/r/neography/comments/818364/comment/dv2w6wa/" is-desktop-viewport
+        slot="comment-share"
+      ></shreddit-comment-share-button>
+      
+    <shreddit-overflow-menu
+      slot="overflow"
+      source="comment"
+      action="click"
+      noun="overflow_menu"
+      comment-id="t1_dv2w6wa"
+      permalink="/r/neography/comments/818364/comment/dv2w6wa/"
+      author-name="pomdepin"
+      author-id="t2_11c2xn"
+      telemetry-source="post_detail"
+      class-override="comment-overflow-menu" can-open-composer
+    >
+      
+    </shreddit-overflow-menu>
+  
+      
+      
+      
+      
+    </shreddit-comment-action-row>
+  
+      
+    </shreddit-comment>
+  
+          </div>
+    </shreddit-comment>
+  
+  
+    </shreddit-comment-tree>
+  </faceplate-tracker>
+    </faceplate-batch>
+  </div>
+    <shreddit-overlay-display
+      class="theme-beta"
+    >
+      
+  <template slot="auth-flow">
+      <shreddit-signup-drawer
+      
+      subredditId="t5_2rjr2"
+        subredditName="neography"
+        use-auth-flow
+      >
+        <slot slot="googleid-signin" name="googleid-signin"></slot>
+        <slot slot="appleid-signin" name="appleid-signin"></slot>
+        <slot slot="recaptcha" name="recaptcha"></slot>
+        <slot slot="login-username" name="login-username"></slot>
+        <slot slot="login-password" name="login-password"></slot>
+        <slot slot="register-username" name="register-username"></slot>
+        <slot slot="register-password" name="register-password"></slot>
+      </shreddit-signup-drawer>
+    </template>
+     
+    <div slot="googleid-signin" class="googleid-signin" style="height: 40px;"></div>
+    <div slot="appleid-signin" class="appleid-signin" data-type="sign in"></div>
+  
+      
+    <div
+      slot="recaptcha"
+      class="recaptcha"
+      data-site-key="6LeTnxkTAAAAAN9QEuDZRpn90WwKk_R1TRW_g-JC"
+    ></div>
+   
+    <span class="w-100 h-100" slot="register-username" id="register-username-container"></span>
+    <span class="w-100 h-100" slot="register-password" id="register-password-container"></span>
+   
+    <span class="w-100 h-100" slot="login-username" id="login-username-container"> </span>
+    <span class="w-100 h-100" slot="login-password" id="login-password-container"> </span>
+  
+    </shreddit-overlay-display>
+    
+    <form
+      tabindex="-1"
+      class="h-px w-px overflow-hidden fixed -left-100 -bottom-100 whitespace-nowrap opacity-0 pointer-events-none"
+      aria-hidden="true"
+      id="login-overlay"
+      method="post"
+      action="/svc/shreddit/account/login"
+    >
+      <input id="light-username-field" name="username-field" type="text" autocomplete="username" />
+      <input
+        id="light-password-field"
+        name="password-field"
+        type="password"
+        autocomplete="current-password"
+      />
+    </form>
+  
+  
