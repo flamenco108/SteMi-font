@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-392 0 726 3000"
+   id="svg1325"
+   sodipodi:docname="luTj_SteMiNormal01.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1329" />
+  <sodipodi:namedview
+     id="namedview1327"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.22733333"
+     inkscape:cx="362.90323"
+     inkscape:cy="1497.8006"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1325" />
+  <g
+     transform="matrix(0.68812489,0,0,-0.90737019,101.04754,2018.5454)"
+     id="g1323">
+    <path
+       fill="currentColor"
+       d="m 80.7402,35.6602 q -43.0351,-60.2749 -151.388,-60.9675 -108.3529,-0.6926 -139.853,39.8074 -42.3865,54.4969 -27.4432,123.998 14.9432,69.5015 88.9432,128.002 74,58.5005 150.57,55.0547 61.5644,-2.74737 90.4385,-15.2441 5.30042,41.1187 -1.85419,45.9041 -13.5478,9.06145 -41.3512,8.92341 -115.461,-0.57324 -187.632,-48.3556 -72.1714,-47.7824 -96.1714,-118.282 -34.0174,-99.926 -17.1846,-135.943 46.1846,-99.5566 171.19,-99.5566 30.9941,0 96.4941,11 65.5,11 74.5,46 z M -77.731,96.4336 q 22.8169,0 27.3169,2.15234 76.9092,39.6934 110.668,96.4482 -19.8291,7.99023 -44.9756,8.06348 -79.0479,-0.0898 -106.299,-55.501 -22.86,-51.1631 13.2896,-51.1631 z M 32.166,489.961 q 61.7212,2.93726 98.334,-13.9609 l 32.3408,-15.2979 Q 233,403.0001 229.5,326.5002 q -3.5,-76.4999 -16,-123.5 -12.5,-47.0001 -21.5,-87 l 79.2695,53.8096 50.7305,-45.8096 2,-48 q -116,-328 -431,-266.5 -180.431,36.4472 -250.89,188.68 -48.1104,104.82 0.16797,228.856 97.7217,248.964 389.887999,262.925 z"
+       id="path1321" />
+  </g>
+</svg>

@@ -8,10 +8,20 @@
 - zostawić wolne codepointy dla wszelkich nagłosów i wygłosów (ok. 50szt średnio x2 bo wielkie litery) dla danej głoski
 - samogłoski, dwugłosy (np. `ae`), dwugłosy jotowane (np. `aje`) i dyftongi (np. ``) mają być zgrupowane po a.orig
 
+## Tworzenie stemów
+1. Bierz wzorcowy stem prostaCONS - skopiuj do komórki
+2. Ustaw jego długość (póki pionowy, łatwo)
+3. Obróć o zadaną l. stopni
+
 ### Pochylenia stemów
 
-- samogłoski: 20st w prawo
-- spółgłoski: 20st w lewo
+- Podstawowe:
+  - samogłoski: 30st w prawo
+  - spółgłoski!!!: 20st w lewo
+  - litery e-ę: 85st w prawo
+- Dodatkowo pochylenia (lewo/prawo):
+  - 45st
+  - 60st
 - wytworzone obrotem, nie pochyleniem!
 
 ### INNE
