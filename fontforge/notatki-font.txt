@@ -1,28 +1,63 @@
-### Porządek tworzenia i sortowania glifów
+# Porządek tworzenia, nazewnictwa i sortowania glifów
 
-- LITERY/GŁOSKI  zaczynają się od 57550 - U+e0ce (a.orig)
+- LITERY/GŁOSKI  zaczynają się od 57550 - U+e0ce (a.org)
 - składamy glif z elementów glifów poprzez referencje (Ctrl+G)
-- jeżeli to znak posiadający swój codepoint, najpierw tworzymy glif w PUA o nazwie `litera.orig` np. `a.orig` i z niej referencją przekazujemy to na codepoint
-- głoski zmiękczane (p,b,k,g,h,m,n) jako `litera.orig` mają wersję bez dolnej końcówki, potem `litera.tw` i dalej już `pi`
-- obok `litera.orig` znajdują się warianty litery, np. `k.orig` a obok `ksz.orig` (która nie ma swojego codepointu poza PUA)
+- jeżeli to znak posiadający swój codepoint, najpierw tworzymy glif w PUA o nazwie `litera.org` np. `a.org` i z niej referencją przekazujemy to na codepoint (X.org pozostaje jako referencyjny dla domyślnej litery podstawowej, czyli tworzymy x.org oraz X.org)
+- głoski zmiękczane (p,b,k,g,h,m,n) jako `litera.org` mają wersję bez dolnej końcówki, potem `litera.tw` i dalej już `pi`
+- obok `litera.org` znajdują się warianty litery, np. `k.org` a obok `ksz.org` (która nie ma swojego codepointu poza PUA)
 - zostawić wolne codepointy dla wszelkich nagłosów i wygłosów (ok. 50szt średnio x2 bo wielkie litery) dla danej głoski
-- samogłoski, dwugłosy (np. `ae`), dwugłosy jotowane (np. `aje`) i dyftongi (np. ``) mają być zgrupowane po a.orig
+- samogłoski, dwugłosy (np. `ae`), dwugłosy jotowane (np. `aje`) i dyftongi (np. ``) mają być zgrupowane po a.org
 
-## Tworzenie stemów
-1. Bierz wzorcowy stem prostaCONS - skopiuj do komórki
-2. Ustaw jego długość (póki pionowy, łatwo)
-3. Obróć o zadaną l. stopni
+## Łączenie glifów
+
+- poprzez achor entry-exit
+- reguły łączenia w pliku .fea
+- UWAGA! To oznacza, że trzeba utworzyć też osobne glify dla związków przekrzyżowanych (np. dla k -> kr, rk, rkr, ale tylko Kr)
+
+## Nazewnictwo
+
+- `litera.org, Litera.org` -> referencja -> litera, Litera
+- Glify wielkich liter obok małych oryginałów (jeżeli potrzebne)
+- Jeżeli glif to ligatura złożona z kilku innych glifów, (np. `wzd`), zapisać: `w_z_d`
+- Jeżeli glif to ligatura prosta, przez modyfikację jednego glifu (np. `ksz`), zapisać: `ksz`
+- Warianty glifów podstawowych (łuki, proste, pętle, kółka itp.) jak również glifów literowych dostają oznaczenie cyfrowe. Mają sobie odpowiadać:
+  - wariant przez zmianę konta oznaczany jest 2 cyframi (np. `a01`, `a02`)
+  - wariant inny przez 1 cyfrę lub literowo (np. `stemK.krt`, lub `lu1`)
+  - nazewnictwo z glifów podstawowych nie przenosi się na glify literowe
+
+## Stemy
+
+- Wzór: prostaCONS
+- 6+1 długości pionowych stemów:
+  - stemK, stemK.krt
+  - stemG, stemG.krt
+  - stemI, stemI.krt
+  - stemKRT
+- Z ww. stemów wyprowadzać wszystkie linie proste, także pochyłe - poprzez referencje!
 
 ### Pochylenia stemów
 
-- Podstawowe:
-  - samogłoski: 30st w prawo
-  - spółgłoski!!!: 20st w lewo
-  - litery e-ę: 85st w prawo
-- Dodatkowo pochylenia (lewo/prawo):
-  - 45st
-  - 60st
 - wytworzone obrotem, nie pochyleniem!
+
+#### Pochylenie podstawowe
+
+- samogłoski: 
+  - 30st w prawo
+  - litery `e-ę`: 85st w prawo
+- spółgłoski!!!: 
+  - PIONOWO (0st)
+  - 20st w lewo - spółgłoski USZYPIONE (ksz, psz, grz, wrz itp.)
+
+
+#### Warianty pochyleń (dla ew. wariantów glifów)
+
+- UWAGA!: Wielkie Litery nie mają wariantów pochyleń!
+- samogłoski (pochylenie w prawo):
+  - 20st, 30st, 45st, 55st
+  - glify `e-ę`: 85st, 90st
+spółgłoski (pochylenie w lewo):
+  - 20st, 30st, 45st
+
 
 ### INNE
 

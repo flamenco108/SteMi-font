@@ -2,6 +2,75 @@ LEGENDA: ly=ł, zi=rzi, si=szi
 (w grupach danej głoski RDZENNEJ)
 złożenie w nawiasie OBOWIĄZKOWO DO WYKONANIA względem odpowiednika poza nawiasem
 
+
+##############
+## SAMOGŁOSKI
+##############
+
+Samogłoski podnoszą pismo. Kąty nachylenia opisane w 'notatki-font'.
+Samogłoski o wariantach pochylenia oznaczać cyfrowo:
+
+A0=ą
+E0=ę
+
+A 15
+a.org, ra, ae, ao, au, aa0, ae0, ai, aia, aie, aio, aiu, aia0, aia0.alt, ay
+
+(stemV2, stemVx2, stemV3, stemVx3))
+
+a.org, A.org, a20, a45, a55, 
+a30.krt, a20krt, a.45.krt, a.55.krt, 
+a30r, a20r, a45r, a55r, 
+ra30, ra20, ra45, ra55, 
+ra30r, ra20r, ra45r, ra55r
+
+E 15
+e.org (U+e0e2), re, ea, eo, eu, ea0, ei, eia, eie, eio, eiu, eia0, eia0.alt, eie0, ey
+
+(eprost3)
+
+e.org, E.org, e90, 
+e.krt, e90.krt
+e85r, e90r, 
+re85, re90, 
+re85r, re90r
+
+
+O 25 
+o.org, o.alt, ro, ro.alt, oa, oe, oo, ou, oi, oia, o.altia, oie, o.altie, oio, o.altio, oio.alt, oiu, o.altiu, oiu.alt, oia0, oia0.alt, oie0, o.alte0, oy, o.alty
+
+(luVx2, luVxx2)
+(luVx3, luVxx3 - krt)
+
+o.org, O.org, o.alt, O.alt, o20, o20.alt, o45, o45.alt, o55, o55.alt
+o30.krt, o30.alt.krt, o20.krt, o20.alt.krt, o45.krt, o45.alt.krt, o55.krt, o55.alt.krt
+o30r, O30r, o30r.alt, O30r.alt, o20r, o20r.alt, o45r, o45r.alt, o55r, o55r.alt
+ro30, ro30.alt, ro20, ro20.alt, ro45, ro45.alt, ro55, ro55.alt
+ro30r, ro30r.alt, ro20r, ro20r.alt, ro45r, ro45r.alt, ro55r, ro55r.alt
+
+U 35
+u.org, u.alt, u.lift, ru, ru.alt, ru.lift, ua, u.alta, ue, u.alte, uo, u.alto, uo.alt, ui, u.alti, uia, u.altia, uie, u.altie, uio, uio.alt, u.altio, uiu, u.altiu, uiu.alt, u.altiu.alt, uia0, u.altia0, uia0.alt, u.altia0.alt, uieo, u.altieo, uy, u.alty
+
+I 16
+i.org (/|/), i.alt (|), i.beg (/|), i.end (|/), ia, ie, io, io.alt, iu, iu.alt, ia0, ia0.alt, ie0, ii, i.alti, i.alti.beg, ii.alt
+
+Y 19
+y.org, ry, ya, ye, yo, yo.alt, yu, yu.alt, yi, yia, yie, yio, yio.alt, yiu, yiu.alt, yia0, yia0.alt, yie0, yi
+
+Ą 5
+a0, a0.alt, ra0, ra0.alt
+
+Ę 2
+e0, re0
+
+
+
+##############
+## SPÓŁGŁOSKI
+##############
+
+
+
 P 43
 
 p, pi, pc, pć (pci), pcz, pch (ph), pchl (phl), pchł (phly), phn, phni, 
@@ -60,11 +129,11 @@ grzbi, grzd, grzm, grzw, grzwi, gt, gw, gwi, gwd, gwdzi,
 gz, gzi, gzidzi,
 
 C 20
-c.orig, c, cc, cj, ck, ckl, ckn, cki, cl, cł (cly), 
+c.org, c, cc, cj, ck, ckl, ckn, cki, cl, cł (cly), 
 cm, cmi, cn, cni, cr, cs, ct, ctw, cw, cwi,
 
 CI 25
-ci.orig, cacute, cih, cii, cil, cily, ćk (cik), ćkw (cikw), ćm (cim), ćmk (cimk), 
+ci.org, cacute, cih, cii, cil, cily, ćk (cik), ćkw (cikw), ćm (cim), ćmk (cimk), 
 cimki, cimik, cin, cip, cipk, cipki, cipik, cipiki, cir, cis,
 cisz, ciś (cisi), cit, ciw, ciwi
 
@@ -83,7 +152,7 @@ rż (rrz), rżn (rrzn)
 
 
 S 76
-s.orig, ss, sb (zb), sbi, sc, sch (sh), shl, shł (shly), shm, 
+s.org, ss, sb (zb), sbi, sc, sch (sh), shl, shł (shly), shm, 
 shn, shr, schrz (shsz), shw, scj, scl, scz, sf, sfl, sfr, 
 sg (zg), sgr (zgr), sj, sk, skl, skln, sklni, skł (skly), skm, skmi, 
 skn, skr, skrn, skrni, skrw, skrwi, skrz (sksz), sks, skś (sksi), skt, 
@@ -93,30 +162,30 @@ sprw, sprwi, sr, st, sth, sthn, stl, stł (stly), stm, stn,
 str, strw, strwi, strz (stsz), stw, sw
 
 SI 24
-sacute, si.orig, śb (źb), ść (sici), śćm (sicim), śćw (siciw), śćwi (siciwi), ścir (sicir), śćm (sicim), śćn/ścin (sicin), 
+sacute, si.org, śb (źb), ść (sici), śćm (sicim), śćw (siciw), śćwi (siciwi), ścir (sicir), śćm (sicim), śćn/ścin (sicin), 
 ścink (sicink), ścinki (sicinki), śl (sil), śł (sily), śm (sim), śmi (simi), śn (sin), śń/śni (sini), śp (sip), 
 śpi (sipi), śr (sir), św (siw), świ (siwi), 
 
 SZ 29
-scaron, sz.orig, szk, szkl, szkł (szkly), szkr, szkw, szl, szł (szly), szm, 
+scaron, sz.org, szk, szkl, szkł (szkly), szkr, szkw, szl, szł (szly), szm, 
 szmi, szn, szni, szp, szpi, szpl, szpł (szply), szpr, szpk, 
 szpt, szr, szt, szw, szcz, szczm, szczmi, szczw, szczwi
 
 DZ 8
-dz.orig, dzdz, dzb, dzbi, dzw, dzwi, dztw, dztwi
+dz.org, dzdz, dzb, dzbi, dzw, dzwi, dztw, dztwi
 
 DZI 17
 dź (dzi), dźb (dzib), dźg (dzig), dźgn (dzign), dźgni (dzigni), dźw (dziw), dziw (dziiw), dźwi (dziwi), dziwi (dziiwi), dziwk, 
 dziwki, dziwt, dziwit, dźstw (dzistw), dźstwi (dzistwi)
 
 DŻ=DRZ 5
-dcaron.orig, dżdż (drzdrz), dżm (drzm), dżr (drzr)
+dcaron.org, dżdż (drzdrz), dżm (drzm), dżr (drzr)
 
 DRZ=DSZ 7
 dsz, dszw, dszwi, dszm, dszmi, dszb, dszbi
 
 Z 59
-z.orig, zz, zb, zbl, zbł (zbly), zbr, zbrz, zbz, zbzi, zd, 
+z.org, zz, zb, zbl, zbł (zbly), zbr, zbrz, zbz, zbzi, zd, 
 zdj, zdł (zdly), zdm, zdmi, zdr, zdrw, zdrwi, zdrz, zdw, zdz, 
 zdzi, zdziw, zdzw, zdż (zdrz), zdrz (zdsz), zg, zgi, zgb, zgbi, zgl, 
 zgł (zgly), zgn, zgni, zgr, zgrz, zgw, zgwi, zh, zj, zl, 
@@ -124,164 +193,36 @@ zł (zly), zm, zmł (zmly), zml, zmn, zmni, zmr, zn, zni, zr,
 zż (zrz), zs, zst, zsz, zw, zwi, zwl, zwł (zwly), zwr, 
 
 ZI 23
-zacute, zi.orig, zizi, źb (zib), źbi (zibi), źć (zici), źdź (zidzi), źdźb (zidzib), źdźbi (zidzibi), 
+zacute, zi.org, zizi, źb (zib), źbi (zibi), źć (zici), źdź (zidzi), źdźb (zidzib), źdźbi (zidzibi), 
 źdźbl (zidzibl), źdźbł (zidzibly), źg (zig), źgi (zigi), źgn (zigin), źgni (zigini), źl (zil), źł (zily), źń (zini), źr (zir), 
 źrz (zirz), źw (ziw), źwi (ziwi), 
 
 RZ/Ż 25
-zcaron, zdotaccent, rz.orig, żb/rzb (rzb), rzbi, żd (rzd), żdż (rzdsz), żdrz (rzdrz), żg (rzg), rzgi, 
+zcaron, zdotaccent, rz.org, żb/rzb (rzb), rzbi, żd (rzd), żdż (rzdsz), żdrz (rzdrz), żg (rzg), rzgi, 
 rzgn, rzgni, rzh, rzhi, rzk, rzki, rzl, żł (rzly), rzm, rzmi, 
 rzn, rzni, rzr, rzw, rzwi, 
 
 F
-f.orig, fi, fl, fł (fly), fsz, fszk, fszt, fsi, fr, ft, 
+f.org, fi, fl, fł (fly), fsz, fszk, fszt, fsi, fr, ft, 
 fc, fci,
 
 
 
 
 
-W
-w.orig, wi, wb, wbi, wbr, wc, wci, wh, whi, whl, wchł (whly), whsz, wcz, wd, wdm, wdr, wdz, wdzi, wg, wgi, wl, wly, wrz, wzi, wr, wd, wdz, wdzw, wdzi
-
-
-w
-wi
-wb
-wbr
-wc
-wci
-wch
-wchł
-wchrz
-wcz
-wd
-wdm
-wdr
-wdz
-wdzi
-wg
-wgi
-wgl
-wgł
-wgni
-wgr
-wgrz
-wh
-wj
-wk
-wkl
-wkł
-wkr
-wkrz
-wl
-wł
-wm
-wn
-wni
-wp
-wpl
-wpł
-wpr
-wprz
-wr
-wrz
-ws
-wsch
-wsk
-wskr
-wskrz
-wsł
-wsm
-wsn
-wsp
-wspi
-wspł
-wst
-wstr
-wstrz
-wsz
-wszl
-wszt
-wszcz
-wszczn
-wści
-wśl
-wśp
-wśr
-wśw
-wt
-wtł
-wtr
-wtrz
-ww
-wwl
-wz
-wzi
-wzb
-wzbi
-wzbr
-wzd
-wzdł
-wzdr
-wzg
-wzgl
-wzl
-wzm
-wzn
-wzr
-wzsz
-wzw
-wż
-wżd
-w
-wc
-wć
-wci
-wd
-wdź
-wdzi
-wk
-wl
-wn
-wń
-wni
-wr
-ws
-wsk
-wstw
+W 120
+w.org, wi, wb, wbi, wbr, wc, wć, wci, wcz, wd, 
+wdm, wdr, wdz, wdzw, wdź, wdzi, wg, wgi, wgl, wgł (wgly), 
+wgr, wgrz, wh, whl, wj, wk, wkl, wkł (wkly), wkr, 
+wksz, wl, wł (wly), wn, wń, wni, wp, wpl, wpł (wply), wpr, 
+wpsz, wr, wrz, wrzd, ws, wsh, wsk, wskl, wskł (wskly), wskr, 
+wsksz, wsl, wsł (wsly), wsm, wsmi, wsn, wsni, wsp, wspi, wspl, 
+wspł (wsply), wsr, wss, wst, wstl, wstł (wstly), wstr, wstsz, wstw, wsz, 
+wszl, wszł (wszly), wszt, wszcz, wszczn, wszczni, wś, wśl, wśł, wści, 
+wśp, wśpl, wśpł (wśply), wśr, wśw, wświ, wt, wtl, wtł (wtly), wtr, 
+wtsz, ww, wwi, wwl, wz,  wzi, wzb, wzbi, wzbl, wzbł (wzbly), 
+wzbr, wzd, wzdl, wzdł (wzgly), wzdr, wzg, wzgl, wzgł (wzgly), wzgr, wzl, 
+wzł (wzly), wzm, wzmi, wzn, wzni, wzr, wzrz, wzsz, wzw, wr 
 
 
 
-
-
-##############
-## SAMOGŁOSKI
-##############
-
-A0=ą
-E0=ę
-
-A 15
-a.orig, ra, ae, ao, au, aa0, ae0, ai, aia, aie, aio, aiu, aia0, aia0.alt, ay
-
-E 15
-e.orig (U+e0e2), re, ea, eo, eu, ea0, ei, eia, eie, eio, eiu, eia0, eia0.alt, eie0, ey
-
-O 25
-o.orig, o.alt, ro, ro.alt, oa, oe, oo, ou, oi, oia, o.altia, oie, o.altie, oio, o.altio, oio.alt, oiu, o.altiu, oiu.alt, oia0, oia0.alt, oie0, o.alte0, oy, o.alty
-
-U 35
-u.orig, u.alt, u.lift, ru, ru.alt, ru.lift, ua, u.alta, ue, u.alte, uo, u.alto, uo.alt, ui, u.alti, uia, u.altia, uie, u.altie, uio, uio.alt, u.altio, uiu, u.altiu, uiu.alt, u.altiu.alt, uia0, u.altia0, uia0.alt, u.altia0.alt, uieo, u.altieo, uy, u.alty
-
-I 16
-i.orig (/|/), i.alt (|), i.beg (/|), i.end (|/), ia, ie, io, io.alt, iu, iu.alt, ia0, ia0.alt, ie0, ii, i.alti, i.alti.beg, ii.alt
-
-Y 19
-y.orig, ry, ya, ye, yo, yo.alt, yu, yu.alt, yi, yia, yie, yio, yio.alt, yiu, yiu.alt, yia0, yia0.alt, yie0, yi
-
-Ą 5
-a0, a0.alt, ra0, ra0.alt
-
-Ę 2
-e0, re0
