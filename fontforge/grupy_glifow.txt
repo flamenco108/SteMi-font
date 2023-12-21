@@ -40,7 +40,7 @@ O 25
 o.org, o.alt, ro, ro.alt, oa, oe, oo, ou, oi, oia, o.altia, oie, o.altie, oio, o.altio, oio.alt, oiu, o.altiu, oiu.alt, oia0, oia0.alt, oie0, o.alte0, oy, o.alty
 
 (luVx2, luVxx2)
-(luVx3, luVxx3 - krt)
+(luVx3, luVxx3 = krt)
 
 o.org, O.org, o.alt, O.alt, o20, o20.alt, o45, o45.alt, o55, o55.alt
 o30.krt, o30.alt.krt, o20.krt, o20.alt.krt, o45.krt, o45.alt.krt, o55.krt, o55.alt.krt
@@ -51,8 +51,20 @@ ro30r, ro30r.alt, ro20r, ro20r.alt, ro45r, ro45r.alt, ro55r, ro55r.alt
 U 35
 u.org, u.alt, u.lift, ru, ru.alt, ru.lift, ua, u.alta, ue, u.alte, uo, u.alto, uo.alt, ui, u.alti, uia, u.altia, uie, u.altie, uio, uio.alt, u.altio, uiu, u.altiu, uiu.alt, u.altiu.alt, uia0, u.altia0, uia0.alt, u.altia0.alt, uieo, u.altieo, uy, u.alty
 
+(luUxX, luUxxX)
+
+u.org, U.org, u.alt, U.alt, u30, u30.alt, u45, u45.alt, 
+u.krt, u.alt.krt, u.lft
+(główna "u" nie nadaje się do przekrzyżowań!)
+u30r, U30r, u30r.alt, U30r.alt, u45r, U45r, u45r.alt, U45r.alt, u55r, U55r, u55r.alt, U55r.alt
+ru30, ru30.alt, ru45, ru45.alt, ru55, ru55.alt
+ru45r, ru45r.alt, ru55r, ru55r.alt
+
 I 16
 i.org (/|/), i.alt (|), i.beg (/|), i.end (|/), ia, ie, io, io.alt, iu, iu.alt, ia0, ia0.alt, ie0, ii, i.alti, i.alti.beg, ii.alt
+
+(stemI, stemI.krt, stemKRT, dolMK, dolKszMK, dolKszMKe)
+
 
 Y 19
 y.org, ry, ya, ye, yo, yo.alt, yu, yu.alt, yi, yia, yie, yio, yio.alt, yiu, yiu.alt, yia0, yia0.alt, yie0, yi
