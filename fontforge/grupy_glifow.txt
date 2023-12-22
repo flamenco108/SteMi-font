@@ -20,7 +20,7 @@ a.org, ra, ae, ao, au, aa0, ae0, ai, aia, aie, aio, aiu, aia0, aia0.alt, ay
 
 a.org, A.org, a20, a45, a55, 
 a30.krt, a20krt, a.45.krt, a.55.krt, 
-a30r, a20r, a45r, a55r, 
+a30r, A30r, a20r, a45r, a55r, 
 ra30, ra20, ra45, ra55, 
 ra30r, ra20r, ra45r, ra55r
 
@@ -64,6 +64,10 @@ I 16
 i.org (/|/), i.alt (|), i.beg (/|), i.end (|/), ia, ie, io, io.alt, iu, iu.alt, ia0, ia0.alt, ie0, ii, i.alti, i.alti.beg, ii.alt
 
 (stemI, stemI.krt, stemKRT, dolMK, dolKszMK, dolKszMKe)
+I - wznos, | - opad
+(stemISZ, stemISZ.krt, stemVa4, stemVa5)
+
+i.org (|), I.org, i.alt (I), I.alt (I), i.lew (/|), I.lew (/|), i.prw (|/), I.prw (|/), i.fin, i.lew.alt (\I), i.prw.alt (I\), i.fin.alt, i.sum (/|/), i.sum.alt (\I\), i.cof (/), i.cof.alt (\)
 
 
 Y 19
