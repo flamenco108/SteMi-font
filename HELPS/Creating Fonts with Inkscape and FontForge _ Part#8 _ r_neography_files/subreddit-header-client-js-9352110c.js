@@ -1,2 +1,0 @@
-import"./shreddit-subreddit-header-29db343d.js";import"./shell-6eeab4aa.js";import"./icon-edit-outline-a68271f2.js";import"./community-widget-edit-modal-db04e16b.js";import"./icon-warning-fill-65df5259.js";import"./index-e1906639.js";import"./icon-notification-fill-eb4ad13e.js";import"./icon-notification-off-outline-4e6925e8.js";import"./icon-notification-outline-137e164c.js";import"./icon-overflow-horizontal-outline-d9ffe8f5.js";import"./feeds-7c0b8d4b.js";
-//# sourceMappingURL=subreddit-header-client-js-9352110c.js.map
