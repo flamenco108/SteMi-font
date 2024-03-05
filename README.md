@@ -4,7 +4,7 @@ Here we work on the font for the Polish shorthand system called SteMi. More on t
 
 At the current stage of development, I suppose, it's not usable in other languages, as still it's barely usable in Polish.
 
-# Gałąź dev
+# Gałąź theory-dev
 
 Tutaj odbywają się prace nad budowaniem fontu. Rezultaty przekazywane są do gałęzi `master`
 
