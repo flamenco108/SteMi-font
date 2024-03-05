@@ -23,7 +23,7 @@ W plikach tych zawarte będą wszelkie niezbędne cudności, dzięki którym bę
 Docelowo będą:
 
 - `master`: tu znajdzie się docelowy kod źródłowy i z tego będą generowane releasy (daleka droga).
-- `dev`: tutaj będą wszystkie śmieci i tu odbywać się będzie proces twórczy.
+- `theory-dev` (dawniej `dev`, ale były problemy ze słowami kluczowymi): tutaj będą wszystkie śmieci i tu odbywać się będzie proces twórczy.
 - np. `stemi-001-2013`: gałąź dla konkretnej wersji, albo releasu - polecam zajrzeć, znajduje się tu font TTF do sprawdzenia.
 
 ## Poniżej:
