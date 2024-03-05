@@ -1,0 +1,17 @@
+\begin[papersize=a4]{document}
+
+\font[family=SteMitest01,size=26pt]
+
+
+\use[module=packages.linespacing]
+\set[parameter=linespacing.method,value=fixed]
+\set[parameter=linespacing.fixed.baselinedistance,value=1.6em]
+\define[command=myquad]{\glue[width=1.2em plus 1.2em minus 1.2em]}
+\set[parameter=linebreak.hyphenPenalty,value=3000]
+\set[parameter=linebreak.tolerance,value=1000]
+
+
+k h g m
+gs g s
+
+\end{document}
