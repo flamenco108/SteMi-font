@@ -1,6 +1,6 @@
 # About SteMi-font
 
-Here we work on the font for the Polish shorthand system called SteMi. More on this you can find on  our webpage: [https://www.stenografia.pl]([https://www.stenografia.pl/](https://www.stenografia.pl/kategorie/stemi/)) which is a part of a webpage about [shorthand in general](https://www.stenografia.pl). It's in Polish, so use some translate soft. 
+Here we work on the font for the Polish shorthand system called SteMi. More on this you can find on  our webpage: [https://www.stenografia.pl](https://www.stenografia.pl/kategorie/stemi/) which is a part of a webpage about [shorthand in general](https://www.stenografia.pl). It's in Polish, so use some translate soft. 
 
 At the current stage of development, I suppose, it's not usable in other languages, as still it's barely usable in Polish.
 
