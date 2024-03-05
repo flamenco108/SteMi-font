@@ -27,7 +27,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1709115845
+ModificationTime: 1709569248
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -2906,7 +2906,7 @@ EndChar
 StartChar: OstrI
 Encoding: 57553 57553 88
 Width: 120
-Flags: WO
+Flags: W
 AnchorPoint: "zlaczki" 60 136 exit 0
 AnchorPoint: "zlaczki" 60 60 entry 0
 LayerCount: 3
