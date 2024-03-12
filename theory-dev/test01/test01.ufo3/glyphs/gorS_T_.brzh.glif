@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gorST.brzh" format="2">
+  <advance width="528" height="528"/>
+  <unicode hex="E01E"/>
+  <outline>
+    <contour>
+      <point x="179.492" y="-140.93" type="qcurve"/>
+      <point x="195.325" y="-195.412"/>
+      <point x="140.404" y="-224.65" type="qcurve"/>
+      <point x="86.3252" y="-238.412"/>
+      <point x="58.4873" y="-179.499" type="qcurve"/>
+      <point x="-128.675" y="292.588"/>
+      <point x="36.3086" y="624.521" type="qcurve"/>
+      <point x="192.325" y="866.588"/>
+      <point x="418.096" y="722.92" type="qcurve" smooth="yes"/>
+      <point x="585.477" y="616.328"/>
+      <point x="457.964" y="336.346" type="qcurve" smooth="yes"/>
+      <point x="353.325" y="106.588"/>
+      <point x="120" y="0" type="qcurve"/>
+      <point x="163.325" y="-106.412"/>
+    </contour>
+    <contour>
+      <point x="99.0742" y="124.665" type="qcurve"/>
+      <point x="284.325" y="214.588"/>
+      <point x="348.979" y="401.577" type="qcurve" smooth="yes"/>
+      <point x="411.989" y="578.841"/>
+      <point x="359.163" y="621.845" type="qcurve" smooth="yes"/>
+      <point x="233.378" y="723.735"/>
+      <point x="140.232" y="564.521" type="qcurve" smooth="yes"/>
+      <point x="43.3252" y="399.588"/>
+    </contour>
+    <component base="konCONS" xScale="0.866025" yScale="0.866025" xyScale="-0.5" yxScale="0.5" xOffset="-28.9038" yOffset="40.3579"/>
+    <component base="konCONS" xScale="0.819152" yScale="0.819152" xyScale="-0.573577" yxScale="0.573577" xOffset="36.8595" yOffset="-179.004"/>
+  </outline>
+</glyph>

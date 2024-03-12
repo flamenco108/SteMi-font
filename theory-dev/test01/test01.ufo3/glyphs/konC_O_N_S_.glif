@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="konCONS" format="2">
+  <advance width="174" height="174"/>
+  <unicode hex="E002"/>
+  <outline>
+    <contour>
+      <point x="80" y="60" type="move"/>
+      <point x="69" y="71" type="line"/>
+      <point x="60" y="80" type="line"/>
+      <point x="60" y="40" type="line"/>
+      <point x="40" y="60" type="line"/>
+      <point x="80" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="120"/>
+      <point x="120" y="88"/>
+      <point x="120" y="60" type="qcurve" smooth="yes"/>
+      <point x="120" y="30"/>
+      <point x="102.966" y="14" type="qcurve" smooth="yes"/>
+      <point x="88" y="0"/>
+      <point x="32" y="0"/>
+      <point x="17.0342" y="14" type="qcurve" smooth="yes"/>
+      <point x="0" y="30"/>
+      <point x="0" y="60" type="qcurve" smooth="yes"/>
+      <point x="0" y="88"/>
+      <point x="32" y="120"/>
+    </contour>
+  </outline>
+</glyph>

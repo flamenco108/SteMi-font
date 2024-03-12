@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="koloZ" format="2">
+  <advance width="449" height="449"/>
+  <unicode hex="E061"/>
+  <outline>
+    <contour>
+      <point x="225.899" y="128.02" type="qcurve" smooth="yes"/>
+      <point x="276" y="128"/>
+      <point x="304.033" y="161.767" type="qcurve" smooth="yes"/>
+      <point x="331" y="194"/>
+      <point x="331.158" y="233.283" type="qcurve" smooth="yes"/>
+      <point x="331" y="264"/>
+      <point x="304.033" y="309.278" type="qcurve" smooth="yes"/>
+      <point x="277" y="355"/>
+      <point x="225.899" y="354.645" type="qcurve" smooth="yes"/>
+      <point x="179" y="355"/>
+      <point x="115" y="270"/>
+      <point x="115" y="197"/>
+      <point x="178" y="128"/>
+    </contour>
+    <contour>
+      <point x="223.472" y="480.951" type="qcurve" smooth="yes"/>
+      <point x="304" y="481"/>
+      <point x="372.451" y="417.797" type="qcurve" smooth="yes"/>
+      <point x="406" y="387"/>
+      <point x="427.914" y="339.259" type="qcurve" smooth="yes"/>
+      <point x="449" y="291"/>
+      <point x="449.371" y="239" type="qcurve" smooth="yes"/>
+      <point x="449" y="189"/>
+      <point x="426.295" y="138.408" type="qcurve" smooth="yes"/>
+      <point x="403" y="87"/>
+      <point x="373.262" y="63.2031" type="qcurve" smooth="yes"/>
+      <point x="334" y="32"/>
+      <point x="300.794" y="15.8379" type="qcurve" smooth="yes"/>
+      <point x="268" y="0"/>
+      <point x="179" y="0"/>
+      <point x="144.933" y="16.2422" type="qcurve" smooth="yes"/>
+      <point x="111" y="32"/>
+      <point x="73.6807" y="63.2031" type="qcurve" smooth="yes"/>
+      <point x="41" y="91"/>
+      <point x="20.6475" y="139.218" type="qcurve" smooth="yes"/>
+      <point x="0" y="188"/>
+      <point x="0" y="239" type="qcurve" smooth="yes"/>
+      <point x="0" y="351"/>
+      <point x="73.6807" y="417.797" type="qcurve" smooth="yes"/>
+      <point x="144" y="481"/>
+    </contour>
+    <component base="konCONS" xOffset="120" yOffset="352"/>
+    <component base="konCONS" xOffset="201" yOffset="354"/>
+    <component base="konCONS" xOffset="127" yOffset="8"/>
+    <component base="konCONS" xOffset="207.794" yOffset="9.83789"/>
+  </outline>
+</glyph>

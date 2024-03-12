@@ -24,14 +24,16 @@ echo "----------------"
 JA=`whoami`
 
 FONTDIR="$HOME/.fonts/" && echo "Dir fontów: "$FONTDIR
-echo
-echo "================"
-echo
-SKRYPTY="../skrypty"
+SKRYPTY="../skrypty" && echo "Dir skryptów: $SKRYPTY"
 
 # kopia obrabianego pliku aby mieć jego gołą wersję
 echo "Kopia zapasowa pliku $ARG"
-cp $ARG $ARG.bck && echo "OK"
+cp $ARG $ARG.bck && echo "$ARG zbekapowane OK"
+
+echo
+echo "================"
+echo
+
 
 SFD0=$ARG
 
@@ -41,10 +43,13 @@ DIRTESTU=`basename "$PWD"`
 NAZFONTU="SteMi$DIRTESTU" #nazwa fontu w pliku
 $SKRYPTY/zmien-nazwe-fontu.py $SFD0 $NAZFONTU $DIRTESTU && echo "Nazwę fontu zmieniono na $NAZFONTU"
 
-# dołożenie pliku .fea
-SFD1=$NAZWA-01-fea.sfd && echo $SFD1
+# FEA 1 features and lookups
+SFD1=$NAZWA-01-fea.sfd #&& echo $SFD1
 FEAFILE=$NAZWA.fea
-$SKRYPTY/dodaj-fea.py $SFD0 $FEAFILE $SFD1 && echo "Dodano features z pliku $FEAFILE"
+# dołożenie pliku .fea do pliku SFD
+# odhaszuj w razie potrzeby i zahaszuj linię niżej
+#$SKRYPTY/dodaj-fea.py $SFD0 $FEAFILE $SFD1 && echo "Dodano features z pliku $FEAFILE"
+cp $SFD0 $SFD1
 
 
 # usunięcie niepotrzebnych kropek ze znaków (krzyżyk znacznika dla kotwicy)
@@ -53,6 +58,13 @@ CZESC='80 60 m 25,0,-1' #&& echo $CZESC
 SFD2="$NAZWA-02-usgl.sfd" #&& echo $SFD2
 #echo "$SKRYPTY/usun-czesc-glifu.sh $SFD1 $CZESC $SFD2"
 $SKRYPTY/usun-czesc-glifu.sh "$SFD1" "$CZESC" "$SFD2"
+if [ -z "$(cat $SFD2 | grep "$CZESC")" ]; then
+    echo "Linijka $CZESC została usunięta z pliku $SFD2"
+fi
+
+echo
+echo "---------------"
+echo "Generowanie fontu:"
 
 
 # wygenerowanie fontu
@@ -61,6 +73,15 @@ OTF=$NAZWA.otf
 SFD3="$NAZWA-03-wyn.sfd"
 #echo "$SKRYPTY/generuj-font.py $SFD2 $SFD3 $OTF"
 $SKRYPTY/generuj-font.py $SFD2 $SFD3 $OTF
+if [ -f "$OTF" ]; then
+    echo "something"
+fi
+
+
+# FEA 2 features and lookups
+# dodawanie fea do pliku OTF (jeżeli nie dodajemy do SFD wyżej)
+$SKRYPTY/dodaj-fea-otf.py $FEAFILE $OTF
+
 
 # skopiowanie fontu do ~/.fonts/
 cp $OTF $HOME/.fonts/ && echo "Font $OTF został skopiowany do .fonts"
@@ -71,30 +92,75 @@ NAZSIL=$NAZWA.sil
 if [ -f "$NAZSIL" ]; then
     rm "$NAZSIL"
 fi
-
+# tworzenie pliku testowego TeX
+NAZTEX=$NAZWA.tex
+if [ -f "$NAZTEX" ]; then
+    rm "$NAZTEX"
+fi
 
 FONTNAZWA=$($SKRYPTY/nazwa-fontu.py $SFD3) && echo "Nazwa fontu to $FONTNAZWA"
-echo "\begin[papersize=a4]{document}" >> $NAZSIL
-echo "" >> $NAZSIL
-#echo "\font[family=$FONTNAZWA,size=26pt]" >> $NAZSIL
-echo "\font[family=$NAZFONTU,size=26pt]" >> $NAZSIL
-echo "" >> $NAZSIL
-echo "
+
+
+### Tu testowy tekst
+TEST=$(<test01.txt)
+
+### do wykasowania
+FONT8="\font[family=Liberation Serif,size=12pt]
+$TEST
+"
+
+SILDOK="\begin[papersize=a4]{document}
 \use[module=packages.linespacing]
 \set[parameter=linespacing.method,value=fixed]
 \set[parameter=linespacing.fixed.baselinedistance,value=1.6em]
 \define[command=myquad]{\glue[width=1.2em plus 1.2em minus 1.2em]}
 \set[parameter=linebreak.hyphenPenalty,value=3000]
 \set[parameter=linebreak.tolerance,value=1000]
-" >> $NAZSIL
-echo "" >> $NAZSIL
-echo "k h g m" >> $NAZSIL
-echo "gs g s" >> $NAZSIL
-echo "" >> $NAZSIL
-echo "\end{document}" >> $NAZSIL
+
+\font[family=$NAZFONTU,size=108pt]
+
+$TEST
+
+$FONT8
+
+\end{document}
+"
+echo "$SILDOK" >> $NAZSIL
+
+TEXDOK="
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+%\documentclass{article}
+\documentclass[a4paper, wide, 12pt]{mwart}
+%\usepackage[margin=0.5cm]{geometry}
+%\usepackage{graphicx}
+%\usepackage[document]{ragged2e} % left justify
+\tolerance=1 % prevent hyphenation
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+\usepackage{fontspec}
+
+\newfontfamily{\fonta}[Scale=8]{$OTF}
+\newfontfamily{\fontb}[Scale=1]{Font_8.ttf}
+
+\begin{document}
+
+\huge tst01
+
+{\fonta $TEST }
+
+\end{document}
+"
+echo "$TEXDOK" >> $NAZTEX
+
 
 # generuję PDF z SIL
-sile $NAZSIL
+sile $NAZSIL -o $NAZWA-sil.pdf
+# generuję PDF z XeLaTeX
+#xelatex $NAZTEX
 
 # otwórz wynikowy PDF
 #google-chrome $NAZWA.pdf

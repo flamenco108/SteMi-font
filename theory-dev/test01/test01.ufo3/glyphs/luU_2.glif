@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="luU2" format="2">
+  <advance width="773" height="773"/>
+  <unicode hex="E0AF"/>
+  <outline>
+    <contour>
+      <point x="146.966" y="-85" type="qcurve" smooth="yes"/>
+      <point x="245" y="-155"/>
+      <point x="656.86" y="546.105" type="qcurve"/>
+      <point x="761.649" y="485.605" type="line"/>
+      <point x="304" y="-310"/>
+      <point x="108" y="-192" type="qcurve" smooth="yes"/>
+      <point x="-17" y="-117"/>
+      <point x="0.666016" y="64.3105" type="qcurve"/>
+      <point x="120.21" y="53.8516" type="line"/>
+      <point x="102" y="-52"/>
+    </contour>
+    <component base="konCONS" xScale="0.866025" yScale="0.866025" xyScale="-0.5" yxScale="0.5" xOffset="627.727" yOffset="493.644"/>
+    <component base="konCONS" xScale="0.996194" yScale="0.996194" xyScale="-0.0871559" yxScale="0.0871559" xOffset="-4.56331" yOffset="4.5387"/>
+  </outline>
+</glyph>

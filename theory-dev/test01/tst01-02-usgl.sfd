@@ -19,7 +19,7 @@ Layer: 0 1 "Warstwa t+AUIA-a" 1
 Layer: 1 1 "Plan pierwszy" 1
 Layer: 2 0 "Warstwa t+AUIA-a 2" 1
 HasVMetrics: 1
-XUID: [1021 102 369710040 9179092]
+XUID: [1021 102 369710040 9694235]
 BaseHoriz: 0
 StyleMap: 0x0040
 FSType: 0
@@ -27,7 +27,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1709553007
+ModificationTime: 1710246544
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -751,7 +751,7 @@ ShortTable: maxp 16
   3
   3
 EndShort
-LangName: 1033 "" "" "" "FontForge 2.0 : SteMiNormal : 25-7-2023" "" "" "" "" "" "Krzysztof Smirnow (Stenografow)" "" "" "https://www.stenografia.pl" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Krzysztof Smirnow (Stenografow)" "" "" "https://www.stenografia.pl" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 2 0
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -759,7 +759,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 57320 20 14
+WinInfo: 57340 20 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -835,7 +835,7 @@ Grid
   Named: "wysokie-litery"
 EndSplineSet
 TeXData: 1 0 0 349525 174762 116508 101362 -383080 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114114 100
+BeginChars: 1114114 108
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -1027,6 +1027,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 0 2
 Refer: 46 57346 N 1 0 0 1 0 1589 2
+Validated: 11
 EndChar
 
 StartChar: gorP.brzh
@@ -1080,6 +1081,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 859 2
 Refer: 46 57346 S 1 0 0 1 0 779 2
+Validated: 43
 EndChar
 
 StartChar: stemI.krt
@@ -1102,6 +1104,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 0 2
 Refer: 46 57346 S 1 0 0 1 0 222 2
+Validated: 11
 EndChar
 
 StartChar: stemKRT
@@ -1126,28 +1129,29 @@ SplineSet
  -1 30 -1 30 -1 60 c 4,14,15
  -1 88 -1 88 15 104 c 132,-1,4
  31 120 31 120 59 120 c 132,-1,5
-59 200 m 29,0,-1
- 59 160 l 29,1,-1
- 39 180 l 29,2,-1
- 79 180 l 1053,3,-1
-59 240 m 132,-1,5
- 87 240 87 240 103 224 c 132,-1,6
- 119 208 119 208 119 180 c 4,7,8
- 119 150 119 150 101.965820312 134 c 4,9,10
- 87 120 87 120 59 120 c 132,-1,11
- 31 120 31 120 16.0341796875 134 c 4,12,13
- -1 150 -1 150 -1 180 c 4,14,15
- -1 208 -1 208 15 224 c 132,-1,4
- 31 240 31 240 59 240 c 132,-1,5
-120 179 m 5,0,-1
- 120 60 l 5,1,2
- 120 0 120 0 60 0 c 133,-1,4
- 0 0 0 0 0 60 c 5,5,-1
- 0 179 l 5,6,7
- 0 240 0 240 60 240 c 132,-1,9
- 120 240 120 240 120 179 c 5,0,-1
-0 60 m 1029
+59 200 m 29,16,-1
+ 59 160 l 29,17,-1
+ 39 180 l 29,18,-1
+ 79 180 l 1053,19,-1
+59 240 m 132,-1,21
+ 87 240 87 240 103 224 c 132,-1,22
+ 119 208 119 208 119 180 c 4,23,24
+ 119 150 119 150 101.965820312 134 c 4,25,26
+ 87 120 87 120 59 120 c 132,-1,27
+ 31 120 31 120 16.0341796875 134 c 4,28,29
+ -1 150 -1 150 -1 180 c 4,30,31
+ -1 208 -1 208 15 224 c 132,-1,20
+ 31 240 31 240 59 240 c 132,-1,21
+120 179 m 5,32,-1
+ 120 60 l 5,33,34
+ 120 0 120 0 60 0 c 133,-1,35
+ 0 0 0 0 0 60 c 5,36,-1
+ 0 179 l 5,37,38
+ 0 240 0 240 60 240 c 132,-1,39
+ 120 240 120 240 120 179 c 5,32,-1
+0 60 m 1029,40,-1
 EndSplineSet
+Validated: 11
 EndChar
 
 StartChar: gorBbrzh
@@ -1175,6 +1179,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 0 2
 Refer: 46 57346 N 1 0 0 1 0 79 2
+Validated: 43
 EndChar
 
 StartChar: stemK.krt
@@ -1197,6 +1202,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 0 0 2
 Refer: 46 57346 N 1 0 0 1 -1 1189 2
+Validated: 11
 EndChar
 
 StartChar: stemG
@@ -1219,6 +1225,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 0 2
 Refer: 46 57346 N 1 0 0 1 0 840 2
+Validated: 11
 EndChar
 
 StartChar: gorST.brzh
@@ -1277,6 +1284,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 0.866025 -0.5 0.5 0.866025 -28.9038 40.3579 2
 Refer: 46 57346 N 0.819152 -0.573577 0.573577 0.819152 36.8595 -179.004 2
+Validated: 43
 EndChar
 
 StartChar: luD1
@@ -1296,6 +1304,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 466 2
 Refer: 46 57346 N 1 0 0 1 240 0 2
+Validated: 11
 EndChar
 
 StartChar: luD2
@@ -1307,6 +1316,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 18 57445 S -1 0 0 -1 360 586 2
+Validated: 5
 EndChar
 
 StartChar: gorPS.brzh
@@ -1319,21 +1329,22 @@ LayerCount: 3
 Fore
 SplineSet
 120 55 m 1,0,1
- 120 0 120 0 60 0 c 129,-1,2
- 0 0 0 0 0 55 c 1,3,4
- 0 524 0 524 0 806 c 1,5,6
- 0 1121 0 1121 291.5 1121 c 128,-1,7
- 583 1121 583 1121 584 807 c 0,8,9
- 585 315 585 315 120 82 c 1,10,-1
+ 120 0 120 0 60 0 c 1,2,3
+ 0 0 0 0 0 55 c 1,4,5
+ 0 524 0 524 0 806 c 1,6,7
+ 0 1121 0 1121 291.5 1121 c 0,8,9
+ 583 1121 583 1121 584 807 c 0,10,11
+ 585 315 585 315 120 82 c 1,12,-1
  120 55 l 1,0,1
-120 225 m 1,11,12
- 454 407 454 407 456 806 c 0,13,14
- 457 988 457 988 290 988 c 128,-1,15
- 123 988 123 988 123 806 c 0,16,17
- 122 484 122 484 120 225 c 1,11,12
+120 225 m 1,13,14
+ 454 407 454 407 456 806 c 0,15,16
+ 457 988 457 988 290 988 c 0,17,18
+ 123 988 123 988 123 806 c 0,19,20
+ 122 484 122 484 120 225 c 1,13,14
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 0 80 2
 Refer: 46 57346 N 1 0 0 1 0 0 2
+Validated: 43
 Layer: 2
 SplineSet
 290.287109375 1900.18457031 m 4
@@ -1379,6 +1390,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 305.563 0 2
 Refer: 46 57346 S 0.866025 -0.5 0.5 0.866025 -19.3981 815.038 2
+Validated: 43
 EndChar
 
 StartChar: luT2
@@ -1390,6 +1402,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 21 57450 S -1 0 0 -1 426.564 900.197 2
+Validated: 5
 EndChar
 
 StartChar: luKL
@@ -1429,6 +1442,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 187.016 161 2
 Refer: 46 57346 N 1 0 0 1 187.016 0 2
+Validated: 43
 EndChar
 
 StartChar: luSJ
@@ -1457,6 +1471,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 0.939693 -0.34202 0.34202 0.939693 148.073 25.7884 2
 Refer: 46 57346 S 0.939693 -0.34202 0.34202 0.939693 195.092 -163.722 2
+Validated: 43
 EndChar
 
 StartChar: dolCZbrzh
@@ -1468,6 +1483,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 14 57376 N -1 0 0 -1 119.775 900 2
+Validated: 5
 EndChar
 
 StartChar: dolSZ.brzh
@@ -1479,6 +1495,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 11 57372 N -1 0 0 -1 120.009 900 2
+Validated: 5
 EndChar
 
 StartChar: dolDRZ.brzh
@@ -1515,6 +1532,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 0 0 2
 Refer: 46 57346 N 1 0 0 1 0 -68 2
+Validated: 43
 EndChar
 
 StartChar: poczPUA
@@ -1637,6 +1655,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 0 2
 Refer: 46 57346 S 1 0 0 1 -1 580 2
+Validated: 11
 EndChar
 
 StartChar: stemI
@@ -1659,6 +1678,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 0 0 2
 Refer: 46 57346 N 1 0 0 1 -1 380 2
+Validated: 11
 EndChar
 
 StartChar: uniD00F
@@ -1721,6 +1741,7 @@ Refer: 46 57346 N 1 0 0 1 210.634 1.44629 2
 Refer: 46 57346 N 1 0 0 1 251 2 2
 Refer: 46 57346 N 1 0 0 1 0 271 2
 Refer: 46 57346 N 1 0 0 1 394 87 2
+Validated: 32811
 EndChar
 
 StartChar: koloZ
@@ -1737,29 +1758,30 @@ SplineSet
  331 194 331 194 331.158203125 233.283203125 c 0,4,5
  331 264 331 264 304.033203125 309.278320312 c 0,6,7
  277 355 277 355 225.899414062 354.64453125 c 0,8,9
- 179 355 179 355 147 312.5 c 128,-1,10
- 115 270 115 270 115 233.5 c 128,-1,11
- 115 197 115 197 146.5 162.5 c 128,-1,12
+ 179 355 179 355 147 312.5 c 0,10,11
+ 115 270 115 270 115 233.5 c 0,12,13
+ 115 197 115 197 146.5 162.5 c 0,14,15
  178 128 178 128 225.899414062 128.01953125 c 0,0,1
-223.471679688 480.951171875 m 0,13,14
- 304 481 304 481 372.451171875 417.796875 c 0,15,16
- 406 387 406 387 427.9140625 339.258789062 c 0,17,18
- 449 291 449 291 449.37109375 239 c 0,19,20
- 449 189 449 189 426.294921875 138.407714844 c 0,21,22
- 403 87 403 87 373.26171875 63.203125 c 0,23,24
- 334 32 334 32 300.793945312 15.837890625 c 0,25,26
- 268 0 268 0 223.471679688 0.048828125 c 128,-1,27
- 179 0 179 0 144.932617188 16.2421875 c 0,28,29
- 111 32 111 32 73.6806640625 63.203125 c 0,30,31
- 41 91 41 91 20.6474609375 139.217773438 c 0,32,33
- 0 188 0 188 0 239 c 0,34,35
- 0 351 0 351 73.6806640625 417.796875 c 0,36,37
- 144 481 144 481 223.471679688 480.951171875 c 0,13,14
+223.471679688 480.951171875 m 0,16,17
+ 304 481 304 481 372.451171875 417.796875 c 0,18,19
+ 406 387 406 387 427.9140625 339.258789062 c 0,20,21
+ 449 291 449 291 449.37109375 239 c 0,22,23
+ 449 189 449 189 426.294921875 138.407714844 c 0,24,25
+ 403 87 403 87 373.26171875 63.203125 c 0,26,27
+ 334 32 334 32 300.793945312 15.837890625 c 0,28,29
+ 268 0 268 0 223.471679688 0.048828125 c 0,30,31
+ 179 0 179 0 144.932617188 16.2421875 c 0,32,33
+ 111 32 111 32 73.6806640625 63.203125 c 0,34,35
+ 41 91 41 91 20.6474609375 139.217773438 c 0,36,37
+ 0 188 0 188 0 239 c 0,38,39
+ 0 351 0 351 73.6806640625 417.796875 c 0,40,41
+ 144 481 144 481 223.471679688 480.951171875 c 0,16,17
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 120 352 2
 Refer: 46 57346 N 1 0 0 1 201 354 2
 Refer: 46 57346 N 1 0 0 1 127 8 2
 Refer: 46 57346 N 1 0 0 1 207.794 9.83789 2
+Validated: 32811
 EndChar
 
 StartChar: eprost3
@@ -1770,6 +1792,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 30 57355 S 0.0871557 -0.996195 0.996195 0.0871557 -4.80851 115.266 2
+Validated: 5
 EndChar
 
 StartChar: eprost4
@@ -1780,6 +1803,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 31 57356 S 0.0871557 -0.996195 0.996195 0.0871557 -4.80908 114.982 2
+Validated: 5
 EndChar
 
 StartChar: luD3
@@ -1798,6 +1822,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 0 0 2
 Refer: 46 57346 S 1 0 0 1 241 466 2
+Validated: 11
 EndChar
 
 StartChar: luD4
@@ -1808,6 +1833,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 38 57447 S -1 0 0 -1 361 586 2
+Validated: 5
 EndChar
 
 StartChar: luT3
@@ -1831,6 +1857,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 304.971 777 2
 Refer: 46 57346 N 1 0 0 1 -0.0288086 0 2
+Validated: 43
 EndChar
 
 StartChar: luT4
@@ -1841,6 +1868,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 40 57452 S -1 0 0 -1 425.971 898.065 2
+Validated: 5
 EndChar
 
 StartChar: okroci
@@ -1889,6 +1917,7 @@ Refer: 46 57346 N 1 0 0 1 130 0 2
 Refer: 46 57346 N 1 0 0 1 421 343 2
 Refer: 46 57346 N 1 0 0 1 330 93 2
 Refer: 46 57346 N 1 0 0 1 0 578 2
+Validated: 32811
 EndChar
 
 StartChar: ellipsis
@@ -1991,20 +2020,21 @@ LayerCount: 3
 Fore
 SplineSet
  69 71 l 25,1,-1
- 60 80 l 25,0,-1
- 60 40 l 25,1,-1
- 40 60 l 25,2,-1
- 80 60 l 1049,3,-1
-60 120 m 128,-1,5
- 88 120 88 120 104 104 c 128,-1,6
- 120 88 120 88 120 60 c 0,7,8
- 120 30 120 30 102.965820312 14 c 0,9,10
- 88 0 88 0 60 0 c 128,-1,11
- 32 0 32 0 17.0341796875 14 c 0,12,13
- 0 30 0 30 0 60 c 0,14,15
- 0 88 0 88 16 104 c 128,-1,4
- 32 120 32 120 60 120 c 128,-1,5
+ 60 80 l 25,2,-1
+ 60 40 l 25,3,-1
+ 40 60 l 25,4,-1
+ 80 60 l 1049,5,-1
+60 120 m 128,-1,7
+ 88 120 88 120 104 104 c 128,-1,8
+ 120 88 120 88 120 60 c 0,9,10
+ 120 30 120 30 102.965820312 14 c 0,11,12
+ 88 0 88 0 60 0 c 128,-1,13
+ 32 0 32 0 17.0341796875 14 c 0,14,15
+ 0 30 0 30 0 60 c 0,16,17
+ 0 88 0 88 16 104 c 128,-1,6
+ 32 120 32 120 60 120 c 128,-1,7
 EndSplineSet
+Validated: 3
 Layer: 2
 SplineSet
 60 80 m 29
@@ -2070,6 +2100,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 16 57354 S 0.0871557 -0.996195 0.996195 0.0871557 -4.80892 117.372 2
+Validated: 5
 EndChar
 
 StartChar: dolMv.brzhd
@@ -2096,6 +2127,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 -4.54747e-13 2
 Refer: 46 57346 N 1 0 0 1 -4.53125 267.02 2
+Validated: 43
 EndChar
 
 StartChar: luGL
@@ -2111,40 +2143,41 @@ SplineSet
  175 121 175 121 207.5 152 c 0,3,4
  240 183 240 183 239.872070312 227.576171875 c 0,5,6
  240 272 240 272 207.5 302 c 0,7,8
- 175 332 175 332 130.39453125 332.352539062 c 1,9,-1
- 130 452.450195312 l 1,10,11
+ 175 332 175 332 130.39453125 332.352539062 c 5,9,-1
+ 130 452.450195312 l 5,10,11
  225 452 225 452 289.880859375 387.51953125 c 0,12,13
  356 322 356 322 355.810546875 227.637695312 c 0,14,15
  356 133 356 133 289.880859375 66.931640625 c 0,16,17
  224 1 224 1 130 1 c 1,0,-1
-130 81 m 25,0,-1
- 130 41 l 25,1,-1
- 110 61 l 25,2,-1
- 150 61 l 1049,3,-1
-130 121 m 128,-1,5
- 158 121 158 121 174 105 c 128,-1,6
- 190 89 190 89 190 61 c 0,7,8
- 190 31 190 31 172.965820312 15 c 0,9,10
- 158 1 158 1 130 1 c 128,-1,11
- 102 1 102 1 87.0341796875 15 c 0,12,13
- 70 31 70 31 70 61 c 0,14,15
- 70 89 70 89 86 105 c 128,-1,4
- 102 121 102 121 130 121 c 128,-1,5
-130 412 m 29,0,-1
- 130 372 l 29,1,-1
- 110 392 l 29,2,-1
- 150 392 l 1053,3,-1
-130 452 m 128,-1,5
- 158 452 158 452 174 436 c 128,-1,6
- 190 420 190 420 190 392 c 0,7,8
- 190 362 190 362 172.965820312 346 c 0,9,10
- 158 332 158 332 130 332 c 128,-1,11
- 102 332 102 332 87.0341796875 346 c 0,12,13
- 70 362 70 362 70 392 c 0,14,15
- 70 420 70 420 86 436 c 128,-1,4
- 102 452 102 452 130 452 c 128,-1,5
+130 81 m 25,18,-1
+ 130 41 l 25,19,-1
+ 110 61 l 25,20,-1
+ 150 61 l 1049
+130 121 m 0,22,23
+ 158 121 158 121 174 105 c 0,24,25
+ 190 89 190 89 190 61 c 0,26,27
+ 190 31 190 31 172.965820312 15 c 0,28,29
+ 158 1 158 1 130 1 c 0,30,31
+ 102 1 102 1 87.0341796875 15 c 0,32,33
+ 70 31 70 31 70 61 c 0,34,35
+ 70 89 70 89 86 105 c 0,36,37
+ 102 121 102 121 130 121 c 0,22,23
+130 412 m 25,38,-1
+ 130 372 l 25,39,-1
+ 110 392 l 25,40,-1
+ 150 392 l 1049
+130 452 m 0,42,43
+ 158 452 158 452 174 436 c 0,44,45
+ 190 420 190 420 190 392 c 0,46,47
+ 190 362 190 362 172.965820312 346 c 0,48,49
+ 158 332 158 332 130 332 c 0,50,51
+ 102 332 102 332 87.0341796875 346 c 0,52,53
+ 70 362 70 362 70 392 c 0,54,55
+ 70 420 70 420 86 436 c 0,56,57
+ 102 452 102 452 130 452 c 0,42,43
 EndSplineSet
 Refer: 65 57442 N 1 0 0 1 0 163 2
+Validated: 43
 EndChar
 
 StartChar: dolTW
@@ -2171,6 +2204,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 145 0 2
 Refer: 46 57346 N 1 0 0 1 0 20 2
+Validated: 43
 EndChar
 
 StartChar: dolMK30
@@ -2190,6 +2224,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 0.46875 18 2
 Refer: 46 57346 N 1 0 0 1 0.4688 -1 2
+Validated: 11
 EndChar
 
 StartChar: dolETW
@@ -2214,6 +2249,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 120 2
 Refer: 46 57346 N 1 0 0 1 122 20 2
+Validated: 43
 EndChar
 
 StartChar: dolMKE
@@ -2234,6 +2270,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 0 0 2
 Refer: 46 57346 N 1 0 0 1 0 80 2
+Validated: 11
 EndChar
 
 StartChar: luU0
@@ -2254,6 +2291,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 0 0 2
 Refer: 46 57346 S 1 0 0 1 334 720 2
+Validated: 43
 EndChar
 
 StartChar: luU2
@@ -2274,6 +2312,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 0.866025 -0.5 0.5 0.866025 627.727 493.644 2
 Refer: 46 57346 N 0.996194 -0.0871559 0.0871559 0.996194 -4.56331 4.5387 2
+Validated: 43
 EndChar
 
 StartChar: luNdol
@@ -2296,6 +2335,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 332 45 2
 Refer: 46 57346 S 1 0 0 1 0 0 2
+Validated: 43
 EndChar
 
 StartChar: dolLUK
@@ -2318,6 +2358,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 0 2
 Refer: 46 57346 N 1 0 0 1 330 -36 2
+Validated: 43
 EndChar
 
 StartChar: eprost0
@@ -2328,6 +2369,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 10 57352 S 0.0871557 -0.996195 0.996195 0.0871557 -4.80861 114.76 2
+Validated: 5
 EndChar
 
 StartChar: eprost1
@@ -2338,6 +2380,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 15 57353 S 0.0871557 -0.996195 0.996195 0.0871557 -4.80886 114.192 2
+Validated: 5
 EndChar
 
 StartChar: eprost5
@@ -2348,6 +2391,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 12 57357 S 0.0871557 -0.996195 0.996195 0.0871557 -4.72193 114.662 2
+Validated: 5
 EndChar
 
 StartChar: eprost6
@@ -2358,6 +2402,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 13 57358 S 0.0871557 -0.996195 0.996195 0.0871557 -4.7218 115.019 2
+Validated: 5
 EndChar
 
 StartChar: gorMKE
@@ -2368,6 +2413,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 55 57541 S -1 0 0 -1 120 200 2
+Validated: 5
 EndChar
 
 StartChar: koloL
@@ -2381,19 +2427,20 @@ SplineSet
 132.799804688 291.80078125 m 0,0,1
  180.799804688 291.80078125 180.799804688 291.80078125 220.799804688 254.200195312 c 0,2,3
  266.400390625 212.600585938 266.400390625 212.600585938 266.400390625 145.400390625 c 0,4,5
- 266.400390625 111.80078125 266.400390625 111.80078125 252.799804688 81.400390625 c 128,-1,6
- 239.200195312 51 239.200195312 51 221.600585938 36.6005859375 c 0,7,8
- 173.600585938 -1 173.600585938 -1 132.799804688 -1 c 0,9,10
- 88.7998046875 -1 88.7998046875 -1 44 36.6005859375 c 0,11,12
- 24.7998046875 52.6005859375 24.7998046875 52.6005859375 12.400390625 81.80078125 c 128,-1,13
- 0 111 0 111 0 145.400390625 c 0,14,15
- 0 214.200195312 0 214.200195312 44 254.200195312 c 0,16,17
+ 266.400390625 111.80078125 266.400390625 111.80078125 252.799804688 81.400390625 c 0,6,7
+ 239.200195312 51 239.200195312 51 221.600585938 36.6005859375 c 0,8,9
+ 173.600585938 -1 173.600585938 -1 132.799804688 -1 c 0,10,11
+ 88.7998046875 -1 88.7998046875 -1 44 36.6005859375 c 0,12,13
+ 24.7998046875 52.6005859375 24.7998046875 52.6005859375 12.400390625 81.80078125 c 0,14,15
+ 0 111 0 111 0 145.400390625 c 0,16,17
+ 0 214.200195312 0 214.200195312 44 254.200195312 c 0,18,19
  85.6005859375 291.80078125 85.6005859375 291.80078125 132.799804688 291.80078125 c 0,0,1
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 48 8 2
 Refer: 46 57346 N 1 0 0 1 98 9 2
 Refer: 46 57346 N 1 0 0 1 45 161 2
 Refer: 46 57346 N 1 0 0 1 99 161 2
+Validated: 32779
 EndChar
 
 StartChar: gorZD.brzhd
@@ -2446,6 +2493,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 132 -139 2
 Refer: 46 57346 S 1 0 0 1 0 0 2
+Validated: 43
 EndChar
 
 StartChar: dolDv.brzhd
@@ -2473,6 +2521,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 0 323 2
 Refer: 46 57346 S 1 0 0 1 0 0 2
+Validated: 43
 EndChar
 
 StartChar: uniE07F
@@ -2481,6 +2530,8 @@ Width: 3000
 LayerCount: 3
 Back
 Refer: 46 57346 S 1 0 0 1 0 0 2
+Fore
+Validated: 1
 EndChar
 
 StartChar: luU1
@@ -2501,6 +2552,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 0 2
 Refer: 46 57346 N 1 0 0 1 466 720 2
+Validated: 43
 EndChar
 
 StartChar: luU3
@@ -2521,6 +2573,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 -2.01892e-07 2.01892e-07 1 -0.99971 0.00045 2
 Refer: 46 57346 N 0.866025 -0.5 0.5 0.866025 736.372 496.268 2
+Validated: 43
 EndChar
 
 StartChar: luU4
@@ -2541,6 +2594,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 331 20 2
 Refer: 46 57346 N 1 0 0 1 0 0 2
+Validated: 11
 EndChar
 
 StartChar: luU5
@@ -2566,6 +2620,7 @@ EndSplineSet
 Refer: 46 57346 N 0.866025 -0.5 0.5 0.866025 -19.9235 40.1833 2
 Refer: 46 57346 N 0.866025 -0.5 0.5 0.866025 690.329 695.946 2
 Refer: 46 57346 N 0.866025 -0.5 0.5 0.866025 301.577 597.038 2
+Validated: 43
 EndChar
 
 StartChar: luUa0
@@ -2576,6 +2631,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 56 57517 S -1 0 0 -1 455 839.973 2
+Validated: 5
 EndChar
 
 StartChar: luUa1
@@ -2586,6 +2642,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 69 57518 S -1 0 0 -1 587 839.95 2
+Validated: 5
 EndChar
 
 StartChar: luUa2
@@ -2596,6 +2653,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 57 57519 S -1 0 0 -1 773.497 578.435 2
+Validated: 5
 EndChar
 
 StartChar: luUa3
@@ -2606,6 +2664,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 70 57520 S -1 0 0 -1 881.275 582.325 2
+Validated: 5
 EndChar
 
 StartChar: luUa4
@@ -2616,6 +2675,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 71 57521 N -1 0 0 -1 451 139 2
+Validated: 5
 EndChar
 
 StartChar: luKLY
@@ -2638,6 +2698,7 @@ EndSplineSet
 Refer: 65 57442 S 1 0 0 1 0 -67 2
 Refer: 46 57346 N 1 0 0 1 197.502 0 2
 Refer: 46 57346 N 1 0 0 1 213.502 114 2
+Validated: 43
 EndChar
 
 StartChar: dolMK45
@@ -2657,6 +2718,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0.4688 0 2
 Refer: 46 57346 N 1 0 0 1 0.46875 20 2
+Validated: 11
 EndChar
 
 StartChar: dolTW.alt
@@ -2681,6 +2743,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 0 2
 Refer: 46 57346 N 1 0 0 1 -119 60 2
+Validated: 43
 EndChar
 
 StartChar: gorMK45
@@ -2691,6 +2754,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 79 7 N -1 0 0 -1 121.469 140 2
+Validated: 5
 EndChar
 
 StartChar: okredzi
@@ -2716,6 +2780,7 @@ EndSplineSet
 Refer: 46 57346 N 1 0 0 1 4 0 2
 Refer: 46 57346 N 1 0 0 1 180 186 2
 Refer: 46 57346 N 1 0 0 1 0 376 2
+Validated: 43
 EndChar
 
 StartChar: okrodzi
@@ -2741,6 +2806,7 @@ EndSplineSet
 Refer: 46 57346 N 1 0 0 1 77 0 2
 Refer: 46 57346 N 1 0 0 1 248 105 2
 Refer: 46 57346 N 1 0 0 1 0 331 2
+Validated: 43
 EndChar
 
 StartChar: okreci
@@ -2754,53 +2820,53 @@ SplineSet
 60.1328125 1 m 1,0,-1
  60 119 l 1,1,2
  176 119 176 119 263.5 255 c 0,3,4
- 292 300 292 300 292 402 c 128,-1,6
- 292 504 292 504 264 542 c 0,7,8
- 177 659 177 659 60 658.883789062 c 1,9,-1
- 60.1328125 778.75390625 l 1,10,11
- 212 779 212 779 314.5 661 c 0,12,13
- 411 551 411 551 411.260742188 400.625976562 c 0,14,15
- 411 245 411 245 313.517578125 123.745117188 c 0,16,17
+ 292 300 292 300 292 402 c 128,-1,5
+ 292 504 292 504 264 542 c 0,6,7
+ 177 659 177 659 60 658.883789062 c 1,8,-1
+ 60.1328125 778.75390625 l 1,9,10
+ 212 779 212 779 314.5 661 c 0,11,12
+ 411 551 411 551 411.260742188 400.625976562 c 0,13,14
+ 411 245 411 245 313.517578125 123.745117188 c 0,15,16
  214 1 214 1 60.1328125 1 c 1,0,-1
-351 422 m 25,0,-1
- 351 382 l 25,1,-1
- 331 402 l 25,2,-1
- 371 402 l 1049,3,-1
-351 462 m 128,-1,5
- 379 462 379 462 395 446 c 128,-1,6
- 411 430 411 430 411 402 c 0,7,8
- 411 372 411 372 393.965820312 356 c 0,9,10
- 379 342 379 342 351 342 c 128,-1,11
- 323 342 323 342 308.034179688 356 c 0,12,13
- 291 372 291 372 291 402 c 0,14,15
- 291 430 291 430 307 446 c 128,-1,4
- 323 462 323 462 351 462 c 128,-1,5
-60 80 m 25,0,-1
- 60 40 l 25,1,-1
- 40 60 l 25,2,-1
- 80 60 l 1049,3,-1
-60 120 m 128,-1,5
- 88 120 88 120 104 104 c 128,-1,6
- 120 88 120 88 120 60 c 0,7,8
- 120 30 120 30 102.965820312 14 c 0,9,10
- 88 0 88 0 60 0 c 128,-1,11
- 32 0 32 0 17.0341796875 14 c 0,12,13
- 0 30 0 30 0 60 c 0,14,15
- 0 88 0 88 16 104 c 128,-1,4
- 32 120 32 120 60 120 c 128,-1,5
-60 738 m 25,0,-1
- 60 698 l 25,1,-1
- 40 718 l 25,2,-1
- 80 718 l 1049,3,-1
-60 778 m 128,-1,5
- 88 778 88 778 104 762 c 128,-1,6
- 120 746 120 746 120 718 c 0,7,8
- 120 688 120 688 102.965820312 672 c 0,9,10
- 88 658 88 658 60 658 c 128,-1,11
- 32 658 32 658 17.0341796875 672 c 0,12,13
- 0 688 0 688 0 718 c 0,14,15
- 0 746 0 746 16 762 c 128,-1,4
- 32 778 32 778 60 778 c 128,-1,5
+351 422 m 25,17,-1
+ 351 382 l 25,18,-1
+ 331 402 l 25,19,-1
+ 371 402 l 1049,20,-1
+351 462 m 128,-1,22
+ 379 462 379 462 395 446 c 128,-1,23
+ 411 430 411 430 411 402 c 0,24,25
+ 411 372 411 372 393.965820312 356 c 0,26,27
+ 379 342 379 342 351 342 c 128,-1,28
+ 323 342 323 342 308.034179688 356 c 0,29,30
+ 291 372 291 372 291 402 c 0,31,32
+ 291 430 291 430 307 446 c 128,-1,21
+ 323 462 323 462 351 462 c 128,-1,22
+60 80 m 25,33,-1
+ 60 40 l 25,34,-1
+ 40 60 l 25,35,-1
+ 80 60 l 1049,36,-1
+60 120 m 128,-1,38
+ 88 120 88 120 104 104 c 128,-1,39
+ 120 88 120 88 120 60 c 0,40,41
+ 120 30 120 30 102.965820312 14 c 0,42,43
+ 88 0 88 0 60 0 c 128,-1,44
+ 32 0 32 0 17.0341796875 14 c 0,45,46
+ 0 30 0 30 0 60 c 0,47,48
+ 0 88 0 88 16 104 c 128,-1,37
+ 32 120 32 120 60 120 c 128,-1,38
+60 738 m 25,49,-1
+ 60 698 l 25,50,-1
+ 40 718 l 25,51,-1
+ 80 718 l 1049,52,-1
+60 778 m 128,-1,54
+ 88 778 88 778 104 762 c 128,-1,55
+ 120 746 120 746 120 718 c 0,56,57
+ 120 688 120 688 102.965820312 672 c 0,58,59
+ 88 658 88 658 60 658 c 128,-1,60
+ 32 658 32 658 17.0341796875 672 c 0,61,62
+ 0 688 0 688 0 718 c 0,63,64
+ 0 746 0 746 16 762 c 128,-1,53
+ 32 778 32 778 60 778 c 128,-1,54
 EndSplineSet
 Validated: 43
 EndChar
@@ -2814,6 +2880,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 58 57528 S -1 0 0 -1 452 164.995 2
+Validated: 5
 EndChar
 
 StartChar: luNOdol
@@ -2836,6 +2903,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 0 0 2
 Refer: 46 57346 S 1 0 0 1 656 45 2
+Validated: 43
 EndChar
 
 StartChar: luONgor
@@ -2846,6 +2914,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 86 57530 S -1 0 0 -1 776 164.587 2
+Validated: 5
 EndChar
 
 StartChar: OstrI
@@ -2866,6 +2935,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S 1 0 0 1 0 80 2
 Refer: 46 57346 S 1 0 0 1 0 -1 2
+Validated: 11
 EndChar
 
 StartChar: gorLUK
@@ -2876,6 +2946,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 59 57545 S -1 0 0 -1 450 84.994 2
+Validated: 5
 EndChar
 
 StartChar: gorOMluk
@@ -2898,6 +2969,7 @@ SplineSet
 EndSplineSet
 Refer: 46 57346 S -1 0 0 -1 780 83 2
 Refer: 46 57346 N -1 0 0 -1 120 120 2
+Validated: 43
 EndChar
 
 StartChar: dolMOluk
@@ -2908,6 +2980,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 90 57547 S -1 0 0 -1 780 83.015 2
+Validated: 5
 EndChar
 
 StartChar: k
@@ -2917,6 +2990,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 10 57352 S 1 0 0 1 0 0 2
+Validated: 5
 EndChar
 
 StartChar: g
@@ -2926,6 +3000,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 16 57354 S 1 0 0 1 0 0 2
+Validated: 5
 EndChar
 
 StartChar: i
@@ -2935,6 +3010,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 31 57356 N 1 0 0 1 1 0 2
+Validated: 5
 EndChar
 
 StartChar: e
@@ -2944,6 +3020,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 49 57474 N 1 0 0 1 -0.000172627 0 2
+Validated: 5
 EndChar
 
 StartChar: u
@@ -2953,6 +3030,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 56 57517 N 1 0 0 1 0 0 2
+Validated: 5
 EndChar
 
 StartChar: s
@@ -2962,6 +3040,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 34 57440 N 1 0 0 1 0 0 2
+Validated: 5
 EndChar
 
 StartChar: z
@@ -2971,6 +3050,7 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 35 57441 N 1 0 0 1 0 0 2
+Validated: 5
 EndChar
 
 StartChar: l
@@ -2980,6 +3060,92 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 65 57442 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar
+
+StartChar: p
+Encoding: 112 112 100
+Width: 459
+Flags: W
+LayerCount: 3
+Fore
+Refer: 16 57354 N 1 0 0 1 0 0 2
+Refer: 11 57372 S 1 0 0 1 0 -18 2
+Validated: 5
+EndChar
+
+StartChar: b
+Encoding: 98 98 101
+Width: 465
+Flags: W
+LayerCount: 3
+Fore
+Refer: 30 57355 N 1 0 0 1 1 0 2
+Refer: 14 57376 S 1 0 0 1 1 580 2
+Validated: 5
+EndChar
+
+StartChar: c
+Encoding: 99 99 102
+Width: 20
+Flags: W
+LayerCount: 3
+Fore
+Validated: 1
+EndChar
+
+StartChar: m
+Encoding: 109 109 103
+Width: 450
+Flags: W
+LayerCount: 3
+Fore
+Refer: 16 57354 N 1 0 0 1 330 0 2
+Refer: 89 57546 S 1 0 0 1 0 875 2
+Validated: 5
+EndChar
+
+StartChar: n
+Encoding: 110 110 104
+Width: 784
+Flags: W
+LayerCount: 3
+Fore
+Refer: 58 57528 S 1 0 0 1 332 45 2
+Refer: 85 57529 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar
+
+StartChar: o
+Encoding: 111 111 105
+Width: 425
+Flags: W
+LayerCount: 3
+Fore
+Refer: 41 57453 S 1 0 0 1 -1 0 2
+Validated: 5
+EndChar
+
+StartChar: g_l
+Encoding: 57589 57589 106
+Width: 355
+Flags: W
+LayerCount: 3
+Fore
+Refer: 51 57459 S 1 0 0 1 0 0 2
+Refer: 16 57354 N 1 0 0 1 70 0 2
+Validated: 5
+EndChar
+
+StartChar: c_i
+Encoding: 57590 57590 107
+Width: 542
+GlyphClass: 2
+Flags: W
+LayerCount: 3
+Fore
+Refer: 42 57496 S 1 0 0 1 0 0 2
+Validated: 5
 EndChar
 EndChars
 EndSplineFont

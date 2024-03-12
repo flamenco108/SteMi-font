@@ -1,6 +1,5 @@
 
-lookup curs-anchory {
-  lookupflag 0;
+lookup cursanchory {
     pos cursive \stemK <anchor 60 1649> <anchor 60 60>;
     pos cursive \gorP.brzh <anchor 60 919> <anchor 60 839>;
     pos cursive \stemI.krt <anchor 60 282> <anchor 60 60>;
@@ -59,6 +58,7 @@ lookup curs-anchory {
     pos cursive \luUa3 <anchor 60 60> <anchor 824 522>;
     pos cursive \luUa4 <anchor 60 60> <anchor 392 78>;
     pos cursive \luKLY <anchor 274 174> <anchor 258 61>;
+    pos cursive \dolTW.alt <anchor -54 120> <anchor NULL>;
     pos cursive \gorMK45 <anchor 60 80> <anchor 60 60>;
     pos cursive \okredzi <anchor 60 436> <anchor 66 60>;
     pos cursive \okrodzi <anchor 60 392> <anchor 138 60>;
@@ -70,10 +70,25 @@ lookup curs-anchory {
     pos cursive \gorLUK <anchor 60 60> <anchor 390 25>;
     pos cursive \gorOMluk <anchor 60 60> <anchor 720 24>;
     pos cursive \dolMOluk <anchor 60 60> <anchor 720 23>;
-} curs-anchory;
+    pos cursive \k <anchor 60 1650> <anchor 60 60>;
+    pos cursive \g <anchor 60 900> <anchor 60 60>;
+    pos cursive \i <anchor 60 444> <anchor 60 60>;
+    pos cursive \e <anchor 60 60> <anchor 900 200>;
+    pos cursive \u <anchor 60 60> <anchor 392 780>;
+    pos cursive \s <anchor 313 60> <anchor 272 60>;
+    pos cursive \z <anchor 269 70> <anchor 187 68>;
+    pos cursive \l <anchor 159 69> <anchor 109 68>;
+    pos cursive \p <anchor 66 901> <anchor 60 60>;
+    pos cursive \b <anchor 60 718> <anchor 60 60>;
+    pos cursive \m <anchor 60 930> <anchor 60 60>;
+    pos cursive \n <anchor 60 60> <anchor 726 150>;
+    pos cursive \o <anchor 60 60> <anchor 370 836>;
+    pos cursive \g_l <anchor 130 900> <anchor 160 230>;
+    pos cursive \c_i <anchor 61 638> <anchor 391 153>;
+} cursanchory;
 
 feature curs {
- script DFLT;
+ #script DFLT;
      language dflt ;
-     lookup curs-anchory;
+     lookup cursanchory;
 } curs;

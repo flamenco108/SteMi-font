@@ -1,64 +1,69 @@
 languagesystem DFLT dflt;
 
+
 # Anchors anchory kotwice
-lookup curs-anchory {
-    pos stemK <anchor Anchor-3> entry (60, 1649);
-    pos stemK <anchor Anchor-3> exit (60, 60);
-    pos gorP.brzh <anchor Anchor-3> entry (60, 919);
-    pos gorP.brzh <anchor Anchor-3> exit (60, 839);
-    pos stemI.krt <anchor Anchor-3> entry (60, 282);
-    pos stemI.krt <anchor Anchor-3> exit (60, 60);
-    pos stemKRT <anchor Anchor-3> entry (60, 180);
-    pos stemKRT <anchor Anchor-3> exit (60, 60);
-    pos gorBbrzh <anchor Anchor-3> entry (60, 140);
-    pos gorBbrzh <anchor Anchor-3> exit (60, 60);
-    pos stemK.krt <anchor Anchor-3> entry (60, 1250);
-    pos stemK.krt <anchor Anchor-3> exit (60, 60);
-    pos stemG <anchor Anchor-3> entry (60, 900);
-    pos stemG <anchor Anchor-3> exit (60, 60);
-} curs-anchory;
+include(tst01-anchors.fea)
+#lookup cursanchory {
+#  pos cursive \stemK <anchor 60 1649> <anchor 60 60>;
+#  pos cursive \gorP.brzh <anchor 60 919> <anchor 60 839>;
+#  pos cursive \stemG <anchor 60 900> <anchor 60 60>;
+#    #pos stemK <anchor Anch1> entry (60, 1649);
+#    #pos stemK <anchor Anch1> exit (60, 60);
+#} cursanchory;
 
-feature curs {
- script DFLT;
-     language dflt ;
-     lookup curs-anchory;
-} curs;
+#feature curs {
+# script DFLT;
+#     language dflt ;
+#     lookup cursanchory;
+#} curs;
 
-# Mark attachment classes (defined in GDEF, used in lookupflags)
+
+
+
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
 @GDEF_Simple = [\.null \uni000A \space \quoteright \quotesinglbase \quotedblright 
-    \quotedblbase \uni2029 \malaspacja \stemK \gorP.brzh \stemI.krt \stemKRT 
-    \gorBbrzh \stemK.krt \stemG \gorST.brzh \luD1 \luD2 \gorPS.brzh \luT1 \luT2 \luKL 
-    \luSJ \dolCZbrzh \dolSZ.brzh \dolDRZ.brzh \poczPUA \stemG.krt \stemI \uniD00F 
-    \luUs \koloS \koloZ \eprost3 \eprost4 \luD3 \luD4 \luT3 \luT4 \okroci \prostaVOW 
-    \prostaCONS \konCONS \endash \konVOW \eprost2 \dolMv.brzhd \luGL \dolTW \dolMK30 
-    \dolETW \dolMKE \luU0 \luU2 \luNdol \dolLUK \eprost0 \eprost1 \eprost5 \eprost6 
-    \gorMKE \koloL \gorZD.brzhd \dolDv.brzhd \luU1 \luU3 \luU4 \luU5 \luUa0 \luUa1 
-    \luUa2 \luUa3 \luUa4 \luKLY \dolMK45 \dolTW.alt \gorMK45 \okredzi \okrodzi 
-    \okreci \luNgor \luNOdol \luONgor \OstrI \gorLUK \gorOMluk \dolMOluk ];
+	\quotedblbase \uni2029 \malaspacja \stemK \gorP.brzh \stemI.krt \stemKRT 
+	\gorBbrzh \stemK.krt \stemG \gorST.brzh \luD1 \luD2 \gorPS.brzh \luT1 \luT2 \luKL 
+	\luSJ \dolCZbrzh \dolSZ.brzh \dolDRZ.brzh \poczPUA \stemG.krt \stemI \uniD00F 
+	\luUs \koloS \koloZ \eprost3 \eprost4 \luD3 \luD4 \luT3 \luT4 \okroci \prostaVOW 
+	\prostaCONS \konCONS \endash \konVOW \eprost2 \dolMv.brzhd \luGL \dolTW \dolMK30 
+	\dolETW \dolMKE \luU0 \luU2 \luNdol \dolLUK \eprost0 \eprost1 \eprost5 \eprost6 
+	\gorMKE \koloL \gorZD.brzhd \dolDv.brzhd \luU1 \luU3 \luU4 \luU5 \luUa0 \luUa1 
+	\luUa2 \luUa3 \luUa4 \luKLY \dolMK45 \dolTW.alt \gorMK45 \okredzi \okrodzi 
+	\okreci \luNgor \luNOdol \luONgor \OstrI \gorLUK \gorOMluk \dolMOluk \k \g \i \e \u 
+	\s \z \l \p \b \c \m \n \o \g_l \c_i ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
+
 } GDEF;
 
 # GSUB
 
-# wielkie litery
-# feature mark {
-#  sub [a-z] by $1 circumflex;
-# } mark;
+#lookup ciliga { sub c i by c_i; } ciliga;
+#feature liga { 
+#  language dflt;
+#  sub g l by luGL; 
+#  lookup ciliga;
+#} liga;
 
-lookup litery {
-  #sub 'k' by stemK dolTW;  # Correct: Single quotes around glyph names
-  sub 'g' 's' by stemG dolTW koloS;
-  #sub 'k' 'e' by stemK dolTW eprost0;
-  #sub 'g' 'z' by stemG dolMK30 koloZ;
-} litery;
+lookup on { 
+  sub o n by luONgor; 
+#  sub c i by okreci;
+  } on;
 
-feature rclt {
-    lookup litery;
-    #sub k'  by stemK dolTW;
-    #sub g' s' by stemG dolTW koloS;
-    #sub k' e' by stemK dolTW eprost0;
-    #sub g' z' by stemG dolMK30 koloZ;
-} rclt;
+lookup no { 
+  sub n by luNOdol;
+#  sub k by g;
+} no;
 
+feature ono {
+  language dflt;
+  sub o' n' lookup on o' lookup no; 
+} ono;
+
+#feature eci {
+#  language dflt;
+#    sub e c' lookup on i' lookup no k';
+#} eci;

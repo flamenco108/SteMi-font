@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="luT1" format="2">
+  <advance width="426" height="426"/>
+  <unicode hex="E06A"/>
+  <outline>
+    <contour>
+      <point x="32.5635" y="785.038" type="qcurve"/>
+      <point x="-19.4365" y="815"/>
+      <point x="11.6016" y="868.732" type="qcurve"/>
+      <point x="40.5635" y="919"/>
+      <point x="92.5635" y="888.962" type="qcurve"/>
+      <point x="103.822" y="882.462"/>
+      <point x="103.822" y="882.462" type="qcurve" smooth="yes"/>
+      <point x="425.563" y="690"/>
+      <point x="425.563" y="80" type="qcurve" smooth="yes"/>
+      <point x="425.563" y="70"/>
+      <point x="425.563" y="60" type="qcurve"/>
+      <point x="305.563" y="60" type="line"/>
+      <point x="305.563" y="63"/>
+      <point x="305.563" y="80" type="qcurve" smooth="yes"/>
+      <point x="306.566" y="608.616"/>
+      <point x="44.6875" y="778.038" type="qcurve" smooth="yes"/>
+      <point x="38.5635" y="782"/>
+    </contour>
+    <component base="konCONS" xOffset="305.563"/>
+    <component base="konCONS" xScale="0.866025" yScale="0.866025" xyScale="-0.5" yxScale="0.5" xOffset="-19.3981" yOffset="815.038"/>
+  </outline>
+</glyph>

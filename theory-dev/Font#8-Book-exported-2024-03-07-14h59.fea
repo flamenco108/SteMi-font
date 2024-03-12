@@ -1,0 +1,76 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+
+# GSUB 
+
+
+lookup ligaStandardLigaturesinLatinlookup0 {
+  lookupflag 0;
+    sub \W \H  by \W_H.liga;
+    sub \C \H  by \C_H.liga;
+} ligaStandardLigaturesinLatinlookup0;
+
+feature liga {
+
+ script DFLT;
+     language dflt ;
+      lookup ligaStandardLigaturesinLatinlookup0;
+
+ script latn;
+     language dflt ;
+      lookup ligaStandardLigaturesinLatinlookup0;
+} liga;
+
+# GPOS 
+
+
+lookup cursCursiveAttachmentinLatinlookup0 {
+  lookupflag 0;
+    pos cursive \A <anchor 6 29> <anchor 45 49>;
+    pos cursive \B <anchor 15 50> <anchor 35 30>;
+    pos cursive \C <anchor 4 49> <anchor 44 48>;
+    pos cursive \D <anchor 15 9> <anchor 35 49>;
+    pos cursive \E <anchor 5 9> <anchor 44 49>;
+    pos cursive \F <anchor 25 10> <anchor 25 50>;
+    pos cursive \G <anchor 15 28> <anchor 35 48>;
+    pos cursive \H <anchor 4 49> <anchor 44 28>;
+    pos cursive \I <anchor 5 49> <anchor 45 29>;
+    pos cursive \J <anchor 14 49> <anchor 35 49>;
+    pos cursive \K <anchor 15 31> <anchor 34 31>;
+    pos cursive \L <anchor 34 9> <anchor 34 49>;
+    pos cursive \M <anchor 15 49> <anchor 14 8>;
+    pos cursive \N <anchor 4 30> <anchor 44 49>;
+    pos cursive \O <anchor 14 50> <anchor 35 9>;
+    pos cursive \P <anchor 14 48> <anchor 34 28>;
+    pos cursive \Q <anchor 34 49> <anchor 34 29>;
+    pos cursive \R <anchor 15 49> <anchor 34 9>;
+    pos cursive \S <anchor 14 9> <anchor 34 50>;
+    pos cursive \T <anchor 4 49> <anchor 44 9>;
+    pos cursive \U <anchor 4 29> <anchor 44 29>;
+    pos cursive \V <anchor 14 31> <anchor 15 50>;
+    pos cursive \W <anchor 5 49> <anchor 44 49>;
+    pos cursive \X <anchor 34 49> <anchor 34 28>;
+    pos cursive \Y <anchor 15 30> <anchor 34 50>;
+    pos cursive \Z <anchor 15 49> <anchor 34 49>;
+    pos cursive \W_H.liga <anchor 1 30> <anchor 21 29>;
+    pos cursive \C_H.liga <anchor 1 29> <anchor 0 49>;
+} cursCursiveAttachmentinLatinlookup0;
+
+feature curs {
+
+ script latn;
+     language dflt ;
+      lookup cursCursiveAttachmentinLatinlookup0;
+} curs;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\glyph1 \glyph2 \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W 
+	\X \Y \Z ];
+@GDEF_Ligature = [\W_H.liga \C_H.liga ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
+
+} GDEF;
+

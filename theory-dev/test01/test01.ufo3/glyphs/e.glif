@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e" format="2">
+  <advance width="957" height="957"/>
+  <unicode hex="0065"/>
+  <anchor x="898" y="142" name="inout"/>
+  <anchor x="68" y="60" name="_inout"/>
+  <outline>
+    <component base="eprost2" xOffset="-0.000172627"/>
+  </outline>
+</glyph>

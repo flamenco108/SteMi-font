@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="luD4" format="2">
+  <advance width="360" height="360"/>
+  <unicode hex="E068"/>
+  <outline>
+    <component base="luD3" xScale="-1" yScale="-1" xOffset="361" yOffset="586"/>
+  </outline>
+</glyph>

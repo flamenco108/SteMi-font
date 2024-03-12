@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="luT3" format="2">
+  <advance width="425" height="425"/>
+  <unicode hex="E06C"/>
+  <outline>
+    <contour>
+      <point x="396.029" y="783.038" type="qcurve"/>
+      <point x="389.971" y="780"/>
+      <point x="383.904" y="776.038" type="qcurve" smooth="yes"/>
+      <point x="121.971" y="606"/>
+      <point x="120.029" y="80" type="qcurve" smooth="yes"/>
+      <point x="119.971" y="63"/>
+      <point x="120.029" y="60" type="qcurve"/>
+      <point x="120.029" y="60"/>
+      <point x="0.0292969" y="60" type="qcurve"/>
+      <point x="-0.0292969" y="70"/>
+      <point x="0.0292969" y="80" type="qcurve" smooth="yes"/>
+      <point x="-0.0292969" y="692"/>
+      <point x="321.77" y="884.462" type="qcurve" smooth="yes"/>
+      <point x="321.77" y="884.462"/>
+      <point x="333.029" y="890.962" type="qcurve"/>
+      <point x="393.971" y="912"/>
+      <point x="418.99" y="870.732" type="qcurve"/>
+      <point x="437.971" y="801"/>
+    </contour>
+    <component base="konCONS" xOffset="304.971" yOffset="777"/>
+    <component base="konCONS" xOffset="-0.0288086"/>
+  </outline>
+</glyph>

@@ -1,8 +1,4 @@
 \begin[papersize=a4]{document}
-
-\font[family=SteMitest01,size=26pt]
-
-
 \use[module=packages.linespacing]
 \set[parameter=linespacing.method,value=fixed]
 \set[parameter=linespacing.fixed.baselinedistance,value=1.6em]
@@ -10,8 +6,21 @@
 \set[parameter=linebreak.hyphenPenalty,value=3000]
 \set[parameter=linebreak.tolerance,value=1000]
 
+\font[family=SteMitest01,size=108pt]
 
-k h g m
-gs g s
+gl gle egle uglu
+
+cieke ecik
+
+n on no ono
+
+\font[family=Liberation Serif,size=12pt]
+gl gle egle uglu
+
+cieke ecik
+
+n on no ono
+
 
 \end{document}
+

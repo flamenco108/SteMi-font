@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gorLUK" format="2">
+  <advance width="450" height="450"/>
+  <unicode hex="E0CA"/>
+  <outline>
+    <component base="dolLUK" xScale="-1" yScale="-1" xOffset="450" yOffset="84.994"/>
+  </outline>
+</glyph>

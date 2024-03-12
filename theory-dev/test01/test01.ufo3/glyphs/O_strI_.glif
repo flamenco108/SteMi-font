@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OstrI" format="2">
+  <advance width="120" height="120"/>
+  <unicode hex="E0D1"/>
+  <outline>
+    <contour>
+      <point x="120" y="140" type="line"/>
+      <point x="120" y="120" type="line"/>
+      <point x="120" y="-85" type="line"/>
+      <point x="0" y="30" type="line"/>
+      <point x="0" y="38" type="line"/>
+      <point x="0" y="140" type="line"/>
+    </contour>
+    <component base="konCONS" yOffset="80"/>
+    <component base="konCONS" yOffset="-1"/>
+  </outline>
+</glyph>

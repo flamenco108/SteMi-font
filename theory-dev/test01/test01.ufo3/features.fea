@@ -1,0 +1,54 @@
+languagesystem DFLT dflt;
+languagesystem hang dflt;
+languagesystem latn dflt;
+
+
+# GPOS 
+
+
+lookup cursZczapisanemidzyznakowewtablicy0 {
+  lookupflag 0;
+    pos cursive \stemK <anchor 64 1650> <anchor 60 52>;
+    pos cursive \dolTW <anchor 58 80> <anchor 206 70>;
+    pos cursive \k <anchor 56 1650> <anchor 60 56>;
+    pos cursive \e <anchor 68 60> <anchor 898 142>;
+} cursZczapisanemidzyznakowewtablicy0;
+
+feature curs {
+
+ script DFLT;
+     language dflt ;
+      lookup cursZczapisanemidzyznakowewtablicy0;
+
+ script hang;
+     language dflt ;
+      lookup cursZczapisanemidzyznakowewtablicy0;
+
+ script latn;
+     language dflt ;
+      lookup cursZczapisanemidzyznakowewtablicy0;
+} curs;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\.null \uni000A \space \quoteright \quotesinglbase \quotedblright 
+	\quotedblbase \uni2029 \malaspacja \stemK \gorP.brzh \stemI.krt \stemKRT 
+	\gorBbrzh \stemK.krt \stemG \gorST.brzh \luD1 \luD2 \gorPS.brzh \luT1 \luT2 \luKL 
+	\luSJ \dolCZbrzh \dolSZ.brzh \dolDRZ.brzh \poczPUA \stemG.krt \stemI \uniD00F 
+	\luUs \koloS \koloZ \eprost3 \eprost4 \luD3 \luD4 \luT3 \luT4 \okroci \prostaVOW 
+	\prostaCONS \konCONS \endash \konVOW \eprost2 \dolMv.brzhd \luGL \dolTW \dolMK30 
+	\dolETW \dolMKE \luU0 \luU2 \luNdol \dolLUK \eprost0 \eprost1 \eprost5 \eprost6 
+	\gorMKE \koloL \gorZD.brzhd \dolDv.brzhd \luU1 \luU3 \luU4 \luU5 \luUa0 \luUa1 
+	\luUa2 \luUa3 \luUa4 \luKLY \dolMK45 \dolTW.alt \gorMK45 \okredzi \okrodzi 
+	\okreci \luNgor \luNOdol \luONgor \OstrI \gorLUK \gorOMluk \dolMOluk \k \g \i \e \u 
+	\s \z \l \p ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
+table BASE {
+  HorizAxis.BaseTagList;
+  HorizAxis.BaseScriptList
+} BASE;
+

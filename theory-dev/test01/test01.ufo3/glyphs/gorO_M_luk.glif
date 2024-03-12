@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gorOMluk" format="2">
+  <advance width="780" height="780"/>
+  <unicode hex="E0CB"/>
+  <outline>
+    <contour>
+      <point x="780" y="22" type="line"/>
+      <point x="660" y="23" type="line"/>
+      <point x="660" y="59" type="line" smooth="yes"/>
+      <point x="660" y="202"/>
+      <point x="375" y="201" type="qcurve" smooth="yes"/>
+      <point x="196" y="200"/>
+      <point x="114" y="31" type="qcurve"/>
+      <point x="5" y="89" type="line"/>
+      <point x="137" y="330"/>
+      <point x="376" y="331" type="qcurve" smooth="yes"/>
+      <point x="780" y="333"/>
+      <point x="780" y="59" type="qcurve" smooth="yes"/>
+    </contour>
+    <component base="konCONS" xScale="-1" yScale="-1" xOffset="780" yOffset="83"/>
+    <component base="konCONS" xScale="-1" yScale="-1" xOffset="120" yOffset="120"/>
+  </outline>
+</glyph>
