@@ -48,7 +48,7 @@ SFD1=$NAZWA-01-fea.sfd #&& echo $SFD1
 FEAFILE=$NAZWA.fea
 # dołożenie pliku .fea do pliku SFD
 # odhaszuj w razie potrzeby i zahaszuj linię niżej
-#$SKRYPTY/dodaj-fea.py $SFD0 $FEAFILE $SFD1 && echo "Dodano features z pliku $FEAFILE"
+#$SKRYPTY/dodaj-fea.py $SFD0 $FEAFILE $SFD1 && echo "Dodano features z pliku $FEAFILE do pliku $SFD1"
 cp $SFD0 $SFD1
 
 
@@ -74,13 +74,14 @@ SFD3="$NAZWA-03-wyn.sfd"
 #echo "$SKRYPTY/generuj-font.py $SFD2 $SFD3 $OTF"
 $SKRYPTY/generuj-font.py $SFD2 $SFD3 $OTF
 if [ -f "$OTF" ]; then
-    echo "something"
+    echo "---------------"
 fi
 
 
 # FEA 2 features and lookups
 # dodawanie fea do pliku OTF (jeżeli nie dodajemy do SFD wyżej)
-$SKRYPTY/dodaj-fea-otf.py $FEAFILE $OTF
+# jeżeli dodajemy wyżej, to tu zahaszować
+$SKRYPTY/dodaj-fea-otf.py $FEAFILE $OTF && echo "Dodano features z pliku $FEAFILE do pliku $OTF"
 
 
 # skopiowanie fontu do ~/.fonts/
