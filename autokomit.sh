@@ -7,4 +7,4 @@ GIT=`which git` #pełna ścieżka do git
 # komitujemy
 ${GIT} add --all . && \
 ${GIT} commit -m "$komitmessage" && \
-${GIT} push origin dev
+${GIT} push origin theory-dev
