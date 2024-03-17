@@ -41,12 +41,12 @@ table GDEF {
 
 # GSUB
 
-#lookup ciliga { sub c i by c_i; } ciliga;
-#feature liga { 
-#  language dflt;
-#  sub g l by luGL; 
-#  lookup ciliga;
-#} liga;
+lookup ciliga { sub c i by c_i; } ciliga;
+feature liga { 
+  language dflt;
+  sub g l by luGL;
+  lookup ciliga;
+} liga;
 
 lookup on { 
   sub o n by luONgor; 
@@ -62,6 +62,20 @@ feature ono {
   language dflt;
   sub o' n' lookup on o' lookup no; 
 } ono;
+
+lookup FirstSub {
+    sub n' by luONgor;
+} FirstSub;
+
+lookup SecondSub {
+    sub n' by luNOdol;
+} SecondSub;
+
+feature calt {
+    sub o' n' o' lookup FirstSub o' n' lookup SecondSub o';
+} calt;
+
+
 
 #feature eci {
 #  language dflt;
