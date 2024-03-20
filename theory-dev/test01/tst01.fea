@@ -3,6 +3,8 @@ languagesystem DFLT dflt;
 
 # Anchors anchory kotwice
 include(tst01-anchors.fea)
+#include(tst01-circ.fea)
+
 #lookup cursanchory {
 #  pos cursive \stemK <anchor 60 1649> <anchor 60 60>;
 #  pos cursive \gorP.brzh <anchor 60 919> <anchor 60 839>;
@@ -41,43 +43,112 @@ table GDEF {
 
 # GSUB
 
-lookup ciliga { sub c i by c_i; } ciliga;
-feature liga { 
-  language dflt;
-  sub g l by luGL;
-  lookup ciliga;
-} liga;
+#lookup ciliga { sub c i by c_i; } ciliga;
+#feature liga { 
+#  language dflt;
+#  sub g l by luGL;
+#  lookup ciliga;
+#} liga;
 
-lookup on { 
-  sub o n by luONgor; 
-#  sub c i by okreci;
-  } on;
+#lookup n {
+#    sub n by luNgor luNdol;
+#} n;
 
-lookup no { 
-  sub n by luNOdol;
-#  sub k by g;
-} no;
+#feature ccmp {
+#    lookup n;
+#} ccmp;
 
-feature ono {
-  language dflt;
-  sub o' n' lookup on o' lookup no; 
+@space = [ \space ];
+@x_n = [ k g l m n p b s z ];
+@male = [ k g i u s z l p b m n ];
+@WIELKIE = [ K G I U S Z L P B M N ];
+
+lookup onno {
+    # xonox
+    sub @GDEF_Simple o' n' o @GDEF_Simple by luONgor;
+    #sub @GDEF_Simple luONgor n' o @GDEF_Simple by NULL;
+    sub @GDEF_Simple luONgor o' @GDEF_Simple by luNOdol;
+    # xonx
+    sub @GDEF_Simple o' n @GDEF_Simple by luONgor;
+    sub @GDEF_Simple luONgor n' @GDEF_Simple by luNdol;
+    # xon
+    sub n o' n' by luONgor;
+    sub @GDEF_Simple o' n' by luONgor;
+
+    # on
+    #sub o' n by luONgor;
+    #sub luONgor n' by luNdol;
+	# no
+    #sub n' o by luNgor;
+    #sub luNgor o' by luNOdol;
+    # ono
+	#sub luONgor luNdol' o' by luNOdol;
+    #sub luONgor luNdol' luNOdol by NULL;
+} onno;
+
+lookup ono {
 } ono;
 
-lookup FirstSub {
-    sub n' by luONgor;
-} FirstSub;
+lookup kon {
+    #sub @x_n luONgor luNdol' @space by NULL;
+    #sub luONgor NULL' @x_n by luNdol;
+} kon;
 
-lookup SecondSub {
-    sub n' by luNOdol;
-} SecondSub;
+
+lookup onk {
+    #sub n @x_n by
+    #sub luNdol' @x_n by dolTW;
+    #sub luNdol' luONgor by dolTW;
+    #sub luNgor luONgor;
+} onk;
+
+
+lookup n {
+    sub luNgor luNdol by n;
+} n;
+
+#lookup maleWIELKIE { sub @male by @WIELKIE; } maleWIELKIE;
+
+#lookup maleWIELKIE { pos base @male <anchor 0 0> mark @circ; } maleWIELKIE;
+#lookup maleWIELKIE { pos base @male <anchor 0 0> mark @circ; } maleWIELKIE;
+
+
+feature ccmp {
+    lookup n;
+#    lookup maleWIELKIE;
+#    lookup markcirc;
+#    script latn;
+#    language dflt;
+} ccmp;
+
 
 feature calt {
-    sub o' n' o' lookup FirstSub o' n' lookup SecondSub o';
+#   lookup on;
+# 	lookup no;
+ 	lookup onno;
+	lookup ono;
+    lookup kon;
+    lookup onk;
 } calt;
 
 
+#feature liga {
+#    lookup subst {
+#        context @male \circumflex;
+#        sub @male by @WIELKIE;
+#        sub circumflex by @LowerCircumflex;
+#    } subst;
+#} liga;
 
-#feature eci {
-#  language dflt;
-#    sub e c' lookup on i' lookup no k';
-#} eci;
+#feature mark {
+#    markClass [acute grave circumflex];
+#    markClass [acute grave circumflex] <anchor 1 0 0 0> @LowerCircumflex;
+#} mark;
+
+#lookup markPositioning {
+#    pos @LowerCircumflex <anchor 0 0> mark @LowerCircumflex;
+#} markPositioning;
+
+
+
+

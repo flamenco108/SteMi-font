@@ -80,7 +80,7 @@ lookup cursanchory {
     pos cursive \l <anchor 159 69> <anchor 109 68>;
     pos cursive \p <anchor 66 901> <anchor 60 60>;
     pos cursive \b <anchor 60 718> <anchor 60 60>;
-    pos cursive \m <anchor 60 930> <anchor 60 60>;
+    pos cursive \m <anchor 60 930> <anchor 390 60>;
     pos cursive \n <anchor 60 60> <anchor 726 150>;
     pos cursive \o <anchor 60 60> <anchor 370 836>;
     pos cursive \g_l <anchor 130 900> <anchor 160 230>;
