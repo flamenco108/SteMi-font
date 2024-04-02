@@ -1,0 +1,42 @@
+Write python code that does as follows:
+
+Function 1: 
+- open file from sys.argv 
+- remember the filename
+- read the list of words from this file
+
+Function 2: 
+Change all letters into small caps
+
+Function 3: 
+Change strings (group of letters) as below:
+ch into h
+szcz into ş
+si into ś
+ci into ć
+ni into ń
+sz into š
+rz into ż
+cz into č
+ó into u
+zi into ź
+dż into ď
+dź into ģ
+dzi into ģ
+dz into đ
+v into w
+
+and write result in filename with suffix "-fonetic"
+
+Function 3: 
+Assign numeric values for the each letter in groups of letters as follows:
+[k,h] = -7
+[p,ś] = -6
+[y,ą] = 7
+[g,b,m,š,ż,ć,ź,t,ď] = -4
+[a,o,u] = 5
+[ģ] = -2
+[ę] = 1
+[s,z,c,đ,e] = 0
+
+

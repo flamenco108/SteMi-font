@@ -27,7 +27,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1710839474
+ModificationTime: 1711463816
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -759,7 +759,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 20 14
+WinInfo: 60 20 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -835,8 +835,7 @@ Grid
   Named: "wysokie-litery"
 EndSplineSet
 TeXData: 1 0 0 349525 174762 116508 101362 -383080 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "circ""" 
-BeginChars: 1114114 136
+BeginChars: 1114114 138
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2229,7 +2228,7 @@ Refer: 46 57346 N 1 0 0 1 0.4688 -1 2
 Validated: 11
 EndChar
 
-StartChar: dolETW
+StartChar: dolTWe
 Encoding: 57540 57540 54
 Width: 335
 GlyphClass: 2
@@ -2237,21 +2236,20 @@ Flags: W
 LayerCount: 3
 Fore
 SplineSet
-0 180 m 5,0,-1
- 120.186523438 180 l 5,1,-1
- 121.186523438 169.650390625 l 4,2,3
- 121 156 121 156 136 146 c 4,4,5
- 147 139 147 139 165.508789062 140.586914062 c 4,6,-1
- 181.6953125 140.586914062 l 5,7,-1
- 181.6953125 20.083984375 l 5,8,-1
- 169.623046875 20.083984375 l 6,9,10
- 101 20 101 20 63 42 c 4,11,12
- 0 79 0 79 0 169.650390625 c 6,13,-1
- 0 180 l 5,0,-1
+0 180 m 1,0,-1
+ 120 180 l 1,1,-1
+ 120 179 l 0,2,3
+ 129 151 129 151 144 144 c 0,4,5
+ 152 140 152 140 176 140 c 0,6,-1
+ 182 140 l 1,7,-1
+ 181.6953125 20.083984375 l 1,8,-1
+ 175.623046875 20.083984375 l 4,9,10
+ 117 23 117 23 78 48 c 0,11,12
+ 6.59438771896 91.2085289535 6.59438771896 91.2085289535 0 177.650390625 c 0,13,-1
+ 0 180 l 1,0,-1
 EndSplineSet
 Refer: 46 57346 N 1 0 0 1 0 120 2
 Refer: 46 57346 N 1 0 0 1 122 20 2
-Validated: 43
 EndChar
 
 StartChar: dolMKE
@@ -2989,7 +2987,6 @@ StartChar: k
 Encoding: 107 107 92
 Width: 120
 Flags: W
-AnchorPoint: "circ" 58 1896 basechar 0
 LayerCount: 3
 Fore
 Refer: 10 57352 S 1 0 0 1 0 0 2
@@ -3000,7 +2997,6 @@ StartChar: g
 Encoding: 103 103 93
 Width: 120
 Flags: W
-AnchorPoint: "circ" 62 1590 basechar 0
 LayerCount: 3
 Fore
 Refer: 16 57354 S 1 0 0 1 0 0 2
@@ -3011,7 +3007,6 @@ StartChar: i
 Encoding: 105 105 94
 Width: 121
 Flags: W
-AnchorPoint: "circ" 60 1476 basechar 0
 LayerCount: 3
 Fore
 Refer: 31 57356 N 1 0 0 1 1 0 2
@@ -3025,14 +3020,12 @@ Flags: W
 LayerCount: 3
 Fore
 Refer: 49 57474 N 1 0 0 1 -0.000172627 0 2
-Validated: 5
 EndChar
 
 StartChar: u
 Encoding: 117 117 96
 Width: 454
 Flags: W
-AnchorPoint: "circ" 162 1582 basechar 0
 LayerCount: 3
 Fore
 Refer: 56 57517 N 1 0 0 1 0 0 2
@@ -3043,7 +3036,6 @@ StartChar: s
 Encoding: 115 115 97
 Width: 582
 Flags: W
-AnchorPoint: "circ" 240 1588 basechar 0
 LayerCount: 3
 Fore
 Refer: 34 57440 N 1 0 0 1 0 0 2
@@ -3054,7 +3046,6 @@ StartChar: z
 Encoding: 122 122 98
 Width: 449
 Flags: W
-AnchorPoint: "circ" 228 1430 basechar 0
 LayerCount: 3
 Fore
 Refer: 35 57441 S 1 0 0 1 0 0 2
@@ -3064,8 +3055,7 @@ EndChar
 StartChar: l
 Encoding: 108 108 99
 Width: 266
-Flags: WO
-AnchorPoint: "circ" 152 1190 basechar 0
+Flags: W
 LayerCount: 3
 Fore
 Refer: 65 57442 N 1 0 0 1 0 0 2
@@ -3076,7 +3066,6 @@ StartChar: p
 Encoding: 112 112 100
 Width: 459
 Flags: W
-AnchorPoint: "circ" 216 2000 basechar 0
 LayerCount: 3
 Fore
 Refer: 16 57354 N 1 0 0 1 0 0 2
@@ -3088,7 +3077,6 @@ StartChar: b
 Encoding: 98 98 101
 Width: 465
 Flags: W
-AnchorPoint: "circ" 218 1896 basechar 0
 LayerCount: 3
 Fore
 Refer: 30 57355 N 1 0 0 1 1 0 2
@@ -3122,7 +3110,6 @@ StartChar: m
 Encoding: 109 109 103
 Width: 450
 Flags: W
-AnchorPoint: "circ" 218 1704 basechar 0
 LayerCount: 3
 Fore
 Refer: 16 57354 N 1 0 0 1 330 0 2
@@ -3134,7 +3121,6 @@ StartChar: n
 Encoding: 110 110 104
 Width: 784
 Flags: W
-AnchorPoint: "circ" 242 1590 basechar 0
 LayerCount: 3
 Fore
 Refer: 58 57528 S 1 0 0 1 332 45 2
@@ -3219,7 +3205,6 @@ StartChar: circumflex
 Encoding: 710 710 110
 Width: 639
 Flags: W
-AnchorPoint: "circ" 322 2050 mark 0
 LayerCount: 3
 Fore
 SplineSet
@@ -3407,6 +3392,26 @@ Encoding: 90 90 135
 Width: 20
 Flags: W
 LayerCount: 3
+EndChar
+
+StartChar: n.TW
+Encoding: 57610 57610 136
+Width: 596
+Flags: W
+LayerCount: 3
+Fore
+Refer: 52 57538 S 1 0 0 1 331 25 2
+Refer: 85 57529 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: n.TWe
+Encoding: 57611 57611 137
+Width: 574
+Flags: W
+LayerCount: 3
+Fore
+Refer: 54 57540 S 1 0 0 1 332 -74 2
+Refer: 85 57529 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

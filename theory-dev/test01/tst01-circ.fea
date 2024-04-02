@@ -1,6 +1,7 @@
 lookup markcirc {
   lookupflag 0;
   markClass [\circumflex ] <anchor 322 2050> @circ;
+  #markClass [\circumflex ] <anchor 1500 2050> @circ;
   pos base [\k ] <anchor 58 1896> mark @circ;
   pos base [\g ] <anchor 62 1590> mark @circ;
   pos base [\i ] <anchor 60 1476> mark @circ;
@@ -12,11 +13,6 @@ lookup markcirc {
   pos base [\b ] <anchor 218 1896> mark @circ;
   pos base [\m ] <anchor 218 1704> mark @circ;
   pos base [\n ] <anchor 242 1590> mark @circ;
+  pos base [\e ] <anchor 456 1083> mark @circ;
 } markcirc;
 
-feature mark {
-
- script DFLT;
-     language dflt ;
-      lookup markcirc;
-} mark;

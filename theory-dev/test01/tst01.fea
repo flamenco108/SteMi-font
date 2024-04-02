@@ -2,24 +2,21 @@ languagesystem DFLT dflt;
 
 
 # Anchors anchory kotwice
-include(tst01-anchors.fea)
-#include(tst01-circ.fea)
+include(tst01-anchors.fea) #lookup cursanchory
+include(tst01-circ.fea) #lookup marcirc
 
-#lookup cursanchory {
-#  pos cursive \stemK <anchor 60 1649> <anchor 60 60>;
-#  pos cursive \gorP.brzh <anchor 60 919> <anchor 60 839>;
-#  pos cursive \stemG <anchor 60 900> <anchor 60 60>;
-#    #pos stemK <anchor Anch1> entry (60, 1649);
-#    #pos stemK <anchor Anch1> exit (60, 60);
-#} cursanchory;
+feature curs {
+ script DFLT;
+     language dflt ;
+     lookup cursanchory;
+} curs;
 
-#feature curs {
-# script DFLT;
-#     language dflt ;
-#     lookup cursanchory;
-#} curs;
+feature abvm {
 
-
+ script DFLT;
+     language dflt ;
+      lookup markcirc;
+} abvm;
 
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
@@ -30,14 +27,16 @@ include(tst01-anchors.fea)
 	\luSJ \dolCZbrzh \dolSZ.brzh \dolDRZ.brzh \poczPUA \stemG.krt \stemI \uniD00F 
 	\luUs \koloS \koloZ \eprost3 \eprost4 \luD3 \luD4 \luT3 \luT4 \okroci \prostaVOW 
 	\prostaCONS \konCONS \endash \konVOW \eprost2 \dolMv.brzhd \luGL \dolTW \dolMK30 
-	\dolETW \dolMKE \luU0 \luU2 \luNdol \dolLUK \eprost0 \eprost1 \eprost5 \eprost6 
+	\dolTWe \dolMKE \luU0 \luU2 \luNdol \dolLUK \eprost0 \eprost1 \eprost5 \eprost6 
 	\gorMKE \koloL \gorZD.brzhd \dolDv.brzhd \luU1 \luU3 \luU4 \luU5 \luUa0 \luUa1 
 	\luUa2 \luUa3 \luUa4 \luKLY \dolMK45 \dolTW.alt \gorMK45 \okredzi \okrodzi 
 	\okreci \luNgor \luNOdol \luONgor \OstrI \gorLUK \gorOMluk \dolMOluk \k \g \i \e \u 
-	\s \z \l \p \b \c \m \n \o \g_l \c_i ];
+	\s \z \l \p \b \c \m \n \o \g_l \c_i \ij \S \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \T \U 
+	\V \W \X \Y \Z \n.TW \n.TWe ];
+@GDEF_Mark = [\circumflex ];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple, , , ;
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
 
 } GDEF;
 
@@ -62,18 +61,52 @@ table GDEF {
 @x_n = [ k g l m n p b s z ];
 @male = [ k g i u s z l p b m n ];
 @WIELKIE = [ K G I U S Z L P B M N ];
+@litery = [ k g l p b s z ];
 
-lookup onno {
+lookup smalcps { 
+    sub K lookup markcirc;
+    sub G by circumflex g;
+    sub s by circumflex s;
+    sub Z by circumflex z;
+    sub L by circumflex l;
+    sub P by circumflex p;
+    sub B by circumflex b;
+    sub M by circumflex m;
+    sub N by circumflex n;
+} smalcps;
+feature ccmp { lookup smalcps; } ccmp;
+
+lookup XonoX {
+    # nnn
+    #sub n n by
     # xonox
-    sub @GDEF_Simple o' n' o @GDEF_Simple by luONgor;
-    #sub @GDEF_Simple luONgor n' o @GDEF_Simple by NULL;
-    sub @GDEF_Simple luONgor o' @GDEF_Simple by luNOdol;
+    #sub [ @litery @space ] o' n' o [ @litery @space ] by luONgor;
+    #sub @space o' n' o @space by luONgor;
+    #sub [ @litery @space ] luONgor o' [ @litery @space ] by luNOdol;
+    #sub @space luONgor o' @space by luNOdol;
+    sub o' n o by luONgor;
+    sub luONgor n' o' by luNOdol;
     # xonx
-    sub @GDEF_Simple o' n @GDEF_Simple by luONgor;
-    sub @GDEF_Simple luONgor n' @GDEF_Simple by luNdol;
+    sub [ @litery @space ] o' n [ @litery @space ] by luONgor;
+    sub [ @litery @space ] luONgor n' [ @litery ] by dolTW;
+    sub [ @litery @space ] luONgor n' @space by NULL;
+    # xno
+    sub [ @litery @space ] n' o [ @litery @space ] by luNgor;
+    sub [ @litery @space ] luNgor o' [ @litery @space ] by luNOdol;
+    sub n' n o by luNgor;
+    sub luNgor n' o by dolTW;
+    sub luNgor dolTW o' by luNOdol;
+    # nonx
+    sub n' o n by luNgor;
+    sub luNgor o' n by dolTW;
+    sub luNgor dolTW n' by luONgor;
+
+
     # xon
-    sub n o' n' by luONgor;
-    sub @GDEF_Simple o' n' by luONgor;
+    #sub n' o n by luNgor;
+    #sub luNgor o' n by dolTW;
+    #sub luNgor dolTW n' by luONgor;
+    #sub @litery o' n' by luONgor;
 
     # on
     #sub o' n by luONgor;
@@ -84,7 +117,7 @@ lookup onno {
     # ono
 	#sub luONgor luNdol' o' by luNOdol;
     #sub luONgor luNdol' luNOdol by NULL;
-} onno;
+} XonoX;
 
 lookup ono {
 } ono;
@@ -114,7 +147,7 @@ lookup n {
 
 
 feature ccmp {
-    lookup n;
+    #lookup n;
 #    lookup maleWIELKIE;
 #    lookup markcirc;
 #    script latn;
@@ -125,11 +158,14 @@ feature ccmp {
 feature calt {
 #   lookup on;
 # 	lookup no;
- 	lookup onno;
-	lookup ono;
-    lookup kon;
-    lookup onk;
+ 	#lookup XonoX;
+	#lookup ono;
+    #lookup kon;
+    #lookup onk;
 } calt;
+
+
+
 
 
 #feature liga {
@@ -149,6 +185,23 @@ feature calt {
 #    pos @LowerCircumflex <anchor 0 0> mark @LowerCircumflex;
 #} markPositioning;
 
+lookup ONO { sub o n o by luU1;} ONO;
+lookup ON { sub o n by luNgor;} ON;
+lookup NO { sub n o by luNgor;} NO;
 
+lookup LUONO { sub luU1 by luONgor luNOdol;} LUONO;
+lookup LUON { sub luNgor by luONgor luNdol;} LUON;
+lookup LUNO { sub luNgor by luNgor luNOdol;} LUNO;
+
+
+lookup REOR {
+    
+    sub o' lookup ON lookup LUON n';
+    
+    sub n' lookup NO lookup LUNO o';
+    sub o' n' lookup ONO lookup LUNO o';
+} REOR;
+
+feature calt { lookup REOR;} calt;
 
 
