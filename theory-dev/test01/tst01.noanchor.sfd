@@ -27,7 +27,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1712666803
+ModificationTime: 1711463816
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -759,7 +759,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 20 14
+WinInfo: 60 20 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -835,7 +835,7 @@ Grid
   Named: "wysokie-litery"
 EndSplineSet
 TeXData: 1 0 0 349525 174762 116508 101362 -383080 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114114 140
+BeginChars: 1114114 138
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -3412,24 +3412,6 @@ LayerCount: 3
 Fore
 Refer: 54 57540 S 1 0 0 1 332 -74 2
 Refer: 85 57529 N 1 0 0 1 0 0 2
-EndChar
-
-StartChar: gorTWE
-Encoding: 57554 57554 138
-Width: 242
-Flags: W
-LayerCount: 3
-Fore
-Refer: 54 57540 S -1 0 0 -1 242 260 2
-EndChar
-
-StartChar: a
-Encoding: 97 97 139
-Width: 545
-Flags: W
-LayerCount: 3
-Fore
-Refer: 16 57354 N 0.866025 -0.5 0.5 0.866025 -19.0189 40.3078 2
 EndChar
 EndChars
 EndSplineFont
