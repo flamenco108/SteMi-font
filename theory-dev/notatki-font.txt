@@ -1,3 +1,44 @@
+# Rodzina fontu SteMi
+
+## SteMi Alfa 
+
+Font bez skrótów i bez żadnych uproszczeń w łączeniu znaków. Projektowany, aby być zdolnym zapisać wszystko (przynajmniej po polsku) w oryginalnym brzmieniu. Zastosowane będą tylko takie znaki, które są głoskami samymi w sobie: 
+
+  - sz, rz itp. 
+  - nie będzie nawet `ksz/krz, prz/psz`.
+  - będą łączenia znaków jak `tk, kt, kw, wk, wd` ale bez zastosowania skrótowego
+
+## Stemi Brevis 
+
+Font z zastosowanymi pierwszymi grupami skrótów i uproszczeń jak:
+
+  - `ksz/krz, grz, psz/prz, brz, chrz` itp. przez pochylenie 20st. w lewo
+  - `tk = tek, tcz = tycz` itp.
+  - `kw = ków/kow` itp. - ale skrót ten jest przez złączenie `k+w`
+  - szczelinowe pochylone w lewo = `szw czw`
+  - szczelinowe miękkie `ć, ś, ść` łączą się z `w` bezpośrednio
+  - oznaczanie `r` przez przekrzyżowanie
+  - pierwsze skrótowce ("brewki") tylko takie dające się "przetłumaczyć" skrótowe złożenia znaków jak np.:
+    - `kio` = kto
+    - `ś` = się; `śe` = siebie
+    - `oso` (o s o.alt) = osoba; `osość` (o s ość) = osobiście
+    - `y` = by (można użyć gdziekolwiek, nie tylko w `gdyby` ale i w `grzyby`)
+    - `d brz e` = dobrze; `d br re` = dobre
+
+## Stemi Steno 
+
+Font w pełni stenograficzny, ze wszystkimi skrótami:
+
+  - `ksz/krz = kierz/kasz` itp.
+  - `wsz` pochylone może też znaczyć `wcz`
+  - `kw` przez pochylenie stemu w prawo o 20st. (i dalej działa skrót `ków/kow` itp.) - `pw, bw, gw` itp.
+  - szczelinowe miękkie `ć, ś, ść` łączą się z `w` przez pochylenie 20st. w lewo + mały łuk `w`
+  - t.alt pochylone w lewo oznacza `to`, `t` pochylone w lewo oznacza `te`
+  - dochodzą `znaczniki` czyli znaki oznaczające wyrazy i pojęcia, np.:
+    - `wszech/wszystk` (zawijas w prawo)
+    - `dobrz/dobr` skosik pochylony w prawo + skosik pochylony w lewo
+    - `bardzo` skosik pochylony w lewo + skosik pochylony w prawo
+
 # Porządek tworzenia, nazewnictwa i sortowania glifów
 
 - LITERY/GŁOSKI  zaczynają się od 57550 - U+e0ce (a.org)
@@ -10,7 +51,7 @@
 
 ## Łączenie glifów
 
-- poprzez achor entry-exit
+- poprzez achor entry-exit (inout, feature curs)
 - reguły łączenia w pliku .fea
 - UWAGA! To oznacza, że trzeba utworzyć też osobne glify dla związków przekrzyżowanych (np. dla k -> kr, rk, rkr, ale tylko Kr)
 
@@ -53,11 +94,12 @@
 
 - UWAGA!: Wielkie Litery nie mają wariantów pochyleń!
 - samogłoski (pochylenie w prawo):
-  - 20st, 30st, 45st, 55st
+  - 30st, 45st, 55st
   - glify `e-ę`: 85st, 90st
-spółgłoski (pochylenie w lewo):
+- spółgłoski (pochylenie w lewo - oznaczenie "+sz" jak np. ksz/krz oraz dla szczelinowych "+w" jak np. szw/szew/szów):
   - 20st, 30st, 45st
-
+- spółgłoski (pochylenie w prawo - oznaczenie "+w" jak np.kw/kow/ków):
+  - 20st, 30st [w SteMi Steno]
 
 ### INNE
 

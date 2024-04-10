@@ -30,7 +30,7 @@ feature abvm {
 	\dolTWe \dolMKE \luU0 \luU2 \luNdol \dolLUK \eprost0 \eprost1 \eprost5 \eprost6 
 	\gorMKE \koloL \gorZD.brzhd \dolDv.brzhd \luU1 \luU3 \luU4 \luU5 \luUa0 \luUa1 
 	\luUa2 \luUa3 \luUa4 \luKLY \dolMK45 \dolTW.alt \gorMK45 \okredzi \okrodzi 
-	\okreci \luNgor \luNOdol \luONgor \OstrI \gorTWE \gorLUK \gorOMluk \dolMOluk 
+	\okreci \luNgor \luNOdol \luONgor \OstrI \gorTWe \gorLUK \gorOMluk \dolMOluk 
     \k \g 
     \i \e \a \u \o
 	\s \z \l \p \b \c \m \n \g_l 
@@ -50,7 +50,8 @@ table GDEF {
 @male = [ k g i u s z l p b m n ];
 @WIELKIE = [ K G I U S Z L P B M N ];
 @spolgloski = [ k g l m n p b s z ];
-@samogloski = [ a e o u ];
+@au = [ a u ];
+@stemowe = [ k g m p b ];
 
 lookup smalcps { 
 #    sub K lookup markcirc;
@@ -63,7 +64,10 @@ lookup smalcps {
     sub M by circumflex m;
     sub N by circumflex n;
 } smalcps;
-feature ccmp { lookup smalcps; } ccmp;
+feature ccmp { 
+  script DFLT;
+     language dflt ;
+    lookup smalcps; } ccmp;
 
 
 
@@ -83,9 +87,9 @@ lookup nO {sub o by luNOdol;} nO;
 #
 lookup Ne {sub n by luNgor dolTWe;} Ne;
 lookup nE {sub n by dolTWe;} nE;
-lookup En {sub n by gorTWE luNdol;} En;
-lookup enX {sub n by gorTWE; } enX;
-lookup EnE {sub n by gorTWE dolTWe;} EnE;
+lookup En {sub n by gorTWe luNdol;} En;
+lookup enX {sub n by gorTWe; } enX;
+lookup EnE {sub n by gorTWe dolTWe;} EnE;
 
 lookup CVnVC {
     # on_litery
@@ -114,6 +118,40 @@ lookup CVnVC {
 
 } CVnVC;
 
-feature calt { lookup CVnVC;} calt;
+# stemy plus twarde samogłoski
+lookup ccmp-dolTW { 
+    sub k by k dolTW;
+    sub g by g dolTW;
+    sub m by m dolTW;
+    sub p by p dolTW;
+    sub b by b dolTW;
+    sub stemG by stemG dolTW;
+} ccmp-dolTW;
+
+lookup ccmp-dolTWe {
+    sub k by k dolTWe;
+    sub g by g dolTWe;
+    sub m by m dolTWe;
+    sub p by p dolTWe;
+    sub b by b dolTWe;
+    sub stemG by stemG dolTWe;
+} ccmp-dolTWe;
+
+lookup ccmp-gorTWe {
+    sub m by gorTWe stemG;
+} ccmp-gorTWe;
+
+lookup stemV { 
+    sub @stemowe' lookup ccmp-dolTW [@au o]; 
+    sub @stemowe' lookup ccmp-dolTWe e;
+    sub e m' lookup ccmp-gorTWe;
+} stemV;
+
+feature calt { 
+  script DFLT;
+   language dflt ;
+    lookup CVnVC;
+    lookup stemV;
+    } calt;
 
 
