@@ -89,5 +89,11 @@ lookup cursanchory {
     pos cursive \o <anchor 60 60> <anchor 370 836>;
     pos cursive \g_l <anchor 130 900> <anchor 160 230>;
     pos cursive \c_i <anchor 61 638> <anchor 391 153>;
+    pos cursive \g_l <anchor 130 900> <anchor 160 230>;
+    pos cursive \c_i <anchor 61 638> <anchor 391 153>;
+    pos cursive \spac.v50.h0 <anchor 60 60> <anchor 60 500>;
+    pos cursive \spac.v80.h0 <anchor 60 60> <anchor 60 800>;
+    pos cursive \spac.v160.h0 <anchor 60 60> <anchor 60 1600>;
 } cursanchory;
+# pos cursive nazwa_glifu <anchor hor-w-prawo ver-w-gore> <anchor hor ver>;
 

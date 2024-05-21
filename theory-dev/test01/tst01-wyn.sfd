@@ -27,7 +27,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1713776273
+ModificationTime: 1715340623
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -759,7 +759,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 57320 20 14
+WinInfo: 57480 20 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -835,7 +835,7 @@ Grid
   Named: "wysokie-litery"
 EndSplineSet
 TeXData: 1 0 0 349525 174762 116508 101362 -383080 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114114 140
+BeginChars: 1114114 143
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -5344,6 +5344,42 @@ SplineSet
  430.481445312 818.864257812 l 2
 EndSplineSet
 Validated: 524291
+EndChar
+
+StartChar: spac.v50.h0
+Encoding: 57612 57612 140
+Width: 120
+Flags: HW
+LayerCount: 3
+Fore
+Validated: 1
+Layer: 2
+Refer: 46 57346 S 1 0 0 1 0 0 2
+Refer: 46 57346 S 1 0 0 1 0 439 2
+EndChar
+
+StartChar: spac.v80.h0
+Encoding: 57613 57613 141
+Width: 120
+Flags: HW
+LayerCount: 3
+Fore
+Validated: 1
+Layer: 2
+Refer: 46 57346 N 1 0 0 1 0 0 2
+Refer: 46 57346 S 1 0 0 1 0 742 2
+EndChar
+
+StartChar: spac.v160.h0
+Encoding: 57614 57614 142
+Width: 120
+Flags: HW
+LayerCount: 3
+Fore
+Validated: 1
+Layer: 2
+Refer: 46 57346 N 1 0 0 1 0 0 2
+Refer: 46 57346 S 1 0 0 1 0 1537 2
 EndChar
 EndChars
 EndSplineFont

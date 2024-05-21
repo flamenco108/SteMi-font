@@ -35,7 +35,8 @@ feature abvm {
     \i \e \a \u \o
 	\s \z \l \p \b \c \m \n \g_l 
     \c_i \ij \S \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \T \U 
-	\V \W \X \Y \Z \n.TW \n.TWe ];
+	\V \W \X \Y \Z \n.TW \n.TWe 
+	\spac.v50.h0 \spac.v80.h0 \spac.v160.h0];
 @GDEF_Mark = [\circumflex ];
 
 table GDEF {
@@ -69,7 +70,9 @@ feature ccmp {
      language dflt ;
     lookup smalcps; } ccmp;
 
-
+lookup space50 { sub n by \spac.v50.h0 n; } space50;
+lookup space80 { sub n by \spac.v80.h0 n; } space80;
+lookup space160 { sub n by \spac.v160.h0 n; } space160;
 
 
 lookup N { sub n by luNgor luNdol;} N;
@@ -91,7 +94,14 @@ lookup En {sub n by gorTWe luNdol;} En;
 lookup enX {sub n by gorTWe; } enX;
 lookup EnE {sub n by gorTWe dolTWe;} EnE;
 
+lookup spaceHI {
+    sub \space n' lookup space160 k;
+    sub \space n' lookup space80 g;
+
+} spaceHI;
+
 lookup CVnVC {
+
     # on_litery
     sub o' lookup On n' lookup nX [ @spolgloski a u ];
     # on_space
@@ -152,6 +162,7 @@ feature calt {
    language dflt ;
     lookup CVnVC;
     lookup stemV;
+    lookup spaceHI;
     } calt;
 
 

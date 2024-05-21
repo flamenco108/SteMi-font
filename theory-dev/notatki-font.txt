@@ -41,6 +41,28 @@ Font w pełni stenograficzny, ze wszystkimi skrótami:
 
 # Porządek tworzenia, nazewnictwa i sortowania glifów
 
+## Bazowe wymiary
+
+- Wzornikiem wymiarów grubości kreski/stemu jest `konCONS` = 120x120
+- WYSOKOŚCI:
+  - niskie litery: 
+    - wysokość: 200
+    - łączenie baseline 0 
+    - łączenie dół 100
+  - średnie litery: 
+    - łączenie base 700
+    - łączenie środek 800
+    - wysokość 900
+  - wysokie litery:
+    - łączenie base 1600
+    - łączenie góra 1700
+    - wysokość 1800
+- ŁUKI (oznaczenie):
+  - 90 (9)
+  - 60 (6)
+  - 45 (4)
+  - 30 (3)
+
 - LITERY/GŁOSKI  zaczynają się od 57550 - U+e0ce (a.org)
 - składamy glif z elementów glifów poprzez referencje (Ctrl+G)
 - jeżeli to znak posiadający swój codepoint, najpierw tworzymy glif w PUA o nazwie `litera.org` np. `a.org` i z niej referencją przekazujemy to na codepoint (X.org pozostaje jako referencyjny dla domyślnej litery podstawowej, czyli tworzymy x.org oraz X.org)
@@ -51,7 +73,7 @@ Font w pełni stenograficzny, ze wszystkimi skrótami:
 
 ## Łączenie glifów
 
-- poprzez achor entry-exit (inout, feature curs)
+- poprzez anchor entry-exit (inout, feature curs)
 - reguły łączenia w pliku .fea
 - UWAGA! To oznacza, że trzeba utworzyć też osobne glify dla związków przekrzyżowanych (np. dla k -> kr, rk, rkr, ale tylko Kr)
 
