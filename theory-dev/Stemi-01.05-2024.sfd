@@ -27,7 +27,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1717679311
+ModificationTime: 1717680553
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -759,7 +759,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 57744 18 14
+WinInfo: 57474 18 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -19530,199 +19530,224 @@ EndChar
 
 StartChar: s.luk.4.9
 Encoding: 57547 57547 895
-Width: 3000
+Width: 1598
+Flags: W
 LayerCount: 3
 Fore
-Refer: 834 57488 S 0.707107 -0.707107 0.707107 0.707107 -23.7377 62.521 2
+Refer: 834 57488 S 0.707107 -0.707107 0.707107 0.707107 -23.85 62.521 2
 EndChar
 
 StartChar: f.luk.4.9
 Encoding: 57548 57548 896
-Width: 3000
+Width: 1191
+Flags: W
 LayerCount: 3
 Fore
-Refer: 833 57489 S 0.707107 -0.707107 0.707107 0.707107 -18.2374 63.3634 2
+Refer: 833 57489 S 0.707107 -0.707107 0.707107 0.707107 -23.8497 63.3634 2
 EndChar
 
 StartChar: t.luk.4.9
 Encoding: 57549 57549 897
-Width: 3000
+Width: 802
+Flags: W
 LayerCount: 3
 Fore
-Refer: 829 57490 S 0.707107 -0.707107 0.707107 0.707107 -2.99045 63.2511 2
+Refer: 829 57490 S 0.707107 -0.707107 0.707107 0.707107 -24.5559 63.2511 2
 EndChar
 
 StartChar: w.luk.4.9
 Encoding: 57550 57550 898
-Width: 3000
+Width: 610
+Flags: W
 LayerCount: 3
 Fore
-Refer: 830 57491 S 0.707107 -0.707107 0.707107 0.707107 -9.74704 62.9259 2
+Refer: 830 57491 S 0.707107 -0.707107 0.707107 0.707107 -24.58 62.9259 2
 EndChar
 
 StartChar: d.luk.4.9
 Encoding: 57551 57551 899
-Width: 3000
+Width: 482
+Flags: W
 LayerCount: 3
 Fore
-Refer: 831 57492 S 0.707107 -0.707107 0.707107 0.707107 -9.20652 63.8999 2
+Refer: 831 57492 S 0.707107 -0.707107 0.707107 0.707107 -23.8081 63.8999 2
 EndChar
 
 StartChar: v.luk.4.9
 Encoding: 57552 57552 900
-Width: 3000
+Width: 300
+Flags: W
 LayerCount: 3
 Fore
-Refer: 832 57493 S 0.707107 -0.707107 0.707107 0.707107 -12.3112 63.0857 2
+Refer: 832 57493 S 0.707107 -0.707107 0.707107 0.707107 -23.7839 63.0857 2
 EndChar
 
 StartChar: x.luk.4.9
 Encoding: 57553 57553 901
-Width: 3000
+Width: 236
+Flags: W
 LayerCount: 3
 Fore
-Refer: 867 57494 S 0.707107 -0.707107 0.707107 0.707107 -15.9914 63.8994 2
+Refer: 867 57494 S 0.707107 -0.707107 0.707107 0.707107 -23.7844 63.8994 2
 EndChar
 
 StartChar: q.luk.4.9
 Encoding: 57554 57554 902
-Width: 3000
+Width: 171
+Flags: W
 LayerCount: 3
 Fore
-Refer: 871 57495 S 0.707107 -0.707107 0.707107 0.707107 -15.4646 62.799 2
+Refer: 871 57495 S 0.707107 -0.707107 0.707107 0.707107 -23.7839 62.799 2
 EndChar
 
 StartChar: s.luk.9.14
 Encoding: 57556 57556 903
-Width: 3000
+Width: 1600
+Flags: W
 LayerCount: 3
 Fore
-Refer: 834 57488 S 0 -1 1 0 -194.728 735.87 2
+Refer: 834 57488 S 0 -1 1 0 0.27493 735.87 2
 EndChar
 
 StartChar: f.luk.9.14
 Encoding: 57557 57557 904
-Width: 3000
+Width: 1200
+Flags: W
 LayerCount: 3
 Fore
-Refer: 833 57489 S 0 -1 1 0 -156.228 559.37 2
+Refer: 833 57489 S 0 -1 1 0 0.27493 559.37 2
 EndChar
 
 StartChar: t.luk.9.14
 Encoding: 57558 57558 905
-Width: 3000
+Width: 799
+Flags: W
 LayerCount: 3
 Fore
-Refer: 829 57490 S 0 -1 1 0 -81.229 410.369 2
+Refer: 829 57490 S 0 -1 1 0 -0.725094 410.369 2
 EndChar
 
 StartChar: w.luk.9.14
 Encoding: 57559 57559 906
-Width: 3000
+Width: 599
+Flags: W
 LayerCount: 3
 Fore
-Refer: 830 57491 S 0 -1 1 0 55.1992 339.031 2
+Refer: 830 57491 S 0 -1 1 0 -0.635761 339.031 2
 EndChar
 
 StartChar: d.luk.9.14
 Encoding: 57560 57560 907
-Width: 3000
+Width: 480
+Flags: W
 LayerCount: 3
 Fore
-Refer: 831 57492 S 0 -1 1 0 34.1538 275.986 2
+Refer: 831 57492 S 0 -1 1 0 0.364737 275.986 2
 EndChar
 
 StartChar: v.luk.9.14
 Encoding: 57561 57561 908
-Width: 3000
+Width: 301
+Flags: W
 LayerCount: 3
 Fore
-Refer: 832 57493 S 0 -1 1 0 8.69238 198.424 2
+Refer: 832 57493 S 0 -1 1 0 0.364255 198.424 2
 EndChar
 
 StartChar: x.luk.9.14
 Encoding: 57562 57562 909
-Width: 3000
+Width: 240
+Flags: W
 LayerCount: 3
 Fore
-Refer: 867 57494 S 0 -1 1 0 22.6924 169.424 2
+Refer: 867 57494 S 0 -1 1 0 0.364275 169.424 2
 EndChar
 
 StartChar: q.luk.9.14
 Encoding: 57563 57563 910
-Width: 3000
+Width: 180
+Flags: W
 LayerCount: 3
 Fore
-Refer: 871 57495 S 0 -1 1 0 0.692186 137.424 2
+Refer: 871 57495 S 0 -1 1 0 0.364061 137.424 2
 EndChar
 
 StartChar: s.luk.14.19
 Encoding: 57565 57565 911
-Width: 3000
+Width: 734
+Flags: W
 LayerCount: 3
 Fore
-Refer: 834 57488 S -0.707107 -0.707107 0.707107 -0.707107 62.793 1622.61 2
+Refer: 834 57488 S -0.707107 -0.707107 0.707107 -0.707107 63.1299 1622.61 2
 EndChar
 
 StartChar: f.luk.14.19
 Encoding: 57566 57566 912
-Width: 3000
+Width: 576
+Flags: W
 LayerCount: 3
 Fore
-Refer: 833 57489 N -0.707107 -0.707107 0.707107 -0.707107 53.1354 1214.61 2
+Refer: 833 57489 N -0.707107 -0.707107 0.707107 -0.707107 63.1305 1214.61 2
 EndChar
 
 StartChar: t.luk.14.19
 Encoding: 57567 57567 913
-Width: 3000
+Width: 398
+Flags: W
 LayerCount: 3
 Fore
-Refer: 829 57490 S -0.707107 -0.707107 0.707107 -0.707107 67.0221 826.359 2
+Refer: 829 57490 S -0.707107 -0.707107 0.707107 -0.707107 62.4215 826.359 2
 EndChar
 
 StartChar: w.luk.14.19
 Encoding: 57568 57568 914
-Width: 3000
+Width: 307
+Flags: W
 LayerCount: 3
 Fore
-Refer: 830 57491 S -0.707107 -0.707107 0.707107 -0.707107 77.1251 635.778 2
+Refer: 830 57491 S -0.707107 -0.707107 0.707107 -0.707107 62.5714 635.778 2
 EndChar
 
 StartChar: d.luk.14.19
 Encoding: 57569 57569 915
-Width: 3000
+Width: 267
+Flags: W
 LayerCount: 3
 Fore
-Refer: 831 57492 S -0.707107 -0.707107 0.707107 -0.707107 66.0537 506.192 2
+Refer: 831 57492 S -0.707107 -0.707107 0.707107 -0.707107 63.2147 506.192 2
 EndChar
 
 StartChar: v.luk.14.19
 Encoding: 57570 57570 916
-Width: 3000
+Width: 196
+Flags: W
 LayerCount: 3
 Fore
-Refer: 832 57493 S -0.707107 -0.707107 0.707107 -0.707107 62.7781 323.735 2
+Refer: 832 57493 S -0.707107 -0.707107 0.707107 -0.707107 63.1902 323.735 2
 EndChar
 
 StartChar: x.luk.14.19
 Encoding: 57571 57571 917
-Width: 3000
+Width: 173
+Flags: W
 LayerCount: 3
 Fore
-Refer: 867 57494 S -0.707107 -0.707107 0.707107 -0.707107 67.5918 260.415 2
+Refer: 867 57494 S -0.707107 -0.707107 0.707107 -0.707107 63.1904 260.415 2
 EndChar
 
 StartChar: q.luk.14.19
 Encoding: 57572 57572 918
-Width: 3000
+Width: 153
+Flags: W
 LayerCount: 3
 Fore
-Refer: 871 57495 S -0.707107 -0.707107 0.707107 -0.707107 70.4912 195.889 2
+Refer: 871 57495 S -0.707107 -0.707107 0.707107 -0.707107 63.1904 195.889 2
 EndChar
 
 StartChar: s.luk.4.0
 Encoding: 57574 57574 919
-Width: 3000
+Width: 736
+Flags: W
 LayerCount: 3
 Fore
 Refer: 834 57488 S -1 0 0 -1 736.142 1599.6 2
@@ -19730,15 +19755,17 @@ EndChar
 
 StartChar: f.luk.4.0
 Encoding: 57575 57575 920
-Width: 3000
+Width: 559
+Flags: W
 LayerCount: 3
 Fore
-Refer: 833 57489 S -1 0 0 -1 559.142 1199.6 2
+Refer: 833 57489 S -1 0 0 -1 559.132 1199.6 2
 EndChar
 
 StartChar: t.luk.4.0
 Encoding: 57576 57576 921
-Width: 3000
+Width: 410
+Flags: W
 LayerCount: 3
 Fore
 Refer: 829 57490 S -1 0 0 -1 410.14 799.598 2
@@ -19746,7 +19773,8 @@ EndChar
 
 StartChar: w.luk.4.0
 Encoding: 57577 57577 922
-Width: 3000
+Width: 339
+Flags: W
 LayerCount: 3
 Fore
 Refer: 830 57491 S -1 0 0 -1 339.23 600.832 2
@@ -19754,7 +19782,8 @@ EndChar
 
 StartChar: d.luk.4.0
 Encoding: 57578 57578 923
-Width: 3000
+Width: 276
+Flags: W
 LayerCount: 3
 Fore
 Refer: 831 57492 S -1 0 0 -1 276.14 479.832 2
@@ -19762,7 +19791,8 @@ EndChar
 
 StartChar: v.luk.4.0
 Encoding: 57579 57579 924
-Width: 3000
+Width: 198
+Flags: W
 LayerCount: 3
 Fore
 Refer: 832 57493 S -1 0 0 -1 198.116 300.731 2
@@ -19770,7 +19800,8 @@ EndChar
 
 StartChar: x.luk.4.0
 Encoding: 57580 57580 925
-Width: 3000
+Width: 169
+Flags: W
 LayerCount: 3
 Fore
 Refer: 867 57494 N -1 0 0 -1 169.116 239.731 2
@@ -19778,7 +19809,8 @@ EndChar
 
 StartChar: q.luk.4.0
 Encoding: 57581 57581 926
-Width: 3000
+Width: 137
+Flags: W
 LayerCount: 3
 Fore
 Refer: 871 57495 N -1 0 0 -1 137.116 179.732 2
@@ -19786,26 +19818,29 @@ EndChar
 
 StartChar: s.luk.9.4
 Encoding: 57583 57583 927
-Width: 3000
+Width: 1598
+Flags: W
 LayerCount: 3
 Fore
-Refer: 834 57488 S -0.707107 0.707107 -0.707107 -0.707107 1617.32 671.266 2
+Refer: 834 57488 S -0.707107 0.707107 -0.707107 -0.707107 1622.81 671.266 2
 EndChar
 
 StartChar: f.luk.9.4
 Encoding: 57584 57584 928
-Width: 3000
+Width: 1191
+Flags: W
 LayerCount: 3
 Fore
-Refer: 833 57489 S -0.707107 0.707107 -0.707107 -0.707107 1253.38 513.234 2
+Refer: 833 57489 S -0.707107 0.707107 -0.707107 -0.707107 1214.88 513.234 2
 EndChar
 
 StartChar: t.luk.9.4
 Encoding: 57585 57585 929
-Width: 3000
+Width: 802
+Flags: W
 LayerCount: 3
 Fore
-Refer: 829 57490 S -0.707107 0.707107 -0.707107 -0.707107 855.13 336.347 2
+Refer: 829 57490 S -0.707107 0.707107 -0.707107 -0.707107 826.609 336.347 2
 EndChar
 
 StartChar: w.luk.9.4
@@ -19814,492 +19849,553 @@ Width: 610
 Flags: W
 LayerCount: 3
 Fore
-Refer: 830 57491 S -0.707107 0.707107 -0.707107 -0.707107 635.275 363.906 2
+Refer: 830 57491 S -0.707107 0.707107 -0.707107 -0.707107 635.276 363.906 2
 EndChar
 
 StartChar: d.luk.9.4
 Encoding: 57587 57587 931
-Width: 3000
+Width: 482
+Flags: W
 LayerCount: 3
 Fore
-Refer: 831 57492 S -0.707107 0.707107 -0.707107 -0.707107 485.346 204.932 2
+Refer: 831 57492 S -0.707107 0.707107 -0.707107 -0.707107 505.811 204.932 2
 EndChar
 
 StartChar: v.luk.9.4
 Encoding: 57588 57588 932
-Width: 3000
+Width: 300
+Flags: W
 LayerCount: 3
 Fore
-Refer: 832 57493 S -0.707107 0.707107 -0.707107 -0.707107 328.427 132.646 2
+Refer: 832 57493 S -0.707107 0.707107 -0.707107 -0.707107 323.996 132.646 2
 EndChar
 
 StartChar: x.luk.9.4
 Encoding: 57589 57589 933
-Width: 3000
+Width: 236
+Flags: W
 LayerCount: 3
 Fore
-Refer: 867 57494 S -0.707107 0.707107 -0.707107 -0.707107 261.108 110.832 2
+Refer: 867 57494 S -0.707107 0.707107 -0.707107 -0.707107 260.356 110.832 2
 EndChar
 
 StartChar: q.luk.9.4
 Encoding: 57590 57590 934
-Width: 3000
+Width: 171
+Flags: W
 LayerCount: 3
 Fore
-Refer: 871 57495 S -0.707107 0.707107 -0.707107 -0.707107 203.581 90.9328 2
+Refer: 871 57495 S -0.707107 0.707107 -0.707107 -0.707107 195.619 90.9328 2
 EndChar
 
 StartChar: s.luk.14.9
 Encoding: 57592 57592 935
-Width: 3000
+Width: 1600
+Flags: W
 LayerCount: 3
 Fore
-Refer: 834 57488 S 0 1 -1 0 1347.87 -0.271973 2
+Refer: 834 57488 S 0 1 -1 0 1599.87 -0.271973 2
 EndChar
 
 StartChar: f.luk.14.9
 Encoding: 57593 57593 936
-Width: 3000
+Width: 1200
+Flags: W
 LayerCount: 3
 Fore
-Refer: 833 57489 S 0 1 -1 0 971.37 0.228027 2
+Refer: 833 57489 S 0 1 -1 0 1199.98 0.228027 2
 EndChar
 
 StartChar: t.luk.14.9
 Encoding: 57594 57594 937
-Width: 3000
+Width: 799
+Flags: W
 LayerCount: 3
 Fore
-Refer: 829 57490 S 0 1 -1 0 806.369 0.229003 2
+Refer: 829 57490 S 0 1 -1 0 799.873 0.229003 2
 EndChar
 
 StartChar: w.luk.14.9
 Encoding: 57595 57595 938
-Width: 3000
+Width: 599
+Flags: W
 LayerCount: 3
 Fore
-Refer: 830 57491 S 0 1 -1 0 759.031 -0.199219 2
+Refer: 830 57491 S 0 1 -1 0 600.196 -0.199219 2
 EndChar
 
 StartChar: d.luk.14.9
 Encoding: 57596 57596 939
-Width: 3000
+Width: 480
+Flags: W
 LayerCount: 3
 Fore
-Refer: 831 57492 S 0 1 -1 0 640.986 -0.153809 2
+Refer: 831 57492 S 0 1 -1 0 480.196 -0.153809 2
 EndChar
 
 StartChar: v.luk.14.9
 Encoding: 57597 57597 940
-Width: 3000
+Width: 301
+Flags: W
 LayerCount: 3
 Fore
-Refer: 832 57493 S 0 1 -1 0 490.424 0.307618 2
+Refer: 832 57493 S 0 1 -1 0 301.096 0.307618 2
 EndChar
 
 StartChar: x.luk.14.9
 Encoding: 57598 57598 941
-Width: 3000
+Width: 240
+Flags: W
 LayerCount: 3
 Fore
-Refer: 867 57494 S 0 1 -1 0 408.424 0.307618 2
+Refer: 867 57494 S 0 1 -1 0 240.096 0.307618 2
 EndChar
 
 StartChar: q.luk.14.9
 Encoding: 57599 57599 942
-Width: 3000
+Width: 180
+Flags: W
 LayerCount: 3
 Fore
-Refer: 871 57495 S 0 1 -1 0 374.424 0.307814 2
+Refer: 871 57495 S 0 1 -1 0 180.096 0.307814 2
 EndChar
 
 StartChar: s.luk.19.14
 Encoding: 57601 57601 943
-Width: 3000
+Width: 734
+Flags: W
 LayerCount: 3
 Fore
-Refer: 834 57488 S 0.707107 0.707107 -0.707107 0.707107 673.349 -24.0097 2
+Refer: 834 57488 S 0.707107 0.707107 -0.707107 0.707107 670.9 -24.0097 2
 EndChar
 
 StartChar: f.luk.19.14
 Encoding: 57602 57602 944
-Width: 3000
+Width: 576
+Flags: W
 LayerCount: 3
 Fore
-Refer: 833 57489 S 0.707107 0.707107 -0.707107 0.707107 506.006 -24.0094 2
+Refer: 833 57489 S 0.707107 0.707107 -0.707107 0.707107 513.299 -24.0094 2
 EndChar
 
 StartChar: t.luk.19.14
 Encoding: 57603 57603 945
-Width: 3000
+Width: 398
+Flags: W
 LayerCount: 3
 Fore
-Refer: 829 57490 S 0.707107 0.707107 -0.707107 0.707107 343.118 -24.7614 2
+Refer: 829 57490 S 0.707107 0.707107 -0.707107 0.707107 335.583 -24.7614 2
 EndChar
 
 StartChar: w.luk.19.14
 Encoding: 57604 57604 946
-Width: 3000
+Width: 307
+Flags: W
 LayerCount: 3
 Fore
-Refer: 830 57491 S 0.707107 0.707107 -0.707107 0.707107 262.105 -23.9463 2
+Refer: 830 57491 S 0.707107 0.707107 -0.707107 0.707107 244.555 -23.9463 2
 EndChar
 
 StartChar: d.luk.19.14
 Encoding: 57605 57605 947
-Width: 3000
+Width: 267
+Flags: W
 LayerCount: 3
 Fore
-Refer: 831 57492 S 0.707107 0.707107 -0.707107 0.707107 210.086 -23.3603 2
+Refer: 831 57492 S 0.707107 0.707107 -0.707107 0.707107 204.564 -23.3603 2
 EndChar
 
 StartChar: v.luk.19.14
 Encoding: 57606 57606 948
-Width: 3000
+Width: 196
+Flags: W
 LayerCount: 3
 Fore
-Refer: 832 57493 S 0.707107 0.707107 -0.707107 0.707107 327.338 -24.0036 2
+Refer: 832 57493 S 0.707107 0.707107 -0.707107 0.707107 133.207 -24.0036 2
 EndChar
 
 StartChar: x.luk.19.14
 Encoding: 57607 57607 949
-Width: 3000
+Width: 173
+Flags: W
 LayerCount: 3
 Fore
-Refer: 867 57494 S 0.707107 0.707107 -0.707107 0.707107 109.524 -23.6837 2
+Refer: 867 57494 S 0.707107 0.707107 -0.707107 0.707107 110.58 -23.6837 2
 EndChar
 
 StartChar: q.luk.19.14
 Encoding: 57608 57608 950
-Width: 3000
+Width: 153
+Flags: W
 LayerCount: 3
 Fore
-Refer: 871 57495 S 0.707107 0.707107 -0.707107 0.707107 83.625 -23.1568 2
+Refer: 871 57495 S 0.707107 0.707107 -0.707107 0.707107 90.7812 -23.1568 2
 EndChar
 
 StartChar: s.luk.3.6
 Encoding: 57614 57614 951
-Width: 3000
+Width: 1172
+Flags: W
 LayerCount: 3
 Fore
-Refer: 835 57497 S 0.866025 -0.5 0.5 0.866025 -98.7621 40.332 2
+Refer: 835 57497 S 0.866025 -0.5 0.5 0.866025 -20.927 40.332 2
 EndChar
 
 StartChar: f.luk.3.6
 Encoding: 57615 57615 952
-Width: 3000
+Width: 896
+Flags: W
 LayerCount: 3
 Fore
-Refer: 836 57498 S 0.866025 -0.5 0.5 0.866025 -77.4583 40.6688 2
+Refer: 836 57498 S 0.866025 -0.5 0.5 0.866025 -20.9269 40.6688 2
 EndChar
 
 StartChar: t.luk.3.6
 Encoding: 57616 57616 953
-Width: 3000
+Width: 631
+Flags: W
 LayerCount: 3
 Fore
-Refer: 837 57499 S 0.866025 -0.5 0.5 0.866025 30.1952 40.2106 2
+Refer: 837 57499 S 0.866025 -0.5 0.5 0.866025 -21.4257 40.2106 2
 EndChar
 
 StartChar: w.luk.3.6
 Encoding: 57617 57617 954
-Width: 3000
+Width: 482
+Flags: W
 LayerCount: 3
 Fore
-Refer: 838 57500 S 0.866025 -0.5 0.5 0.866025 32.6699 40.3664 2
+Refer: 838 57500 S 0.866025 -0.5 0.5 0.866025 -20.9871 40.3664 2
 EndChar
 
 StartChar: d.luk.3.6
 Encoding: 57618 57618 955
-Width: 3000
+Width: 330
+Flags: W
 LayerCount: 3
 Fore
-Refer: 823 57501 S 0.866025 -0.5 0.5 0.866025 84.7116 40.1962 2
+Refer: 823 57501 S 0.866025 -0.5 0.5 0.866025 -20.9083 40.1962 2
 EndChar
 
 StartChar: v.luk.3.6
 Encoding: 57619 57619 956
-Width: 3000
+Width: 256
+Flags: W
 LayerCount: 3
 Fore
-Refer: 839 57502 S 0.866025 -0.5 0.5 0.866025 -50.4833 40.3059 2
+Refer: 839 57502 S 0.866025 -0.5 0.5 0.866025 -20.8796 40.3059 2
 EndChar
 
 StartChar: x.luk.3.6
 Encoding: 57620 57620 957
-Width: 3000
+Width: 202
+Flags: W
 LayerCount: 3
 Fore
-Refer: 868 57503 S 0.866025 -0.5 0.5 0.866025 21.641 40.2867 2
+Refer: 868 57503 S 0.866025 -0.5 0.5 0.866025 -20.8793 40.2867 2
 EndChar
 
 StartChar: q.luk.3.6
 Encoding: 57621 57621 958
-Width: 3000
+Width: 167
+Flags: W
 LayerCount: 3
 Fore
-Refer: 872 57504 S 0.866025 -0.5 0.5 0.866025 7.30608 41.0174 2
+Refer: 872 57504 S 0.866025 -0.5 0.5 0.866025 -20.8793 41.0174 2
 EndChar
 
 StartChar: s.luk.6.9
 Encoding: 57623 57623 959
-Width: 3000
+Width: 1579
+Flags: W
 LayerCount: 3
 Fore
-Refer: 835 57497 S 0.5 -0.866025 0.866025 0.5 -180.587 84.0884 2
+Refer: 835 57497 S 0.5 -0.866025 0.866025 0.5 -21.136 84.0884 2
 EndChar
 
 StartChar: f.luk.6.9
 Encoding: 57624 57624 960
-Width: 3000
+Width: 1189
+Flags: W
 LayerCount: 3
 Fore
-Refer: 836 57498 S 0.5 -0.866025 0.866025 0.5 -261.946 85.1297 2
+Refer: 836 57498 S 0.5 -0.866025 0.866025 0.5 -21.136 85.1297 2
 EndChar
 
 StartChar: t.luk.6.9
 Encoding: 57625 57625 961
-Width: 3000
+Width: 804
+Flags: W
 LayerCount: 3
 Fore
-Refer: 837 57499 S 0.5 -0.866025 0.866025 0.5 -158.049 83.9767 2
+Refer: 837 57499 S 0.5 -0.866025 0.866025 0.5 -22.0008 83.9767 2
 EndChar
 
 StartChar: w.luk.6.9
 Encoding: 57626 57626 962
-Width: 3000
+Width: 603
+Flags: W
 LayerCount: 3
 Fore
-Refer: 838 57500 S 0.5 -0.866025 0.866025 0.5 -98.2481 84.7813 2
+Refer: 838 57500 S 0.5 -0.866025 0.866025 0.5 -21.1193 84.7813 2
 EndChar
 
 StartChar: d.luk.6.9
 Encoding: 57627 57627 963
-Width: 3000
+Width: 400
+Flags: W
 LayerCount: 3
 Fore
-Refer: 823 57501 S 0.5 -0.866025 0.866025 0.5 -50.4183 84.1943 2
+Refer: 823 57501 S 0.5 -0.866025 0.866025 0.5 -21.0742 84.1943 2
 EndChar
 
 StartChar: v.luk.6.9
 Encoding: 57628 57628 964
-Width: 3000
+Width: 300
+Flags: W
 LayerCount: 3
 Fore
-Refer: 839 57502 S 0.5 -0.866025 0.866025 0.5 -12.8086 83.8721 2
+Refer: 839 57502 S 0.5 -0.866025 0.866025 0.5 -21.0572 83.8721 2
 EndChar
 
 StartChar: x.luk.6.9
 Encoding: 57629 57629 965
-Width: 3000
+Width: 234
+Flags: W
 LayerCount: 3
 Fore
-Refer: 868 57503 S 0.5 -0.866025 0.866025 0.5 -17.8278 84.7477 2
+Refer: 868 57503 S 0.5 -0.866025 0.866025 0.5 -21.0569 84.7477 2
 EndChar
 
 StartChar: q.luk.6.9
 Encoding: 57630 57630 966
-Width: 3000
+Width: 179
+Flags: W
 LayerCount: 3
 Fore
-Refer: 872 57504 S 0.5 -0.866025 0.866025 0.5 30.9029 84.5827 2
+Refer: 872 57504 S 0.5 -0.866025 0.866025 0.5 -21.0572 84.5827 2
 EndChar
 
 StartChar: s.luk.9.13
 Encoding: 57632 57632 967
-Width: 3000
+Width: 1600
+Flags: W
 LayerCount: 3
 Fore
-Refer: 835 57497 S 0 -1 1 0 -428.593 481.246 2
+Refer: 835 57497 S 0 -1 1 0 0.275164 481.246 2
 EndChar
 
 StartChar: f.luk.9.13
 Encoding: 57633 57633 968
-Width: 3000
+Width: 1199
+Flags: W
 LayerCount: 3
 Fore
-Refer: 836 57498 S 0 -1 1 0 -320.943 393.006 2
+Refer: 836 57498 S 0 -1 1 0 0.27575 393.006 2
 EndChar
 
 StartChar: t.luk.9.13
 Encoding: 57634 57634 969
-Width: 3000
+Width: 799
+Flags: W
 LayerCount: 3
 Fore
-Refer: 837 57499 S 0 -1 1 0 -44.0876 318.431 2
+Refer: 837 57499 S 0 -1 1 0 -0.724319 318.431 2
 EndChar
 
 StartChar: w.luk.9.13
 Encoding: 57635 57635 970
-Width: 3000
+Width: 599
+Flags: W
 LayerCount: 3
 Fore
-Refer: 838 57500 S 0 -1 1 0 38.8368 261.066 2
+Refer: 838 57500 S 0 -1 1 0 0.364144 261.066 2
 EndChar
 
 StartChar: d.luk.9.13
 Encoding: 57636 57636 971
-Width: 3000
+Width: 399
+Flags: W
 LayerCount: 3
 Fore
-Refer: 823 57501 S 0 -1 1 0 46.2914 201.52 2
+Refer: 823 57501 S 0 -1 1 0 0.364642 201.52 2
 EndChar
 
 StartChar: v.luk.9.13
 Encoding: 57637 57637 972
-Width: 3000
+Width: 300
+Flags: W
 LayerCount: 3
 Fore
-Refer: 839 57502 S 0 -1 1 0 118.274 172.503 2
+Refer: 839 57502 S 0 -1 1 0 0.363844 172.503 2
 EndChar
 
 StartChar: x.luk.9.13
 Encoding: 57638 57638 973
-Width: 3000
+Width: 240
+Flags: W
 LayerCount: 3
 Fore
-Refer: 868 57503 S 0 -1 1 0 87.2743 144.503 2
+Refer: 868 57503 S 0 -1 1 0 0.364144 144.503 2
 EndChar
 
 StartChar: q.luk.9.13
 Encoding: 57639 57639 974
-Width: 3000
+Width: 180
+Flags: W
 LayerCount: 3
 Fore
-Refer: 872 57504 S 0 -1 1 0 1.77427 140.003 2
+Refer: 872 57504 S 0 -1 1 0 0.364114 140.003 2
 EndChar
 
 StartChar: s.luk.13.16
 Encoding: 57641 57641 975
-Width: 3000
+Width: 1225
+Flags: W
 LayerCount: 3
 Fore
-Refer: 835 57497 S -0.5 -0.866025 0.866025 -0.5 -325.261 1194.01 2
+Refer: 835 57497 S -0.5 -0.866025 0.866025 -0.5 40.5839 1194.01 2
 EndChar
 
 StartChar: f.luk.13.16
 Encoding: 57642 57642 976
-Width: 3000
+Width: 922
+Flags: W
 LayerCount: 3
 Fore
-Refer: 836 57498 S -0.5 -0.866025 0.866025 -0.5 -166.274 917.744 2
+Refer: 836 57498 S -0.5 -0.866025 0.866025 -0.5 40.5845 917.744 2
 EndChar
 
 StartChar: t.luk.13.16
 Encoding: 57643 57643 977
-Width: 3000
+Width: 612
+Flags: W
 LayerCount: 3
 Fore
-Refer: 837 57499 S -0.5 -0.866025 0.866025 -0.5 34.123 652.236 2
+Refer: 837 57499 S -0.5 -0.866025 0.866025 -0.5 39.7169 652.236 2
 EndChar
 
 StartChar: w.luk.13.16
 Encoding: 57644 57644 978
-Width: 3000
+Width: 468
+Flags: W
 LayerCount: 3
 Fore
-Refer: 838 57500 S -0.5 -0.866025 0.866025 -0.5 16.2031 503.396 2
+Refer: 838 57500 S -0.5 -0.866025 0.866025 -0.5 40.7218 503.396 2
 EndChar
 
 StartChar: d.luk.13.16
 Encoding: 57645 57645 979
-Width: 3000
+Width: 325
+Flags: W
 LayerCount: 3
 Fore
-Refer: 823 57501 S -0.5 -0.866025 0.866025 -0.5 -11.5125 351.809 2
+Refer: 823 57501 S -0.5 -0.866025 0.866025 -0.5 40.6761 351.809 2
 EndChar
 
 StartChar: v.luk.13.16
 Encoding: 57646 57646 980
-Width: 3000
+Width: 253
+Flags: W
 LayerCount: 3
 Fore
-Refer: 839 57502 S -0.5 -0.866025 0.866025 -0.5 59.5802 276.987 2
+Refer: 839 57502 S -0.5 -0.866025 0.866025 -0.5 40.6595 276.987 2
 EndChar
 
 StartChar: x.luk.13.16
 Encoding: 57647 57647 981
-Width: 3000
+Width: 215
+Flags: W
 LayerCount: 3
 Fore
-Refer: 868 57503 S -0.5 -0.866025 0.866025 -0.5 22.5609 222.862 2
+Refer: 868 57503 S -0.5 -0.866025 0.866025 -0.5 40.6597 222.862 2
 EndChar
 
 StartChar: q.luk.13.16
 Encoding: 57648 57648 982
-Width: 3000
+Width: 166
+Flags: W
 LayerCount: 3
 Fore
-Refer: 872 57504 S -0.5 -0.866025 0.866025 -0.5 40.7917 188.697 2
+Refer: 872 57504 S -0.5 -0.866025 0.866025 -0.5 40.659 188.697 2
 EndChar
 
 StartChar: s.luk.16.19
 Encoding: 57650 57650 983
-Width: 3000
+Width: 551
+Flags: W
 LayerCount: 3
 Fore
-Refer: 835 57497 S -0.866025 -0.5 0.5 -0.866025 48.4952 1600.83 2
+Refer: 835 57497 S -0.866025 -0.5 0.5 -0.866025 84.5787 1600.83 2
 EndChar
 
 StartChar: f.luk.16.19
 Encoding: 57651 57651 984
-Width: 3000
+Width: 426
+Flags: W
 LayerCount: 3
 Fore
-Refer: 836 57498 S -0.866025 -0.5 0.5 -0.866025 67.1867 1210.23 2
+Refer: 836 57498 S -0.866025 -0.5 0.5 -0.866025 84.5783 1210.23 2
 EndChar
 
 StartChar: t.luk.16.19
 Encoding: 57652 57652 985
-Width: 3000
+Width: 291
+Flags: W
 LayerCount: 3
 Fore
-Refer: 837 57499 S -0.866025 -0.5 0.5 -0.866025 96.8892 827.48 2
+Refer: 837 57499 S -0.866025 -0.5 0.5 -0.866025 84.0767 827.48 2
 EndChar
 
 StartChar: w.luk.16.19
 Encoding: 57653 57653 986
-Width: 3000
+Width: 241
+Flags: W
 LayerCount: 3
 Fore
-Refer: 838 57500 S -0.866025 -0.5 0.5 -0.866025 93.6181 624.314 2
+Refer: 838 57500 S -0.866025 -0.5 0.5 -0.866025 84.7279 624.314 2
 EndChar
 
 StartChar: d.luk.16.19
 Encoding: 57654 57654 987
-Width: 3000
+Width: 192
+Flags: W
 LayerCount: 3
 Fore
-Refer: 823 57501 S -0.866025 -0.5 0.5 -0.866025 88.4856 421.939 2
+Refer: 823 57501 S -0.866025 -0.5 0.5 -0.866025 84.6491 421.939 2
 EndChar
 
 StartChar: v.luk.16.19
 Encoding: 57655 57655 988
-Width: 3000
+Width: 168
+Flags: W
 LayerCount: 3
 Fore
-Refer: 839 57502 S -0.866025 -0.5 0.5 -0.866025 86.1464 321.312 2
+Refer: 839 57502 S -0.866025 -0.5 0.5 -0.866025 84.6195 321.312 2
 EndChar
 
 StartChar: x.luk.16.19
 Encoding: 57656 57656 989
-Width: 3000
+Width: 162
+Flags: W
 LayerCount: 3
 Fore
-Refer: 868 57503 S -0.866025 -0.5 0.5 -0.866025 75.022 255.331 2
+Refer: 868 57503 S -0.866025 -0.5 0.5 -0.866025 84.6191 255.331 2
 EndChar
 
 StartChar: q.luk.16.19
 Encoding: 57657 57657 990
-Width: 3000
+Width: 136
+Flags: W
 LayerCount: 3
 Fore
-Refer: 872 57504 S -0.866025 -0.5 0.5 -0.866025 85.3569 201.1 2
+Refer: 872 57504 S -0.866025 -0.5 0.5 -0.866025 84.6191 201.1 2
 EndChar
 
 StartChar: s.luk.3.0
 Encoding: 57659 57659 991
-Width: 3000
+Width: 480
+Flags: W
 LayerCount: 3
 Fore
 Refer: 835 57497 S -1 0 0 -1 480.652 1599.84 2
@@ -20307,7 +20403,8 @@ EndChar
 
 StartChar: f.luk.3.0
 Encoding: 57660 57660 992
-Width: 3000
+Width: 393
+Flags: W
 LayerCount: 3
 Fore
 Refer: 836 57498 S -1 0 0 -1 393.343 1199.23 2
@@ -20315,7 +20412,8 @@ EndChar
 
 StartChar: t.luk.3.0
 Encoding: 57661 57661 993
-Width: 3000
+Width: 318
+Flags: W
 LayerCount: 3
 Fore
 Refer: 837 57499 S -1 0 0 -1 318.344 799.519 2
@@ -20323,7 +20421,8 @@ EndChar
 
 StartChar: w.luk.3.0
 Encoding: 57662 57662 994
-Width: 3000
+Width: 260
+Flags: W
 LayerCount: 3
 Fore
 Refer: 838 57500 S -1 0 0 -1 260.902 599.229 2
@@ -20331,7 +20430,8 @@ EndChar
 
 StartChar: d.luk.3.0
 Encoding: 57663 57663 995
-Width: 3000
+Width: 201
+Flags: W
 LayerCount: 3
 Fore
 Refer: 823 57501 S -1 0 0 -1 201.812 399.229 2
@@ -20339,7 +20439,8 @@ EndChar
 
 StartChar: v.luk.3.0
 Encoding: 57664 57664 996
-Width: 3000
+Width: 172
+Flags: W
 LayerCount: 3
 Fore
 Refer: 839 57502 S -1 0 0 -1 172.777 300.229 2
@@ -20347,7 +20448,8 @@ EndChar
 
 StartChar: x.luk.3.0
 Encoding: 57665 57665 997
-Width: 3000
+Width: 144
+Flags: W
 LayerCount: 3
 Fore
 Refer: 868 57503 S -1 0 0 -1 144.777 240.229 2
@@ -20363,250 +20465,281 @@ EndChar
 
 StartChar: s.luk.6.3
 Encoding: 57668 57668 999
-Width: 3000
+Width: 1172
+Flags: W
 LayerCount: 3
 Fore
-Refer: 835 57497 S -0.866025 0.5 -0.5 -0.866025 1244.41 1184.51 2
+Refer: 835 57497 S -0.866025 0.5 -0.5 -0.866025 1193.59 1184.51 2
 EndChar
 
 StartChar: f.luk.6.3
 Encoding: 57669 57669 1000
-Width: 3000
+Width: 896
+Flags: W
 LayerCount: 3
 Fore
-Refer: 836 57498 S -0.866025 0.5 -0.5 -0.866025 921.801 881.56 2
+Refer: 836 57498 S -0.866025 0.5 -0.5 -0.866025 917.676 881.56 2
 EndChar
 
 StartChar: t.luk.6.3
 Encoding: 57670 57670 1001
-Width: 3000
+Width: 631
+Flags: W
 LayerCount: 3
 Fore
-Refer: 837 57499 S -0.866025 0.5 -0.5 -0.866025 882.149 573.308 2
+Refer: 837 57499 S -0.866025 0.5 -0.5 -0.866025 652.871 573.308 2
 EndChar
 
 StartChar: w.luk.6.3
 Encoding: 57671 57671 1002
-Width: 3000
+Width: 482
+Flags: W
 LayerCount: 3
 Fore
-Refer: 838 57500 S -0.866025 0.5 -0.5 -0.866025 720.233 428.582 2
+Refer: 838 57500 S -0.866025 0.5 -0.5 -0.866025 503.025 428.582 2
 EndChar
 
 StartChar: d.luk.6.3
 Encoding: 57672 57672 1003
-Width: 3000
+Width: 330
+Flags: W
 LayerCount: 3
 Fore
-Refer: 823 57501 S -0.866025 0.5 -0.5 -0.866025 675.1 284.033 2
+Refer: 823 57501 S -0.866025 0.5 -0.5 -0.866025 351.85 284.033 2
 EndChar
 
 StartChar: v.luk.6.3
 Encoding: 57673 57673 1004
-Width: 3000
+Width: 256
+Flags: W
 LayerCount: 3
 Fore
-Refer: 839 57502 S -0.866025 0.5 -0.5 -0.866025 547.261 212.923 2
+Refer: 839 57502 S -0.866025 0.5 -0.5 -0.866025 277.206 212.923 2
 EndChar
 
 StartChar: x.luk.6.3
 Encoding: 57674 57674 1005
-Width: 3000
+Width: 202
+Flags: W
 LayerCount: 3
 Fore
-Refer: 868 57503 S -0.866025 0.5 -0.5 -0.866025 217.136 174.942 2
+Refer: 868 57503 S -0.866025 0.5 -0.5 -0.866025 222.958 174.942 2
 EndChar
 
 StartChar: q.luk.6.3
 Encoding: 57675 57675 1006
-Width: 3000
+Width: 167
+Flags: W
 LayerCount: 3
 Fore
-Refer: 872 57504 S -0.866025 0.5 -0.5 -0.866025 184.471 126.212 2
+Refer: 872 57504 S -0.866025 0.5 -0.5 -0.866025 188.628 126.212 2
 EndChar
 
 StartChar: s.luk.9.6
 Encoding: 57677 57677 1007
-Width: 3000
+Width: 1579
+Flags: W
 LayerCount: 3
 Fore
-Refer: 835 57497 S -0.5 0.866025 -0.866025 -0.5 1318.24 466.751 2
+Refer: 835 57497 S -0.5 0.866025 -0.866025 -0.5 1600.81 466.751 2
 EndChar
 
 StartChar: f.luk.9.6
 Encoding: 57678 57678 1008
-Width: 3000
+Width: 1189
+Flags: W
 LayerCount: 3
 Fore
-Refer: 836 57498 S -0.5 0.866025 -0.866025 -0.5 934.289 342.099 2
+Refer: 836 57498 S -0.5 0.866025 -0.866025 -0.5 1210.21 342.099 2
 EndChar
 
 StartChar: t.luk.9.6
 Encoding: 57679 57679 1009
-Width: 3000
+Width: 804
+Flags: W
 LayerCount: 3
 Fore
-Refer: 837 57499 S -0.5 0.866025 -0.866025 -0.5 751.393 206.542 2
+Refer: 837 57499 S -0.5 0.866025 -0.866025 -0.5 826.555 206.542 2
 EndChar
 
 StartChar: w.luk.9.6
 Encoding: 57680 57680 1010
-Width: 3000
+Width: 603
+Flags: W
 LayerCount: 3
 Fore
-Refer: 838 57500 S -0.5 0.866025 -0.866025 -0.5 579.151 156.448 2
+Refer: 838 57500 S -0.5 0.866025 -0.866025 -0.5 624.456 156.448 2
 EndChar
 
 StartChar: d.luk.9.6
 Encoding: 57681 57681 1011
-Width: 3000
+Width: 400
+Flags: W
 LayerCount: 3
 Fore
-Refer: 823 57501 S -0.5 0.866025 -0.866025 -0.5 480.23 108.035 2
+Refer: 823 57501 S -0.5 0.866025 -0.866025 -0.5 421.706 108.035 2
 EndChar
 
 StartChar: v.luk.9.6
 Encoding: 57682 57682 1012
-Width: 3000
+Width: 300
+Flags: W
 LayerCount: 3
 Fore
-Refer: 839 57502 S -0.5 0.866025 -0.866025 -0.5 318.586 83.3569 2
+Refer: 839 57502 S -0.5 0.866025 -0.866025 -0.5 321.452 83.3569 2
 EndChar
 
 StartChar: x.luk.9.6
 Encoding: 57683 57683 1013
-Width: 3000
+Width: 234
+Flags: W
 LayerCount: 3
 Fore
-Refer: 868 57503 S -0.5 0.866025 -0.866025 -0.5 250.605 78.4812 2
+Refer: 868 57503 S -0.5 0.866025 -0.866025 -0.5 255.491 78.4812 2
 EndChar
 
 StartChar: q.luk.9.6
 Encoding: 57684 57684 1014
-Width: 3000
+Width: 179
+Flags: W
 LayerCount: 3
 Fore
-Refer: 872 57504 S -0.5 0.866025 -0.866025 -0.5 187.875 52.6463 2
+Refer: 872 57504 S -0.5 0.866025 -0.866025 -0.5 201.029 52.6463 2
 EndChar
 
 StartChar: s.luk.13.9
 Encoding: 57686 57686 1015
-Width: 3000
+Width: 1600
+Flags: W
 LayerCount: 3
 Fore
-Refer: 835 57497 S 0 1 -1 0 1070.25 0.59237 2
+Refer: 835 57497 S 0 1 -1 0 1600.11 0.59237 2
 EndChar
 
 StartChar: f.luk.13.9
 Encoding: 57687 57687 1016
-Width: 3000
+Width: 1199
+Flags: W
 LayerCount: 3
 Fore
-Refer: 836 57498 S 0 1 -1 0 793.286 -0.0569802 2
+Refer: 836 57498 S 0 1 -1 0 1199.5 -0.0569802 2
 EndChar
 
 StartChar: t.luk.13.9
 Encoding: 57688 57688 1017
-Width: 3000
+Width: 799
+Flags: W
 LayerCount: 3
 Fore
-Refer: 837 57499 S 0 1 -1 0 616.431 0.0875511 2
+Refer: 837 57499 S 0 1 -1 0 799.795 0.0875511 2
 EndChar
 
 StartChar: w.luk.13.9
 Encoding: 57689 57689 1018
-Width: 3000
+Width: 599
+Flags: W
 LayerCount: 3
 Fore
-Refer: 838 57500 S 0 1 -1 0 572.066 0.163235 2
+Refer: 838 57500 S 0 1 -1 0 599.593 0.163235 2
 EndChar
 
 StartChar: d.luk.13.9
 Encoding: 57690 57690 1019
-Width: 3000
+Width: 399
+Flags: W
 LayerCount: 3
 Fore
-Refer: 823 57501 S 0 1 -1 0 453.52 -0.291355 2
+Refer: 823 57501 S 0 1 -1 0 399.594 -0.291355 2
 EndChar
 
 StartChar: v.luk.13.9
 Encoding: 57691 57691 1020
-Width: 3000
+Width: 300
+Flags: W
 LayerCount: 3
 Fore
-Refer: 839 57502 S 0 1 -1 0 401.503 -0.274265 2
+Refer: 839 57502 S 0 1 -1 0 300.593 -0.274265 2
 EndChar
 
 StartChar: x.luk.13.9
 Encoding: 57692 57692 1021
-Width: 3000
+Width: 240
+Flags: W
 LayerCount: 3
 Fore
-Refer: 868 57503 S 0 1 -1 0 292.503 -0.274265 2
+Refer: 868 57503 S 0 1 -1 0 240.593 -0.274265 2
 EndChar
 
 StartChar: q.luk.13.9
 Encoding: 57693 57693 1022
-Width: 3000
+Width: 180
+Flags: W
 LayerCount: 3
 Fore
-Refer: 872 57504 S 0 1 -1 0 254.003 0.225735 2
+Refer: 872 57504 S 0 1 -1 0 180.593 0.225735 2
 EndChar
 
 StartChar: s.luk.16.13
 Encoding: 57695 57695 1023
-Width: 3000
+Width: 1225
+Flags: W
 LayerCount: 3
 Fore
-Refer: 835 57497 S 0.5 0.866025 -0.866025 0.5 801.914 -20.1689 2
+Refer: 835 57497 S 0.5 0.866025 -0.866025 0.5 1184.77 -20.1689 2
 EndChar
 
 StartChar: f.luk.16.13
 Encoding: 57696 57696 1024
-Width: 3000
+Width: 922
+Flags: W
 LayerCount: 3
 Fore
-Refer: 836 57498 S 0.5 0.866025 -0.866025 0.5 670.617 -20.5152 2
+Refer: 836 57498 S 0.5 0.866025 -0.866025 0.5 881.481 -20.5152 2
 EndChar
 
 StartChar: t.luk.16.13
 Encoding: 57697 57697 1025
-Width: 3000
+Width: 612
+Flags: W
 LayerCount: 3
 Fore
-Refer: 837 57499 S 0.5 0.866025 -0.866025 0.5 469.221 -21.7172 2
+Refer: 837 57499 S 0.5 0.866025 -0.866025 0.5 572.822 -21.7172 2
 EndChar
 
 StartChar: w.luk.16.13
 Encoding: 57698 57698 1026
-Width: 3000
+Width: 468
+Flags: W
 LayerCount: 3
 Fore
-Refer: 838 57500 S 0.5 0.866025 -0.866025 0.5 398.699 -21.1669 2
+Refer: 838 57500 S 0.5 0.866025 -0.866025 0.5 428.164 -21.1669 2
 EndChar
 
 StartChar: d.luk.16.13
 Encoding: 57699 57699 1027
-Width: 3000
+Width: 325
+Flags: W
 LayerCount: 3
 Fore
-Refer: 823 57501 S 0.5 0.866025 -0.866025 0.5 267.324 -20.5798 2
+Refer: 823 57501 S 0.5 0.866025 -0.866025 0.5 284.504 -20.5798 2
 EndChar
 
 StartChar: v.luk.16.13
 Encoding: 57700 57700 1028
-Width: 3000
+Width: 253
+Flags: W
 LayerCount: 3
 Fore
-Refer: 839 57502 S 0.5 0.866025 -0.866025 0.5 242.197 -20.7576 2
+Refer: 839 57502 S 0.5 0.866025 -0.866025 0.5 213.285 -20.7576 2
 EndChar
 
 StartChar: x.luk.16.13
 Encoding: 57701 57701 1029
-Width: 3000
+Width: 215
+Flags: W
 LayerCount: 3
 Fore
-Refer: 868 57503 S 0.5 0.866025 -0.866025 0.5 187.217 -20.6333 2
+Refer: 868 57503 S 0.5 0.866025 -0.866025 0.5 175.324 -20.6333 2
 EndChar
 
 StartChar: q.luk.16.13
@@ -20619,391 +20752,440 @@ EndChar
 
 StartChar: s.luk.19.16
 Encoding: 57704 57704 1031
-Width: 3000
+Width: 551
+Flags: W
 LayerCount: 3
 Fore
-Refer: 835 57497 S 0.866025 0.5 -0.5 0.866025 432.157 -20.9942 2
+Refer: 835 57497 S 0.866025 0.5 -0.5 0.866025 466.667 -20.9942 2
 EndChar
 
 StartChar: f.luk.19.16
 Encoding: 57705 57705 1032
-Width: 3000
+Width: 426
+Flags: W
 LayerCount: 3
 Fore
-Refer: 836 57498 S 0.866025 0.5 -0.5 0.866025 326.156 -21.0026 2
+Refer: 836 57498 S 0.866025 0.5 -0.5 0.866025 341.975 -21.0026 2
 EndChar
 
 StartChar: t.luk.19.16
 Encoding: 57706 57706 1033
-Width: 3000
+Width: 291
+Flags: W
 LayerCount: 3
 Fore
-Refer: 837 57499 S 0.866025 0.5 -0.5 0.866025 221.455 -21.9614 2
+Refer: 837 57499 S 0.866025 0.5 -0.5 0.866025 206.925 -21.9614 2
 EndChar
 
 StartChar: w.luk.19.16
 Encoding: 57707 57707 1034
-Width: 3000
+Width: 241
+Flags: W
 LayerCount: 3
 Fore
-Refer: 838 57500 S 0.866025 0.5 -0.5 0.866025 167.284 -21.0849 2
+Refer: 838 57500 S 0.866025 0.5 -0.5 0.866025 156.568 -21.0849 2
 EndChar
 
 StartChar: d.luk.19.16
 Encoding: 57708 57708 1035
-Width: 3000
+Width: 192
+Flags: W
 LayerCount: 3
 Fore
-Refer: 823 57501 S 0.866025 0.5 -0.5 0.866025 113.326 -20.7096 2
+Refer: 823 57501 S 0.866025 0.5 -0.5 0.866025 108.016 -20.7096 2
 EndChar
 
 StartChar: v.luk.19.16
 Encoding: 57709 57709 1036
-Width: 3000
+Width: 168
+Flags: W
 LayerCount: 3
 Fore
-Refer: 839 57502 S 0.866025 0.5 -0.5 0.866025 86.6311 -21.0828 2
+Refer: 839 57502 S 0.866025 0.5 -0.5 0.866025 83.7766 -21.0828 2
 EndChar
 
 StartChar: x.luk.19.16
 Encoding: 57710 57710 1037
-Width: 3000
+Width: 162
+Flags: W
 LayerCount: 3
 Fore
-Refer: 868 57503 S 0.866025 0.5 -0.5 0.866025 69.7555 -21.1021 2
+Refer: 868 57503 S 0.866025 0.5 -0.5 0.866025 78.026 -21.1021 2
 EndChar
 
 StartChar: q.luk.19.16
 Encoding: 57711 57711 1038
-Width: 3000
+Width: 136
+Flags: W
 LayerCount: 3
 Fore
-Refer: 872 57504 S 0.866025 0.5 -0.5 0.866025 54.4206 -20.8713 2
+Refer: 872 57504 S 0.866025 0.5 -0.5 0.866025 51.9655 -20.8713 2
 EndChar
 
 StartChar: s.luk.3.9
 Encoding: 57717 57717 1039
-Width: 3000
+Width: 1598
+Flags: W
 LayerCount: 3
 Fore
-Refer: 824 57506 S 0.866025 -0.5 0.5 0.866025 -20.0615 41.3751 2
+Refer: 824 57506 S 0.866025 -0.5 0.5 0.866025 -20.9266 41.3751 2
 EndChar
 
 StartChar: f.luk.3.9
 Encoding: 57718 57718 1040
-Width: 3000
+Width: 1198
+Flags: W
 LayerCount: 3
 Fore
-Refer: 842 57507 S 0.866025 -0.5 0.5 0.866025 -132.87 40.5815 2
+Refer: 842 57507 S 0.866025 -0.5 0.5 0.866025 -20.9274 40.5815 2
 EndChar
 
 StartChar: t.luk.3.9
 Encoding: 57719 57719 1041
-Width: 3000
+Width: 800
+Flags: W
 LayerCount: 3
 Fore
-Refer: 843 57508 S 0.866025 -0.5 0.5 0.866025 246.944 40.4605 2
+Refer: 843 57508 S 0.866025 -0.5 0.5 0.866025 -20.925 40.4605 2
 EndChar
 
 StartChar: w.luk.3.9
 Encoding: 57720 57720 1042
-Width: 3000
+Width: 597
+Flags: W
 LayerCount: 3
 Fore
-Refer: 844 57509 S 0.866025 -0.5 0.5 0.866025 174.054 39.859 2
+Refer: 844 57509 S 0.866025 -0.5 0.5 0.866025 -21.4878 39.859 2
 EndChar
 
 StartChar: d.luk.3.9
 Encoding: 57721 57721 1043
-Width: 3000
+Width: 400
+Flags: W
 LayerCount: 3
 Fore
-Refer: 845 57510 S 0.866025 -0.5 0.5 0.866025 -22.2995 41.1195 2
+Refer: 845 57510 S 0.866025 -0.5 0.5 0.866025 -20.9087 41.1195 2
 EndChar
 
 StartChar: v.luk.3.9
 Encoding: 57722 57722 1044
-Width: 3000
+Width: 298
+Flags: W
 LayerCount: 3
 Fore
-Refer: 846 57511 S 0.866025 -0.5 0.5 0.866025 -63.3625 41.1501 2
+Refer: 846 57511 S 0.866025 -0.5 0.5 0.866025 -20.8789 41.1501 2
 EndChar
 
 StartChar: x.luk.3.9
 Encoding: 57723 57723 1045
-Width: 3000
+Width: 238
+Flags: W
 LayerCount: 3
 Fore
-Refer: 869 57512 S 0.866025 -0.5 0.5 0.866025 -46.64 40.6309 2
+Refer: 869 57512 S 0.866025 -0.5 0.5 0.866025 -20.8791 40.6309 2
 EndChar
 
 StartChar: q.luk.3.9
 Encoding: 57724 57724 1046
-Width: 3000
+Width: 179
+Flags: W
 LayerCount: 3
 Fore
-Refer: 873 57513 S 0.866025 -0.5 0.5 0.866025 -31.1676 40.1786 2
+Refer: 873 57513 S 0.866025 -0.5 0.5 0.866025 -20.8793 40.1786 2
 EndChar
 
 StartChar: s.luk.6.13
 Encoding: 57726 57726 1047
-Width: 3000
+Width: 1829
+Flags: W
 LayerCount: 3
 Fore
-Refer: 824 57506 S 0.5 -0.866025 0.866025 0.5 -476.546 84.4736 2
+Refer: 824 57506 S 0.5 -0.866025 0.866025 0.5 -21.136 84.4736 2
 EndChar
 
 StartChar: f.luk.6.13
 Encoding: 57727 57727 1048
-Width: 3000
+Width: 1367
+Flags: W
 LayerCount: 3
 Fore
-Refer: 842 57507 S 0.5 -0.866025 0.866025 0.5 -192.339 84.2849 2
+Refer: 842 57507 S 0.5 -0.866025 0.866025 0.5 -21.136 84.2849 2
 EndChar
 
 StartChar: t.luk.6.13
 Encoding: 57728 57728 1049
-Width: 3000
+Width: 907
+Flags: W
 LayerCount: 3
 Fore
-Refer: 843 57508 S 0.5 -0.866025 0.866025 0.5 -61.6338 85.7717 2
+Refer: 843 57508 S 0.5 -0.866025 0.866025 0.5 -21.1349 85.7717 2
 EndChar
 
 StartChar: w.luk.6.13
 Encoding: 57729 57729 1050
-Width: 3000
+Width: 673
+Flags: W
 LayerCount: 3
 Fore
-Refer: 844 57509 S 0.5 -0.866025 0.866025 0.5 19.6436 84.2213 2
+Refer: 844 57509 S 0.5 -0.866025 0.866025 0.5 -21.9855 84.2213 2
 EndChar
 
 StartChar: d.luk.6.13
 Encoding: 57730 57730 1051
-Width: 3000
+Width: 444
+Flags: W
 LayerCount: 3
 Fore
-Refer: 845 57510 S 0.5 -0.866025 0.866025 0.5 120.353 86.0111 2
+Refer: 845 57510 S 0.5 -0.866025 0.866025 0.5 -21.0743 86.0111 2
 EndChar
 
 StartChar: v.luk.6.13
 Encoding: 57731 57731 1052
-Width: 3000
+Width: 328
+Flags: W
 LayerCount: 3
 Fore
-Refer: 846 57511 S 0.5 -0.866025 0.866025 0.5 129.437 84.5473 2
+Refer: 846 57511 S 0.5 -0.866025 0.866025 0.5 -21.0567 84.5473 2
 EndChar
 
 StartChar: x.luk.6.13
 Encoding: 57732 57732 1053
-Width: 3000
+Width: 259
+Flags: W
 LayerCount: 3
 Fore
-Refer: 869 57512 S 0.5 -0.866025 0.866025 0.5 104.918 84.8248 2
+Refer: 869 57512 S 0.5 -0.866025 0.866025 0.5 -21.0572 84.8248 2
 EndChar
 
 StartChar: q.luk.6.13
 Encoding: 57733 57733 1054
-Width: 3000
+Width: 190
+Flags: W
 LayerCount: 3
 Fore
-Refer: 873 57513 S 0.5 -0.866025 0.866025 0.5 113.966 84.3524 2
+Refer: 873 57513 S 0.5 -0.866025 0.866025 0.5 -21.057 84.3524 2
 EndChar
 
 StartChar: s.luk.9.16
 Encoding: 57735 57735 1055
-Width: 3000
+Width: 1600
+Flags: W
 LayerCount: 3
 Fore
-Refer: 824 57506 S 0 -1 1 0 -287.009 975.833 2
+Refer: 824 57506 S 0 -1 1 0 0.27518 975.833 2
 EndChar
 
 StartChar: f.luk.9.16
 Encoding: 57736 57736 1056
-Width: 3000
+Width: 1200
+Flags: W
 LayerCount: 3
 Fore
-Refer: 842 57507 S 0 -1 1 0 -235.006 743.836 2
+Refer: 842 57507 S 0 -1 1 0 0.27525 743.836 2
 EndChar
 
 StartChar: t.luk.9.16
 Encoding: 57737 57737 1057
-Width: 3000
+Width: 800
+Flags: W
 LayerCount: 3
 Fore
-Refer: 843 57508 S 0 -1 1 0 -101.378 514.81 2
+Refer: 843 57508 S 0 -1 1 0 0.27532 514.81 2
 EndChar
 
 StartChar: w.luk.9.16
 Encoding: 57738 57738 1058
-Width: 3000
+Width: 599
+Flags: W
 LayerCount: 3
 Fore
-Refer: 844 57509 S 0 -1 1 0 -9.43979 396.991 2
+Refer: 844 57509 S 0 -1 1 0 -0.636079 396.991 2
 EndChar
 
 StartChar: d.luk.9.16
 Encoding: 57739 57739 1059
-Width: 3000
+Width: 400
+Flags: W
 LayerCount: 3
 Fore
-Refer: 845 57510 S 0 -1 1 0 -48.555 283.978 2
+Refer: 845 57510 S 0 -1 1 0 0.363945 283.978 2
 EndChar
 
 StartChar: v.luk.9.16
 Encoding: 57740 57740 1060
-Width: 3000
+Width: 300
+Flags: W
 LayerCount: 3
 Fore
-Refer: 846 57511 S 0 -1 1 0 -13.0282 225.398 2
+Refer: 846 57511 S 0 -1 1 0 0.364378 225.398 2
 EndChar
 
 StartChar: x.luk.9.16
 Encoding: 57741 57741 1061
-Width: 3000
+Width: 240
+Flags: W
 LayerCount: 3
 Fore
-Refer: 869 57512 S 0 -1 1 0 23.4718 189.898 2
+Refer: 869 57512 S 0 -1 1 0 0.364378 189.898 2
 EndChar
 
 StartChar: q.luk.9.16
 Encoding: 57742 57742 1062
-Width: 3000
+Width: 181
+Flags: W
 LayerCount: 3
 Fore
-Refer: 873 57513 S 0 -1 1 0 37.9718 156.398 2
+Refer: 873 57513 S 0 -1 1 0 0.364378 156.398 2
 EndChar
 
 StartChar: s.luk.13.19
 Encoding: 57744 57744 1063
-Width: 3000
+Width: 975
+Flags: W
 LayerCount: 3
 Fore
-Refer: 824 57506 S -0.5 -0.866025 0.866025 -0.5 39.1165 1619.43 2
+Refer: 824 57506 S -0.5 -0.866025 0.866025 -0.5 40.5844 1619.43 2
 EndChar
 
 StartChar: f.luk.13.19
 Encoding: 57745 57745 1064
-Width: 3000
+Width: 745
+Flags: W
 LayerCount: 3
 Fore
-Refer: 842 57507 S -0.5 -0.866025 0.866025 -0.5 38.3256 1218.97 2
+Refer: 842 57507 S -0.5 -0.866025 0.866025 -0.5 40.5845 1218.97 2
 EndChar
 
 StartChar: t.luk.13.19
 Encoding: 57746 57746 1065
-Width: 3000
+Width: 513
+Flags: W
 LayerCount: 3
 Fore
-Refer: 843 57508 S -0.5 -0.866025 0.866025 -0.5 40.0822 821.33 2
+Refer: 843 57508 S -0.5 -0.866025 0.866025 -0.5 40.5833 821.33 2
 EndChar
 
 StartChar: w.luk.13.19
 Encoding: 57747 57747 1066
-Width: 3000
+Width: 397
+Flags: W
 LayerCount: 3
 Fore
-Refer: 844 57509 S -0.5 -0.866025 0.866025 -0.5 38.1693 618.468 2
+Refer: 844 57509 S -0.5 -0.866025 0.866025 -0.5 39.856 618.468 2
 EndChar
 
 StartChar: d.luk.13.19
 Encoding: 57748 57748 1067
-Width: 3000
+Width: 282
+Flags: W
 LayerCount: 3
 Fore
-Refer: 845 57510 S -0.5 -0.866025 0.866025 -0.5 40.3145 420.809 2
+Refer: 845 57510 S -0.5 -0.866025 0.866025 -0.5 40.676 420.809 2
 EndChar
 
 StartChar: v.luk.13.19
 Encoding: 57749 57749 1068
-Width: 3000
+Width: 225
+Flags: W
 LayerCount: 3
 Fore
-Refer: 846 57511 S -0.5 -0.866025 0.866025 -0.5 39.372 319.157 2
+Refer: 846 57511 S -0.5 -0.866025 0.866025 -0.5 40.6593 319.157 2
 EndChar
 
 StartChar: x.luk.13.19
 Encoding: 57750 57750 1069
-Width: 3000
+Width: 190
+Flags: W
 LayerCount: 3
 Fore
-Refer: 869 57512 S -0.5 -0.866025 0.866025 -0.5 39.1027 259.002 2
+Refer: 869 57512 S -0.5 -0.866025 0.866025 -0.5 40.6595 259.002 2
 EndChar
 
 StartChar: q.luk.13.19
 Encoding: 57751 57751 1070
-Width: 3000
+Width: 156
+Flags: W
 LayerCount: 3
 Fore
-Refer: 873 57513 S -0.5 -0.866025 0.866025 -0.5 39.1505 200.029 2
+Refer: 873 57513 S -0.5 -0.866025 0.866025 -0.5 40.6594 200.029 2
 EndChar
 
 StartChar: uniE199
 Encoding: 57753 57753 1071
-Width: 3000
+Width: 369
+Flags: W
 LayerCount: 3
 Fore
-Refer: 824 57506 S -0.866025 -0.5 0.5 -0.866025 486.496 1851.63 2
+Refer: 824 57506 S -0.866025 -0.5 0.5 -0.866025 84.5785 1851.63 2
 EndChar
 
 StartChar: f.luk.16.30
 Encoding: 57754 57754 1072
-Width: 3000
+Width: 303
+Flags: W
 LayerCount: 3
 Fore
-Refer: 842 57507 S -0.866025 -0.5 0.5 -0.866025 433.042 1388.42 2
+Refer: 842 57507 S -0.866025 -0.5 0.5 -0.866025 84.5786 1388.42 2
 EndChar
 
 StartChar: t.luk.16.30
 Encoding: 57755 57755 1073
-Width: 3000
+Width: 236
+Flags: W
 LayerCount: 3
 Fore
-Refer: 843 57508 S -0.866025 -0.5 0.5 -0.866025 403.858 928.444 2
+Refer: 843 57508 S -0.866025 -0.5 0.5 -0.866025 85.4977 928.444 2
 EndChar
 
 StartChar: w.luk.16.30
 Encoding: 57756 57756 1074
-Width: 3000
+Width: 202
+Flags: W
 LayerCount: 3
 Fore
-Refer: 844 57509 S -0.866025 -0.5 0.5 -0.866025 360.813 695.597 2
+Refer: 844 57509 S -0.866025 -0.5 0.5 -0.866025 84.2275 695.597 2
 EndChar
 
 StartChar: d.luk.16.30
 Encoding: 57757 57757 1075
-Width: 3000
+Width: 169
+Flags: W
 LayerCount: 3
 Fore
-Refer: 845 57510 S -0.866025 -0.5 0.5 -0.866025 499.487 465.876 2
+Refer: 845 57510 S -0.866025 -0.5 0.5 -0.866025 85.7215 465.876 2
 EndChar
 
 StartChar: v.luk.16.30
 Encoding: 57758 57758 1076
-Width: 3000
+Width: 152
+Flags: W
 LayerCount: 3
 Fore
-Refer: 846 57511 S -0.866025 -0.5 0.5 -0.866025 135.416 349.711 2
+Refer: 846 57511 S -0.866025 -0.5 0.5 -0.866025 84.6329 349.711 2
 EndChar
 
 StartChar: x.luk.16.30
 Encoding: 57759 57759 1077
-Width: 3000
+Width: 142
+Flags: W
 LayerCount: 3
 Fore
-Refer: 869 57512 S -0.866025 -0.5 0.5 -0.866025 117.761 279.98 2
+Refer: 869 57512 S -0.866025 -0.5 0.5 -0.866025 84.6194 279.98 2
 EndChar
 
 StartChar: q.luk.16.30
 Encoding: 57760 57760 1078
-Width: 3000
+Width: 133
+Flags: W
 LayerCount: 3
 Fore
-Refer: 873 57513 S -0.866025 -0.5 0.5 -0.866025 100.788 212.432 2
+Refer: 873 57513 S -0.866025 -0.5 0.5 -0.866025 84.6195 212.432 2
 EndChar
 
 StartChar: s.luk.6.0
 Encoding: 57762 57762 1079
-Width: 3000
+Width: 975
+Flags: W
 LayerCount: 3
 Fore
 Refer: 824 57506 N -1 0 0 -1 975.824 1599.84 2
@@ -21011,15 +21193,17 @@ EndChar
 
 StartChar: f.luk.6.0
 Encoding: 57763 57763 1080
-Width: 3000
+Width: 743
+Flags: W
 LayerCount: 3
 Fore
-Refer: 842 57507 S -1 0 0 -1 743.83 1199.84 2
+Refer: 842 57507 S -1 0 0 -1 743.829 1199.84 2
 EndChar
 
 StartChar: t.luk.6.0
 Encoding: 57764 57764 1081
-Width: 3000
+Width: 515
+Flags: W
 LayerCount: 3
 Fore
 Refer: 843 57508 N -1 0 0 -1 515.432 800.189 2
@@ -21027,7 +21211,8 @@ EndChar
 
 StartChar: w.luk.6.0
 Encoding: 57765 57765 1082
-Width: 3000
+Width: 397
+Flags: W
 LayerCount: 3
 Fore
 Refer: 844 57509 N -1 0 0 -1 397.551 600.431 2
@@ -21035,7 +21220,8 @@ EndChar
 
 StartChar: d.luk.6.0
 Encoding: 57766 57766 1083
-Width: 3000
+Width: 284
+Flags: W
 LayerCount: 3
 Fore
 Refer: 845 57510 N -1 0 0 -1 284.423 399.533 2
@@ -21043,543 +21229,611 @@ EndChar
 
 StartChar: v.luk.6.0
 Encoding: 57767 57767 1084
-Width: 3000
+Width: 225
+Flags: W
 LayerCount: 3
 Fore
-Refer: 846 57511 N -1 0 0 -1 225.37 299.426 2
+Refer: 846 57511 N -1 0 0 -1 225.369 299.426 2
 EndChar
 
 StartChar: x.luk.6.0
 Encoding: 57768 57768 1085
-Width: 3000
+Width: 190
+Flags: W
 LayerCount: 3
 Fore
-Refer: 869 57512 N -1 0 0 -1 190.37 239.426 2
+Refer: 869 57512 N -1 0 0 -1 190.369 239.426 2
 EndChar
 
 StartChar: q.luk.6.0
 Encoding: 57769 57769 1086
-Width: 3000
+Width: 156
+Flags: W
 LayerCount: 3
 Fore
-Refer: 873 57513 N -1 0 0 -1 156.37 180.426 2
+Refer: 873 57513 N -1 0 0 -1 156.369 180.426 2
 EndChar
 
 StartChar: s.luk.9.3
 Encoding: 57771 57771 1087
-Width: 3000
+Width: 1598
+Flags: W
 LayerCount: 3
 Fore
-Refer: 824 57506 S -0.866025 0.5 -0.5 -0.866025 1415.42 935.716 2
+Refer: 824 57506 S -0.866025 0.5 -0.5 -0.866025 1619.89 935.716 2
 EndChar
 
 StartChar: f.luk.9.3
 Encoding: 57772 57772 1088
-Width: 3000
+Width: 1198
+Flags: W
 LayerCount: 3
 Fore
-Refer: 842 57507 S -0.866025 0.5 -0.5 -0.866025 1110.96 704.51 2
+Refer: 842 57507 S -0.866025 0.5 -0.5 -0.866025 1218.98 704.51 2
 EndChar
 
 StartChar: t.luk.9.3
 Encoding: 57773 57773 1089
-Width: 3000
+Width: 800
+Flags: W
 LayerCount: 3
 Fore
-Refer: 843 57508 S -0.866025 0.5 -0.5 -0.866025 845.952 472.728 2
+Refer: 843 57508 S -0.866025 0.5 -0.5 -0.866025 821.35 472.728 2
 EndChar
 
 StartChar: w.luk.9.3
 Encoding: 57774 57774 1090
-Width: 3000
+Width: 597
+Flags: W
 LayerCount: 3
 Fore
-Refer: 844 57509 S -0.866025 0.5 -0.5 -0.866025 665.028 357.822 2
+Refer: 844 57509 S -0.866025 0.5 -0.5 -0.866025 618.928 357.822 2
 EndChar
 
 StartChar: d.luk.9.3
 Encoding: 57775 57775 1091
-Width: 3000
+Width: 400
+Flags: W
 LayerCount: 3
 Fore
-Refer: 845 57510 S -0.866025 0.5 -0.5 -0.866025 558.254 241.664 2
+Refer: 845 57510 S -0.866025 0.5 -0.5 -0.866025 421.009 241.664 2
 EndChar
 
 StartChar: v.luk.9.3
 Encoding: 57776 57776 1092
-Width: 3000
+Width: 298
+Flags: W
 LayerCount: 3
 Fore
-Refer: 846 57511 S -0.866025 0.5 -0.5 -0.866025 499.129 184.026 2
+Refer: 846 57511 S -0.866025 0.5 -0.5 -0.866025 319.813 184.026 2
 EndChar
 
 StartChar: x.luk.9.3
 Encoding: 57777 57777 1093
-Width: 3000
+Width: 238
+Flags: W
 LayerCount: 3
 Fore
-Refer: 869 57512 S -0.866025 0.5 -0.5 -0.866025 428.474 150.795 2
+Refer: 869 57512 S -0.866025 0.5 -0.5 -0.866025 259.501 150.795 2
 EndChar
 
 StartChar: q.luk.9.3
 Encoding: 57778 57778 1094
-Width: 3000
+Width: 179
+Flags: W
 LayerCount: 3
 Fore
-Refer: 873 57513 S -0.866025 0.5 -0.5 -0.866025 315.001 115.247 2
+Refer: 873 57513 S -0.866025 0.5 -0.5 -0.866025 200.557 115.247 2
 EndChar
 
 StartChar: s.luk.13.6
 Encoding: 57780 57780 1095
-Width: 3000
+Width: 1829
+Flags: W
 LayerCount: 3
 Fore
-Refer: 824 57506 S -0.5 0.866025 -0.866025 -0.5 1391.62 285.337 2
+Refer: 824 57506 S -0.5 0.866025 -0.866025 -0.5 1850.93 285.337 2
 EndChar
 
 StartChar: f.luk.13.6
 Encoding: 57781 57781 1096
-Width: 3000
+Width: 1367
+Flags: W
 LayerCount: 3
 Fore
-Refer: 842 57507 S -0.5 0.866025 -0.866025 -0.5 1082.42 218.793 2
+Refer: 842 57507 S -0.5 0.866025 -0.866025 -0.5 1388.53 218.793 2
 EndChar
 
 StartChar: t.luk.13.6
 Encoding: 57782 57782 1097
-Width: 3000
+Width: 907
+Flags: W
 LayerCount: 3
 Fore
-Refer: 843 57508 S -0.5 0.866025 -0.866025 -0.5 898.066 151.953 2
+Refer: 843 57508 S -0.5 0.866025 -0.866025 -0.5 928.218 151.953 2
 EndChar
 
 StartChar: w.luk.13.6
 Encoding: 57783 57783 1098
-Width: 3000
+Width: 673
+Flags: W
 LayerCount: 3
 Fore
-Refer: 844 57509 S -0.5 0.866025 -0.866025 -0.5 776.158 119.178 2
+Refer: 844 57509 S -0.5 0.866025 -0.866025 -0.5 695.493 119.178 2
 EndChar
 
 StartChar: d.luk.13.6
 Encoding: 57784 57784 1099
-Width: 3000
+Width: 444
+Flags: W
 LayerCount: 3
 Fore
-Refer: 845 57510 S -0.5 0.866025 -0.866025 -0.5 599.32 84.4911 2
+Refer: 845 57510 S -0.5 0.866025 -0.866025 -0.5 465.813 84.4911 2
 EndChar
 
 StartChar: v.luk.13.6
 Encoding: 57785 57785 1100
-Width: 3000
+Width: 328
+Flags: W
 LayerCount: 3
 Fore
-Refer: 846 57511 S -0.5 0.866025 -0.866025 -0.5 459.682 67.9816 2
+Refer: 846 57511 S -0.5 0.866025 -0.866025 -0.5 349.591 67.9816 2
 EndChar
 
 StartChar: x.luk.13.6
 Encoding: 57786 57786 1101
-Width: 3000
+Width: 259
+Flags: W
 LayerCount: 3
 Fore
-Refer: 869 57512 S -0.5 0.866025 -0.866025 -0.5 348.452 58.137 2
+Refer: 869 57512 S -0.5 0.866025 -0.866025 -0.5 280.129 58.137 2
 EndChar
 
 StartChar: q.luk.13.6
 Encoding: 57787 57787 1102
-Width: 3000
+Width: 190
+Flags: W
 LayerCount: 3
 Fore
-Refer: 873 57513 S -0.5 0.866025 -0.866025 -0.5 298.404 48.6094 2
+Refer: 873 57513 S -0.5 0.866025 -0.866025 -0.5 212.033 48.6094 2
 EndChar
 
 StartChar: s.luk.16.9
 Encoding: 57789 57789 1103
-Width: 3000
+Width: 1600
+Flags: W
 LayerCount: 3
 Fore
-Refer: 824 57506 S 0 1 -1 0 1260.83 0.008621 2
+Refer: 824 57506 S 0 1 -1 0 1600.12 0.008621 2
 EndChar
 
 StartChar: f.luk.16.9
 Encoding: 57790 57790 1104
-Width: 3000
+Width: 1200
+Flags: W
 LayerCount: 3
 Fore
-Refer: 842 57507 S 0 1 -1 0 966.836 0.00596673 2
+Refer: 842 57507 S 0 1 -1 0 1200.12 0.00596673 2
 EndChar
 
 StartChar: t.luk.16.9
 Encoding: 57791 57791 1105
-Width: 3000
+Width: 800
+Flags: W
 LayerCount: 3
 Fore
-Refer: 843 57508 S 0 1 -1 0 698.81 -0.621731 2
+Refer: 843 57508 S 0 1 -1 0 800.464 -0.621731 2
 EndChar
 
 StartChar: w.luk.16.9
 Encoding: 57792 57792 1106
-Width: 3000
+Width: 599
+Flags: W
 LayerCount: 3
 Fore
-Refer: 844 57509 S 0 1 -1 0 544.991 0.439793 2
+Refer: 844 57509 S 0 1 -1 0 599.795 0.439793 2
 EndChar
 
 StartChar: d.luk.16.9
 Encoding: 57793 57793 1107
-Width: 3000
+Width: 400
+Flags: W
 LayerCount: 3
 Fore
-Refer: 845 57510 S 0 1 -1 0 425.978 -0.444973 2
+Refer: 845 57510 S 0 1 -1 0 399.898 -0.444973 2
 EndChar
 
 StartChar: v.luk.16.9
 Encoding: 57794 57794 1108
-Width: 3000
+Width: 300
+Flags: W
 LayerCount: 3
 Fore
-Refer: 846 57511 S 0 1 -1 0 340.398 0.0281716 2
+Refer: 846 57511 S 0 1 -1 0 299.79 0.0281716 2
 EndChar
 
 StartChar: x.luk.16.9
 Encoding: 57795 57795 1109
-Width: 3000
+Width: 240
+Flags: W
 LayerCount: 3
 Fore
-Refer: 869 57512 S 0 1 -1 0 268.898 -0.471828 2
+Refer: 869 57512 S 0 1 -1 0 239.79 -0.471828 2
 EndChar
 
 StartChar: q.luk.16.9
 Encoding: 57796 57796 1110
-Width: 3000
+Width: 181
+Flags: W
 LayerCount: 3
 Fore
-Refer: 873 57513 S 0 1 -1 0 240.398 0.0281716 2
+Refer: 873 57513 S 0 1 -1 0 180.79 0.0281716 2
 EndChar
 
 StartChar: s.luk.19.13
 Encoding: 57798 57798 1111
-Width: 3000
+Width: 975
+Flags: W
 LayerCount: 3
 Fore
-Refer: 824 57506 S 0.5 0.866025 -0.866025 0.5 824.708 -20.5839 2
+Refer: 824 57506 S 0.5 0.866025 -0.866025 0.5 935.258 -20.5839 2
 EndChar
 
 StartChar: f.luk.19.13
 Encoding: 57799 57799 1112
-Width: 3000
+Width: 745
+Flags: W
 LayerCount: 3
 Fore
-Refer: 842 57507 S 0.5 0.866025 -0.866025 0.5 705.504 -21.1273 2
+Refer: 842 57507 S 0.5 0.866025 -0.866025 0.5 704.848 -21.1273 2
 EndChar
 
 StartChar: t.luk.19.13
 Encoding: 57800 57800 1113
-Width: 3000
+Width: 513
+Flags: W
 LayerCount: 3
 Fore
-Refer: 843 57508 S 0.5 0.866025 -0.866025 0.5 475.35 -21.1415 2
+Refer: 843 57508 S 0.5 0.866025 -0.866025 0.5 472.786 -21.1415 2
 EndChar
 
 StartChar: w.luk.19.13
 Encoding: 57801 57801 1114
-Width: 3000
+Width: 397
+Flags: W
 LayerCount: 3
 Fore
-Refer: 844 57509 S 0.5 0.866025 -0.866025 0.5 359.382 -22.037 2
+Refer: 844 57509 S 0.5 0.866025 -0.866025 0.5 357.942 -22.037 2
 EndChar
 
 StartChar: d.luk.19.13
 Encoding: 57802 57802 1115
-Width: 3000
+Width: 282
+Flags: W
 LayerCount: 3
 Fore
-Refer: 845 57510 S 0.5 0.866025 -0.866025 0.5 244.109 -21.2756 2
+Refer: 845 57510 S 0.5 0.866025 -0.866025 0.5 241.663 -21.2756 2
 EndChar
 
 StartChar: v.luk.19.13
 Encoding: 57803 57803 1116
-Width: 3000
+Width: 225
+Flags: W
 LayerCount: 3
 Fore
-Refer: 846 57511 S 0.5 0.866025 -0.866025 0.5 185.998 -20.7314 2
+Refer: 846 57511 S 0.5 0.866025 -0.866025 0.5 184.611 -20.7314 2
 EndChar
 
 StartChar: x.luk.19.13
 Encoding: 57804 57804 1117
-Width: 3000
+Width: 190
+Flags: W
 LayerCount: 3
 Fore
-Refer: 869 57512 S 0.5 0.866025 -0.866025 0.5 151.267 -21.576 2
+Refer: 869 57512 S 0.5 0.866025 -0.866025 0.5 150.15 -21.576 2
 EndChar
 
 StartChar: q.luk.19.13
 Encoding: 57805 57805 1118
-Width: 3000
+Width: 156
+Flags: W
 LayerCount: 3
 Fore
-Refer: 873 57513 S 0.5 0.866025 -0.866025 0.5 117.219 -21.6035 2
+Refer: 873 57513 S 0.5 0.866025 -0.866025 0.5 115.664 -21.6035 2
 EndChar
 
 StartChar: s.luk.30.16
 Encoding: 57807 57807 1119
-Width: 3000
+Width: 369
+Flags: W
 LayerCount: 3
 Fore
-Refer: 824 57506 S 0.866025 0.5 -0.5 0.866025 323.328 -20.787 2
+Refer: 824 57506 S 0.866025 0.5 -0.5 0.866025 285.004 -20.787 2
 EndChar
 
 StartChar: f.luk.30.16
 Encoding: 57808 57808 1120
-Width: 3000
+Width: 303
+Flags: W
 LayerCount: 3
 Fore
-Refer: 842 57507 S 0.866025 0.5 -0.5 0.866025 294.788 -21.5832 2
+Refer: 842 57507 S 0.866025 0.5 -0.5 0.866025 218.734 -21.5832 2
 EndChar
 
 StartChar: t.luk.30.16
 Encoding: 57809 57809 1121
-Width: 3000
+Width: 236
+Flags: W
 LayerCount: 3
 Fore
-Refer: 843 57508 S 0.866025 0.5 -0.5 0.866025 217.575 -21.2555 2
+Refer: 843 57508 S 0.866025 0.5 -0.5 0.866025 151.158 -21.2555 2
 EndChar
 
 StartChar: w.luk.30.16
 Encoding: 57810 57810 1122
-Width: 3000
+Width: 202
+Flags: W
 LayerCount: 3
 Fore
-Refer: 844 57509 S 0.866025 0.5 -0.5 0.866025 184.739 -22.1666 2
+Refer: 844 57509 S 0.866025 0.5 -0.5 0.866025 118.499 -22.1666 2
 EndChar
 
 StartChar: d.luk.30.16
 Encoding: 57811 57811 1123
-Width: 3000
+Width: 169
+Flags: W
 LayerCount: 3
 Fore
-Refer: 845 57510 S 0.866025 0.5 -0.5 0.866025 126.936 -21.3422 2
+Refer: 845 57510 S 0.866025 0.5 -0.5 0.866025 84.161 -21.3422 2
 EndChar
 
 StartChar: v.luk.30.16
 Encoding: 57812 57812 1124
-Width: 3000
+Width: 152
+Flags: W
 LayerCount: 3
 Fore
-Refer: 846 57511 S 0.866025 0.5 -0.5 0.866025 107.953 -21.2847 2
+Refer: 846 57511 S 0.866025 0.5 -0.5 0.866025 67.8678 -21.2847 2
 EndChar
 
 StartChar: x.luk.30.16
 Encoding: 57813 57813 1125
-Width: 3000
+Width: 142
+Flags: W
 LayerCount: 3
 Fore
-Refer: 869 57512 S 0.866025 0.5 -0.5 0.866025 81.6088 -21.5539 2
+Refer: 869 57512 S 0.866025 0.5 -0.5 0.866025 58.1959 -21.5539 2
 EndChar
 
 StartChar: q.luk.30.16
 Encoding: 57814 57814 1126
-Width: 3000
+Width: 133
+Flags: W
 LayerCount: 3
 Fore
-Refer: 873 57513 S 0.866025 0.5 -0.5 0.866025 55.5813 -21.0062 2
+Refer: 873 57513 S 0.866025 0.5 -0.5 0.866025 48.5572 -21.0062 2
 EndChar
 
 StartChar: s.luk.4.14
 Encoding: 57825 57825 1127
-Width: 3000
+Width: 2217
+Flags: W
 LayerCount: 3
 Fore
-Refer: 788 57515 S 0.707107 -0.707107 0.707107 0.707107 -343.388 63.293 2
+Refer: 788 57515 S 0.707107 -0.707107 0.707107 0.707107 -23.8499 63.293 2
 EndChar
 
 StartChar: f.luk.4.14
 Encoding: 57826 57826 1128
-Width: 3000
+Width: 1650
+Flags: W
 LayerCount: 3
 Fore
-Refer: 790 57516 S 0.707107 -0.707107 0.707107 0.707107 -171.666 62.2928 2
+Refer: 790 57516 S 0.707107 -0.707107 0.707107 0.707107 -23.8496 62.2928 2
 EndChar
 
 StartChar: t.luk.4.14
 Encoding: 57827 57827 1129
-Width: 3000
+Width: 1085
+Flags: W
 LayerCount: 3
 Fore
-Refer: 840 57517 S 0.707107 -0.707107 0.707107 0.707107 -93.9025 62.6518 2
+Refer: 840 57517 S 0.707107 -0.707107 0.707107 0.707107 -23.8478 62.6518 2
 EndChar
 
 StartChar: w.luk.4.14
 Encoding: 57828 57828 1130
-Width: 3000
+Width: 801
+Flags: W
 LayerCount: 3
 Fore
-Refer: 841 57518 S 0.707107 -0.707107 0.707107 0.707107 16.5436 62.0004 2
+Refer: 841 57518 S 0.707107 -0.707107 0.707107 0.707107 -24.5794 62.0004 2
 EndChar
 
 StartChar: d.luk.4.14
 Encoding: 57829 57829 1131
-Width: 3000
+Width: 519
+Flags: W
 LayerCount: 3
 Fore
-Refer: 866 57519 S 0.707107 -0.707107 0.707107 0.707107 148.138 62.8383 2
+Refer: 866 57519 S 0.707107 -0.707107 0.707107 0.707107 -23.8083 62.8383 2
 EndChar
 
 StartChar: v.luk.4.14
 Encoding: 57830 57830 1132
-Width: 3000
+Width: 364
+Flags: W
 LayerCount: 3
 Fore
-Refer: 789 57520 S 0.707107 -0.707107 0.707107 0.707107 342.902 62.7975 2
+Refer: 789 57520 S 0.707107 -0.707107 0.707107 0.707107 -23.7845 62.7975 2
 EndChar
 
 StartChar: x.luk.4.14
 Encoding: 57831 57831 1133
-Width: 3000
+Width: 293
+Flags: W
 LayerCount: 3
 Fore
-Refer: 870 57521 S 0.707107 -0.707107 0.707107 0.707107 -7.7427 62.8685 2
+Refer: 870 57521 S 0.707107 -0.707107 0.707107 0.707107 -23.7837 62.8685 2
 EndChar
 
 StartChar: q.luk.4.14
 Encoding: 57832 57832 1134
-Width: 3000
+Width: 208
+Flags: W
 LayerCount: 3
 Fore
-Refer: 874 57522 S 0.707107 -0.707107 0.707107 0.707107 -36.1778 62.8112 2
+Refer: 874 57522 S 0.707107 -0.707107 0.707107 0.707107 -23.7842 62.8112 2
 EndChar
 
 StartChar: s.luk.9.19
 Encoding: 57834 57834 1135
-Width: 3000
+Width: 1600
+Flags: W
 LayerCount: 3
 Fore
-Refer: 788 57515 S 0 -1 1 0 0.178223 1600.51 2
+Refer: 788 57515 S 0 -1 1 0 0.274903 1600.51 2
 EndChar
 
 StartChar: f.luk.9.19
 Encoding: 57835 57835 1136
-Width: 3000
+Width: 1200
+Flags: W
 LayerCount: 3
 Fore
-Refer: 790 57516 S 0 -1 1 0 -4.85742 1199.6 2
+Refer: 790 57516 S 0 -1 1 0 0.275392 1199.6 2
 EndChar
 
 StartChar: t.luk.9.19
 Encoding: 57836 57836 1137
-Width: 3000
+Width: 800
+Flags: W
 LayerCount: 3
 Fore
-Refer: 840 57517 S 0 -1 1 0 -0.616699 798.559 2
+Refer: 840 57517 S 0 -1 1 0 0.274903 798.559 2
 EndChar
 
 StartChar: w.luk.9.19
 Encoding: 57837 57837 1138
-Width: 3000
+Width: 599
+Flags: W
 LayerCount: 3
 Fore
-Refer: 841 57518 S 0 -1 1 0 -0.328125 600.137 2
+Refer: 841 57518 S 0 -1 1 0 -0.635742 600.137 2
 EndChar
 
 StartChar: d.luk.9.19
 Encoding: 57838 57838 1139
-Width: 3000
+Width: 400
+Flags: W
 LayerCount: 3
 Fore
-Refer: 866 57519 S 0 -1 1 0 -0.147949 399.738 2
+Refer: 866 57519 S 0 -1 1 0 0.36377 399.738 2
 EndChar
 
 StartChar: v.luk.9.19
 Encoding: 57839 57839 1140
-Width: 3000
+Width: 300
+Flags: W
 LayerCount: 3
 Fore
-Refer: 789 57520 S 0 -1 1 0 -10.1562 279.802 2
+Refer: 789 57520 S 0 -1 1 0 0.364308 279.802 2
 EndChar
 
 StartChar: x.luk.9.19
 Encoding: 57840 57840 1141
-Width: 3000
+Width: 240
+Flags: W
 LayerCount: 3
 Fore
-Refer: 870 57521 S 0 -1 1 0 -0.15625 239.802 2
+Refer: 870 57521 S 0 -1 1 0 0.364258 239.802 2
 EndChar
 
 StartChar: q.luk.9.19
 Encoding: 57841 57841 1142
-Width: 3000
+Width: 180
+Flags: W
 LayerCount: 3
 Fore
-Refer: 874 57522 S 0 -1 1 0 0.0395508 179.606 2
+Refer: 874 57522 S 0 -1 1 0 0.36377 179.606 2
 EndChar
 
 StartChar: s.luk.14.40
 Encoding: 57843 57843 1143
-Width: 3000
+Width: 650
+Flags: W
 LayerCount: 3
 Fore
-Refer: 788 57515 S -0.707107 -0.707107 0.707107 -0.707107 696.471 2241.9 2
+Refer: 788 57515 S -0.707107 -0.707107 0.707107 -0.707107 63.1301 2241.9 2
 EndChar
 
 StartChar: f.luk.14.40
 Encoding: 57844 57844 1144
-Width: 3000
+Width: 508
+Flags: W
 LayerCount: 3
 Fore
-Refer: 790 57516 S -0.707107 -0.707107 0.707107 -0.707107 619.435 1674.26 2
+Refer: 790 57516 S -0.707107 -0.707107 0.707107 -0.707107 63.1303 1674.26 2
 EndChar
 
 StartChar: t.luk.14.40
 Encoding: 57845 57845 1145
-Width: 3000
+Width: 367
+Flags: W
 LayerCount: 3
 Fore
-Refer: 840 57517 S -0.707107 -0.707107 0.707107 -0.707107 282.035 1108.46 2
+Refer: 840 57517 S -0.707107 -0.707107 0.707107 -0.707107 63.1287 1108.46 2
 EndChar
 
 StartChar: w.luk.14.40
 Encoding: 57846 57846 1146
-Width: 3000
+Width: 296
+Flags: W
 LayerCount: 3
 Fore
-Refer: 841 57518 S -0.707107 -0.707107 0.707107 -0.707107 219.672 826.593 2
+Refer: 841 57518 S -0.707107 -0.707107 0.707107 -0.707107 62.9181 826.593 2
 EndChar
 
 StartChar: d.luk.14.40
 Encoding: 57847 57847 1147
-Width: 3000
+Width: 225
+Flags: W
 LayerCount: 3
 Fore
-Refer: 866 57519 S -0.707107 -0.707107 0.707107 -0.707107 181.69 543.6 2
+Refer: 866 57519 S -0.707107 -0.707107 0.707107 -0.707107 63.2144 543.6 2
 EndChar
 
 StartChar: v.luk.14.40
 Encoding: 57848 57848 1148
-Width: 3000
+Width: 194
+Flags: W
 LayerCount: 3
 Fore
-Refer: 789 57520 S -0.707107 -0.707107 0.707107 -0.707107 132.641 387.9 2
+Refer: 789 57520 S -0.707107 -0.707107 0.707107 -0.707107 63.1907 387.9 2
 EndChar
 
 StartChar: x.luk.14.40
 Encoding: 57849 57849 1149
-Width: 3000
+Width: 169
+Flags: W
 LayerCount: 3
 Fore
-Refer: 870 57521 S -0.707107 -0.707107 0.707107 -0.707107 127.712 316.544 2
+Refer: 870 57521 S -0.707107 -0.707107 0.707107 -0.707107 63.1905 316.544 2
 EndChar
 
 StartChar: q.luk.14.40
 Encoding: 57850 57850 1150
-Width: 3000
+Width: 147
+Flags: W
 LayerCount: 3
 Fore
-Refer: 874 57522 S -0.707107 -0.707107 0.707107 -0.707107 94.8507 231.784 2
+Refer: 874 57522 S -0.707107 -0.707107 0.707107 -0.707107 63.1905 231.784 2
 EndChar
 
 StartChar: s.luk.9.0
 Encoding: 57852 57852 1151
-Width: 3000
+Width: 1600
+Flags: W
 LayerCount: 3
 Fore
 Refer: 788 57515 S -1 0 0 -1 1600.69 1600.33 2
@@ -21587,15 +21841,17 @@ EndChar
 
 StartChar: f.luk.9.0
 Encoding: 57853 57853 1152
-Width: 3000
+Width: 1199
+Flags: W
 LayerCount: 3
 Fore
-Refer: 790 57516 S -1 0 0 -1 1193.74 1199.46 2
+Refer: 790 57516 S -1 0 0 -1 1199.74 1199.46 2
 EndChar
 
 StartChar: t.luk.9.0
 Encoding: 57854 57854 1153
-Width: 3000
+Width: 798
+Flags: W
 LayerCount: 3
 Fore
 Refer: 840 57517 N -1 0 0 -1 798.942 800.176 2
@@ -21603,7 +21859,8 @@ EndChar
 
 StartChar: w.luk.9.0
 Encoding: 57855 57855 1154
-Width: 3000
+Width: 599
+Flags: W
 LayerCount: 3
 Fore
 Refer: 841 57518 N -1 0 0 -1 599.809 600.465 2
@@ -21611,7 +21868,8 @@ EndChar
 
 StartChar: d.luk.9.0
 Encoding: 57856 57856 1155
-Width: 3000
+Width: 399
+Flags: W
 LayerCount: 3
 Fore
 Refer: 866 57519 N -1 0 0 -1 399.59 399.886 2
@@ -21619,218 +21877,245 @@ EndChar
 
 StartChar: v.luk.9.0
 Encoding: 57857 57857 1156
-Width: 3000
+Width: 279
+Flags: W
 LayerCount: 3
 Fore
-Refer: 789 57520 N -1 0 0 -1 279.646 299.958 2
+Refer: 789 57520 N -1 0 0 -1 279.645 299.958 2
 EndChar
 
 StartChar: x.luk.9.0
 Encoding: 57858 57858 1157
-Width: 3000
+Width: 239
+Flags: W
 LayerCount: 3
 Fore
-Refer: 870 57521 N -1 0 0 -1 239.646 239.958 2
+Refer: 870 57521 N -1 0 0 -1 239.645 239.958 2
 EndChar
 
 StartChar: q.luk.9.0
 Encoding: 57859 57859 1158
-Width: 3000
+Width: 179
+Flags: W
 LayerCount: 3
 Fore
-Refer: 874 57522 N -1 0 0 -1 179.646 179.566 2
+Refer: 874 57522 N -1 0 0 -1 179.645 179.566 2
 EndChar
 
 StartChar: s.luk.14.4
 Encoding: 57861 57861 1159
-Width: 3000
+Width: 2217
+Flags: W
 LayerCount: 3
 Fore
-Refer: 788 57515 S -0.707107 0.707107 -0.707107 -0.707107 1923.08 587.041 2
+Refer: 788 57515 S -0.707107 0.707107 -0.707107 -0.707107 2241.64 587.041 2
 EndChar
 
 StartChar: f.luk.14.4
 Encoding: 57862 57862 1160
-Width: 3000
+Width: 1650
+Flags: W
 LayerCount: 3
 Fore
-Refer: 790 57516 S -0.707107 0.707107 -0.707107 -0.707107 1454.17 445.755 2
+Refer: 790 57516 S -0.707107 0.707107 -0.707107 -0.707107 1674.76 445.755 2
 EndChar
 
 StartChar: t.luk.14.4
 Encoding: 57863 57863 1161
-Width: 3000
+Width: 1085
+Flags: W
 LayerCount: 3
 Fore
-Refer: 840 57517 S -0.707107 0.707107 -0.707107 -0.707107 1048.84 303.524 2
+Refer: 840 57517 S -0.707107 0.707107 -0.707107 -0.707107 1109.02 303.524 2
 EndChar
 
 StartChar: w.luk.14.4
 Encoding: 57864 57864 1162
-Width: 3000
+Width: 801
+Flags: W
 LayerCount: 3
 Fore
-Refer: 841 57518 S -0.707107 0.707107 -0.707107 -0.707107 720.265 233.464 2
+Refer: 841 57518 S -0.707107 0.707107 -0.707107 -0.707107 826.352 233.464 2
 EndChar
 
 StartChar: d.luk.14.4
 Encoding: 57865 57865 1163
-Width: 3000
+Width: 519
+Flags: W
 LayerCount: 3
 Fore
-Refer: 866 57519 S -0.707107 0.707107 -0.707107 -0.707107 474.452 163.047 2
+Refer: 866 57519 S -0.707107 0.707107 -0.707107 -0.707107 543.459 163.047 2
 EndChar
 
 StartChar: v.luk.14.4
 Encoding: 57866 57866 1164
-Width: 3000
+Width: 364
+Flags: W
 LayerCount: 3
 Fore
-Refer: 789 57520 S -0.707107 0.707107 -0.707107 -0.707107 340.744 131.161 2
+Refer: 789 57520 S -0.707107 0.707107 -0.707107 -0.707107 387.902 131.161 2
 EndChar
 
 StartChar: x.luk.14.4
 Encoding: 57867 57867 1165
-Width: 3000
+Width: 293
+Flags: W
 LayerCount: 3
 Fore
-Refer: 870 57521 S -0.707107 0.707107 -0.707107 -0.707107 289.388 106.089 2
+Refer: 870 57521 S -0.707107 0.707107 -0.707107 -0.707107 317.192 106.089 2
 EndChar
 
 StartChar: q.luk.14.4
 Encoding: 57868 57868 1166
-Width: 3000
+Width: 208
+Flags: W
 LayerCount: 3
 Fore
-Refer: 874 57522 S -0.707107 0.707107 -0.707107 -0.707107 216.823 83.7552 2
+Refer: 874 57522 S -0.707107 0.707107 -0.707107 -0.707107 232.339 83.7552 2
 EndChar
 
 StartChar: s.luk.19.9
 Encoding: 57870 57870 1167
-Width: 3000
+Width: 1600
+Flags: W
 LayerCount: 3
 Fore
-Refer: 788 57515 N 0 1 -1 0 1600.51 -0.178223 2
+Refer: 788 57515 N 0 1 -1 0 1600.61 -0.178223 2
 EndChar
 
 StartChar: f.luk.19.9
 Encoding: 57871 57871 1168
-Width: 3000
+Width: 1200
+Flags: W
 LayerCount: 3
 Fore
-Refer: 790 57516 S 0 1 -1 0 1199.67 -0.0673766 2
+Refer: 790 57516 S 0 1 -1 0 1199.88 -0.0673766 2
 EndChar
 
 StartChar: t.luk.19.9
 Encoding: 57872 57872 1169
-Width: 3000
+Width: 800
+Flags: W
 LayerCount: 3
 Fore
-Refer: 840 57517 S 0 1 -1 0 799.559 -0.383301 2
+Refer: 840 57517 S 0 1 -1 0 800.452 -0.383301 2
 EndChar
 
 StartChar: w.luk.19.9
 Encoding: 57873 57873 1170
-Width: 3000
+Width: 599
+Flags: W
 LayerCount: 3
 Fore
-Refer: 841 57518 S 0 1 -1 0 600.137 0.328125 2
+Refer: 841 57518 S 0 1 -1 0 599.829 0.328125 2
 EndChar
 
 StartChar: d.luk.19.9
 Encoding: 57874 57874 1171
-Width: 3000
+Width: 400
+Flags: W
 LayerCount: 3
 Fore
-Refer: 866 57519 S 0 1 -1 0 399.738 0.147949 2
+Refer: 866 57519 S 0 1 -1 0 400.25 0.147949 2
 EndChar
 
 StartChar: v.luk.19.9
 Encoding: 57875 57875 1172
-Width: 3000
+Width: 300
+Flags: W
 LayerCount: 3
 Fore
-Refer: 789 57520 S 0 1 -1 0 285.802 -0.84375 2
+Refer: 789 57520 S 0 1 -1 0 300.323 -0.84375 2
 EndChar
 
 StartChar: x.luk.19.9
 Encoding: 57876 57876 1173
-Width: 3000
+Width: 240
+Flags: W
 LayerCount: 3
 Fore
-Refer: 870 57521 S 0 1 -1 0 239.802 -0.84375 2
+Refer: 870 57521 S 0 1 -1 0 240.323 -0.84375 2
 EndChar
 
 StartChar: q.luk.19.9
 Encoding: 57877 57877 1174
-Width: 3000
+Width: 180
+Flags: W
 LayerCount: 3
 Fore
-Refer: 874 57522 S 0 1 -1 0 179.606 -0.0395508 2
+Refer: 874 57522 S 0 1 -1 0 179.93 -0.0395508 2
 EndChar
 
 StartChar: s.luk.40.14
 Encoding: 57879 57879 1175
-Width: 3000
+Width: 650
+Flags: W
 LayerCount: 3
 Fore
-Refer: 788 57515 S 0.707107 0.707107 -0.707107 0.707107 536.219 -23.566 2
+Refer: 788 57515 S 0.707107 0.707107 -0.707107 0.707107 586.885 -23.566 2
 EndChar
 
 StartChar: f.luk.40.14
 Encoding: 57880 57880 1176
-Width: 3000
+Width: 508
+Flags: W
 LayerCount: 3
 Fore
-Refer: 790 57516 S 0.707107 0.707107 -0.707107 0.707107 408.822 -24.4941 2
+Refer: 790 57516 S 0.707107 0.707107 -0.707107 0.707107 445.504 -24.4941 2
 EndChar
 
 StartChar: t.luk.40.14
 Encoding: 57881 57881 1177
-Width: 3000
+Width: 367
+Flags: W
 LayerCount: 3
 Fore
-Refer: 840 57517 S 0.707107 0.707107 -0.707107 0.707107 373.907 -24.2858 2
+Refer: 840 57517 S 0.707107 0.707107 -0.707107 0.707107 304.274 -24.2858 2
 EndChar
 
 StartChar: w.luk.40.14
 Encoding: 57882 57882 1178
-Width: 3000
+Width: 296
+Flags: W
 LayerCount: 3
 Fore
-Refer: 841 57518 S 0.707107 0.707107 -0.707107 0.707107 304.136 -24.1283 2
+Refer: 841 57518 S 0.707107 0.707107 -0.707107 0.707107 233.517 -24.1283 2
 EndChar
 
 StartChar: d.luk.40.14
 Encoding: 57883 57883 1179
-Width: 3000
+Width: 225
+Flags: W
 LayerCount: 3
 Fore
-Refer: 866 57519 S 0.707107 0.707107 -0.707107 0.707107 253.9 -23.7144 2
+Refer: 866 57519 S 0.707107 0.707107 -0.707107 0.707107 162.698 -23.7144 2
 EndChar
 
 StartChar: v.luk.40.14
 Encoding: 57884 57884 1180
-Width: 3000
+Width: 194
+Flags: W
 LayerCount: 3
 Fore
-Refer: 789 57520 S 0.707107 0.707107 -0.707107 0.707107 209.004 -23.9418 2
+Refer: 789 57520 S 0.707107 0.707107 -0.707107 0.707107 130.94 -23.9418 2
 EndChar
 
 StartChar: x.luk.40.14
 Encoding: 57885 57885 1181
-Width: 3000
+Width: 169
+Flags: W
 LayerCount: 3
 Fore
-Refer: 870 57521 S 0.707107 0.707107 -0.707107 0.707107 175.933 -23.5864 2
+Refer: 870 57521 S 0.707107 0.707107 -0.707107 0.707107 106.029 -23.5864 2
 EndChar
 
 StartChar: q.luk.40.14
 Encoding: 57886 57886 1182
-Width: 3000
+Width: 147
+Flags: W
 LayerCount: 3
 Fore
-Refer: 874 57522 S 0.707107 0.707107 -0.707107 0.707107 143.795 -24.2174 2
+Refer: 874 57522 S 0.707107 0.707107 -0.707107 0.707107 84.2859 -24.2174 2
 EndChar
 EndChars
 EndSplineFont

@@ -1,0 +1,1 @@
+#tsttxt="n gnomen namo men nemo onok";isfd="tst01.sfd";osfd="tst01-wyn.sfd";ootf="tst01.otf";../skrypty/generuj-font.py $isfd $osfd $ootf && ../skrypty/dodaj-fea-otf.py tst01.fea $ootf && echo "";echo "$tsttxt" && hb-shape --ned --no-positions $ootf "$tsttxt"; hb-view -O png $ootf "$tsttxt" > onon.png && feh onon.png
