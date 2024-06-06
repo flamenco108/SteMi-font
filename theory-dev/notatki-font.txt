@@ -106,17 +106,18 @@ Font w pełni stenograficzny, ze wszystkimi skrótami:
 
 - samogłoski: 
   - 30st w prawo
-  - litery `e-ę`: 85st w prawo
+  - litery `e-ę`: 85st w prawo + 90st w prawo
 - spółgłoski!!!: 
   - PIONOWO (0st)
   - 20st w lewo - spółgłoski USZYPIONE (ksz, psz, grz, wrz itp.)
+  - 20st w prawo - złożenie `kw, kow, ków itp` - wchodzi w StemiSteno
 
 
 #### Warianty pochyleń (dla ew. wariantów glifów)
 
 - UWAGA!: Wielkie Litery nie mają wariantów pochyleń!
 - samogłoski (pochylenie w prawo):
-  - 30st, 45st, 55st
+  - 30st, 45st, 60st
   - glify `e-ę`: 85st, 90st
 - spółgłoski (pochylenie w lewo - oznaczenie "+sz" jak np. ksz/krz oraz dla szczelinowych "+w" jak np. szw/szew/szów):
   - 20st, 30st, 45st
