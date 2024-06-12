@@ -18,4 +18,17 @@ if [ ! -f "$word_list_file" ]; then
 fi
 
 # Grep through the word list and print the results with the specified context
-grep -E -o "(.{$preceding_letters})($search_string)(.{$following_letters})" "$word_list_file"
+#grep -E -o "(.{$preceding_letters})($search_string)(.{$following_letters})" "$word_list_file"
+#grep -E -o "\b(.{0,$preceding_letters})($search_string)(.{0,$following_letters})\b" "$word_list_file"
+# Grep through the word list and print the results with the specified context
+grep -E -o "\b(.{0,$preceding_letters}?)($search_string)(.{0,$following_letters}?)\b" "$word_list_file" | while read -r line; do
+    start_pattern="^(.{0,$preceding_letters}?)$search_string"
+    end_pattern="$search_string(.{0,$following_letters}?)$"
+    if [[ "$line" =~ $start_pattern ]]; then
+        echo ">>$line"
+    elif [[ "$line" =~ $end_pattern ]]; then
+        echo "$line<<"
+    else
+        echo "$line"
+    fi
+done

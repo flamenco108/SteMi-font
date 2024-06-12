@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-
 import sys
+import shutil
 import fontforge
 
 def open_sfd_file(file_path):
@@ -9,12 +9,12 @@ def open_sfd_file(file_path):
     Otwiera wskazany plik FontForge SFD.
     """
     try:
+        print("   OTWIERAMY plik...")
         font = fontforge.open(file_path)
         return font
     except fontforge.fontforgeError as e:
-        print("Błąd podczas otwierania pliku SFD:", e)
+        print("   Błąd podczas otwierania pliku SFD:", e)
         return None
-
 
 def detach_references(font):
     """
@@ -23,12 +23,11 @@ def detach_references(font):
     """
     if font is None:
         return None
-
+    print("   ODŁĄCZAMY referencje (detach).")
     for glyph in font.glyphs():
         glyph.references = []  # Usuń wszystkie referencje z glifu
 
     return font
-
 
 def replace_references_with_splines(font):
     """
@@ -37,7 +36,7 @@ def replace_references_with_splines(font):
     """
     if font is None:
         return None
-
+    print("   ZAMIENIAMY referencje w spline.")
     for glyph in font.glyphs():
         if glyph.references:
             for reference in glyph.references:
@@ -50,113 +49,80 @@ def replace_references_with_splines(font):
 
     return font
 
-
 def remove_overlaps(font):
     """
     Usuwa przecinające się krzywe i zamienia referencje na krzywe.
     """
     try:
+        print("   USUWAMY przecinające się krzywe oraz referencje")
         font.selection.all()
-        font.unlinkReferences()
+        print("     usuwamy przecinające się krzywe...")
         for glyph in font.glyphs():
             glyph.removeOverlap()
-        print("Przecinające się krzywe i referencje zostały usunięte.")
+        print("     usuwamy referencje...")
+        font.unlinkReferences()
+
+        print("     usuwamy przecinające się krzywe...")
+        for glyph in font.glyphs():
+            glyph.removeOverlap()
+
+        print("   Przecinające się krzywe i referencje zostały usunięte.")
     except Exception as e:
-        print(f"Wystąpił błąd podczas usuwania przecinających się krzywych i referencji: {e}")
-
-
-#def simplify_contours(font):
-#    """
-#    Ma uprościć kontury
-#    """
-#    for glyph in font:
-#        glyph.simplify()
+        print(f"   Wystąpił błąd podczas usuwania przecinających się krzywych i referencji: {e}")
 
 def simplify_contours(font):
     """
     Ma uprościć kontury każdego znaku w czcionce.
     """
     try:
+        print("   UPRASZCZAMY kontury.")
         for glyph in font.glyphs():
             glyph.simplify()
-        print("Kontury zostały uproszczone.")
+        print("   Kontury zostały uproszczone.")
     except AttributeError as e:
-        print(f"Wystąpił błąd podczas upraszczania konturów: {e}")
-
-
-#def add_extrema_points(font):
-#    """
-#    Ma dodać brakujące ekstrema
-#    """
-#    for glyph in font:
-#        glyph.addExtrema()
+        print(f"   Wystąpił błąd podczas upraszczania konturów: {e}")
 
 def add_extrema_points(font):
     """
     Dodaje brakujące punkty ekstremalne do wszystkich znaków w czcionce.
     """
     try:
+        print("   DODAJEMY brakujące punkty ekstremalne.")
         for glyph in font.glyphs():
             glyph.addExtrema()
-        print("Dodano brakujące punkty ekstremalne.")
+        print("   Dodano brakujące punkty ekstremalne.")
     except AttributeError as e:
-        print(f"Wystąpił błąd podczas dodawania punktów ekstremalnych: {e}")
-
+        print(f"   Wystąpił błąd podczas dodawania punktów ekstremalnych: {e}")
 
 def round_to_integer_coordinates(font):
     """
     Zaokrągla wszystkie współrzędne punktów do liczb całkowitych.
     """
     try:
+        print("   ZAOKRĄGLAMY współrzędne punktów do liczb całkowitych.")
         for glyph in font.glyphs():
             for contour in glyph.foreground:
                 for segment in contour.segments:
                     for point in segment:
                         point.x = int(point.x + 0.5)
                         point.y = int(point.y + 0.5)
-        print("Współrzędne punktów zostały zaokrąglone do liczb całkowitych.")
+        print("   Współrzędne punktów zostały zaokrąglone do liczb całkowitych.")
     except AttributeError as e:
-        print(f"Wystąpił błąd podczas zaokrąglania współrzędnych: {e}")
-
-
-
-#def round_to_integer_coordinates(font):
-#    """
-#    Ma zaokrąglić do pełnych wartości współrzędnych
-#    """
-#    for glyph in font:
-#        for contour in glyph:
-#            for point in contour:
-#                point.x = int(point.x + 0.5)
-#                point.y = int(point.y + 0.5)
-
-
-
-
-#def validate(font):
-#    """
-#    Ma dokonać walidacji
-#    """
-#    errors = font.validate()
-#    if errors:
-#        print("Validation errors:")
-#        for error in errors:
-#            print(error)
+        print(f"   Wystąpił błąd podczas zaokrąglania współrzędnych: {e}")
 
 def validate(font):
     """
     Ma dokonać walidacji
     """
+    print("   WALIDUJEMY...")
     errors = font.validate()
     if isinstance(errors, int):
         if errors > 0:
-            print(f"Validation errors: {errors}")
+            print(f"   Validation errors: {errors}")
     else:
-        print("Validation errors:")
+        print("   Validation errors:")
         for error in errors:
             print(error)
-
-
 
 def save_sfd_file(font, file_path):
     """
@@ -166,10 +132,11 @@ def save_sfd_file(font, file_path):
         return
 
     try:
+        print("   ZAPISUJEMY SFD...")
         font.save(file_path)
-        print("Plik SFD został pomyślnie zapisany jako", file_path)
+        print("   Plik SFD został pomyślnie zapisany jako", file_path)
     except fontforge.fontforgeError as e:
-        print("Błąd podczas zapisywania pliku SFD:", e)
+        print("   Błąd podczas zapisywania pliku SFD:", e)
 
 def generate_otf_font(font, file_path):
     """
@@ -179,14 +146,14 @@ def generate_otf_font(font, file_path):
         return
 
     try:
+        print("   GENERUJEMY OTF...")
         font.generate(file_path)
-        print("Czcionka OTF została pomyślnie wygenerowana jako", file_path)
+        print("   Czcionka OTF została pomyślnie wygenerowana jako", file_path)
     except fontforge.fontforgeError as e:
-        print("Błąd podczas generowania czcionki OTF:", e)
+        print("   Błąd podczas generowania czcionki OTF:", e)
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
-        #print("Użycie: python script.py [ścieżka_do_pliku_sfd] [nazwa_zapisanego_pliku_sfd] [nazwa_wygenerowanej_czcionki_otf]")
         print("Użycie:", sys.argv[0], "[ścieżka_do_pliku_sfd] [nazwa_wynikowego_pliku_sfd] [nazwa_wygenerowanej_czcionki_otf]")
         sys.exit(1)
 
@@ -194,30 +161,35 @@ if __name__ == "__main__":
     output_sfd_path = sys.argv[2]
     output_otf_path = sys.argv[3]
 
+    # Copy the input SFD file to the output SFD file
+    try:
+        print(f"   KOPIUJEMY {input_sfd_path}  do {output_sfd_path}")
+        shutil.copy(input_sfd_path, output_sfd_path)
+        print(f"   Plik {input_sfd_path} został skopiowany do {output_sfd_path}")
+    except IOError as e:
+        print(f"   Błąd podczas kopiowania pliku: {e}")
+        sys.exit(1)
+
     # Otwórz plik SFD
-    font = open_sfd_file(input_sfd_path)
-
-    # Zamień referencje w spline
-    # UWAGA!!! Raczej zbędne
-    #font = replace_references_with_splines(font)
-
-    # Odłącz wszystkie referencje w otwartym pliku FontForge.
-    #UWAGA!!! Raczej zbędne
-    #font = detach_references(font):
+    font = open_sfd_file(output_sfd_path)
 
     # Dodaj ekstrema
     add_extrema_points(font)
 
     # Usuń przecinające się krzywe
     remove_overlaps(font)
+
     # Uprość kontury
     simplify_contours(font)
 
     # Zaokrąglij do pełnych wartości
-    round_to_integer_coordinates(font)
+    #round_to_integer_coordinates(font)
+
+    # Dodaj ekstrema
+    add_extrema_points(font)
+
     # Zwaliduj
     validate(font)
-
 
     # Zapisz plik SFD
     save_sfd_file(font, output_sfd_path)
