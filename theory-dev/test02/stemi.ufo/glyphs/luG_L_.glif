@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="luGL" format="2">
+  <advance width="355" height="355"/>
+  <unicode hex="E2E9"/>
+  <outline>
+    <component base="polokrM.1" xOffset="130" yOffset="1"/>
+    <component base="koloL" yOffset="163"/>
+  </outline>
+</glyph>

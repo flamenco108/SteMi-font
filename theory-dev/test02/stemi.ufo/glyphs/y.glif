@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y" format="2">
+  <advance width="866" height="866"/>
+  <unicode hex="0079"/>
+  <outline>
+    <component base="stemKRT"/>
+  </outline>
+</glyph>

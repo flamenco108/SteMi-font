@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.alt" format="2">
+  <advance width="121" height="121"/>
+  <unicode hex="E515"/>
+  <outline>
+    <component base="circumflex" xOffset="-262" yOffset="1"/>
+    <component base="i.alt"/>
+  </outline>
+</glyph>

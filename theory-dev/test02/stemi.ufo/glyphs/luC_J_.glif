@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="luCJ" format="2">
+  <advance width="454" height="454"/>
+  <unicode hex="E2E7"/>
+  <outline>
+    <contour>
+      <point x="7" y="203" type="line" smooth="yes"/>
+      <point x="67" y="289"/>
+      <point x="221.082" y="289" type="qcurve" smooth="yes"/>
+      <point x="454" y="289"/>
+      <point x="454" y="40" type="qcurve" smooth="yes"/>
+      <point x="453.071" y="-176"/>
+      <point x="268" y="-176" type="qcurve" smooth="yes"/>
+      <point x="95" y="-176"/>
+      <point x="95" y="-32" type="qcurve" smooth="yes"/>
+      <point x="95" y="120"/>
+      <point x="210.631" y="120" type="qcurve"/>
+      <point x="216" y="120"/>
+      <point x="222" y="120" type="qcurve"/>
+      <point x="222" y="0" type="line"/>
+      <point x="209" y="0"/>
+      <point x="209" y="-32" type="qcurve" smooth="yes"/>
+      <point x="209" y="-59"/>
+      <point x="268" y="-59" type="qcurve" smooth="yes"/>
+      <point x="340" y="-59"/>
+      <point x="341" y="40" type="qcurve" smooth="yes"/>
+      <point x="341" y="177"/>
+      <point x="222.082" y="177" type="qcurve" smooth="yes"/>
+      <point x="135" y="177"/>
+      <point x="114" y="137" type="qcurve" smooth="yes"/>
+    </contour>
+    <component base="konCONS" yOffset="109"/>
+    <component base="konCONS" xOffset="162"/>
+  </outline>
+</glyph>

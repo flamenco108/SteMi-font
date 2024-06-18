@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.krt" format="2">
+  <advance width="121" height="121"/>
+  <unicode hex="E523"/>
+  <outline>
+    <component base="stemI.krt"/>
+  </outline>
+</glyph>

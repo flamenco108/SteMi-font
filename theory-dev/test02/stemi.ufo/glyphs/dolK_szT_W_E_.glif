@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dolKszTWE" format="2">
+  <advance width="218" height="218"/>
+  <unicode hex="E3A0"/>
+  <outline>
+    <contour>
+      <point x="168" y="120" type="qcurve"/>
+      <point x="168" y="120"/>
+      <point x="168" y="0" type="qcurve"/>
+      <point x="115.609" y="6.88338e-15"/>
+      <point x="71" y="19" type="qcurve" smooth="yes"/>
+      <point x="14" y="44"/>
+      <point x="1.61816" y="100.479" type="qcurve"/>
+      <point x="20" y="105"/>
+      <point x="118.382" y="131.521" type="qcurve"/>
+      <point x="124" y="120"/>
+    </contour>
+    <component base="konCONS" xOffset="0.29126" yOffset="55"/>
+    <component base="konCONS" xScale="0.9999" yScale="0.9999" xOffset="108.297" yOffset="0.000996289"/>
+  </outline>
+</glyph>

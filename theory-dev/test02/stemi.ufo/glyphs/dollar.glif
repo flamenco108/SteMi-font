@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+  <advance width="852" height="852"/>
+  <unicode hex="0024"/>
+  <outline>
+    <component base="stemK" xOffset="370" yOffset="-46"/>
+    <component base="polokrD.2" yOffset="95"/>
+    <component base="polokrD.3" xOffset="77" yOffset="707"/>
+    <component base="polokrD.1" xOffset="369" yOffset="91"/>
+    <component base="polokrD.4" xOffset="31" yOffset="1112"/>
+  </outline>
+</glyph>

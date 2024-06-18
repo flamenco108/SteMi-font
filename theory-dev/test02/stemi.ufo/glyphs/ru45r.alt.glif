@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ru45r.alt" format="2">
+  <advance width="773" height="773"/>
+  <unicode hex="E4EC"/>
+  <outline>
+    <component base="ru45.alt" xOffset="0.000128563"/>
+  </outline>
+</glyph>

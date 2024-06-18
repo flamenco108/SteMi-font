@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u55r.alt" format="2">
+  <advance width="881" height="881"/>
+  <unicode hex="E4E3"/>
+  <outline>
+    <component base="u55.alt" xOffset="-0.975588"/>
+  </outline>
+</glyph>

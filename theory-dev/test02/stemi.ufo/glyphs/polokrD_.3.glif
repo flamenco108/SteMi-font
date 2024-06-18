@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="polokrD.3" format="2">
+  <advance width="410" height="410"/>
+  <unicode hex="E336"/>
+  <outline>
+    <component base="polokrD.1" xScale="-1" yScale="-1" xOffset="410.261" yOffset="821.754"/>
+  </outline>
+</glyph>

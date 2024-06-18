@@ -11,7 +11,7 @@ def extract_numbers_from_file(input_filename, output_filename):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python script.py <input_filename>")
+        print(f"Usage: python  {sys.argv[0]} <input_filename>")
     else:
         input_filename = sys.argv[1]
         output_filename = f"{input_filename}-only"

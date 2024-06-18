@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="2">
+  <advance width="1233" height="1233"/>
+  <unicode hex="007E"/>
+  <outline>
+    <component base="lu3" xScale="0" yScale="0" xyScale="-1" yxScale="1" xOffset="74.9354" yOffset="1023.84"/>
+    <component base="lu3" xScale="0" yScale="0" xyScale="1" yxScale="-1" xOffset="1193.84" yOffset="782.064"/>
+  </outline>
+</glyph>

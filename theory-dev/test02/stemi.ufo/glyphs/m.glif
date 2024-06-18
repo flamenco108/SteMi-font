@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="2">
+  <advance width="372" height="372"/>
+  <unicode hex="006D"/>
+  <outline>
+    <component base="konCONS" xOffset="284"/>
+    <component base="stemK" xOffset="283.774"/>
+  </outline>
+</glyph>

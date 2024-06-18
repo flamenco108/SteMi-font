@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE01F" format="2">
+  <advance width="3000" height="3000"/>
+  <unicode hex="E01F"/>
+  <outline>
+    <component base="x.luk.9.0" xOffset="658" yOffset="395"/>
+    <component base="x.luk.9.3" xOffset="1261" yOffset="-492"/>
+    <component base="t.luk.0.3" xOffset="596" yOffset="455"/>
+    <component base="t.luk.6.9" xOffset="1437" yOffset="719"/>
+    <component base="d.luk.13.19" xOffset="1476" yOffset="-60"/>
+    <component base="v.luk.13.19" xOffset="2134" yOffset="1376"/>
+    <component base="w.luk.6.13" xOffset="103" yOffset="1534"/>
+    <component base="w.luk.6.9" xOffset="1226" yOffset="1566"/>
+    <component base="x.luk.13.6" xOffset="1250" yOffset="527"/>
+    <component base="w.luk.13.6" xOffset="1701" yOffset="439.71"/>
+    <component base="t.luk.4.14" xOffset="-1037" yOffset="1762"/>
+    <component base="t.luk.14.4" xOffset="-78" yOffset="1524"/>
+    <component base="t.luk.9.3" xOffset="1335" yOffset="304"/>
+    <component base="d.luk.9.19" xOffset="2040" yOffset="904"/>
+    <component base="d.luk.19.9" xOffset="1050" yOffset="303"/>
+    <component base="w.luk.9.19" xOffset="1048" yOffset="1259"/>
+    <component base="stemG.krt" xOffset="774" yOffset="34"/>
+    <component base="x.luk.9.19" xOffset="1812" yOffset="1689"/>
+    <component base="v.luk.9.19" xOffset="-656" yOffset="1064"/>
+    <component base="q.luk.9.19" xOffset="419" yOffset="1216"/>
+    <component base="v.luk.4.9" xOffset="-737" yOffset="1424"/>
+    <component base="stemG" xScale="0.707107" yScale="0.707107" xyScale="-0.707107" yxScale="0.707107" xOffset="757.729" yOffset="-219.417"/>
+    <component base="q.luk.9.3" xOffset="341" yOffset="407"/>
+    <component base="q.luk.9.6" xOffset="1374" yOffset="-103"/>
+    <component base="stemG" xScale="0.707107" yScale="0.707107" xyScale="-0.707107" yxScale="0.707107" xOffset="-1131.22" yOffset="654.606"/>
+    <component base="q.luk.19.9" xOffset="597.241" yOffset="395.472"/>
+    <component base="stemK.krt" xOffset="2318.24" yOffset="-175.528"/>
+  </outline>
+</glyph>

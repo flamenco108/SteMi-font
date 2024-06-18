@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="2">
+  <advance width="1015" height="1015"/>
+  <unicode hex="0050"/>
+  <outline>
+    <component base="p" xOffset="664" yOffset="-8"/>
+    <component base="circumflex" xOffset="288" yOffset="1016"/>
+  </outline>
+</glyph>

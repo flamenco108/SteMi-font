@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y.org" format="2">
+  <advance width="920" height="920"/>
+  <unicode hex="E563"/>
+  <outline>
+    <component base="circumflex" xOffset="0.176171"/>
+    <component base="y.org" xOffset="0.176171"/>
+  </outline>
+</glyph>

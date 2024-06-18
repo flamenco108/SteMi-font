@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p.brh.6" format="2">
+  <advance width="481" height="481"/>
+  <unicode hex="E026"/>
+  <outline>
+    <contour>
+      <point x="118" y="47" type="qcurve"/>
+      <point x="89" y="48"/>
+      <point x="60" y="48" type="qcurve"/>
+      <point x="30" y="48"/>
+      <point x="0" y="48" type="qcurve"/>
+      <point x="0" y="48"/>
+      <point x="0" y="536" type="qcurve" smooth="yes"/>
+      <point x="0" y="900"/>
+      <point x="239.5" y="900" type="qcurve" smooth="yes"/>
+      <point x="481" y="900"/>
+      <point x="481" y="601" type="qcurve" smooth="yes"/>
+      <point x="481" y="253"/>
+    </contour>
+    <contour>
+      <point x="120" y="186" type="qcurve"/>
+      <point x="360" y="326"/>
+      <point x="360" y="601" type="qcurve" smooth="yes"/>
+      <point x="360" y="780"/>
+      <point x="240" y="780" type="qcurve" smooth="yes"/>
+      <point x="120" y="780"/>
+      <point x="120" y="536" type="qcurve" smooth="yes"/>
+      <point x="120" y="536"/>
+    </contour>
+    <component base="konCONS"/>
+    <component base="konCONS" yOffset="22"/>
+  </outline>
+</glyph>

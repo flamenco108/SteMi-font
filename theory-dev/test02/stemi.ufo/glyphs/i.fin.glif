@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.fin" format="2">
+  <advance width="236" height="236"/>
+  <unicode hex="E522"/>
+  <outline>
+    <component base="stemI.krt" xScale="0.866025" yScale="0.866025" xyScale="-0.5" yxScale="0.5" xOffset="-19.6557" yOffset="37.2277"/>
+    <component base="dolMK30" xOffset="0.555813"/>
+  </outline>
+</glyph>

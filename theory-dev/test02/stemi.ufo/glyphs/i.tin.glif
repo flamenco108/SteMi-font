@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.tin" format="2">
+  <advance width="121" height="121"/>
+  <unicode hex="E524"/>
+  <outline>
+    <component base="stemKRT" xOffset="1"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.135" format="2">
+  <advance width="284" height="284"/>
+  <unicode hex="E520"/>
+  <outline>
+    <component base="stemI" xScale="0.707107" yScale="0.707107" xyScale="0.707107" yxScale="-0.707107" xOffset="332.414" yOffset="-21.1482"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="re90r" format="2">
+  <advance width="700" height="700"/>
+  <unicode hex="E452"/>
+  <outline>
+    <component base="re90" xOffset="-0.000178948"/>
+  </outline>
+</glyph>

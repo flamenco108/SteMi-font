@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.ful30" format="2">
+  <advance width="508" height="508"/>
+  <unicode hex="E51B"/>
+  <outline>
+    <contour>
+      <point x="193.96" y="322.504" type="line"/>
+      <point x="313.429" y="524.504" type="line"/>
+      <point x="313.429" y="281.504" type="line"/>
+      <point x="313.429" y="220.504"/>
+      <point x="253.429" y="220.004" type="qcurve"/>
+      <point x="193.429" y="219.504"/>
+      <point x="193.429" y="278.504" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="252.96" y="260.504" type="move"/>
+      <point x="252.96" y="300.504" type="line"/>
+      <point x="272.96" y="280.504" type="line"/>
+      <point x="232.96" y="280.504" type="line"/>
+    </contour>
+    <contour>
+      <point x="224.96" y="220.504"/>
+      <point x="192.96" y="252.504"/>
+      <point x="192.96" y="280.504" type="qcurve" smooth="yes"/>
+      <point x="192.96" y="310.504"/>
+      <point x="209.994" y="326.504" type="qcurve" smooth="yes"/>
+      <point x="224.96" y="340.504"/>
+      <point x="280.96" y="340.504"/>
+      <point x="295.926" y="326.504" type="qcurve" smooth="yes"/>
+      <point x="312.96" y="310.504"/>
+      <point x="312.96" y="280.504" type="qcurve" smooth="yes"/>
+      <point x="312.96" y="252.504"/>
+      <point x="280.96" y="220.504"/>
+    </contour>
+    <contour>
+      <point x="252.96" y="279.504" type="move"/>
+      <point x="252.96" y="319.504" type="line"/>
+      <point x="272.96" y="299.504" type="line"/>
+      <point x="232.96" y="299.504" type="line"/>
+    </contour>
+    <contour>
+      <point x="224.96" y="239.504"/>
+      <point x="192.96" y="271.504"/>
+      <point x="192.96" y="299.504" type="qcurve" smooth="yes"/>
+      <point x="192.96" y="329.504"/>
+      <point x="209.994" y="345.504" type="qcurve" smooth="yes"/>
+      <point x="224.96" y="359.504"/>
+      <point x="280.96" y="359.504"/>
+      <point x="295.926" y="345.504" type="qcurve" smooth="yes"/>
+      <point x="312.96" y="329.504"/>
+      <point x="312.96" y="299.504" type="qcurve" smooth="yes"/>
+      <point x="312.96" y="271.504"/>
+      <point x="280.96" y="239.504"/>
+    </contour>
+    <component base="stemI.krt" xOffset="192.96"/>
+    <component base="dolMK30" xOffset="192.96"/>
+    <component base="stemI" xScale="0.866025" yScale="0.866025" xyScale="-0.5" yxScale="0.5" xOffset="174.13" yOffset="41.369"/>
+    <component base="stemI" xScale="0.866025" yScale="0.866025" xyScale="-0.5" yxScale="0.5" xOffset="-19.0194" yOffset="-51.6042"/>
+  </outline>
+</glyph>

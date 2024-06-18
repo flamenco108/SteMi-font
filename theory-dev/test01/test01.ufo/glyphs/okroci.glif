@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="okroci" format="2">
+  <advance width="550" height="550"/>
+  <unicode hex="E098"/>
+  <outline>
+    <contour>
+      <point x="190.133" y="0" type="qcurve"/>
+      <point x="190" y="120" type="line"/>
+      <point x="248" y="123"/>
+      <point x="292" y="150.212" type="qcurve" smooth="yes"/>
+      <point x="329" y="174"/>
+      <point x="352" y="197" type="qcurve" smooth="yes"/>
+      <point x="392" y="237"/>
+      <point x="418" y="328" type="qcurve" smooth="yes"/>
+      <point x="438" y="401"/>
+      <point x="418" y="476.5" type="qcurve" smooth="yes"/>
+      <point x="394" y="565"/>
+      <point x="353.5" y="595.5" type="qcurve" smooth="yes"/>
+      <point x="279" y="653"/>
+      <point x="224" y="656" type="qcurve" smooth="yes"/>
+      <point x="162" y="659"/>
+      <point x="101" y="590" type="qcurve"/>
+      <point x="20" y="685" type="line"/>
+      <point x="93" y="779"/>
+      <point x="199.481" y="779.281" type="qcurve" smooth="yes"/>
+      <point x="346" y="780"/>
+      <point x="453.5" y="658" type="qcurve" smooth="yes"/>
+      <point x="550" y="548"/>
+      <point x="550" y="403" type="qcurve" smooth="yes"/>
+      <point x="550" y="310.983"/>
+      <point x="514" y="228" type="qcurve" smooth="yes"/>
+      <point x="455" y="92"/>
+      <point x="346" y="39.8164" type="qcurve" smooth="yes"/>
+      <point x="257" y="-2"/>
+    </contour>
+    <component base="konCONS" xOffset="130"/>
+    <component base="konCONS" xOffset="429" yOffset="343"/>
+    <component base="konCONS" xOffset="330" yOffset="93"/>
+    <component base="konCONS" yOffset="578"/>
+  </outline>
+</glyph>

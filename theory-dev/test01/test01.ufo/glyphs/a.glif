@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="2">
+  <advance width="545" height="545"/>
+  <unicode hex="0061"/>
+  <outline>
+    <component base="stemG" xScale="0.866025" yScale="0.866025" xyScale="-0.5" yxScale="0.5" xOffset="-19.0189" yOffset="40.3078"/>
+  </outline>
+</glyph>

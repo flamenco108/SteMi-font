@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dolMK45" format="2">
+  <advance width="666" height="666"/>
+  <unicode hex="0007"/>
+  <outline>
+    <contour>
+      <point x="119.469" y="28" type="qcurve"/>
+      <point x="0" y="-80" type="line"/>
+      <point x="0" y="81" type="line"/>
+      <point x="0" y="140"/>
+      <point x="60" y="140" type="qcurve"/>
+      <point x="120" y="140"/>
+      <point x="120" y="81" type="qcurve" smooth="yes"/>
+      <point x="120" y="54"/>
+    </contour>
+    <component base="konCONS" xOffset="0.4688"/>
+    <component base="konCONS" xOffset="0.46875" yOffset="20"/>
+  </outline>
+</glyph>

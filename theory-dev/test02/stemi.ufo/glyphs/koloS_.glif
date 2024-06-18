@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="koloS" format="2">
+  <advance width="600" height="600"/>
+  <unicode hex="E088"/>
+  <outline>
+    <contour>
+      <point x="299.634" y="600.554" type="qcurve" smooth="yes"/>
+      <point x="416" y="601"/>
+      <point x="507" y="506" type="qcurve" smooth="yes"/>
+      <point x="600.026" y="412.44"/>
+      <point x="600.461" y="303" type="qcurve" smooth="yes"/>
+      <point x="600.041" y="188.085"/>
+      <point x="507" y="93" type="qcurve" smooth="yes"/>
+      <point x="416" y="0"/>
+      <point x="300.634" y="0.446289" type="qcurve" smooth="yes"/>
+      <point x="184" y="0"/>
+      <point x="89" y="92" type="qcurve" smooth="yes"/>
+      <point x="0" y="176.321"/>
+      <point x="0" y="301" type="qcurve" smooth="yes"/>
+      <point x="0" y="416.989"/>
+      <point x="92" y="508" type="qcurve" smooth="yes"/>
+      <point x="185" y="600"/>
+    </contour>
+    <contour>
+      <point x="299.624" y="119.5" type="qcurve" smooth="yes"/>
+      <point x="375" y="120"/>
+      <point x="424" y="174" type="qcurve" smooth="yes"/>
+      <point x="481" y="239"/>
+      <point x="480.425" y="300.332" type="qcurve" smooth="yes"/>
+      <point x="480" y="368"/>
+      <point x="422" y="424" type="qcurve" smooth="yes"/>
+      <point x="363" y="480"/>
+      <point x="300.624" y="480.287" type="qcurve" smooth="yes"/>
+      <point x="225" y="480"/>
+      <point x="176" y="424" type="qcurve" smooth="yes"/>
+      <point x="120" y="359"/>
+      <point x="119.824" y="300.788" type="qcurve" smooth="yes"/>
+      <point x="120" y="249"/>
+      <point x="177" y="173" type="qcurve" smooth="yes"/>
+      <point x="218" y="119"/>
+    </contour>
+    <component base="konCONS" xOffset="240" yOffset="480"/>
+    <component base="konCONS" xOffset="480" yOffset="240"/>
+    <component base="konCONS" xOffset="239.634" yOffset="0.44629"/>
+    <component base="konCONS" yOffset="240"/>
+  </outline>
+</glyph>

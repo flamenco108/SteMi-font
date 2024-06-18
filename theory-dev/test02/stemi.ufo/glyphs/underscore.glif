@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="2">
+  <advance width="1353" height="1353"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="1293" y="120" type="line"/>
+      <point x="1293" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="60" y="120" type="line"/>
+    </contour>
+    <component base="konCONS"/>
+    <component base="konCONS" xOffset="1233"/>
+  </outline>
+</glyph>

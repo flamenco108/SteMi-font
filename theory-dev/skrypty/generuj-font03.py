@@ -112,18 +112,36 @@ def round_to_integer_coordinates(font):
     except AttributeError as e:
         print(f"    Wystąpił błąd podczas zaokrąglania współrzędnych: {e}")
 
-def set_bearings_to_zero(font):
+#def set_bearings_to_zero(font):
+#    """
+#    Ustawia MaxBearing i MinBearing na zero dla wszystkich glifów.
+#    """
+#    try:
+#        print("    USTAWIAM MaxBearing i MinBearing na zero...")
+#        for glyph in font.glyphs():
+#            glyph.left_side_bearing = 0
+#            glyph.right_side_bearing = 0
+#        print("    ...MaxBearing i MinBearing zostały ustawione na zero.")
+#    except AttributeError as e:
+#        print(f"    Wystąpił błąd podczas ustawiania MaxBearing i MinBearing: #    {e}")
+
+def set_bearings_to_zero(font, exclude_glyphs=[]):
     """
-    Ustawia MaxBearing i MinBearing na zero dla wszystkich glifów.
+    Sets MaxBearing and MinBearing to zero for all glyphs except those in the exclude_glyphs list.
     """
     try:
-        print("    USTAWIAM MaxBearing i MinBearing na zero...")
+        print("    SETTING MaxBearing and MinBearing to zero...")
         for glyph in font.glyphs():
-            glyph.left_side_bearing = 0
-            glyph.right_side_bearing = 0
-        print("    ...MaxBearing i MinBearing zostały ustawione na zero.")
+            if glyph.glyphname not in exclude_glyphs:
+                glyph.left_side_bearing = 0
+                glyph.right_side_bearing = 0
+                #print(f"    Set bearings to zero for glyph '{glyph.glyphname}'")
+            else:
+                print(f"    Skipping glyph '{glyph.glyphname}' (excluded from bearing reset)")
+        print("    ...SETTING MaxBearing and MinBearing to zero FINISHED.")
     except AttributeError as e:
-        print(f"    Wystąpił błąd podczas ustawiania MaxBearing i MinBearing: {e}")
+        print(f"    Error occurred while setting MaxBearing and MinBearing: {e}")
+
 
 def validate(font):
     """
@@ -171,6 +189,7 @@ def remove_specific_part_of_glyph_in_sfd(sfd_path, glyph_name, part_to_remove):
     """
     Removes a specific part of a particular glyph in the SFD file.
     """
+    print(f"    USUWAMY pewną część GLIFU (krzyżyk z '{glyph_name}')...")
     with open(sfd_path, 'r') as file:
         lines = file.readlines()
 
@@ -209,7 +228,8 @@ def remove_specific_part_of_glyph_in_sfd(sfd_path, glyph_name, part_to_remove):
         with open(sfd_path, 'w') as file:
             file.writelines(lines)
 
-        print(f"    Removed specific part from glyph '{glyph_name}' in SFD file.")
+        #print(f"    Removed specific part from glyph '{glyph_name}' in SFD file.")
+        print(f"    ...USUNIĘTO kawałek z '{glyph_name}' z pliku.")
     else:
         print(f"    Glyph '{glyph_name}' not found in SFD file.")
 
@@ -260,7 +280,10 @@ if __name__ == "__main__":
     add_extrema_points(font)
 
     # Ustaw MaxBearing i MinBearing na zero
-    set_bearings_to_zero(font)
+    # wylistuj glify, które nie mają mieć odsadek na zero
+    #set_bearings_to_zero(font)
+    exclude_glyphs = ["space", "colon", "semicolon"]
+    set_bearings_to_zero(font, exclude_glyphs)
 
     # Zwaliduj
     validate(font)

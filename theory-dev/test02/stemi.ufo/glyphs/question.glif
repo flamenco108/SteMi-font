@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="2">
+  <advance width="800" height="800"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="27.5996" y="1418.8" type="line"/>
+      <point x="262.219" y="1555.42"/>
+      <point x="399.221" y="1531.6" type="qcurve" smooth="yes"/>
+      <point x="697" y="1481"/>
+      <point x="740.4" y="1194.6" type="qcurve" smooth="yes"/>
+      <point x="772.982" y="977.445"/>
+      <point x="519.2" y="767.6" type="qcurve" smooth="yes"/>
+      <point x="451" y="711"/>
+      <point x="425.6" y="625.2" type="qcurve" smooth="yes"/>
+      <point x="420" y="606"/>
+      <point x="419.2" y="392.4" type="qcurve"/>
+      <point x="299.6" y="392.4" type="line"/>
+      <point x="299.6" y="622.8" type="line" smooth="yes"/>
+      <point x="300" y="716"/>
+      <point x="444.4" y="852.4" type="qcurve"/>
+      <point x="636.759" y="1013.95"/>
+      <point x="613" y="1182.4" type="qcurve" smooth="yes"/>
+      <point x="584" y="1384"/>
+      <point x="391.5" y="1411" type="qcurve" smooth="yes"/>
+      <point x="274.775" y="1426.66"/>
+      <point x="94" y="1312.4" type="qcurve"/>
+    </contour>
+    <component base="konCONS" yOffset="1305.4"/>
+    <component base="konCONS" xOffset="299.5" yOffset="332"/>
+    <component base="period" xOffset="101.5" yOffset="-3"/>
+  </outline>
+</glyph>

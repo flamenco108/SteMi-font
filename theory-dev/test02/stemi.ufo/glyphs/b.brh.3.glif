@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b.brh.3" format="2">
+  <advance width="430" height="430"/>
+  <unicode hex="E02D"/>
+  <outline>
+    <contour>
+      <point x="120" y="288" type="qcurve"/>
+      <point x="158" y="346"/>
+      <point x="158" y="346" type="qcurve" smooth="yes"/>
+      <point x="248" y="500"/>
+      <point x="252" y="507" type="qcurve" smooth="yes"/>
+      <point x="367" y="741"/>
+      <point x="223" y="742" type="qcurve" smooth="yes"/>
+      <point x="120" y="743"/>
+      <point x="120" y="569" type="qcurve" smooth="yes"/>
+      <point x="120" y="407"/>
+    </contour>
+    <contour>
+      <point x="117.991" y="41" type="qcurve"/>
+      <point x="117.991" y="41"/>
+      <point x="0" y="79" type="qcurve"/>
+      <point x="0" y="587" type="line" smooth="yes"/>
+      <point x="0" y="865"/>
+      <point x="222" y="865" type="qcurve" smooth="yes"/>
+      <point x="623" y="865"/>
+      <point x="252" y="263" type="qcurve" smooth="yes"/>
+      <point x="191" y="164"/>
+      <point x="191" y="164" type="qcurve" smooth="yes"/>
+      <point x="164" y="123"/>
+    </contour>
+    <component base="konCONS" xOffset="2" yOffset="6"/>
+    <component base="konCONS"/>
+  </outline>
+</glyph>

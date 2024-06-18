@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e90" format="2">
+  <advance width="700" height="700"/>
+  <unicode hex="E44A"/>
+  <outline>
+    <component base="e.org" xScale="0.996195" yScale="0.996195" xyScale="-0.0871557" yxScale="0.0871557" xOffset="-5.25608" yOffset="4.2775"/>
+  </outline>
+</glyph>

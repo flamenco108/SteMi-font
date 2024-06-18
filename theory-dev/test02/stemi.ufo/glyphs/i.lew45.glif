@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.lew45" format="2">
+  <advance width="396" height="396"/>
+  <unicode hex="E521"/>
+  <outline>
+    <component base="gorMK45" xOffset="271.001" yOffset="248"/>
+    <component base="i.45" xOffset="0.00048825" yOffset="-1"/>
+    <component base="stemI.krt" xOffset="271.001" yOffset="46"/>
+  </outline>
+</glyph>

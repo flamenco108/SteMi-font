@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.org" format="2">
+  <advance width="701" height="701"/>
+  <unicode hex="E449"/>
+  <outline>
+    <component base="circumflex" xOffset="8"/>
+    <component base="e.org" xOffset="1"/>
+  </outline>
+</glyph>

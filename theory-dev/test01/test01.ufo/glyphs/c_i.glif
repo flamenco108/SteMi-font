@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c_i" format="2">
+  <advance width="542" height="542"/>
+  <unicode hex="E0F6"/>
+  <outline>
+    <component base="okroci"/>
+  </outline>
+</glyph>

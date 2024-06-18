@@ -1,0 +1,132 @@
+
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\.null \uni000D \uni000A \space \exclam \quotedbl \numbersign 
+	\dollar \percent \ampersand \quotesingle \parenleft \parenright \asterisk \plus 
+	\comma \hyphen \period \slash \zero \one \two \three \four \five \six \seven \eight 
+	\nine \colon \semicolon \less \equal \greater \question \at \A \B \C \D \E \F \G \I \J \K 
+	\L \M \N \O \P \Q \R \S \T \U \V \W \Y \Z \bracketleft \backslash \bracketright 
+	\asciicircum \underscore \grave \a \b \c \d \e \f \g \i \j \k \l \m \n \o \p \q \r \s \t \u \v 
+	\w \y \z \braceleft \bar \braceright \asciitilde \nbsp \exclamdown \cent \sterling 
+	\currency \yen \brokenbar \section \dieresis \copyright \ordfeminine 
+	\guillemotleft \logicalnot \uni00AD \registered \macron \degree \plusminus 
+	\uni00B2 \uni00B3 \acute \mu \paragraph \periodcentered \cedilla \uni00B9 
+	\ordmasculine \guillemotright \onequarter \onehalf \threequarters 
+	\questiondown \Oacute \multiply \oacute \divide \Aogonek \aogonek \Eogonek 
+	\eogonek \Lslash \lslash \Zcaron \zcaron \uni02B9 \uni02BB \afii57929 \afii64937 
+	\uni02BE \uni02BF \uni02C0 \uni02C1 \circumflex \caron \uni02C8 \uni02C9 
+	\uni02CC \uni02CD \uni02D0 \uni02D1 \uni02D2 \uni02D3 \uni02D6 \uni02D7 \breve 
+	\dotaccent \ring \ogonek \tilde \hungarumlaut \uni02DE \uni02E0 \uni02E1 
+	\uni02E2 \uni02E3 \uni02E4 \uni02E5 \uni02E6 \uni02E7 \uni02E8 \uni02E9 \uni02EE 
+	\uni02F3 \gravecomb \acutecomb \uni0302 \tildecomb \uni0304 \uni0305 \uni0306 
+	\uni0307 \uni0308 \hookabovecomb \uni030A \uni030B \uni030C \uni030D \uni030E 
+	\uni030F \uni0310 \uni0311 \uni0312 \uni0313 \uni0314 \uni0315 \uni0316 \uni0317 
+	\uni0318 \uni0319 \uni031A \uni031B \uni031C \uni031D \uni031E \uni031F \uni0320 
+	\uni0321 \uni0322 \dotbelowcomb \uni0324 \uni0325 \uni0326 \uni0327 \uni0328 
+	\uni0329 \uni032A \uni032B \uni032C \uni032D \uni032E \uni032F \uni0330 \uni0331 
+	\uni0332 \uni0333 \uni0334 \uni0335 \uni0336 \uni0337 \uni0338 \uni0339 \uni033A 
+	\uni033B \uni033C \uni033D \uni033E \uni033F \uni0343 \uni0358 \uni0361 \uni0374 
+	\uni0375 \uni037E \tonos \dieresistonos \anoteleia \uni0609 \uni060A 
+	\quoteright \quotesinglbase \quotedblright \quotedblbase \uni2029 \malaspacja 
+	\stemK \stemI.krt \stemKRT \luTJ \stemK.krt \stemG \luKL \luSJ \luCJ 
+	\brzuchST.bak \poczPUA \stemG.krt \stemI \lu0 \lu1 \lu3 \lu2 \luUs \koloS \koloZ 
+	\eprost3 \eprost4 \e.org \u.org \i.org \y.org \polokrM.1 \polokrM.2 \polokrM.3 
+	\polokrM.4 \polokrD.1 \polokrD.2 \polokrD.3 \polokrD.4 \okroci \prostaVOW 
+	\prostaCONS \konCONS \endash \konVOW \eprost2 \luGL \dolTW \dolMK30 \dolETW 
+	\dolMKE \luU0 \luU2 \luNdol \dolKszMKE \dolKszMK \dolLUK30 \eprost0 \eprost1 
+	\eprost5 \eprost6 \gorMKE \koloL \E.org \e90 \e85.krt \e90.krt \e85r \e90r \re85 
+	\re90 \re85r \re90r \luU1 \luU3 \luU4 \luU5 \luUa0 \luUa1 \luUa2 \luUa3 \luUa4 
+	\U.org \u.alt \U.alt \u30 \u30.alt \u45 \u45.alt \u55 \u55.alt \u.krt \u.alt.krt 
+	\u.lft \u30r \U30r \u30r.alt \U30r.alt \u45r \U45r \u45r.alt \U45r.alt \u55r \U55r 
+	\u55r.alt \U55r.alt \ru30 \ru30.alt \ru45 \ru45.alt \ru55 \ru55.alt \ru45r 
+	\ru45r.alt \ru55r \ru55r.alt \I.org \i.alt \I.alt \i.45 \luKLY \dolMK45 \i.225 
+	\i.prw.45 \I.prw.45 \i.ful45 \i.135 \i.lew45 \i.fin \dolKszTWE \gorMK45 \o.kolb 
+	\o.kol.altb \koloZ.krt \okredzi \okrodzi \i.krt \i.tin \i.krt.alt \i.tin.alt 
+	\Y.org \y20 \y45 \y55 \y30.krt \y20.krt \y45.krt \y55.krt \ry30 \ry30.krt \ry20 
+	\ry20.krt \ry45 \ry45.krt \ry55 \ry55.krt \y30r \y30r.krt \y20r \y20r.krt \y45r 
+	\y45r.krt \y55r \y55r.krt \ry30r \ry30r.krt \ry20r \ry20r.krt \ry45r \ry45r.krt 
+	\ry55r \ry55r.krt \u.lft.alt \i.ful30 \i30 \okreci \luNgor \luNOdol \luONgor 
+	\OstrI \gorLUK30 \gorOMluk30 \dolMOluk30 \dolLUK45 \gorLUK45 \gorOMluk45 
+	\dolMOluk45 \s.luk.0.9 \v.luk.0.9 \f.luk.0.9 \lu4 \p.brh.4 \p.brh.3 \p.brh.6 
+	\p.brh.8 \b.brh.4 \b.brh.3 \b.brh.6 \b.brh.8 \sp.brh.4 \sp.brh.3 \sp.brh.6 
+	\sp.brh.9 \st.brh.4.15 \st.brh.3.15 \st.brh.6.15 \st.brh.8.15 \zd.brh.4.15 
+	\st.brh.4.18 \st.brh.3.18 \st.bre.6.18 \st.brh.8.18 \zd.brh.3.15 \zd.brh.6.15 
+	\zd.brh.8.15 \kp.brh \uniE05E \zd.brh.4.18 \zd.brh.3.18 \zd.brh.6.18 
+	\zd.brh.8.18 \gb.brh \d.luk.0.3 \s.luk.0.6 \uniE08C \p.brh.3.2 \p.brh.4.2 
+	\p.brh.6.2 \t.luk.0.4 \w.luk.0.4 \d.luk.0.4 \v.luk.0.4 \f.luk.0.4 \s.luk.0.4 
+	\s.luk.0.3 \f.luk.0.3 \t.luk.0.3 \w.luk.0.3 \v.luk.0.3 \t.luk.0.9 \w.luk.0.9 
+	\f.luk.0.6 \t.luk.0.6 \w.luk.0.6 \d.luk.0.6 \v.luk.0.6 \b.brh.3.2 \b.brh.4.2 
+	\b.brh.6.2 \b.brh.6.20 \b.brh.4.20 \b.brh.8.20 \p.brh.6.20 \uniE06D 
+	\p.brh.8.20 \sp.brh.3.18 \sp.brh.4.18 \sp.brh.6.18 \sp.brh.6.20 \sp.brh.4.20 
+	\sp.brh.8.20 \p.brh.y.3 \sp.brh.y.3 \p.brh.e.9 \sp.brh.e.9 \d.luk.0.9 
+	\x.luk.0.4 \x.luk.0.3 \x.luk.0.6 \x.luk.0.9 \q.luk.0.4 \q.luk.0.3 \q.luk.0.6 
+	\q.luk.0.9 \f.luk.0.2 \q.luk.0.2 \s.luk.0.2 \t.luk.0.2 \w.luk.0.2 \d.luk.0.2 
+	\v.luk.0.2 \x.luk.0.2 \s.luk.0.7 \f.luk.0.7 \t.luk.0.7 \w.luk.0.7 \d.luk.0.7 
+	\v.luk.0.7 \x.luk.0.7 \q.luk.0.7 \s.luk.4.9 \f.luk.4.9 \t.luk.4.9 \w.luk.4.9 
+	\d.luk.4.9 \v.luk.4.9 \x.luk.4.9 \q.luk.4.9 \s.luk.9.14 \f.luk.9.14 
+	\t.luk.9.14 \w.luk.9.14 \d.luk.9.14 \v.luk.9.14 \x.luk.9.14 \q.luk.9.14 
+	\s.luk.14.19 \f.luk.14.19 \t.luk.14.19 \w.luk.14.19 \d.luk.14.19 \v.luk.14.19 
+	\x.luk.14.19 \q.luk.14.19 \s.luk.4.0 \f.luk.4.0 \t.luk.4.0 \w.luk.4.0 
+	\d.luk.4.0 \v.luk.4.0 \x.luk.4.0 \q.luk.4.0 \s.luk.9.4 \f.luk.9.4 \t.luk.9.4 
+	\w.luk.9.4 \d.luk.9.4 \v.luk.9.4 \x.luk.9.4 \q.luk.9.4 \s.luk.14.9 \f.luk.14.9 
+	\t.luk.14.9 \w.luk.14.9 \d.luk.14.9 \v.luk.14.9 \x.luk.14.9 \q.luk.14.9 
+	\s.luk.19.14 \f.luk.19.14 \t.luk.19.14 \w.luk.19.14 \d.luk.19.14 \v.luk.19.14 
+	\x.luk.19.14 \q.luk.19.14 \s.luk.3.6 \f.luk.3.6 \t.luk.3.6 \w.luk.3.6 
+	\d.luk.3.6 \v.luk.3.6 \x.luk.3.6 \q.luk.3.6 \s.luk.6.9 \f.luk.6.9 \t.luk.6.9 
+	\w.luk.6.9 \d.luk.6.9 \v.luk.6.9 \x.luk.6.9 \q.luk.6.9 \s.luk.9.13 \f.luk.9.13 
+	\t.luk.9.13 \w.luk.9.13 \d.luk.9.13 \v.luk.9.13 \x.luk.9.13 \q.luk.9.13 
+	\s.luk.13.16 \f.luk.13.16 \t.luk.13.16 \w.luk.13.16 \d.luk.13.16 \v.luk.13.16 
+	\x.luk.13.16 \q.luk.13.16 \s.luk.16.19 \f.luk.16.19 \t.luk.16.19 \w.luk.16.19 
+	\d.luk.16.19 \v.luk.16.19 \x.luk.16.19 \q.luk.16.19 \s.luk.3.0 \f.luk.3.0 
+	\t.luk.3.0 \w.luk.3.0 \d.luk.3.0 \v.luk.3.0 \x.luk.3.0 \q.luk.3.0 \s.luk.6.3 
+	\f.luk.6.3 \t.luk.6.3 \w.luk.6.3 \d.luk.6.3 \v.luk.6.3 \x.luk.6.3 \q.luk.6.3 
+	\s.luk.9.6 \f.luk.9.6 \t.luk.9.6 \w.luk.9.6 \d.luk.9.6 \v.luk.9.6 \x.luk.9.6 
+	\q.luk.9.6 \s.luk.13.9 \f.luk.13.9 \t.luk.13.9 \w.luk.13.9 \d.luk.13.9 
+	\v.luk.13.9 \x.luk.13.9 \q.luk.13.9 \s.luk.16.13 \f.luk.16.13 \t.luk.16.13 
+	\w.luk.16.13 \d.luk.16.13 \v.luk.16.13 \x.luk.16.13 \q.luk.16.13 \s.luk.19.16 
+	\f.luk.19.16 \t.luk.19.16 \w.luk.19.16 \d.luk.19.16 \v.luk.19.16 \x.luk.19.16 
+	\q.luk.19.16 \s.luk.3.9 \f.luk.3.9 \t.luk.3.9 \w.luk.3.9 \d.luk.3.9 \v.luk.3.9 
+	\x.luk.3.9 \q.luk.3.9 \s.luk.6.13 \f.luk.6.13 \t.luk.6.13 \w.luk.6.13 
+	\d.luk.6.13 \v.luk.6.13 \x.luk.6.13 \q.luk.6.13 \s.luk.9.16 \f.luk.9.16 
+	\t.luk.9.16 \w.luk.9.16 \d.luk.9.16 \v.luk.9.16 \x.luk.9.16 \q.luk.9.16 
+	\s.luk.13.19 \f.luk.13.19 \t.luk.13.19 \w.luk.13.19 \d.luk.13.19 \v.luk.13.19 
+	\x.luk.13.19 \q.luk.13.19 \s.luk.16.30 \f.luk.16.30 \t.luk.16.30 \w.luk.16.30 
+	\d.luk.16.30 \v.luk.16.30 \x.luk.16.30 \q.luk.16.30 \s.luk.6.0 \f.luk.6.0 
+	\t.luk.6.0 \w.luk.6.0 \d.luk.6.0 \v.luk.6.0 \x.luk.6.0 \q.luk.6.0 \s.luk.9.3 
+	\f.luk.9.3 \t.luk.9.3 \w.luk.9.3 \d.luk.9.3 \v.luk.9.3 \x.luk.9.3 \q.luk.9.3 
+	\s.luk.13.6 \f.luk.13.6 \t.luk.13.6 \w.luk.13.6 \d.luk.13.6 \v.luk.13.6 
+	\x.luk.13.6 \q.luk.13.6 \s.luk.16.9 \f.luk.16.9 \t.luk.16.9 \w.luk.16.9 
+	\d.luk.16.9 \v.luk.16.9 \x.luk.16.9 \q.luk.16.9 \s.luk.19.13 \f.luk.19.13 
+	\t.luk.19.13 \w.luk.19.13 \d.luk.19.13 \v.luk.19.13 \x.luk.19.13 \q.luk.19.13 
+	\s.luk.30.16 \f.luk.30.16 \t.luk.30.16 \w.luk.30.16 \d.luk.30.16 \v.luk.30.16 
+	\x.luk.30.16 \q.luk.30.16 \s.luk.4.14 \f.luk.4.14 \t.luk.4.14 \w.luk.4.14 
+	\d.luk.4.14 \v.luk.4.14 \x.luk.4.14 \q.luk.4.14 \s.luk.9.19 \f.luk.9.19 
+	\t.luk.9.19 \w.luk.9.19 \d.luk.9.19 \v.luk.9.19 \x.luk.9.19 \q.luk.9.19 
+	\s.luk.14.40 \f.luk.14.40 \t.luk.14.40 \w.luk.14.40 \d.luk.14.40 \v.luk.14.40 
+	\x.luk.14.40 \q.luk.14.40 \s.luk.9.0 \f.luk.9.0 \t.luk.9.0 \w.luk.9.0 
+	\d.luk.9.0 \v.luk.9.0 \x.luk.9.0 \q.luk.9.0 \s.luk.14.4 \f.luk.14.4 
+	\t.luk.14.4 \w.luk.14.4 \d.luk.14.4 \v.luk.14.4 \x.luk.14.4 \q.luk.14.4 
+	\s.luk.19.9 \f.luk.19.9 \t.luk.19.9 \w.luk.19.9 \d.luk.19.9 \v.luk.19.9 
+	\x.luk.19.9 \q.luk.19.9 \s.luk.40.14 \f.luk.40.14 \t.luk.40.14 \w.luk.40.14 
+	\d.luk.40.14 \v.luk.40.14 \x.luk.40.14 \q.luk.40.14 \konCONbis \konCON.krzyz ];
+@GDEF_Ligature = [\H \X \h \x \Cacute \cacute \Ccaron \ccaron \Dcaron \dcaron \Nacute 
+	\nacute \Sacute \sacute \Scaron \scaron \Zacute \zacute \Zdotaccent \zdotaccent 
+	\Dz \dz ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
+
+  LigatureCaretByPos \h 760;
+  LigatureCaretByPos \x -7;
+  LigatureCaretByPos \Dcaron 784;
+  LigatureCaretByPos \dcaron 28;
+  LigatureCaretByPos \nacute 188;
+  LigatureCaretByPos \scaron 210;
+  LigatureCaretByPos \zcaron 548;
+} GDEF;
+
+table BASE {
+  HorizAxis.BaseTagList;
+  HorizAxis.BaseScriptList
+} BASE;
+

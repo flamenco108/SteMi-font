@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+  <advance width="483" height="483"/>
+  <unicode hex="0054"/>
+  <outline>
+    <component base="circumflex" xOffset="145" yOffset="985"/>
+    <component base="t" xOffset="680"/>
+  </outline>
+</glyph>

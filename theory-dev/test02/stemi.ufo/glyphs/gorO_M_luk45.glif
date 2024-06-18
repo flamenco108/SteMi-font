@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gorOMluk45" format="2">
+  <advance width="780" height="780"/>
+  <unicode hex="E3AC"/>
+  <outline>
+    <contour>
+      <point x="780.818" y="23" type="line"/>
+      <point x="660.818" y="23" type="line"/>
+      <point x="660.818" y="59" type="line" smooth="yes"/>
+      <point x="660.818" y="202"/>
+      <point x="375.818" y="201" type="qcurve" smooth="yes"/>
+      <point x="262.818" y="200"/>
+      <point x="105.181" y="16.0732" type="qcurve"/>
+      <point x="16.6484" y="102.947" type="line"/>
+      <point x="233.818" y="330"/>
+      <point x="376.818" y="331" type="qcurve" smooth="yes"/>
+      <point x="780.818" y="333"/>
+      <point x="780.818" y="59" type="qcurve" smooth="yes"/>
+    </contour>
+    <component base="konCONS" xScale="-1" yScale="-1" xOffset="780.818" yOffset="83"/>
+    <component base="konCONS" xScale="-0.965926" yScale="-0.965926" xyScale="0.258819" yxScale="-0.258819" xOffset="134.27" yOffset="101.454"/>
+  </outline>
+</glyph>

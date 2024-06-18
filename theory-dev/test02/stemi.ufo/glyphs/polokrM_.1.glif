@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="polokrM.1" format="2">
+  <advance width="265" height="265"/>
+  <unicode hex="E330"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="qcurve"/>
+      <point x="0.394531" y="120.097" type="line"/>
+      <point x="45" y="120"/>
+      <point x="77.5" y="151" type="qcurve" smooth="yes"/>
+      <point x="110" y="182"/>
+      <point x="109.872" y="226.576" type="qcurve" smooth="yes"/>
+      <point x="110" y="271"/>
+      <point x="77.5" y="301" type="qcurve" smooth="yes"/>
+      <point x="45" y="331"/>
+      <point x="0.394531" y="331.353" type="qcurve"/>
+      <point x="0" y="451.45" type="line"/>
+      <point x="95" y="451"/>
+      <point x="159.881" y="386.52" type="qcurve" smooth="yes"/>
+      <point x="226" y="321"/>
+      <point x="225.811" y="226.638" type="qcurve" smooth="yes"/>
+      <point x="226" y="132"/>
+      <point x="159.881" y="65.9316" type="qcurve" smooth="yes"/>
+      <point x="94" y="0"/>
+    </contour>
+    <component base="konCONS" xOffset="-60" yOffset="-4.54747e-13"/>
+    <component base="konCONS" xOffset="-60" yOffset="331"/>
+  </outline>
+</glyph>

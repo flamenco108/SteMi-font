@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y30r.krt" format="2">
+  <advance width="720" height="720"/>
+  <unicode hex="E574"/>
+  <outline>
+    <component base="ry30.krt" xOffset="0.000241136"/>
+  </outline>
+</glyph>

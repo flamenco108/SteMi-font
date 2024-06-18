@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.ful45" format="2">
+  <advance width="284" height="284"/>
+  <unicode hex="E51A"/>
+  <outline>
+    <component base="i.45" xOffset="-237" yOffset="-11"/>
+    <component base="gorMK45" yOffset="202"/>
+    <component base="i.prw.45" yOffset="23"/>
+  </outline>
+</glyph>

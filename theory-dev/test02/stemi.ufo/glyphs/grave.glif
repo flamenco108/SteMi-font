@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="2">
+  <advance width="1233" height="1233"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="99" y="2101" type="line"/>
+      <point x="565" y="1691" type="line"/>
+      <point x="477" y="1602" type="line"/>
+      <point x="21" y="2003" type="line"/>
+    </contour>
+    <component base="konCONS" xOffset="461" yOffset="1587"/>
+    <component base="konCONS" yOffset="1992"/>
+  </outline>
+</glyph>

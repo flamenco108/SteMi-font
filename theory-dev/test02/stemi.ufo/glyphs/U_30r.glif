@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U30r" format="2">
+  <advance width="788" height="788"/>
+  <unicode hex="E4DA"/>
+  <outline>
+    <component base="circumflex" xOffset="164"/>
+    <component base="u30r" xOffset="-0.000360071" yOffset="210"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.org" format="2">
+  <advance width="639" height="639"/>
+  <unicode hex="E513"/>
+  <outline>
+    <component base="circumflex" xOffset="10"/>
+    <component base="i.org" xOffset="270.918"/>
+  </outline>
+</glyph>

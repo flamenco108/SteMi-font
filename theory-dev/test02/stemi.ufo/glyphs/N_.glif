@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="2">
+  <advance width="1469" height="1469"/>
+  <unicode hex="004E"/>
+  <outline>
+    <component base="n" xOffset="690" yOffset="-12"/>
+    <component base="circumflex" xOffset="304" yOffset="788"/>
+  </outline>
+</glyph>

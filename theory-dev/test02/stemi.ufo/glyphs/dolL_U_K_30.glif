@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dolLUK30" format="2">
+  <advance width="462" height="462"/>
+  <unicode hex="E3A3"/>
+  <outline>
+    <contour>
+      <point x="0" y="60" type="line"/>
+      <point x="120" y="60" type="line"/>
+      <point x="120" y="44" type="line" smooth="yes"/>
+      <point x="120" y="-20"/>
+      <point x="230" y="-20" type="qcurve" smooth="yes"/>
+      <point x="292" y="-20"/>
+      <point x="348" y="61" type="qcurve"/>
+      <point x="456" y="0" type="line"/>
+      <point x="368" y="-139"/>
+      <point x="229" y="-140" type="qcurve" smooth="yes"/>
+      <point x="0" y="-141"/>
+      <point x="0" y="44" type="qcurve" smooth="yes"/>
+    </contour>
+    <component base="konCONS"/>
+    <component base="konCONS" xOffset="342" yOffset="-29"/>
+  </outline>
+</glyph>

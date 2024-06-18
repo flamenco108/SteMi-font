@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+  <advance width="484" height="484"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="0" y="3250" type="line"/>
+      <point x="425" y="3250" type="line"/>
+      <point x="425" y="3130" type="line"/>
+      <point x="120" y="3130" type="line"/>
+      <point x="120" y="-880" type="line"/>
+      <point x="424" y="-880" type="line"/>
+      <point x="424" y="-1000" type="line"/>
+      <point x="0" y="-1000" type="line"/>
+    </contour>
+    <component base="konCONS" xOffset="365" yOffset="3130"/>
+    <component base="konCONS" xOffset="364" yOffset="-1000"/>
+  </outline>
+</glyph>

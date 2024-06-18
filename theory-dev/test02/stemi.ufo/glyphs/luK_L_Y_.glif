@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="luKLY" format="2">
+  <advance width="333" height="333"/>
+  <unicode hex="E2E4"/>
+  <outline>
+    <contour>
+      <point x="213.627" y="174" type="line"/>
+      <point x="333.627" y="174" type="line"/>
+      <point x="333.502" y="171"/>
+      <point x="333.252" y="139.625" type="qcurve" smooth="yes"/>
+      <point x="333.505" y="-63"/>
+      <point x="140.502" y="-63" type="qcurve" smooth="yes"/>
+      <point x="16.502" y="-63"/>
+      <point x="16.002" y="78.875" type="qcurve" smooth="yes"/>
+      <point x="15.502" y="221"/>
+      <point x="140.502" y="221" type="qcurve" smooth="yes"/>
+      <point x="213.502" y="221"/>
+      <point x="213.627" y="139" type="qcurve"/>
+    </contour>
+    <component base="koloL" yOffset="-67"/>
+    <component base="konCONS" xOffset="197.502"/>
+    <component base="konCONS" xOffset="213.502" yOffset="114"/>
+  </outline>
+</glyph>

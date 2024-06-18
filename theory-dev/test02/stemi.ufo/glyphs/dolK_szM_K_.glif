@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dolKszMK" format="2">
+  <advance width="711" height="711"/>
+  <unicode hex="E3A2"/>
+  <outline>
+    <contour>
+      <point x="2" y="38" type="line"/>
+      <point x="118" y="81" type="line"/>
+      <point x="127" y="55" type="line"/>
+      <point x="142" y="80" type="line"/>
+      <point x="247" y="12" type="line"/>
+      <point x="95" y="-168" type="line"/>
+    </contour>
+    <component base="konCONS"/>
+    <component base="konCONS" xOffset="134" yOffset="-14"/>
+  </outline>
+</glyph>

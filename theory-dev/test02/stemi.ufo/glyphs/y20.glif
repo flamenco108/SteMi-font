@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y20" format="2">
+  <advance width="667" height="667"/>
+  <unicode hex="E564"/>
+  <outline>
+    <component base="y.org" xScale="0.984808" yScale="0.984808" xyScale="0.173648" yxScale="-0.173648" xOffset="11.2144" yOffset="-13.4484"/>
+  </outline>
+</glyph>

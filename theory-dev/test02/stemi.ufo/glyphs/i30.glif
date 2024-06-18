@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i30" format="2">
+  <advance width="316" height="316"/>
+  <unicode hex="E51C"/>
+  <outline>
+    <component base="stemI" xScale="0.866025" yScale="0.866025" xyScale="-0.5" yxScale="0.5" xOffset="-17.8302" yOffset="39.369"/>
+    <component base="dolMK30"/>
+  </outline>
+</glyph>

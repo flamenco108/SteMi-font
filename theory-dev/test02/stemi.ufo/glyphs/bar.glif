@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="2">
+  <advance width="120" height="120"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="120" y="3250" type="line"/>
+      <point x="120" y="-1000" type="line"/>
+      <point x="0" y="-1000" type="line"/>
+      <point x="0" y="3250" type="line"/>
+    </contour>
+    <component base="konCONS" yOffset="3190"/>
+    <component base="konCONS" yOffset="-1060"/>
+  </outline>
+</glyph>

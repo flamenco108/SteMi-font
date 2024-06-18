@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eprost2" format="2">
+  <advance width="947" height="947"/>
+  <unicode hex="E32A"/>
+  <outline>
+    <component base="stemG" xScale="0.0871557" yScale="0.0871557" xyScale="-0.996195" yxScale="0.996195" xOffset="-4.80892" yOffset="117.372"/>
+  </outline>
+</glyph>

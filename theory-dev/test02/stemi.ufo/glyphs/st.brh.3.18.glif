@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="st.brh.3.18" format="2">
+  <advance width="432" height="432"/>
+  <unicode hex="E045"/>
+  <outline>
+    <contour>
+      <point x="0.378906" y="68.7949" type="qcurve"/>
+      <point x="0.255859" y="642"/>
+      <point x="34.1016" y="823.417" type="qcurve" smooth="yes"/>
+      <point x="89.2559" y="1124"/>
+      <point x="248.102" y="1123.42" type="qcurve" smooth="yes"/>
+      <point x="432.256" y="1123"/>
+      <point x="432.101" y="825.417" type="qcurve" smooth="yes"/>
+      <point x="432.256" y="580"/>
+      <point x="291.256" y="337" type="qcurve" smooth="yes"/>
+      <point x="288.256" y="334"/>
+      <point x="120.256" y="36" type="qcurve"/>
+      <point x="0.378906" y="68.7949"/>
+    </contour>
+    <contour>
+      <point x="159.653" y="355.295" type="qcurve" smooth="yes"/>
+      <point x="307.256" y="634"/>
+      <point x="308.102" y="824.417" type="qcurve" smooth="yes"/>
+      <point x="308.256" y="1001"/>
+      <point x="253.102" y="1000.42" type="qcurve" smooth="yes"/>
+      <point x="201.292" y="999.946"/>
+      <point x="161.103" y="823.417" type="qcurve" smooth="yes"/>
+      <point x="120.256" y="640"/>
+      <point x="120.256" y="284" type="qcurve"/>
+      <point x="159.653" y="355.295"/>
+    </contour>
+    <component base="konCONS" xScale="-4.87117e-07" yScale="-4.87117e-07" xyScale="-1" yxScale="1" xOffset="4.45044" yOffset="119.72"/>
+    <component base="konCONS" xScale="0.642787" yScale="0.642787" xyScale="-0.766044" yxScale="0.766044" xOffset="-21.6112" yOffset="76.07"/>
+  </outline>
+</glyph>

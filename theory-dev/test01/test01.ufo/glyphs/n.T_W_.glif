@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n.TW" format="2">
+  <advance width="596" height="596"/>
+  <unicode hex="E10A"/>
+  <outline>
+    <component base="dolTW" xOffset="331" yOffset="25"/>
+    <component base="luNgor"/>
+  </outline>
+</glyph>

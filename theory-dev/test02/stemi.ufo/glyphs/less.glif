@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="2">
+  <advance width="1506" height="1506"/>
+  <unicode hex="003C"/>
+  <outline>
+    <component base="stemK" xScale="0.5" yScale="0.5" xyScale="0.866025" yxScale="-0.866025" xOffset="1465.9" yOffset="140.622"/>
+    <component base="stemK" xScale="0.5" yScale="0.5" xyScale="-0.866025" yxScale="0.866025" xOffset="-19.0193" yOffset="1042.68"/>
+  </outline>
+</glyph>

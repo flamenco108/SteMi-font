@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="stemK" format="2">
+  <advance width="120" height="120"/>
+  <unicode hex="E008"/>
+  <outline>
+    <contour>
+      <point x="120" y="1648" type="qcurve"/>
+      <point x="120" y="60" type="line"/>
+      <point x="120" y="0"/>
+      <point x="60" y="0" type="qcurve"/>
+      <point x="0" y="0"/>
+      <point x="0" y="60" type="qcurve"/>
+      <point x="0" y="1648" type="line"/>
+      <point x="0" y="1709"/>
+      <point x="60" y="1709" type="qcurve" smooth="yes"/>
+      <point x="120" y="1709"/>
+    </contour>
+    <contour>
+      <point x="0" y="60" type="move"/>
+    </contour>
+    <component base="konCONS"/>
+    <component base="konCONS" yOffset="1589"/>
+  </outline>
+</glyph>

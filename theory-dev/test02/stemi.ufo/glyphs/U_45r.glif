@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U45r" format="2">
+  <advance width="797" height="797"/>
+  <unicode hex="E4DE"/>
+  <outline>
+    <component base="circumflex" xOffset="173"/>
+    <component base="u45r" xOffset="4.34503e-05"/>
+  </outline>
+</glyph>

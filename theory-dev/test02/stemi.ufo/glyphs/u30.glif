@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u30" format="2">
+  <advance width="587" height="587"/>
+  <unicode hex="E4CE"/>
+  <outline>
+    <component base="luU1"/>
+  </outline>
+</glyph>

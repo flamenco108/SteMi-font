@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent" format="2">
+  <advance width="2128" height="2128"/>
+  <unicode hex="0025"/>
+  <outline>
+    <component base="stemG" xScale="0.642788" yScale="0.642788" xyScale="-0.766044" yxScale="0.766044" xOffset="306.2" yOffset="742.689"/>
+    <component base="stemG" xScale="0.642788" yScale="0.642788" xyScale="-0.766044" yxScale="0.766044" xOffset="146.557" yOffset="-99.9044"/>
+    <component base="stemK" xScale="0.866025" yScale="0.866025" xyScale="-0.5" yxScale="0.5" xOffset="147.94" yOffset="-129.002"/>
+    <component base="koloZ" xOffset="732" yOffset="38"/>
+    <component base="koloZ" xOffset="59" yOffset="634"/>
+  </outline>
+</glyph>

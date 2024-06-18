@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="2">
+  <advance width="1136" height="1136"/>
+  <unicode hex="015A"/>
+  <outline>
+    <component base="circumflex" xOffset="241" yOffset="790"/>
+    <component base="sacute" xOffset="810"/>
+  </outline>
+</glyph>

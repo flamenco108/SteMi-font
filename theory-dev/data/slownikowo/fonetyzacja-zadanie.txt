@@ -1,0 +1,62 @@
+Write python code to do as follows: 
+open dictionary file where each word is in its separate line
+
+and change strings as below:
+
+a) when slash it means that it varies this/this = this or this 
+b) when [] = letters that happen as possible variants but are not the part of the string):
+
+when string: 'szcz', 'ó', 'cz', 'sz', 'ch', 'dz', 'dż', 'dź', 'ść', 'rz'
+change to: 'ƌ', 'u', 'č', 'š', 'h', 'ʒ', 'ǯ', 'd̦', 'ə', 'ż'
+BUT
+when string: 'prz/psz', 'krz/ksz', 'chrz/hrz/chsz/hsz', 'trz/tsz', 'fsz/frz', 'pszcz', 'trzcz/tszcz',
+change to: 'pš', 'kš', 'hš', 'tš', 'fš', 'pƌ', 'tšč',
+AND BUT
+when string:'marzn', 'marzł', 'perzł', 'mierzn', 'mierzł', 'mierzi',  'perzn',
+keep: 'marzn', 'narzn', 'marzł', 'perzł', 'mierzn', 'mierzł', 'mierzi', 'perzn',
+when string: 'zerzn', 'werzn', 'derzn', 'berzn', 'narzn', 'zarzn', 'nierzn',
+change to: 'zerżn', 'werżn', 'derżn', 'berżn', 'narżn', 'zarżn', 'nierżn',
+
+strings: 'ci', 'si', 'zi', 'ści', 'dzi',
+change to: 'ć', 'ś', 'ź', 'ə', 'd̦',
+BUT
+when at the end of word: 'ci', 'si', 'zi', 'ści', 'dzi'
+change to: 'ći', 'śi', 'źi', 'əi', 'd̦i',
+when at the end of word:: 'cić/cici[aąeęouóy]', 'sić/sici[aąeęouóy]', 'zić/zici[aąeęouóy]', 'ścić/ścici[aąeęouóy]', 'dzić/dzici[aąeęouóy]',
+change: to 'ćić', 'śić', 'źić', 'əić', 'd̦ić',
+when consonant after: 'ci[sśzżźcćvwdtfrgbhnmjklłp]', 'si[sśzżźcćvwdtfrgbhnmjklłp]', 'zi[sśzżźcćvwdtfrgbhnmjklłp]', 'ści[sśzżźcćvwdtfrgbhnmjklłp]', 'd̦i[sśzżźcćvwdtfrgbhnmjklłp]',
+change to: 'ći[sśzżźcćvwdtfrgbhnmjklłp]', 'śi[sśzżźcćvwdtfrgbhnmjklłp]', 'źi[sśzżźcćvwdtfrgbhnmjklłp]', 'əi[sśzżźcćvwdtfrgbhnmjklłp]', 'ći[sśzżźcćvwdtfrgbhnmjklłp]',
+when there is whole word: 'cifa,' 'cife', 'cifi', 'cife', 'recife' 'cifu', 'cifo', 'ciga',
+keep: 'cifa', 'cife', 'cifi', 'cife', 'recife', 'cifu', 'cifo', 'ciga',
+when string: 'civa', 'civi', 'civo', 'civu',
+change to: 'ciwa', 'ciwi', 'ciwo', 'ciwu',
+(and don't change to 'ćiwa', 'ćiwi', 'ćiwo', 'ćiwu',)
+for string: 'v',
+change to: 'w',
+
+BUT
+
+when script called with parameter '-b' do before as follows:
+when string: 'prz/psz', 'krz/ksz', 'chrz/hrz/chsz/hsz', 'frz/fsz', 'tsz/trz',
+change to: 'ƥ', 'ǩ', 'ȟ', 'ƒ', 'ť',
+when string: 'pś', 'psi', 'kś', 'ksi', 'chś/hś', 'chsi/hsi', 'fś', 'fsi',
+change to: 'п', п', 'ќ', 'ќ',, 'х', 'х', 'ф', 'ф',
+BUT
+when string at the end of word: 'psi', 'ksi', 'chsi/hsi', 'fsi',
+change to: 'пi', 'ќi', 'хi', 'фi',
+when string: 'brz/ż', 'grz/gż', 'mrz/mż', 'wrz/wż', 'drz', 'dż',
+change to: 'ƀ', 'ǧ', 'ɱ', 'ŵ', 'ď', 'đ',
+when string: 'bź', 'bzi', 'gź', 'gzi', 'mź', 'mzi', 'mś', 'msi', 'wź', 'wzi',
+change to: 'б', 'б', 'г', 'г', 'м', 'м', 'м', 'м', 'ᲈ', 'ᲈ',
+BUT when string at the end of word: 'bzi', 'gzi', 'mzi', 'msi', 'wzi',
+change to: 'бi', 'гi', 'мi', 'мi', 'ᲈi',
+
+AND
+
+when script called with parameter '-w' do as before follows:
+when string: 'kw/kf/kow/kof/ków/kuw/kuf', 'pw/pf/pow/pof/pów/puw/puf', 'chw/hw/chf/hf/chow/how/chof/hof/chów/hów/chuf/huf/', 'tw/tf/tow/tof/tów/tóf/tuf/', 'szw/szf/szef/szew/szów/szuf', 'czw/czf/czef/czew/czów/czuf/'
+change to: 'ƙ', 'Þ', 'ƕ', 'ƫ', 'ş', 'ĉ',
+when string: 'gw/gow/gov/gów/guf', 'bw/bow/bov/bów/buf', 'mw/mf/mów/muf/mow/mof', 'dw/dow/dów/duw/dóf/duf', 'żw/rzw/żew/żef/rzef/rzew/rzów/rzuf/żuf/żów/rzow/rzof/żof/żow', 'drzw/drzew/drzów/drzow', 'dżw/dżew/dżów/dżow',
+change to: 'ģ', 'ḇ', 'ṃ', 'ḏ', 'ȥ', 'ḑ', 'ȡ',
+
+Usage: script dictionary_file_path output_file

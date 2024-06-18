@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sp.brh.6.18" format="2">
+  <advance width="640" height="640"/>
+  <unicode hex="E072"/>
+  <outline>
+    <component base="sp.brh.9" xScale="0.939693" yScale="0.939693" xyScale="0.34202" yxScale="-0.34202" xOffset="224.013" yOffset="-16.5622"/>
+  </outline>
+</glyph>

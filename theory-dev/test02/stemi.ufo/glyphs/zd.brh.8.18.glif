@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zd.brh.8.18" format="2">
+  <advance width="551" height="551"/>
+  <unicode hex="E057"/>
+  <outline>
+    <contour>
+      <point x="123" y="165.58" type="qcurve"/>
+      <point x="347" y="184.58"/>
+      <point x="380.858" y="243.562" type="qcurve" smooth="yes"/>
+      <point x="462" y="388.58"/>
+      <point x="388.292" y="435.117" type="qcurve" smooth="yes"/>
+      <point x="289" y="497.58"/>
+      <point x="195.555" y="339" type="qcurve" smooth="yes"/>
+      <point x="131" y="229.58"/>
+    </contour>
+    <contour>
+      <point x="117.991" y="40.5801" type="qcurve"/>
+      <point x="117.991" y="40.5801"/>
+      <point x="0" y="59.5801" type="qcurve"/>
+      <point x="0" y="239.222"/>
+      <point x="93.6318" y="398.269" type="qcurve" smooth="yes"/>
+      <point x="249" y="658.58"/>
+      <point x="451.523" y="540.638" type="qcurve" smooth="yes"/>
+      <point x="635.042" y="432.203"/>
+      <point x="481.684" y="184.196" type="qcurve" smooth="yes"/>
+      <point x="410" y="69.5801"/>
+    </contour>
+    <component base="konCONS" yOffset="37.5801"/>
+    <component base="konCONS" yOffset="-0.419922"/>
+  </outline>
+</glyph>

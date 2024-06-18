@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="2">
+  <advance width="784" height="784"/>
+  <unicode hex="006E"/>
+  <outline>
+    <component base="luNdol" xOffset="332" yOffset="45"/>
+    <component base="luNgor"/>
+  </outline>
+</glyph>

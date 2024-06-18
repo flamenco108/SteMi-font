@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n.TWe" format="2">
+  <advance width="574" height="574"/>
+  <unicode hex="E10B"/>
+  <outline>
+    <component base="dolTWe" xOffset="332" yOffset="-74"/>
+    <component base="luNgor"/>
+  </outline>
+</glyph>

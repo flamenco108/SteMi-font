@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="2">
+  <advance width="903" height="903"/>
+  <unicode hex="002D"/>
+  <outline>
+    <component base="stemK.krt" xScale="0.34202" yScale="0.34202" xyScale="0.939693" yxScale="-0.939693" xOffset="654.668" yOffset="374.793"/>
+    <component base="stemK" xScale="0.34202" yScale="0.34202" xyScale="0.939693" yxScale="-0.939693" xOffset="842.607" yOffset="506.389"/>
+  </outline>
+</glyph>

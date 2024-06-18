@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.luk.0.3" format="2">
+  <advance width="318" height="318"/>
+  <unicode hex="E09B"/>
+  <outline>
+    <contour>
+      <point x="120" y="59.7373" type="qcurve"/>
+      <point x="59" y="60"/>
+      <point x="0" y="59.7236" type="qcurve"/>
+      <point x="0" y="410"/>
+      <point x="207.077" y="769.319" type="qcurve"/>
+      <point x="311" y="709.319" type="line"/>
+      <point x="120" y="378"/>
+    </contour>
+    <component base="konCONS" xScale="7.07107e-07" yScale="7.07107e-07" xyScale="1" yxScale="-1" xOffset="120.002" yOffset="-0.27538"/>
+    <component base="konCONS" xScale="-0.866025" yScale="-0.866025" xyScale="0.5" yxScale="-0.5" xOffset="341" yOffset="761.28"/>
+  </outline>
+</glyph>

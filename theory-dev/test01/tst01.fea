@@ -30,13 +30,12 @@ feature abvm {
 	\dolTWe \dolMKE \luU0 \luU2 \luNdol \dolLUK \eprost0 \eprost1 \eprost5 \eprost6 
 	\gorMKE \koloL \gorZD.brzhd \dolDv.brzhd \luU1 \luU3 \luU4 \luU5 \luUa0 \luUa1 
 	\luUa2 \luUa3 \luUa4 \luKLY \dolMK45 \dolTW.alt \gorMK45 \okredzi \okrodzi 
-	\okreci \luNgor \luNOdol \luONgor \OstrI \gorTWe \gorLUK \gorOMluk \dolMOluk 
-    \k \g 
-    \i \e \a \u \o
-	\s \z \l \p \b \c \m \n \g_l 
-    \c_i \ij \S \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \T \U 
-	\V \W \X \Y \Z \n.TW \n.TWe 
-	\spac.v50.h0 \spac.v80.h0 \spac.v160.h0];
+	\okreci \luNgor \luNOdol \luONgor \OstrI \gorLUK \gorOMluk \dolMOluk \k \g \i \e \u 
+	\s \z \l \p \b \c \m \n \o \g_l \c_i \ij \S 
+    #\circumflex 
+    \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O 
+	\P \Q \R \T \U \V \W \X \Y \Z \n.TW \n.TWe \gorTWe \a \spac.v50.h0 \spac.v80.h0 
+	\spac.v160.h0 \spac.v400.h900 ];
 @GDEF_Mark = [\circumflex ];
 
 table GDEF {
@@ -73,7 +72,7 @@ feature ccmp {
 lookup space50 { sub n by \spac.v50.h0 n; } space50;
 lookup space80 { sub n by \spac.v80.h0 n; } space80;
 lookup space160 { sub n by \spac.v160.h0 n; } space160;
-
+lookup space400 { sub space by \spac.v400.h900; } space400;
 
 lookup N { sub n by luNgor luNdol;} N;
 lookup Nnull {sub n by NULL;} Nnull;
@@ -95,9 +94,9 @@ lookup enX {sub n by gorTWe; } enX;
 lookup EnE {sub n by gorTWe dolTWe;} EnE;
 
 lookup spaceHI {
-    sub \space n' lookup space160 k;
+    #sub \space n' lookup space160 k;
     sub \space n' lookup space80 g;
-
+    sub \space' lookup space400 n k;
 } spaceHI;
 
 lookup CVnVC {
@@ -157,12 +156,24 @@ lookup stemV {
     sub e m' lookup ccmp-gorTWe;
 } stemV;
 
+lookup nasc { sub n' by \spac.v160.h0 n; } nasc;
+lookup poczw {
+ignore sub @GDEF_Simple n'; # If I ignore when there *are* glyphs before me,
+#sub n' by \spac.v160.h0 n;  # then there are *no* glyphs before me.
+sub n' lookup nasc k;
+} poczw;
+
 feature calt { 
   script DFLT;
    language dflt ;
     lookup CVnVC;
     lookup stemV;
     lookup spaceHI;
+    lookup poczw;
     } calt;
 
-
+#feature init {
+#  script DFLT;
+#   language dflt ;
+#    lookup poczw;
+#} init;

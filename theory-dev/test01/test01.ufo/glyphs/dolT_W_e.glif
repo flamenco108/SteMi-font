@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dolTWe" format="2">
+  <advance width="335" height="335"/>
+  <unicode hex="E0C4"/>
+  <outline>
+    <contour>
+      <point x="0" y="180" type="line"/>
+      <point x="120" y="180" type="line"/>
+      <point x="120" y="179" type="line" smooth="yes"/>
+      <point x="129" y="151"/>
+      <point x="144" y="144" type="qcurve" smooth="yes"/>
+      <point x="152" y="140"/>
+      <point x="176" y="140" type="qcurve" smooth="yes"/>
+      <point x="182" y="140" type="line"/>
+      <point x="181.695" y="20.084" type="line"/>
+      <point x="175.623" y="20.084" type="line" smooth="yes"/>
+      <point x="117" y="23"/>
+      <point x="78" y="48" type="qcurve" smooth="yes"/>
+      <point x="6.59439" y="91.2085"/>
+      <point x="0" y="177.65" type="qcurve" smooth="yes"/>
+    </contour>
+    <component base="konCONS" yOffset="120"/>
+    <component base="konCONS" xOffset="122" yOffset="20"/>
+  </outline>
+</glyph>

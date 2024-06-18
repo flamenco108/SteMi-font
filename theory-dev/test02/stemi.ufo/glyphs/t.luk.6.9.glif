@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.luk.6.9" format="2">
+  <advance width="808" height="808"/>
+  <unicode hex="E119"/>
+  <outline>
+    <component base="t.luk.0.3" xScale="0.5" yScale="0.5" xyScale="-0.866025" yxScale="0.866025" xOffset="-21.786" yOffset="81.9767"/>
+  </outline>
+</glyph>
