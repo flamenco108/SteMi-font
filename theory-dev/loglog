@@ -1,0 +1,2625 @@
+    = = = =    
+glyph = <Glyph .notdef in font SteMiAlfa-Regular>
+codepoint = -1
+    = = = =    
+glyph = <Glyph .null in font SteMiAlfa-Regular>
+codepoint = -1
+    = = = =    
+glyph = <Glyph uni000D in font SteMiAlfa-Regular>
+codepoint = 13
+    = = = =    
+glyph = <Glyph uni000A in font SteMiAlfa-Regular>
+codepoint = 10
+    = = = =    
+glyph = <Glyph space in font SteMiAlfa-Regular>
+codepoint = 32
+    = = = =    
+glyph = <Glyph exclam in font SteMiAlfa-Regular>
+codepoint = 33
+    = = = =    
+glyph = <Glyph quotedbl in font SteMiAlfa-Regular>
+codepoint = 34
+    = = = =    
+glyph = <Glyph numbersign in font SteMiAlfa-Regular>
+codepoint = 35
+    = = = =    
+glyph = <Glyph dollar in font SteMiAlfa-Regular>
+codepoint = 36
+    = = = =    
+glyph = <Glyph percent in font SteMiAlfa-Regular>
+codepoint = 37
+    = = = =    
+glyph = <Glyph ampersand in font SteMiAlfa-Regular>
+codepoint = 38
+    = = = =    
+glyph = <Glyph quotesingle in font SteMiAlfa-Regular>
+codepoint = 39
+    = = = =    
+glyph = <Glyph parenleft in font SteMiAlfa-Regular>
+codepoint = 40
+    = = = =    
+glyph = <Glyph parenright in font SteMiAlfa-Regular>
+codepoint = 41
+    = = = =    
+glyph = <Glyph asterisk in font SteMiAlfa-Regular>
+codepoint = 42
+    = = = =    
+glyph = <Glyph plus in font SteMiAlfa-Regular>
+codepoint = 43
+    = = = =    
+glyph = <Glyph comma in font SteMiAlfa-Regular>
+codepoint = 44
+    = = = =    
+glyph = <Glyph hyphen in font SteMiAlfa-Regular>
+codepoint = 45
+    = = = =    
+glyph = <Glyph period in font SteMiAlfa-Regular>
+codepoint = 46
+    = = = =    
+glyph = <Glyph slash in font SteMiAlfa-Regular>
+codepoint = 47
+    = = = =    
+glyph = <Glyph zero in font SteMiAlfa-Regular>
+codepoint = 48
+    = = = =    
+glyph = <Glyph one in font SteMiAlfa-Regular>
+codepoint = 49
+    = = = =    
+glyph = <Glyph two in font SteMiAlfa-Regular>
+codepoint = 50
+    = = = =    
+glyph = <Glyph three in font SteMiAlfa-Regular>
+codepoint = 51
+    = = = =    
+glyph = <Glyph four in font SteMiAlfa-Regular>
+codepoint = 52
+    = = = =    
+glyph = <Glyph five in font SteMiAlfa-Regular>
+codepoint = 53
+    = = = =    
+glyph = <Glyph six in font SteMiAlfa-Regular>
+codepoint = 54
+    = = = =    
+glyph = <Glyph seven in font SteMiAlfa-Regular>
+codepoint = 55
+    = = = =    
+glyph = <Glyph eight in font SteMiAlfa-Regular>
+codepoint = 56
+    = = = =    
+glyph = <Glyph nine in font SteMiAlfa-Regular>
+codepoint = 57
+    = = = =    
+glyph = <Glyph colon in font SteMiAlfa-Regular>
+codepoint = 58
+    = = = =    
+glyph = <Glyph semicolon in font SteMiAlfa-Regular>
+codepoint = 59
+    = = = =    
+glyph = <Glyph less in font SteMiAlfa-Regular>
+codepoint = 60
+    = = = =    
+glyph = <Glyph equal in font SteMiAlfa-Regular>
+codepoint = 61
+    = = = =    
+glyph = <Glyph greater in font SteMiAlfa-Regular>
+codepoint = 62
+    = = = =    
+glyph = <Glyph question in font SteMiAlfa-Regular>
+codepoint = 63
+    = = = =    
+glyph = <Glyph at in font SteMiAlfa-Regular>
+codepoint = 64
+    = = = =    
+glyph = <Glyph A in font SteMiAlfa-Regular>
+codepoint = 65
+    = = = =    
+glyph = <Glyph B in font SteMiAlfa-Regular>
+codepoint = 66
+    = = = =    
+glyph = <Glyph C in font SteMiAlfa-Regular>
+codepoint = 67
+    = = = =    
+glyph = <Glyph D in font SteMiAlfa-Regular>
+codepoint = 68
+    = = = =    
+glyph = <Glyph E in font SteMiAlfa-Regular>
+codepoint = 69
+    = = = =    
+glyph = <Glyph F in font SteMiAlfa-Regular>
+codepoint = 70
+    = = = =    
+glyph = <Glyph G in font SteMiAlfa-Regular>
+codepoint = 71
+    = = = =    
+glyph = <Glyph H in font SteMiAlfa-Regular>
+codepoint = 72
+    = = = =    
+glyph = <Glyph I in font SteMiAlfa-Regular>
+codepoint = 73
+    = = = =    
+glyph = <Glyph J in font SteMiAlfa-Regular>
+codepoint = 74
+    = = = =    
+glyph = <Glyph K in font SteMiAlfa-Regular>
+codepoint = 75
+    = = = =    
+glyph = <Glyph L in font SteMiAlfa-Regular>
+codepoint = 76
+    = = = =    
+glyph = <Glyph M in font SteMiAlfa-Regular>
+codepoint = 77
+    = = = =    
+glyph = <Glyph N in font SteMiAlfa-Regular>
+codepoint = 78
+    = = = =    
+glyph = <Glyph O in font SteMiAlfa-Regular>
+codepoint = 79
+    = = = =    
+glyph = <Glyph P in font SteMiAlfa-Regular>
+codepoint = 80
+    = = = =    
+glyph = <Glyph Q in font SteMiAlfa-Regular>
+codepoint = 81
+    = = = =    
+glyph = <Glyph R in font SteMiAlfa-Regular>
+codepoint = 82
+    = = = =    
+glyph = <Glyph S in font SteMiAlfa-Regular>
+codepoint = 83
+    = = = =    
+glyph = <Glyph T in font SteMiAlfa-Regular>
+codepoint = 84
+    = = = =    
+glyph = <Glyph U in font SteMiAlfa-Regular>
+codepoint = 85
+    = = = =    
+glyph = <Glyph V in font SteMiAlfa-Regular>
+codepoint = 86
+    = = = =    
+glyph = <Glyph W in font SteMiAlfa-Regular>
+codepoint = 87
+    = = = =    
+glyph = <Glyph X in font SteMiAlfa-Regular>
+codepoint = 88
+    = = = =    
+glyph = <Glyph Y in font SteMiAlfa-Regular>
+codepoint = 89
+    = = = =    
+glyph = <Glyph Z in font SteMiAlfa-Regular>
+codepoint = 90
+    = = = =    
+glyph = <Glyph bracketleft in font SteMiAlfa-Regular>
+codepoint = 91
+    = = = =    
+glyph = <Glyph backslash in font SteMiAlfa-Regular>
+codepoint = 92
+    = = = =    
+glyph = <Glyph bracketright in font SteMiAlfa-Regular>
+codepoint = 93
+    = = = =    
+glyph = <Glyph asciicircum in font SteMiAlfa-Regular>
+codepoint = 94
+    = = = =    
+glyph = <Glyph underscore in font SteMiAlfa-Regular>
+codepoint = 95
+    = = = =    
+glyph = <Glyph grave in font SteMiAlfa-Regular>
+codepoint = 96
+    = = = =    
+glyph = <Glyph a in font SteMiAlfa-Regular>
+codepoint = 97
+    = = = =    
+glyph = <Glyph b in font SteMiAlfa-Regular>
+codepoint = 98
+    = = = =    
+glyph = <Glyph c in font SteMiAlfa-Regular>
+codepoint = 99
+    = = = =    
+glyph = <Glyph d in font SteMiAlfa-Regular>
+codepoint = 100
+    = = = =    
+glyph = <Glyph e in font SteMiAlfa-Regular>
+codepoint = 101
+    = = = =    
+glyph = <Glyph f in font SteMiAlfa-Regular>
+codepoint = 102
+    = = = =    
+glyph = <Glyph g in font SteMiAlfa-Regular>
+codepoint = 103
+    = = = =    
+glyph = <Glyph h in font SteMiAlfa-Regular>
+codepoint = 104
+    = = = =    
+glyph = <Glyph i in font SteMiAlfa-Regular>
+codepoint = 105
+    = = = =    
+glyph = <Glyph j in font SteMiAlfa-Regular>
+codepoint = 106
+    = = = =    
+glyph = <Glyph k in font SteMiAlfa-Regular>
+codepoint = 107
+    = = = =    
+glyph = <Glyph l in font SteMiAlfa-Regular>
+codepoint = 108
+    = = = =    
+glyph = <Glyph m in font SteMiAlfa-Regular>
+codepoint = 109
+    = = = =    
+glyph = <Glyph n in font SteMiAlfa-Regular>
+codepoint = 110
+    = = = =    
+glyph = <Glyph o in font SteMiAlfa-Regular>
+codepoint = 111
+    = = = =    
+glyph = <Glyph p in font SteMiAlfa-Regular>
+codepoint = 112
+    = = = =    
+glyph = <Glyph q in font SteMiAlfa-Regular>
+codepoint = 113
+    = = = =    
+glyph = <Glyph r in font SteMiAlfa-Regular>
+codepoint = 114
+    = = = =    
+glyph = <Glyph s in font SteMiAlfa-Regular>
+codepoint = 115
+    = = = =    
+glyph = <Glyph t in font SteMiAlfa-Regular>
+codepoint = 116
+    = = = =    
+glyph = <Glyph u in font SteMiAlfa-Regular>
+codepoint = 117
+    = = = =    
+glyph = <Glyph v in font SteMiAlfa-Regular>
+codepoint = 118
+    = = = =    
+glyph = <Glyph w in font SteMiAlfa-Regular>
+codepoint = 119
+    = = = =    
+glyph = <Glyph x in font SteMiAlfa-Regular>
+codepoint = 120
+    = = = =    
+glyph = <Glyph y in font SteMiAlfa-Regular>
+codepoint = 121
+    = = = =    
+glyph = <Glyph z in font SteMiAlfa-Regular>
+codepoint = 122
+    = = = =    
+glyph = <Glyph braceleft in font SteMiAlfa-Regular>
+codepoint = 123
+    = = = =    
+glyph = <Glyph bar in font SteMiAlfa-Regular>
+codepoint = 124
+    = = = =    
+glyph = <Glyph braceright in font SteMiAlfa-Regular>
+codepoint = 125
+    = = = =    
+glyph = <Glyph asciitilde in font SteMiAlfa-Regular>
+codepoint = 126
+    = = = =    
+glyph = <Glyph nbsp in font SteMiAlfa-Regular>
+codepoint = 160
+    = = = =    
+glyph = <Glyph exclamdown in font SteMiAlfa-Regular>
+codepoint = 161
+    = = = =    
+glyph = <Glyph cent in font SteMiAlfa-Regular>
+codepoint = 162
+    = = = =    
+glyph = <Glyph sterling in font SteMiAlfa-Regular>
+codepoint = 163
+    = = = =    
+glyph = <Glyph currency in font SteMiAlfa-Regular>
+codepoint = 164
+    = = = =    
+glyph = <Glyph yen in font SteMiAlfa-Regular>
+codepoint = 165
+    = = = =    
+glyph = <Glyph brokenbar in font SteMiAlfa-Regular>
+codepoint = 166
+    = = = =    
+glyph = <Glyph section in font SteMiAlfa-Regular>
+codepoint = 167
+    = = = =    
+glyph = <Glyph dieresis in font SteMiAlfa-Regular>
+codepoint = 168
+    = = = =    
+glyph = <Glyph copyright in font SteMiAlfa-Regular>
+codepoint = 169
+    = = = =    
+glyph = <Glyph ordfeminine in font SteMiAlfa-Regular>
+codepoint = 170
+    = = = =    
+glyph = <Glyph guillemotleft in font SteMiAlfa-Regular>
+codepoint = 171
+    = = = =    
+glyph = <Glyph logicalnot in font SteMiAlfa-Regular>
+codepoint = 172
+    = = = =    
+glyph = <Glyph uni00AD in font SteMiAlfa-Regular>
+codepoint = 173
+    = = = =    
+glyph = <Glyph registered in font SteMiAlfa-Regular>
+codepoint = 174
+    = = = =    
+glyph = <Glyph macron in font SteMiAlfa-Regular>
+codepoint = 175
+    = = = =    
+glyph = <Glyph degree in font SteMiAlfa-Regular>
+codepoint = 176
+    = = = =    
+glyph = <Glyph plusminus in font SteMiAlfa-Regular>
+codepoint = 177
+    = = = =    
+glyph = <Glyph uni00B2 in font SteMiAlfa-Regular>
+codepoint = 178
+    = = = =    
+glyph = <Glyph uni00B3 in font SteMiAlfa-Regular>
+codepoint = 179
+    = = = =    
+glyph = <Glyph acute in font SteMiAlfa-Regular>
+codepoint = 180
+    = = = =    
+glyph = <Glyph mu in font SteMiAlfa-Regular>
+codepoint = 181
+    = = = =    
+glyph = <Glyph paragraph in font SteMiAlfa-Regular>
+codepoint = 182
+    = = = =    
+glyph = <Glyph periodcentered in font SteMiAlfa-Regular>
+codepoint = 183
+    = = = =    
+glyph = <Glyph cedilla in font SteMiAlfa-Regular>
+codepoint = 184
+    = = = =    
+glyph = <Glyph uni00B9 in font SteMiAlfa-Regular>
+codepoint = 185
+    = = = =    
+glyph = <Glyph ordmasculine in font SteMiAlfa-Regular>
+codepoint = 186
+    = = = =    
+glyph = <Glyph guillemotright in font SteMiAlfa-Regular>
+codepoint = 187
+    = = = =    
+glyph = <Glyph onequarter in font SteMiAlfa-Regular>
+codepoint = 188
+    = = = =    
+glyph = <Glyph onehalf in font SteMiAlfa-Regular>
+codepoint = 189
+    = = = =    
+glyph = <Glyph threequarters in font SteMiAlfa-Regular>
+codepoint = 190
+    = = = =    
+glyph = <Glyph questiondown in font SteMiAlfa-Regular>
+codepoint = 191
+    = = = =    
+glyph = <Glyph Oacute in font SteMiAlfa-Regular>
+codepoint = 211
+    = = = =    
+glyph = <Glyph multiply in font SteMiAlfa-Regular>
+codepoint = 215
+    = = = =    
+glyph = <Glyph oacute in font SteMiAlfa-Regular>
+codepoint = 243
+    = = = =    
+glyph = <Glyph divide in font SteMiAlfa-Regular>
+codepoint = 247
+    = = = =    
+glyph = <Glyph Aogonek in font SteMiAlfa-Regular>
+codepoint = 260
+    = = = =    
+glyph = <Glyph aogonek in font SteMiAlfa-Regular>
+codepoint = 261
+    = = = =    
+glyph = <Glyph Cacute in font SteMiAlfa-Regular>
+codepoint = 262
+    = = = =    
+glyph = <Glyph cacute in font SteMiAlfa-Regular>
+codepoint = 263
+    = = = =    
+glyph = <Glyph Ccaron in font SteMiAlfa-Regular>
+codepoint = 268
+    = = = =    
+glyph = <Glyph ccaron in font SteMiAlfa-Regular>
+codepoint = 269
+    = = = =    
+glyph = <Glyph Dcaron in font SteMiAlfa-Regular>
+codepoint = 270
+    = = = =    
+glyph = <Glyph dcaron in font SteMiAlfa-Regular>
+codepoint = 271
+    = = = =    
+glyph = <Glyph Eogonek in font SteMiAlfa-Regular>
+codepoint = 280
+    = = = =    
+glyph = <Glyph eogonek in font SteMiAlfa-Regular>
+codepoint = 281
+    = = = =    
+glyph = <Glyph Lslash in font SteMiAlfa-Regular>
+codepoint = 321
+    = = = =    
+glyph = <Glyph lslash in font SteMiAlfa-Regular>
+codepoint = 322
+    = = = =    
+glyph = <Glyph Nacute in font SteMiAlfa-Regular>
+codepoint = 323
+    = = = =    
+glyph = <Glyph nacute in font SteMiAlfa-Regular>
+codepoint = 324
+    = = = =    
+glyph = <Glyph Sacute in font SteMiAlfa-Regular>
+codepoint = 346
+    = = = =    
+glyph = <Glyph sacute in font SteMiAlfa-Regular>
+codepoint = 347
+    = = = =    
+glyph = <Glyph Scaron in font SteMiAlfa-Regular>
+codepoint = 352
+    = = = =    
+glyph = <Glyph scaron in font SteMiAlfa-Regular>
+codepoint = 353
+    = = = =    
+glyph = <Glyph Zacute in font SteMiAlfa-Regular>
+codepoint = 377
+    = = = =    
+glyph = <Glyph zacute in font SteMiAlfa-Regular>
+codepoint = 378
+    = = = =    
+glyph = <Glyph Zdotaccent in font SteMiAlfa-Regular>
+codepoint = 379
+    = = = =    
+glyph = <Glyph zdotaccent in font SteMiAlfa-Regular>
+codepoint = 380
+    = = = =    
+glyph = <Glyph Zcaron in font SteMiAlfa-Regular>
+codepoint = 381
+    = = = =    
+glyph = <Glyph zcaron in font SteMiAlfa-Regular>
+codepoint = 382
+    = = = =    
+glyph = <Glyph Dz in font SteMiAlfa-Regular>
+codepoint = 498
+    = = = =    
+glyph = <Glyph dz in font SteMiAlfa-Regular>
+codepoint = 499
+    = = = =    
+glyph = <Glyph uni02B9 in font SteMiAlfa-Regular>
+codepoint = 697
+    = = = =    
+glyph = <Glyph uni02BB in font SteMiAlfa-Regular>
+codepoint = 699
+    = = = =    
+glyph = <Glyph afii57929 in font SteMiAlfa-Regular>
+codepoint = 700
+    = = = =    
+glyph = <Glyph afii64937 in font SteMiAlfa-Regular>
+codepoint = 701
+    = = = =    
+glyph = <Glyph uni02BE in font SteMiAlfa-Regular>
+codepoint = 702
+    = = = =    
+glyph = <Glyph uni02BF in font SteMiAlfa-Regular>
+codepoint = 703
+    = = = =    
+glyph = <Glyph uni02C0 in font SteMiAlfa-Regular>
+codepoint = 704
+    = = = =    
+glyph = <Glyph uni02C1 in font SteMiAlfa-Regular>
+codepoint = 705
+    = = = =    
+glyph = <Glyph circumflex in font SteMiAlfa-Regular>
+codepoint = 710
+    = = = =    
+glyph = <Glyph caron in font SteMiAlfa-Regular>
+codepoint = 711
+    = = = =    
+glyph = <Glyph uni02C8 in font SteMiAlfa-Regular>
+codepoint = 712
+    = = = =    
+glyph = <Glyph uni02C9 in font SteMiAlfa-Regular>
+codepoint = 713
+    = = = =    
+glyph = <Glyph uni02CC in font SteMiAlfa-Regular>
+codepoint = 716
+    = = = =    
+glyph = <Glyph uni02CD in font SteMiAlfa-Regular>
+codepoint = 717
+    = = = =    
+glyph = <Glyph uni02D0 in font SteMiAlfa-Regular>
+codepoint = 720
+    = = = =    
+glyph = <Glyph uni02D1 in font SteMiAlfa-Regular>
+codepoint = 721
+    = = = =    
+glyph = <Glyph uni02D2 in font SteMiAlfa-Regular>
+codepoint = 722
+    = = = =    
+glyph = <Glyph uni02D3 in font SteMiAlfa-Regular>
+codepoint = 723
+    = = = =    
+glyph = <Glyph uni02D6 in font SteMiAlfa-Regular>
+codepoint = 726
+    = = = =    
+glyph = <Glyph uni02D7 in font SteMiAlfa-Regular>
+codepoint = 727
+    = = = =    
+glyph = <Glyph breve in font SteMiAlfa-Regular>
+codepoint = 728
+    = = = =    
+glyph = <Glyph dotaccent in font SteMiAlfa-Regular>
+codepoint = 729
+    = = = =    
+glyph = <Glyph ring in font SteMiAlfa-Regular>
+codepoint = 730
+    = = = =    
+glyph = <Glyph ogonek in font SteMiAlfa-Regular>
+codepoint = 731
+    = = = =    
+glyph = <Glyph tilde in font SteMiAlfa-Regular>
+codepoint = 732
+    = = = =    
+glyph = <Glyph hungarumlaut in font SteMiAlfa-Regular>
+codepoint = 733
+    = = = =    
+glyph = <Glyph uni02DE in font SteMiAlfa-Regular>
+codepoint = 734
+    = = = =    
+glyph = <Glyph uni02E0 in font SteMiAlfa-Regular>
+codepoint = 736
+    = = = =    
+glyph = <Glyph uni02E1 in font SteMiAlfa-Regular>
+codepoint = 737
+    = = = =    
+glyph = <Glyph uni02E2 in font SteMiAlfa-Regular>
+codepoint = 738
+    = = = =    
+glyph = <Glyph uni02E3 in font SteMiAlfa-Regular>
+codepoint = 739
+    = = = =    
+glyph = <Glyph uni02E4 in font SteMiAlfa-Regular>
+codepoint = 740
+    = = = =    
+glyph = <Glyph uni02E5 in font SteMiAlfa-Regular>
+codepoint = 741
+    = = = =    
+glyph = <Glyph uni02E6 in font SteMiAlfa-Regular>
+codepoint = 742
+    = = = =    
+glyph = <Glyph uni02E7 in font SteMiAlfa-Regular>
+codepoint = 743
+    = = = =    
+glyph = <Glyph uni02E8 in font SteMiAlfa-Regular>
+codepoint = 744
+    = = = =    
+glyph = <Glyph uni02E9 in font SteMiAlfa-Regular>
+codepoint = 745
+    = = = =    
+glyph = <Glyph uni02EE in font SteMiAlfa-Regular>
+codepoint = 750
+    = = = =    
+glyph = <Glyph uni02F3 in font SteMiAlfa-Regular>
+codepoint = 755
+    = = = =    
+glyph = <Glyph gravecomb in font SteMiAlfa-Regular>
+codepoint = 768
+    = = = =    
+glyph = <Glyph acutecomb in font SteMiAlfa-Regular>
+codepoint = 769
+    = = = =    
+glyph = <Glyph uni0302 in font SteMiAlfa-Regular>
+codepoint = 770
+    = = = =    
+glyph = <Glyph tildecomb in font SteMiAlfa-Regular>
+codepoint = 771
+    = = = =    
+glyph = <Glyph uni0304 in font SteMiAlfa-Regular>
+codepoint = 772
+    = = = =    
+glyph = <Glyph uni0305 in font SteMiAlfa-Regular>
+codepoint = 773
+    = = = =    
+glyph = <Glyph uni0306 in font SteMiAlfa-Regular>
+codepoint = 774
+    = = = =    
+glyph = <Glyph uni0307 in font SteMiAlfa-Regular>
+codepoint = 775
+    = = = =    
+glyph = <Glyph uni0308 in font SteMiAlfa-Regular>
+codepoint = 776
+    = = = =    
+glyph = <Glyph hookabovecomb in font SteMiAlfa-Regular>
+codepoint = 777
+    = = = =    
+glyph = <Glyph uni030A in font SteMiAlfa-Regular>
+codepoint = 778
+    = = = =    
+glyph = <Glyph uni030B in font SteMiAlfa-Regular>
+codepoint = 779
+    = = = =    
+glyph = <Glyph uni030C in font SteMiAlfa-Regular>
+codepoint = 780
+    = = = =    
+glyph = <Glyph uni030D in font SteMiAlfa-Regular>
+codepoint = 781
+    = = = =    
+glyph = <Glyph uni030E in font SteMiAlfa-Regular>
+codepoint = 782
+    = = = =    
+glyph = <Glyph uni030F in font SteMiAlfa-Regular>
+codepoint = 783
+    = = = =    
+glyph = <Glyph uni0310 in font SteMiAlfa-Regular>
+codepoint = 784
+    = = = =    
+glyph = <Glyph uni0311 in font SteMiAlfa-Regular>
+codepoint = 785
+    = = = =    
+glyph = <Glyph uni0312 in font SteMiAlfa-Regular>
+codepoint = 786
+    = = = =    
+glyph = <Glyph uni0313 in font SteMiAlfa-Regular>
+codepoint = 787
+    = = = =    
+glyph = <Glyph uni0314 in font SteMiAlfa-Regular>
+codepoint = 788
+    = = = =    
+glyph = <Glyph uni0315 in font SteMiAlfa-Regular>
+codepoint = 789
+    = = = =    
+glyph = <Glyph uni0316 in font SteMiAlfa-Regular>
+codepoint = 790
+    = = = =    
+glyph = <Glyph uni0317 in font SteMiAlfa-Regular>
+codepoint = 791
+    = = = =    
+glyph = <Glyph uni0318 in font SteMiAlfa-Regular>
+codepoint = 792
+    = = = =    
+glyph = <Glyph uni0319 in font SteMiAlfa-Regular>
+codepoint = 793
+    = = = =    
+glyph = <Glyph uni031A in font SteMiAlfa-Regular>
+codepoint = 794
+    = = = =    
+glyph = <Glyph uni031B in font SteMiAlfa-Regular>
+codepoint = 795
+    = = = =    
+glyph = <Glyph uni031C in font SteMiAlfa-Regular>
+codepoint = 796
+    = = = =    
+glyph = <Glyph uni031D in font SteMiAlfa-Regular>
+codepoint = 797
+    = = = =    
+glyph = <Glyph uni031E in font SteMiAlfa-Regular>
+codepoint = 798
+    = = = =    
+glyph = <Glyph uni031F in font SteMiAlfa-Regular>
+codepoint = 799
+    = = = =    
+glyph = <Glyph uni0320 in font SteMiAlfa-Regular>
+codepoint = 800
+    = = = =    
+glyph = <Glyph uni0321 in font SteMiAlfa-Regular>
+codepoint = 801
+    = = = =    
+glyph = <Glyph uni0322 in font SteMiAlfa-Regular>
+codepoint = 802
+    = = = =    
+glyph = <Glyph dotbelowcomb in font SteMiAlfa-Regular>
+codepoint = 803
+    = = = =    
+glyph = <Glyph uni0324 in font SteMiAlfa-Regular>
+codepoint = 804
+    = = = =    
+glyph = <Glyph uni0325 in font SteMiAlfa-Regular>
+codepoint = 805
+    = = = =    
+glyph = <Glyph uni0326 in font SteMiAlfa-Regular>
+codepoint = 806
+    = = = =    
+glyph = <Glyph uni0327 in font SteMiAlfa-Regular>
+codepoint = 807
+    = = = =    
+glyph = <Glyph uni0328 in font SteMiAlfa-Regular>
+codepoint = 808
+    = = = =    
+glyph = <Glyph uni0329 in font SteMiAlfa-Regular>
+codepoint = 809
+    = = = =    
+glyph = <Glyph uni032A in font SteMiAlfa-Regular>
+codepoint = 810
+    = = = =    
+glyph = <Glyph uni032B in font SteMiAlfa-Regular>
+codepoint = 811
+    = = = =    
+glyph = <Glyph uni032C in font SteMiAlfa-Regular>
+codepoint = 812
+    = = = =    
+glyph = <Glyph uni032D in font SteMiAlfa-Regular>
+codepoint = 813
+    = = = =    
+glyph = <Glyph uni032E in font SteMiAlfa-Regular>
+codepoint = 814
+    = = = =    
+glyph = <Glyph uni032F in font SteMiAlfa-Regular>
+codepoint = 815
+    = = = =    
+glyph = <Glyph uni0330 in font SteMiAlfa-Regular>
+codepoint = 816
+    = = = =    
+glyph = <Glyph uni0331 in font SteMiAlfa-Regular>
+codepoint = 817
+    = = = =    
+glyph = <Glyph uni0332 in font SteMiAlfa-Regular>
+codepoint = 818
+    = = = =    
+glyph = <Glyph uni0333 in font SteMiAlfa-Regular>
+codepoint = 819
+    = = = =    
+glyph = <Glyph uni0334 in font SteMiAlfa-Regular>
+codepoint = 820
+    = = = =    
+glyph = <Glyph uni0335 in font SteMiAlfa-Regular>
+codepoint = 821
+    = = = =    
+glyph = <Glyph uni0336 in font SteMiAlfa-Regular>
+codepoint = 822
+    = = = =    
+glyph = <Glyph uni0337 in font SteMiAlfa-Regular>
+codepoint = 823
+    = = = =    
+glyph = <Glyph uni0338 in font SteMiAlfa-Regular>
+codepoint = 824
+    = = = =    
+glyph = <Glyph uni0339 in font SteMiAlfa-Regular>
+codepoint = 825
+    = = = =    
+glyph = <Glyph uni033A in font SteMiAlfa-Regular>
+codepoint = 826
+    = = = =    
+glyph = <Glyph uni033B in font SteMiAlfa-Regular>
+codepoint = 827
+    = = = =    
+glyph = <Glyph uni033C in font SteMiAlfa-Regular>
+codepoint = 828
+    = = = =    
+glyph = <Glyph uni033D in font SteMiAlfa-Regular>
+codepoint = 829
+    = = = =    
+glyph = <Glyph uni033E in font SteMiAlfa-Regular>
+codepoint = 830
+    = = = =    
+glyph = <Glyph uni033F in font SteMiAlfa-Regular>
+codepoint = 831
+    = = = =    
+glyph = <Glyph uni0343 in font SteMiAlfa-Regular>
+codepoint = 835
+    = = = =    
+glyph = <Glyph uni0358 in font SteMiAlfa-Regular>
+codepoint = 856
+    = = = =    
+glyph = <Glyph uni0361 in font SteMiAlfa-Regular>
+codepoint = 865
+    = = = =    
+glyph = <Glyph uni0374 in font SteMiAlfa-Regular>
+codepoint = 884
+    = = = =    
+glyph = <Glyph uni0375 in font SteMiAlfa-Regular>
+codepoint = 885
+    = = = =    
+glyph = <Glyph uni037E in font SteMiAlfa-Regular>
+codepoint = 894
+    = = = =    
+glyph = <Glyph tonos in font SteMiAlfa-Regular>
+codepoint = 900
+    = = = =    
+glyph = <Glyph dieresistonos in font SteMiAlfa-Regular>
+codepoint = 901
+    = = = =    
+glyph = <Glyph anoteleia in font SteMiAlfa-Regular>
+codepoint = 903
+    = = = =    
+glyph = <Glyph uni0609 in font SteMiAlfa-Regular>
+codepoint = 1545
+    = = = =    
+glyph = <Glyph uni060A in font SteMiAlfa-Regular>
+codepoint = 1546
+    = = = =    
+glyph = <Glyph quoteright in font SteMiAlfa-Regular>
+codepoint = 8217
+    = = = =    
+glyph = <Glyph quotesinglbase in font SteMiAlfa-Regular>
+codepoint = 8218
+    = = = =    
+glyph = <Glyph quotedblright in font SteMiAlfa-Regular>
+codepoint = 8221
+    = = = =    
+glyph = <Glyph quotedblbase in font SteMiAlfa-Regular>
+codepoint = 8222
+    = = = =    
+glyph = <Glyph uni2029 in font SteMiAlfa-Regular>
+codepoint = 8233
+    = = = =    
+glyph = <Glyph malaspacja in font SteMiAlfa-Regular>
+codepoint = 57349
+    = = = =    
+glyph = <Glyph stm.k in font SteMiAlfa-Regular>
+codepoint = 57352
+    = = = =    
+glyph = <Glyph stem.i.krt in font SteMiAlfa-Regular>
+codepoint = 57357
+    = = = =    
+glyph = <Glyph stem.krt in font SteMiAlfa-Regular>
+codepoint = 57358
+    = = = =    
+glyph = <Glyph luTJ in font SteMiAlfa-Regular>
+codepoint = 58108
+    = = = =    
+glyph = <Glyph stm.k.krt in font SteMiAlfa-Regular>
+codepoint = 57353
+    = = = =    
+glyph = <Glyph stm.g in font SteMiAlfa-Regular>
+codepoint = 57354
+    = = = =    
+glyph = <Glyph luKL in font SteMiAlfa-Regular>
+codepoint = 58105
+    = = = =    
+glyph = <Glyph luSJ in font SteMiAlfa-Regular>
+codepoint = 58106
+    = = = =    
+glyph = <Glyph luCJ in font SteMiAlfa-Regular>
+codepoint = 58107
+    = = = =    
+glyph = <Glyph brzuchST.bak in font SteMiAlfa-Regular>
+codepoint = 983552
+    = = = =    
+glyph = <Glyph poczPUA in font SteMiAlfa-Regular>
+codepoint = 57344
+    = = = =    
+glyph = <Glyph koniecPUA in font SteMiAlfa-Regular>
+codepoint = 63743
+    = = = =    
+glyph = <Glyph stm.g.krt in font SteMiAlfa-Regular>
+codepoint = 57355
+    = = = =    
+glyph = <Glyph stem.i in font SteMiAlfa-Regular>
+codepoint = 57356
+    = = = =    
+glyph = <Glyph lu0 in font SteMiAlfa-Regular>
+codepoint = 57489
+    = = = =    
+glyph = <Glyph lu1 in font SteMiAlfa-Regular>
+codepoint = 57490
+    = = = =    
+glyph = <Glyph lu3 in font SteMiAlfa-Regular>
+codepoint = 57492
+    = = = =    
+glyph = <Glyph lu2 in font SteMiAlfa-Regular>
+codepoint = 57491
+    = = = =    
+glyph = <Glyph luUs in font SteMiAlfa-Regular>
+codepoint = 57499
+    = = = =    
+glyph = <Glyph kolo.s in font SteMiAlfa-Regular>
+codepoint = 57500
+    = = = =    
+glyph = <Glyph kolo.z in font SteMiAlfa-Regular>
+codepoint = 57501
+    = = = =    
+glyph = <Glyph eprost3 in font SteMiAlfa-Regular>
+codepoint = 58175
+    = = = =    
+glyph = <Glyph eprost4 in font SteMiAlfa-Regular>
+codepoint = 58176
+    = = = =    
+glyph = <Glyph e.org in font SteMiAlfa-Regular>
+codepoint = 58460
+    = = = =    
+glyph = <Glyph u.org in font SteMiAlfa-Regular>
+codepoint = 58590
+    = = = =    
+glyph = <Glyph i.org in font SteMiAlfa-Regular>
+codepoint = 58662
+    = = = =    
+glyph = <Glyph y.org in font SteMiAlfa-Regular>
+codepoint = 58742
+    = = = =    
+glyph = <Glyph polokrM.1 in font SteMiAlfa-Regular>
+codepoint = 58180
+    = = = =    
+glyph = <Glyph polokrM.2 in font SteMiAlfa-Regular>
+codepoint = 58181
+    = = = =    
+glyph = <Glyph polokrM.3 in font SteMiAlfa-Regular>
+codepoint = 58182
+    = = = =    
+glyph = <Glyph polokrM.4 in font SteMiAlfa-Regular>
+codepoint = 58183
+    = = = =    
+glyph = <Glyph polokrD.1 in font SteMiAlfa-Regular>
+codepoint = 58184
+    = = = =    
+glyph = <Glyph polokrD.2 in font SteMiAlfa-Regular>
+codepoint = 58185
+    = = = =    
+glyph = <Glyph polokrD.3 in font SteMiAlfa-Regular>
+codepoint = 58186
+    = = = =    
+glyph = <Glyph polokrD.4 in font SteMiAlfa-Regular>
+codepoint = 58187
+    = = = =    
+glyph = <Glyph okroci in font SteMiAlfa-Regular>
+codepoint = 58196
+    = = = =    
+glyph = <Glyph prostaVOW in font SteMiAlfa-Regular>
+codepoint = 57348
+    = = = =    
+glyph = <Glyph prostaCONS in font SteMiAlfa-Regular>
+codepoint = 57347
+    = = = =    
+glyph = <Glyph konCONS in font SteMiAlfa-Regular>
+codepoint = 57346
+    = = = =    
+glyph = <Glyph endash in font SteMiAlfa-Regular>
+codepoint = 8211
+    = = = =    
+glyph = <Glyph konVOW in font SteMiAlfa-Regular>
+codepoint = 57345
+    = = = =    
+glyph = <Glyph eprost2 in font SteMiAlfa-Regular>
+codepoint = 58174
+    = = = =    
+glyph = <Glyph luGL in font SteMiAlfa-Regular>
+codepoint = 58109
+    = = = =    
+glyph = <Glyph dolTW in font SteMiAlfa-Regular>
+codepoint = 58288
+    = = = =    
+glyph = <Glyph dolMK30 in font SteMiAlfa-Regular>
+codepoint = 58289
+    = = = =    
+glyph = <Glyph dolETW in font SteMiAlfa-Regular>
+codepoint = 58290
+    = = = =    
+glyph = <Glyph dolMKE in font SteMiAlfa-Regular>
+codepoint = 58291
+    = = = =    
+glyph = <Glyph luU0 in font SteMiAlfa-Regular>
+codepoint = 58217
+    = = = =    
+glyph = <Glyph luU2 in font SteMiAlfa-Regular>
+codepoint = 58219
+    = = = =    
+glyph = <Glyph luNdol in font SteMiAlfa-Regular>
+codepoint = 58278
+    = = = =    
+glyph = <Glyph dolKszMKE in font SteMiAlfa-Regular>
+codepoint = 58293
+    = = = =    
+glyph = <Glyph dolKszMK in font SteMiAlfa-Regular>
+codepoint = 58294
+    = = = =    
+glyph = <Glyph dolLUK30 in font SteMiAlfa-Regular>
+codepoint = 58295
+    = = = =    
+glyph = <Glyph eprost0 in font SteMiAlfa-Regular>
+codepoint = 58172
+    = = = =    
+glyph = <Glyph eprost1 in font SteMiAlfa-Regular>
+codepoint = 58173
+    = = = =    
+glyph = <Glyph eprost5 in font SteMiAlfa-Regular>
+codepoint = 58177
+    = = = =    
+glyph = <Glyph eprost6 in font SteMiAlfa-Regular>
+codepoint = 58178
+    = = = =    
+glyph = <Glyph gorMKE in font SteMiAlfa-Regular>
+codepoint = 58301
+    = = = =    
+glyph = <Glyph kolo.l in font SteMiAlfa-Regular>
+codepoint = 57502
+    = = = =    
+glyph = <Glyph E.org in font SteMiAlfa-Regular>
+codepoint = 58461
+    = = = =    
+glyph = <Glyph e90 in font SteMiAlfa-Regular>
+codepoint = 58462
+    = = = =    
+glyph = <Glyph e85.krt in font SteMiAlfa-Regular>
+codepoint = 58463
+    = = = =    
+glyph = <Glyph e90.krt in font SteMiAlfa-Regular>
+codepoint = 58464
+    = = = =    
+glyph = <Glyph e85r in font SteMiAlfa-Regular>
+codepoint = 58465
+    = = = =    
+glyph = <Glyph e90r in font SteMiAlfa-Regular>
+codepoint = 58466
+    = = = =    
+glyph = <Glyph re85 in font SteMiAlfa-Regular>
+codepoint = 58467
+    = = = =    
+glyph = <Glyph re90 in font SteMiAlfa-Regular>
+codepoint = 58468
+    = = = =    
+glyph = <Glyph re85r in font SteMiAlfa-Regular>
+codepoint = 58469
+    = = = =    
+glyph = <Glyph re90r in font SteMiAlfa-Regular>
+codepoint = 58470
+    = = = =    
+glyph = <Glyph luU1 in font SteMiAlfa-Regular>
+codepoint = 58218
+    = = = =    
+glyph = <Glyph luU3 in font SteMiAlfa-Regular>
+codepoint = 58220
+    = = = =    
+glyph = <Glyph luU4 in font SteMiAlfa-Regular>
+codepoint = 58221
+    = = = =    
+glyph = <Glyph luU5 in font SteMiAlfa-Regular>
+codepoint = 58222
+    = = = =    
+glyph = <Glyph luUa0 in font SteMiAlfa-Regular>
+codepoint = 58223
+    = = = =    
+glyph = <Glyph luUa1 in font SteMiAlfa-Regular>
+codepoint = 58224
+    = = = =    
+glyph = <Glyph luUa2 in font SteMiAlfa-Regular>
+codepoint = 58225
+    = = = =    
+glyph = <Glyph luUa3 in font SteMiAlfa-Regular>
+codepoint = 58226
+    = = = =    
+glyph = <Glyph luUa4 in font SteMiAlfa-Regular>
+codepoint = 58227
+    = = = =    
+glyph = <Glyph U.org in font SteMiAlfa-Regular>
+codepoint = 58591
+    = = = =    
+glyph = <Glyph u.alt in font SteMiAlfa-Regular>
+codepoint = 58592
+    = = = =    
+glyph = <Glyph U.alt in font SteMiAlfa-Regular>
+codepoint = 58593
+    = = = =    
+glyph = <Glyph u30 in font SteMiAlfa-Regular>
+codepoint = 58594
+    = = = =    
+glyph = <Glyph u30.alt in font SteMiAlfa-Regular>
+codepoint = 58595
+    = = = =    
+glyph = <Glyph u45 in font SteMiAlfa-Regular>
+codepoint = 58596
+    = = = =    
+glyph = <Glyph u45.alt in font SteMiAlfa-Regular>
+codepoint = 58597
+    = = = =    
+glyph = <Glyph u55 in font SteMiAlfa-Regular>
+codepoint = 58598
+    = = = =    
+glyph = <Glyph u55.alt in font SteMiAlfa-Regular>
+codepoint = 58599
+    = = = =    
+glyph = <Glyph u.krt in font SteMiAlfa-Regular>
+codepoint = 58600
+    = = = =    
+glyph = <Glyph u.alt.krt in font SteMiAlfa-Regular>
+codepoint = 58601
+    = = = =    
+glyph = <Glyph u.lft in font SteMiAlfa-Regular>
+codepoint = 58602
+    = = = =    
+glyph = <Glyph u30r in font SteMiAlfa-Regular>
+codepoint = 58605
+    = = = =    
+glyph = <Glyph U30r in font SteMiAlfa-Regular>
+codepoint = 58606
+    = = = =    
+glyph = <Glyph u30r.alt in font SteMiAlfa-Regular>
+codepoint = 58607
+    = = = =    
+glyph = <Glyph U30r.alt in font SteMiAlfa-Regular>
+codepoint = 58608
+    = = = =    
+glyph = <Glyph u45r in font SteMiAlfa-Regular>
+codepoint = 58609
+    = = = =    
+glyph = <Glyph U45r in font SteMiAlfa-Regular>
+codepoint = 58610
+    = = = =    
+glyph = <Glyph u45r.alt in font SteMiAlfa-Regular>
+codepoint = 58611
+    = = = =    
+glyph = <Glyph U45r.alt in font SteMiAlfa-Regular>
+codepoint = 58612
+    = = = =    
+glyph = <Glyph u55r in font SteMiAlfa-Regular>
+codepoint = 58613
+    = = = =    
+glyph = <Glyph U55r in font SteMiAlfa-Regular>
+codepoint = 58614
+    = = = =    
+glyph = <Glyph u55r.alt in font SteMiAlfa-Regular>
+codepoint = 58615
+    = = = =    
+glyph = <Glyph U55r.alt in font SteMiAlfa-Regular>
+codepoint = 58616
+    = = = =    
+glyph = <Glyph ru30 in font SteMiAlfa-Regular>
+codepoint = 58617
+    = = = =    
+glyph = <Glyph ru30.alt in font SteMiAlfa-Regular>
+codepoint = 58618
+    = = = =    
+glyph = <Glyph ru45 in font SteMiAlfa-Regular>
+codepoint = 58619
+    = = = =    
+glyph = <Glyph ru45.alt in font SteMiAlfa-Regular>
+codepoint = 58620
+    = = = =    
+glyph = <Glyph ru55 in font SteMiAlfa-Regular>
+codepoint = 58621
+    = = = =    
+glyph = <Glyph ru55.alt in font SteMiAlfa-Regular>
+codepoint = 58622
+    = = = =    
+glyph = <Glyph ru45r in font SteMiAlfa-Regular>
+codepoint = 58623
+    = = = =    
+glyph = <Glyph ru45r.alt in font SteMiAlfa-Regular>
+codepoint = 58624
+    = = = =    
+glyph = <Glyph ru55r in font SteMiAlfa-Regular>
+codepoint = 58625
+    = = = =    
+glyph = <Glyph ru55r.alt in font SteMiAlfa-Regular>
+codepoint = 58626
+    = = = =    
+glyph = <Glyph I.org in font SteMiAlfa-Regular>
+codepoint = 58663
+    = = = =    
+glyph = <Glyph i.alt in font SteMiAlfa-Regular>
+codepoint = 58664
+    = = = =    
+glyph = <Glyph I.alt in font SteMiAlfa-Regular>
+codepoint = 58665
+    = = = =    
+glyph = <Glyph i.45 in font SteMiAlfa-Regular>
+codepoint = 58666
+    = = = =    
+glyph = <Glyph luKLY in font SteMiAlfa-Regular>
+codepoint = 58104
+    = = = =    
+glyph = <Glyph dolMK45 in font SteMiAlfa-Regular>
+codepoint = 7
+    = = = =    
+glyph = <Glyph i.225 in font SteMiAlfa-Regular>
+codepoint = 58667
+    = = = =    
+glyph = <Glyph i.prw.45 in font SteMiAlfa-Regular>
+codepoint = 58668
+    = = = =    
+glyph = <Glyph I.prw.45 in font SteMiAlfa-Regular>
+codepoint = 58669
+    = = = =    
+glyph = <Glyph i.ful45 in font SteMiAlfa-Regular>
+codepoint = 58670
+    = = = =    
+glyph = <Glyph i.135 in font SteMiAlfa-Regular>
+codepoint = 58676
+    = = = =    
+glyph = <Glyph i.lew45 in font SteMiAlfa-Regular>
+codepoint = 58677
+    = = = =    
+glyph = <Glyph i.fin in font SteMiAlfa-Regular>
+codepoint = 58678
+    = = = =    
+glyph = <Glyph dolKszTWE in font SteMiAlfa-Regular>
+codepoint = 58292
+    = = = =    
+glyph = <Glyph gorMK45 in font SteMiAlfa-Regular>
+codepoint = 58302
+    = = = =    
+glyph = <Glyph o.kolb in font SteMiAlfa-Regular>
+codepoint = 58488
+    = = = =    
+glyph = <Glyph o.kol.altb in font SteMiAlfa-Regular>
+codepoint = 58489
+    = = = =    
+glyph = <Glyph kolo.z.krt in font SteMiAlfa-Regular>
+codepoint = 57503
+    = = = =    
+glyph = <Glyph okredzi in font SteMiAlfa-Regular>
+codepoint = 58204
+    = = = =    
+glyph = <Glyph okrodzi in font SteMiAlfa-Regular>
+codepoint = 58205
+    = = = =    
+glyph = <Glyph i.krt in font SteMiAlfa-Regular>
+codepoint = 58679
+    = = = =    
+glyph = <Glyph i.tin in font SteMiAlfa-Regular>
+codepoint = 58680
+    = = = =    
+glyph = <Glyph i.krt.alt in font SteMiAlfa-Regular>
+codepoint = 58681
+    = = = =    
+glyph = <Glyph i.tin.alt in font SteMiAlfa-Regular>
+codepoint = 58682
+    = = = =    
+glyph = <Glyph Y.org in font SteMiAlfa-Regular>
+codepoint = 58743
+    = = = =    
+glyph = <Glyph y20 in font SteMiAlfa-Regular>
+codepoint = 58744
+    = = = =    
+glyph = <Glyph y45 in font SteMiAlfa-Regular>
+codepoint = 58745
+    = = = =    
+glyph = <Glyph y55 in font SteMiAlfa-Regular>
+codepoint = 58746
+    = = = =    
+glyph = <Glyph y30.krt in font SteMiAlfa-Regular>
+codepoint = 58747
+    = = = =    
+glyph = <Glyph y20.krt in font SteMiAlfa-Regular>
+codepoint = 58748
+    = = = =    
+glyph = <Glyph y45.krt in font SteMiAlfa-Regular>
+codepoint = 58749
+    = = = =    
+glyph = <Glyph y55.krt in font SteMiAlfa-Regular>
+codepoint = 58750
+    = = = =    
+glyph = <Glyph ry30 in font SteMiAlfa-Regular>
+codepoint = 58751
+    = = = =    
+glyph = <Glyph ry30.krt in font SteMiAlfa-Regular>
+codepoint = 58752
+    = = = =    
+glyph = <Glyph ry20 in font SteMiAlfa-Regular>
+codepoint = 58753
+    = = = =    
+glyph = <Glyph ry20.krt in font SteMiAlfa-Regular>
+codepoint = 58754
+    = = = =    
+glyph = <Glyph ry45 in font SteMiAlfa-Regular>
+codepoint = 58755
+    = = = =    
+glyph = <Glyph ry45.krt in font SteMiAlfa-Regular>
+codepoint = 58756
+    = = = =    
+glyph = <Glyph ry55 in font SteMiAlfa-Regular>
+codepoint = 58757
+    = = = =    
+glyph = <Glyph ry55.krt in font SteMiAlfa-Regular>
+codepoint = 58758
+    = = = =    
+glyph = <Glyph y30r in font SteMiAlfa-Regular>
+codepoint = 58759
+    = = = =    
+glyph = <Glyph y30r.krt in font SteMiAlfa-Regular>
+codepoint = 58760
+    = = = =    
+glyph = <Glyph y20r in font SteMiAlfa-Regular>
+codepoint = 58761
+    = = = =    
+glyph = <Glyph y20r.krt in font SteMiAlfa-Regular>
+codepoint = 58762
+    = = = =    
+glyph = <Glyph y45r in font SteMiAlfa-Regular>
+codepoint = 58763
+    = = = =    
+glyph = <Glyph y45r.krt in font SteMiAlfa-Regular>
+codepoint = 58764
+    = = = =    
+glyph = <Glyph y55r in font SteMiAlfa-Regular>
+codepoint = 58765
+    = = = =    
+glyph = <Glyph y55r.krt in font SteMiAlfa-Regular>
+codepoint = 58766
+    = = = =    
+glyph = <Glyph ry30r in font SteMiAlfa-Regular>
+codepoint = 58767
+    = = = =    
+glyph = <Glyph ry30r.krt in font SteMiAlfa-Regular>
+codepoint = 58768
+    = = = =    
+glyph = <Glyph ry20r in font SteMiAlfa-Regular>
+codepoint = 58769
+    = = = =    
+glyph = <Glyph ry20r.krt in font SteMiAlfa-Regular>
+codepoint = 58770
+    = = = =    
+glyph = <Glyph ry45r in font SteMiAlfa-Regular>
+codepoint = 58771
+    = = = =    
+glyph = <Glyph ry45r.krt in font SteMiAlfa-Regular>
+codepoint = 58772
+    = = = =    
+glyph = <Glyph ry55r in font SteMiAlfa-Regular>
+codepoint = 58773
+    = = = =    
+glyph = <Glyph ry55r.krt in font SteMiAlfa-Regular>
+codepoint = 58774
+    = = = =    
+glyph = <Glyph u.lft.alt in font SteMiAlfa-Regular>
+codepoint = 58603
+    = = = =    
+glyph = <Glyph i.ful30 in font SteMiAlfa-Regular>
+codepoint = 58671
+    = = = =    
+glyph = <Glyph i30 in font SteMiAlfa-Regular>
+codepoint = 58672
+    = = = =    
+glyph = <Glyph okreci in font SteMiAlfa-Regular>
+codepoint = 58197
+    = = = =    
+glyph = <Glyph luNgor in font SteMiAlfa-Regular>
+codepoint = 58279
+    = = = =    
+glyph = <Glyph luNOdol in font SteMiAlfa-Regular>
+codepoint = 58280
+    = = = =    
+glyph = <Glyph luONgor in font SteMiAlfa-Regular>
+codepoint = 58281
+    = = = =    
+glyph = <Glyph OstrI in font SteMiAlfa-Regular>
+codepoint = 58303
+    = = = =    
+glyph = <Glyph gorLUK30 in font SteMiAlfa-Regular>
+codepoint = 58296
+    = = = =    
+glyph = <Glyph gorOMluk30 in font SteMiAlfa-Regular>
+codepoint = 58297
+    = = = =    
+glyph = <Glyph dolMOluk30 in font SteMiAlfa-Regular>
+codepoint = 58298
+    = = = =    
+glyph = <Glyph dolLUK45 in font SteMiAlfa-Regular>
+codepoint = 58299
+    = = = =    
+glyph = <Glyph gorLUK45 in font SteMiAlfa-Regular>
+codepoint = 58300
+    = = = =    
+glyph = <Glyph gorOMluk45 in font SteMiAlfa-Regular>
+codepoint = 58304
+    = = = =    
+glyph = <Glyph dolMOluk45 in font SteMiAlfa-Regular>
+codepoint = 58305
+    = = = =    
+glyph = <Glyph luk.s.0.9 in font SteMiAlfa-Regular>
+codepoint = 57535
+    = = = =    
+glyph = <Glyph luk.v.0.9 in font SteMiAlfa-Regular>
+codepoint = 57540
+    = = = =    
+glyph = <Glyph luk.f.0.9 in font SteMiAlfa-Regular>
+codepoint = 57536
+    = = = =    
+glyph = <Glyph lu4 in font SteMiAlfa-Regular>
+codepoint = 57493
+    = = = =    
+glyph = <Glyph brh.p.4.19 in font SteMiAlfa-Regular>
+codepoint = 57380
+    = = = =    
+glyph = <Glyph brh.p.3.19 in font SteMiAlfa-Regular>
+codepoint = 57381
+    = = = =    
+glyph = <Glyph brh.p.6.19 in font SteMiAlfa-Regular>
+codepoint = 57382
+    = = = =    
+glyph = <Glyph brh.p.8.19 in font SteMiAlfa-Regular>
+codepoint = 57383
+    = = = =    
+glyph = <Glyph brh.b.4.19 in font SteMiAlfa-Regular>
+codepoint = 57388
+    = = = =    
+glyph = <Glyph brh.b.3.19 in font SteMiAlfa-Regular>
+codepoint = 57389
+    = = = =    
+glyph = <Glyph brh.b.6.19 in font SteMiAlfa-Regular>
+codepoint = 57390
+    = = = =    
+glyph = <Glyph brh.b.9.19 in font SteMiAlfa-Regular>
+codepoint = 57391
+    = = = =    
+glyph = <Glyph brh.sp.4.19 in font SteMiAlfa-Regular>
+codepoint = 57396
+    = = = =    
+glyph = <Glyph brh.sp.3.19 in font SteMiAlfa-Regular>
+codepoint = 57397
+    = = = =    
+glyph = <Glyph brh.sp.6.19 in font SteMiAlfa-Regular>
+codepoint = 57398
+    = = = =    
+glyph = <Glyph brh.sp.9.19 in font SteMiAlfa-Regular>
+codepoint = 57399
+    = = = =    
+glyph = <Glyph brh.st.4.16 in font SteMiAlfa-Regular>
+codepoint = 57404
+    = = = =    
+glyph = <Glyph brh.st.3.16 in font SteMiAlfa-Regular>
+codepoint = 57405
+    = = = =    
+glyph = <Glyph brh.st.6.16 in font SteMiAlfa-Regular>
+codepoint = 57406
+    = = = =    
+glyph = <Glyph brh.st.8.16 in font SteMiAlfa-Regular>
+codepoint = 57407
+    = = = =    
+glyph = <Glyph brh.zd.4.16 in font SteMiAlfa-Regular>
+codepoint = 57420
+    = = = =    
+glyph = <Glyph brh.st.4.19 in font SteMiAlfa-Regular>
+codepoint = 57412
+    = = = =    
+glyph = <Glyph brh.st.3.19 in font SteMiAlfa-Regular>
+codepoint = 57413
+    = = = =    
+glyph = <Glyph st.bre.6.19 in font SteMiAlfa-Regular>
+codepoint = 57414
+    = = = =    
+glyph = <Glyph brh.st.9.19 in font SteMiAlfa-Regular>
+codepoint = 57415
+    = = = =    
+glyph = <Glyph brh.zd.3.16 in font SteMiAlfa-Regular>
+codepoint = 57421
+    = = = =    
+glyph = <Glyph brh.zd.6.16 in font SteMiAlfa-Regular>
+codepoint = 57422
+    = = = =    
+glyph = <Glyph brh.zd.8.16 in font SteMiAlfa-Regular>
+codepoint = 57423
+    = = = =    
+glyph = <Glyph kp.brh in font SteMiAlfa-Regular>
+codepoint = 57436
+    = = = =    
+glyph = <Glyph uniE05E in font SteMiAlfa-Regular>
+codepoint = 57438
+    = = = =    
+glyph = <Glyph brh.zd.4.19 in font SteMiAlfa-Regular>
+codepoint = 57428
+    = = = =    
+glyph = <Glyph brh.zd.3.19 in font SteMiAlfa-Regular>
+codepoint = 57429
+    = = = =    
+glyph = <Glyph brh.zd.6.19 in font SteMiAlfa-Regular>
+codepoint = 57430
+    = = = =    
+glyph = <Glyph brh.zd.9.19 in font SteMiAlfa-Regular>
+codepoint = 57431
+    = = = =    
+glyph = <Glyph gb.brh in font SteMiAlfa-Regular>
+codepoint = 57437
+    = = = =    
+glyph = <Glyph luk.d.0.3 in font SteMiAlfa-Regular>
+codepoint = 57521
+    = = = =    
+glyph = <Glyph luk.s.0.6 in font SteMiAlfa-Regular>
+codepoint = 57526
+    = = = =    
+glyph = <Glyph brh.p.3.17 in font SteMiAlfa-Regular>
+codepoint = 57464
+    = = = =    
+glyph = <Glyph brh.p.4.17 in font SteMiAlfa-Regular>
+codepoint = 57465
+    = = = =    
+glyph = <Glyph brh.p.6.17 in font SteMiAlfa-Regular>
+codepoint = 57466
+    = = = =    
+glyph = <Glyph luk.t.0.4 in font SteMiAlfa-Regular>
+codepoint = 57510
+    = = = =    
+glyph = <Glyph luk.w.0.4 in font SteMiAlfa-Regular>
+codepoint = 57511
+    = = = =    
+glyph = <Glyph luk.d.0.4 in font SteMiAlfa-Regular>
+codepoint = 57512
+    = = = =    
+glyph = <Glyph luk.v.0.4 in font SteMiAlfa-Regular>
+codepoint = 57513
+    = = = =    
+glyph = <Glyph luk.f.0.4 in font SteMiAlfa-Regular>
+codepoint = 57509
+    = = = =    
+glyph = <Glyph luk.s.0.4 in font SteMiAlfa-Regular>
+codepoint = 57508
+    = = = =    
+glyph = <Glyph luk.s.0.3 in font SteMiAlfa-Regular>
+codepoint = 57517
+    = = = =    
+glyph = <Glyph luk.f.0.3 in font SteMiAlfa-Regular>
+codepoint = 57518
+    = = = =    
+glyph = <Glyph luk.t.0.3 in font SteMiAlfa-Regular>
+codepoint = 57519
+    = = = =    
+glyph = <Glyph luk.w.0.3 in font SteMiAlfa-Regular>
+codepoint = 57520
+    = = = =    
+glyph = <Glyph luk.v.0.3 in font SteMiAlfa-Regular>
+codepoint = 57522
+    = = = =    
+glyph = <Glyph luk.t.0.9 in font SteMiAlfa-Regular>
+codepoint = 57537
+    = = = =    
+glyph = <Glyph luk.w.0.9 in font SteMiAlfa-Regular>
+codepoint = 57538
+    = = = =    
+glyph = <Glyph luk.f.0.6 in font SteMiAlfa-Regular>
+codepoint = 57527
+    = = = =    
+glyph = <Glyph luk.t.0.6 in font SteMiAlfa-Regular>
+codepoint = 57528
+    = = = =    
+glyph = <Glyph luk.w.0.6 in font SteMiAlfa-Regular>
+codepoint = 57529
+    = = = =    
+glyph = <Glyph luk.d.0.6 in font SteMiAlfa-Regular>
+codepoint = 57530
+    = = = =    
+glyph = <Glyph luk.v.0.6 in font SteMiAlfa-Regular>
+codepoint = 57531
+    = = = =    
+glyph = <Glyph brh.b.3.17 in font SteMiAlfa-Regular>
+codepoint = 57460
+    = = = =    
+glyph = <Glyph brh.b.4.17 in font SteMiAlfa-Regular>
+codepoint = 57461
+    = = = =    
+glyph = <Glyph brh.b.6.17 in font SteMiAlfa-Regular>
+codepoint = 57462
+    = = = =    
+glyph = <Glyph brh.b.6.20 in font SteMiAlfa-Regular>
+codepoint = 57468
+    = = = =    
+glyph = <Glyph brh.b.4.20 in font SteMiAlfa-Regular>
+codepoint = 57469
+    = = = =    
+glyph = <Glyph brh.b.9.20 in font SteMiAlfa-Regular>
+codepoint = 57470
+    = = = =    
+glyph = <Glyph brh.p.6.20 in font SteMiAlfa-Regular>
+codepoint = 57472
+    = = = =    
+glyph = <Glyph brh.4.20 in font SteMiAlfa-Regular>
+codepoint = 57473
+    = = = =    
+glyph = <Glyph brh.p.8.20 in font SteMiAlfa-Regular>
+codepoint = 57474
+    = = = =    
+glyph = <Glyph brh.sp.3.17 in font SteMiAlfa-Regular>
+codepoint = 57476
+    = = = =    
+glyph = <Glyph brh.sp.4.17 in font SteMiAlfa-Regular>
+codepoint = 57477
+    = = = =    
+glyph = <Glyph brh.sp.6.17 in font SteMiAlfa-Regular>
+codepoint = 57478
+    = = = =    
+glyph = <Glyph brh.sp.6.20 in font SteMiAlfa-Regular>
+codepoint = 57480
+    = = = =    
+glyph = <Glyph brh.sp.4.20 in font SteMiAlfa-Regular>
+codepoint = 57481
+    = = = =    
+glyph = <Glyph brh.sp.9.20 in font SteMiAlfa-Regular>
+codepoint = 57482
+    = = = =    
+glyph = <Glyph brh.p.40.3 in font SteMiAlfa-Regular>
+codepoint = 57484
+    = = = =    
+glyph = <Glyph brh.sp.40.3 in font SteMiAlfa-Regular>
+codepoint = 57485
+    = = = =    
+glyph = <Glyph brh.p.140.9 in font SteMiAlfa-Regular>
+codepoint = 57486
+    = = = =    
+glyph = <Glyph brh.sp.140.9 in font SteMiAlfa-Regular>
+codepoint = 57487
+    = = = =    
+glyph = <Glyph luk.d.0.9 in font SteMiAlfa-Regular>
+codepoint = 57539
+    = = = =    
+glyph = <Glyph luk.x.0.4 in font SteMiAlfa-Regular>
+codepoint = 57514
+    = = = =    
+glyph = <Glyph luk.x.0.3 in font SteMiAlfa-Regular>
+codepoint = 57523
+    = = = =    
+glyph = <Glyph luk.x.0.6 in font SteMiAlfa-Regular>
+codepoint = 57532
+    = = = =    
+glyph = <Glyph luk.x.0.9 in font SteMiAlfa-Regular>
+codepoint = 57541
+    = = = =    
+glyph = <Glyph luk.q.0.4 in font SteMiAlfa-Regular>
+codepoint = 57515
+    = = = =    
+glyph = <Glyph luk.q.0.3 in font SteMiAlfa-Regular>
+codepoint = 57524
+    = = = =    
+glyph = <Glyph luk.q.0.6 in font SteMiAlfa-Regular>
+codepoint = 57533
+    = = = =    
+glyph = <Glyph luk.q.0.9 in font SteMiAlfa-Regular>
+codepoint = 57542
+    = = = =    
+glyph = <Glyph luk.f.0.2 in font SteMiAlfa-Regular>
+codepoint = 57545
+    = = = =    
+glyph = <Glyph luk.q.0.2 in font SteMiAlfa-Regular>
+codepoint = 57551
+    = = = =    
+glyph = <Glyph luk.s.0.2 in font SteMiAlfa-Regular>
+codepoint = 57544
+    = = = =    
+glyph = <Glyph luk.t.0.2 in font SteMiAlfa-Regular>
+codepoint = 57546
+    = = = =    
+glyph = <Glyph luk.w.0.2 in font SteMiAlfa-Regular>
+codepoint = 57547
+    = = = =    
+glyph = <Glyph luk.d.0.2 in font SteMiAlfa-Regular>
+codepoint = 57548
+    = = = =    
+glyph = <Glyph luk.v.0.2 in font SteMiAlfa-Regular>
+codepoint = 57549
+    = = = =    
+glyph = <Glyph luk.x.0.2 in font SteMiAlfa-Regular>
+codepoint = 57550
+    = = = =    
+glyph = <Glyph kat.18.3 in font SteMiAlfa-Regular>
+codepoint = 58075
+    = = = =    
+glyph = <Glyph kat.18.4 in font SteMiAlfa-Regular>
+codepoint = 58076
+    = = = =    
+glyph = <Glyph kat.18.6 in font SteMiAlfa-Regular>
+codepoint = 58077
+    = = = =    
+glyph = <Glyph kat.18.8 in font SteMiAlfa-Regular>
+codepoint = 58078
+    = = = =    
+glyph = <Glyph luk.s.0.7 in font SteMiAlfa-Regular>
+codepoint = 57553
+    = = = =    
+glyph = <Glyph luk.f.0.7 in font SteMiAlfa-Regular>
+codepoint = 57554
+    = = = =    
+glyph = <Glyph luk.t.0.7 in font SteMiAlfa-Regular>
+codepoint = 57555
+    = = = =    
+glyph = <Glyph luk.w.0.7 in font SteMiAlfa-Regular>
+codepoint = 57556
+    = = = =    
+glyph = <Glyph luk.d.0.7 in font SteMiAlfa-Regular>
+codepoint = 57557
+    = = = =    
+glyph = <Glyph luk.v.0.7 in font SteMiAlfa-Regular>
+codepoint = 57558
+    = = = =    
+glyph = <Glyph luk.x.0.7 in font SteMiAlfa-Regular>
+codepoint = 57559
+    = = = =    
+glyph = <Glyph luk.q.0.7 in font SteMiAlfa-Regular>
+codepoint = 57560
+    = = = =    
+glyph = <Glyph luk.s.4.9 in font SteMiAlfa-Regular>
+codepoint = 57567
+    = = = =    
+glyph = <Glyph luk.f.4.9 in font SteMiAlfa-Regular>
+codepoint = 57568
+    = = = =    
+glyph = <Glyph luk.t.4.9 in font SteMiAlfa-Regular>
+codepoint = 57569
+    = = = =    
+glyph = <Glyph luk.w.4.9 in font SteMiAlfa-Regular>
+codepoint = 57570
+    = = = =    
+glyph = <Glyph luk.d.4.9 in font SteMiAlfa-Regular>
+codepoint = 57571
+    = = = =    
+glyph = <Glyph luk.v.4.9 in font SteMiAlfa-Regular>
+codepoint = 57572
+    = = = =    
+glyph = <Glyph luk.x.4.9 in font SteMiAlfa-Regular>
+codepoint = 57573
+    = = = =    
+glyph = <Glyph luk.q.4.9 in font SteMiAlfa-Regular>
+codepoint = 57574
+    = = = =    
+glyph = <Glyph luk.s.9.14 in font SteMiAlfa-Regular>
+codepoint = 57576
+    = = = =    
+glyph = <Glyph luk.f.9.14 in font SteMiAlfa-Regular>
+codepoint = 57577
+    = = = =    
+glyph = <Glyph luk.t.9.14 in font SteMiAlfa-Regular>
+codepoint = 57578
+    = = = =    
+glyph = <Glyph luk.w.9.14 in font SteMiAlfa-Regular>
+codepoint = 57579
+    = = = =    
+glyph = <Glyph luk.d.9.14 in font SteMiAlfa-Regular>
+codepoint = 57580
+    = = = =    
+glyph = <Glyph luk.v.9.14 in font SteMiAlfa-Regular>
+codepoint = 57581
+    = = = =    
+glyph = <Glyph luk.x.9.14 in font SteMiAlfa-Regular>
+codepoint = 57582
+    = = = =    
+glyph = <Glyph luk.q.9.14 in font SteMiAlfa-Regular>
+codepoint = 57583
+    = = = =    
+glyph = <Glyph luk.s.14.19 in font SteMiAlfa-Regular>
+codepoint = 57585
+    = = = =    
+glyph = <Glyph luk.f.14.19 in font SteMiAlfa-Regular>
+codepoint = 57586
+    = = = =    
+glyph = <Glyph luk.t.14.19 in font SteMiAlfa-Regular>
+codepoint = 57587
+    = = = =    
+glyph = <Glyph luk.w.14.19 in font SteMiAlfa-Regular>
+codepoint = 57588
+    = = = =    
+glyph = <Glyph luk.d.14.19 in font SteMiAlfa-Regular>
+codepoint = 57589
+    = = = =    
+glyph = <Glyph luk.v.14.19 in font SteMiAlfa-Regular>
+codepoint = 57590
+    = = = =    
+glyph = <Glyph luk.x.14.19 in font SteMiAlfa-Regular>
+codepoint = 57591
+    = = = =    
+glyph = <Glyph luk.q.14.19 in font SteMiAlfa-Regular>
+codepoint = 57592
+    = = = =    
+glyph = <Glyph luk.s.4.0 in font SteMiAlfa-Regular>
+codepoint = 57594
+    = = = =    
+glyph = <Glyph luk.f.4.0 in font SteMiAlfa-Regular>
+codepoint = 57595
+    = = = =    
+glyph = <Glyph luk.t.4.0 in font SteMiAlfa-Regular>
+codepoint = 57596
+    = = = =    
+glyph = <Glyph luk.w.4.0 in font SteMiAlfa-Regular>
+codepoint = 57597
+    = = = =    
+glyph = <Glyph luk.d.4.0 in font SteMiAlfa-Regular>
+codepoint = 57598
+    = = = =    
+glyph = <Glyph luk.v.4.0 in font SteMiAlfa-Regular>
+codepoint = 57599
+    = = = =    
+glyph = <Glyph luk.x.4.0 in font SteMiAlfa-Regular>
+codepoint = 57600
+    = = = =    
+glyph = <Glyph luk.q.4.0 in font SteMiAlfa-Regular>
+codepoint = 57601
+    = = = =    
+glyph = <Glyph luk.s.9.4 in font SteMiAlfa-Regular>
+codepoint = 57603
+    = = = =    
+glyph = <Glyph luk.f.9.4 in font SteMiAlfa-Regular>
+codepoint = 57604
+    = = = =    
+glyph = <Glyph luk.t.9.4 in font SteMiAlfa-Regular>
+codepoint = 57605
+    = = = =    
+glyph = <Glyph luk.w.9.4 in font SteMiAlfa-Regular>
+codepoint = 57606
+    = = = =    
+glyph = <Glyph luk.d.9.4 in font SteMiAlfa-Regular>
+codepoint = 57607
+    = = = =    
+glyph = <Glyph luk.v.9.4 in font SteMiAlfa-Regular>
+codepoint = 57608
+    = = = =    
+glyph = <Glyph luk.x.9.4 in font SteMiAlfa-Regular>
+codepoint = 57609
+    = = = =    
+glyph = <Glyph luk.q.9.4 in font SteMiAlfa-Regular>
+codepoint = 57610
+    = = = =    
+glyph = <Glyph luk.s.14.9 in font SteMiAlfa-Regular>
+codepoint = 57612
+    = = = =    
+glyph = <Glyph luk.f.14.9 in font SteMiAlfa-Regular>
+codepoint = 57613
+    = = = =    
+glyph = <Glyph luk.t.14.9 in font SteMiAlfa-Regular>
+codepoint = 57614
+    = = = =    
+glyph = <Glyph luk.w.14.9 in font SteMiAlfa-Regular>
+codepoint = 57615
+    = = = =    
+glyph = <Glyph luk.d.14.9 in font SteMiAlfa-Regular>
+codepoint = 57616
+    = = = =    
+glyph = <Glyph luk.v.14.9 in font SteMiAlfa-Regular>
+codepoint = 57617
+    = = = =    
+glyph = <Glyph luk.x.14.9 in font SteMiAlfa-Regular>
+codepoint = 57618
+    = = = =    
+glyph = <Glyph luk.q.14.9 in font SteMiAlfa-Regular>
+codepoint = 57619
+    = = = =    
+glyph = <Glyph luk.s.19.14 in font SteMiAlfa-Regular>
+codepoint = 57621
+    = = = =    
+glyph = <Glyph luk.f.19.14 in font SteMiAlfa-Regular>
+codepoint = 57622
+    = = = =    
+glyph = <Glyph luk.t.19.14 in font SteMiAlfa-Regular>
+codepoint = 57623
+    = = = =    
+glyph = <Glyph luk.w.19.14 in font SteMiAlfa-Regular>
+codepoint = 57624
+    = = = =    
+glyph = <Glyph luk.d.19.14 in font SteMiAlfa-Regular>
+codepoint = 57625
+    = = = =    
+glyph = <Glyph luk.v.19.14 in font SteMiAlfa-Regular>
+codepoint = 57626
+    = = = =    
+glyph = <Glyph luk.x.19.14 in font SteMiAlfa-Regular>
+codepoint = 57627
+    = = = =    
+glyph = <Glyph luk.q.19.14 in font SteMiAlfa-Regular>
+codepoint = 57628
+    = = = =    
+glyph = <Glyph luk.s.3.6 in font SteMiAlfa-Regular>
+codepoint = 57634
+    = = = =    
+glyph = <Glyph luk.f.3.6 in font SteMiAlfa-Regular>
+codepoint = 57635
+    = = = =    
+glyph = <Glyph luk.t.3.6 in font SteMiAlfa-Regular>
+codepoint = 57636
+    = = = =    
+glyph = <Glyph luk.w.3.6 in font SteMiAlfa-Regular>
+codepoint = 57637
+    = = = =    
+glyph = <Glyph luk.d.3.6 in font SteMiAlfa-Regular>
+codepoint = 57638
+    = = = =    
+glyph = <Glyph luk.v.3.6 in font SteMiAlfa-Regular>
+codepoint = 57639
+    = = = =    
+glyph = <Glyph luk.x.3.6 in font SteMiAlfa-Regular>
+codepoint = 57640
+    = = = =    
+glyph = <Glyph luk.q.3.6 in font SteMiAlfa-Regular>
+codepoint = 57641
+    = = = =    
+glyph = <Glyph luk.s.6.9 in font SteMiAlfa-Regular>
+codepoint = 57643
+    = = = =    
+glyph = <Glyph luk.f.6.9 in font SteMiAlfa-Regular>
+codepoint = 57644
+    = = = =    
+glyph = <Glyph luk.t.6.9 in font SteMiAlfa-Regular>
+codepoint = 57645
+    = = = =    
+glyph = <Glyph luk.w.6.9 in font SteMiAlfa-Regular>
+codepoint = 57646
+    = = = =    
+glyph = <Glyph luk.d.6.9 in font SteMiAlfa-Regular>
+codepoint = 57647
+    = = = =    
+glyph = <Glyph luk.v.6.9 in font SteMiAlfa-Regular>
+codepoint = 57648
+    = = = =    
+glyph = <Glyph luk.x.6.9 in font SteMiAlfa-Regular>
+codepoint = 57649
+    = = = =    
+glyph = <Glyph luk.q.6.9 in font SteMiAlfa-Regular>
+codepoint = 57650
+    = = = =    
+glyph = <Glyph luk.s.9.13 in font SteMiAlfa-Regular>
+codepoint = 57652
+    = = = =    
+glyph = <Glyph luk.f.9.13 in font SteMiAlfa-Regular>
+codepoint = 57653
+    = = = =    
+glyph = <Glyph luk.t.9.13 in font SteMiAlfa-Regular>
+codepoint = 57654
+    = = = =    
+glyph = <Glyph luk.w.9.13 in font SteMiAlfa-Regular>
+codepoint = 57655
+    = = = =    
+glyph = <Glyph luk.d.9.13 in font SteMiAlfa-Regular>
+codepoint = 57656
+    = = = =    
+glyph = <Glyph luk.v.9.13 in font SteMiAlfa-Regular>
+codepoint = 57657
+    = = = =    
+glyph = <Glyph luk.x.9.13 in font SteMiAlfa-Regular>
+codepoint = 57658
+    = = = =    
+glyph = <Glyph luk.q.9.13 in font SteMiAlfa-Regular>
+codepoint = 57659
+    = = = =    
+glyph = <Glyph luk.s.13.16 in font SteMiAlfa-Regular>
+codepoint = 57661
+    = = = =    
+glyph = <Glyph luk.f.13.16 in font SteMiAlfa-Regular>
+codepoint = 57662
+    = = = =    
+glyph = <Glyph luk.t.13.16 in font SteMiAlfa-Regular>
+codepoint = 57663
+    = = = =    
+glyph = <Glyph luk.w.13.16 in font SteMiAlfa-Regular>
+codepoint = 57664
+    = = = =    
+glyph = <Glyph luk.d.13.16 in font SteMiAlfa-Regular>
+codepoint = 57665
+    = = = =    
+glyph = <Glyph luk.v.13.16 in font SteMiAlfa-Regular>
+codepoint = 57666
+    = = = =    
+glyph = <Glyph luk.x.13.16 in font SteMiAlfa-Regular>
+codepoint = 57667
+    = = = =    
+glyph = <Glyph luk.q.13.16 in font SteMiAlfa-Regular>
+codepoint = 57668
+    = = = =    
+glyph = <Glyph luk.s.16.19 in font SteMiAlfa-Regular>
+codepoint = 57670
+    = = = =    
+glyph = <Glyph luk.f.16.19 in font SteMiAlfa-Regular>
+codepoint = 57671
+    = = = =    
+glyph = <Glyph luk.t.16.19 in font SteMiAlfa-Regular>
+codepoint = 57672
+    = = = =    
+glyph = <Glyph luk.w.16.19 in font SteMiAlfa-Regular>
+codepoint = 57673
+    = = = =    
+glyph = <Glyph luk.d.16.19 in font SteMiAlfa-Regular>
+codepoint = 57674
+    = = = =    
+glyph = <Glyph luk.v.16.19 in font SteMiAlfa-Regular>
+codepoint = 57675
+    = = = =    
+glyph = <Glyph luk.x.16.19 in font SteMiAlfa-Regular>
+codepoint = 57676
+    = = = =    
+glyph = <Glyph luk.q.16.19 in font SteMiAlfa-Regular>
+codepoint = 57677
+    = = = =    
+glyph = <Glyph luk.s.3.0 in font SteMiAlfa-Regular>
+codepoint = 57679
+    = = = =    
+glyph = <Glyph luk.f.3.0 in font SteMiAlfa-Regular>
+codepoint = 57680
+    = = = =    
+glyph = <Glyph luk.t.3.0 in font SteMiAlfa-Regular>
+codepoint = 57681
+    = = = =    
+glyph = <Glyph luk.w.3.0 in font SteMiAlfa-Regular>
+codepoint = 57682
+    = = = =    
+glyph = <Glyph luk.d.3.0 in font SteMiAlfa-Regular>
+codepoint = 57683
+    = = = =    
+glyph = <Glyph luk.v.3.0 in font SteMiAlfa-Regular>
+codepoint = 57684
+    = = = =    
+glyph = <Glyph luk.x.3.0 in font SteMiAlfa-Regular>
+codepoint = 57685
+    = = = =    
+glyph = <Glyph luk.q.3.0 in font SteMiAlfa-Regular>
+codepoint = 57686
+    = = = =    
+glyph = <Glyph luk.s.6.3 in font SteMiAlfa-Regular>
+codepoint = 57688
+    = = = =    
+glyph = <Glyph luk.f.6.3 in font SteMiAlfa-Regular>
+codepoint = 57689
+    = = = =    
+glyph = <Glyph luk.t.6.3 in font SteMiAlfa-Regular>
+codepoint = 57690
+    = = = =    
+glyph = <Glyph luk.w.6.3 in font SteMiAlfa-Regular>
+codepoint = 57691
+    = = = =    
+glyph = <Glyph luk.d.6.3 in font SteMiAlfa-Regular>
+codepoint = 57692
+    = = = =    
+glyph = <Glyph luk.v.6.3 in font SteMiAlfa-Regular>
+codepoint = 57693
+    = = = =    
+glyph = <Glyph luk.x.6.3 in font SteMiAlfa-Regular>
+codepoint = 57694
+    = = = =    
+glyph = <Glyph luk.q.6.3 in font SteMiAlfa-Regular>
+codepoint = 57695
+    = = = =    
+glyph = <Glyph luk.s.9.6 in font SteMiAlfa-Regular>
+codepoint = 57697
+    = = = =    
+glyph = <Glyph luk.f.9.6 in font SteMiAlfa-Regular>
+codepoint = 57698
+    = = = =    
+glyph = <Glyph luk.t.9.6 in font SteMiAlfa-Regular>
+codepoint = 57699
+    = = = =    
+glyph = <Glyph luk.w.9.6 in font SteMiAlfa-Regular>
+codepoint = 57700
+    = = = =    
+glyph = <Glyph luk.d.9.6 in font SteMiAlfa-Regular>
+codepoint = 57701
+    = = = =    
+glyph = <Glyph luk.v.9.6 in font SteMiAlfa-Regular>
+codepoint = 57702
+    = = = =    
+glyph = <Glyph luk.x.9.6 in font SteMiAlfa-Regular>
+codepoint = 57703
+    = = = =    
+glyph = <Glyph luk.q.9.6 in font SteMiAlfa-Regular>
+codepoint = 57704
+    = = = =    
+glyph = <Glyph luk.s.13.9 in font SteMiAlfa-Regular>
+codepoint = 57706
+    = = = =    
+glyph = <Glyph luk.f.13.9 in font SteMiAlfa-Regular>
+codepoint = 57707
+    = = = =    
+glyph = <Glyph luk.t.13.9 in font SteMiAlfa-Regular>
+codepoint = 57708
+    = = = =    
+glyph = <Glyph luk.w.13.9 in font SteMiAlfa-Regular>
+codepoint = 57709
+    = = = =    
+glyph = <Glyph luk.d.13.9 in font SteMiAlfa-Regular>
+codepoint = 57710
+    = = = =    
+glyph = <Glyph luk.v.13.9 in font SteMiAlfa-Regular>
+codepoint = 57711
+    = = = =    
+glyph = <Glyph luk.x.13.9 in font SteMiAlfa-Regular>
+codepoint = 57712
+    = = = =    
+glyph = <Glyph luk.q.13.9 in font SteMiAlfa-Regular>
+codepoint = 57713
+    = = = =    
+glyph = <Glyph luk.s.16.13 in font SteMiAlfa-Regular>
+codepoint = 57715
+    = = = =    
+glyph = <Glyph luk.f.16.13 in font SteMiAlfa-Regular>
+codepoint = 57716
+    = = = =    
+glyph = <Glyph luk.t.16.13 in font SteMiAlfa-Regular>
+codepoint = 57717
+    = = = =    
+glyph = <Glyph luk.w.16.13 in font SteMiAlfa-Regular>
+codepoint = 57718
+    = = = =    
+glyph = <Glyph luk.d.16.13 in font SteMiAlfa-Regular>
+codepoint = 57719
+    = = = =    
+glyph = <Glyph luk.v.16.13 in font SteMiAlfa-Regular>
+codepoint = 57720
+    = = = =    
+glyph = <Glyph luk.x.16.13 in font SteMiAlfa-Regular>
+codepoint = 57721
+    = = = =    
+glyph = <Glyph luk.q.16.13 in font SteMiAlfa-Regular>
+codepoint = 57722
+    = = = =    
+glyph = <Glyph luk.s.19.16 in font SteMiAlfa-Regular>
+codepoint = 57724
+    = = = =    
+glyph = <Glyph luk.f.19.16 in font SteMiAlfa-Regular>
+codepoint = 57725
+    = = = =    
+glyph = <Glyph luk.t.19.16 in font SteMiAlfa-Regular>
+codepoint = 57726
+    = = = =    
+glyph = <Glyph luk.w.19.16 in font SteMiAlfa-Regular>
+codepoint = 57727
+    = = = =    
+glyph = <Glyph luk.d.19.16 in font SteMiAlfa-Regular>
+codepoint = 57728
+    = = = =    
+glyph = <Glyph luk.v.19.16 in font SteMiAlfa-Regular>
+codepoint = 57729
+    = = = =    
+glyph = <Glyph luk.x.19.16 in font SteMiAlfa-Regular>
+codepoint = 57730
+    = = = =    
+glyph = <Glyph luk.q.19.16 in font SteMiAlfa-Regular>
+codepoint = 57731
+    = = = =    
+glyph = <Glyph luk.s.3.9 in font SteMiAlfa-Regular>
+codepoint = 57737
+    = = = =    
+glyph = <Glyph luk.f.3.9 in font SteMiAlfa-Regular>
+codepoint = 57738
+    = = = =    
+glyph = <Glyph luk.t.3.9 in font SteMiAlfa-Regular>
+codepoint = 57739
+    = = = =    
+glyph = <Glyph luk.w.3.9 in font SteMiAlfa-Regular>
+codepoint = 57740
+    = = = =    
+glyph = <Glyph luk.d.3.9 in font SteMiAlfa-Regular>
+codepoint = 57741
+    = = = =    
+glyph = <Glyph luk.v.3.9 in font SteMiAlfa-Regular>
+codepoint = 57742
+    = = = =    
+glyph = <Glyph luk.x.3.9 in font SteMiAlfa-Regular>
+codepoint = 57743
+    = = = =    
+glyph = <Glyph luk.q.3.9 in font SteMiAlfa-Regular>
+codepoint = 57744
+    = = = =    
+glyph = <Glyph luk.s.6.13 in font SteMiAlfa-Regular>
+codepoint = 57746
+    = = = =    
+glyph = <Glyph luk.f.6.13 in font SteMiAlfa-Regular>
+codepoint = 57747
+    = = = =    
+glyph = <Glyph luk.t.6.13 in font SteMiAlfa-Regular>
+codepoint = 57748
+    = = = =    
+glyph = <Glyph luk.w.6.13 in font SteMiAlfa-Regular>
+codepoint = 57749
+    = = = =    
+glyph = <Glyph luk.d.6.13 in font SteMiAlfa-Regular>
+codepoint = 57750
+    = = = =    
+glyph = <Glyph luk.v.6.13 in font SteMiAlfa-Regular>
+codepoint = 57751
+    = = = =    
+glyph = <Glyph luk.x.6.13 in font SteMiAlfa-Regular>
+codepoint = 57752
+    = = = =    
+glyph = <Glyph luk.q.6.13 in font SteMiAlfa-Regular>
+codepoint = 57753
+    = = = =    
+glyph = <Glyph luk.s.9.16 in font SteMiAlfa-Regular>
+codepoint = 57755
+    = = = =    
+glyph = <Glyph luk.f.9.16 in font SteMiAlfa-Regular>
+codepoint = 57756
+    = = = =    
+glyph = <Glyph luk.t.9.16 in font SteMiAlfa-Regular>
+codepoint = 57757
+    = = = =    
+glyph = <Glyph luk.w.9.16 in font SteMiAlfa-Regular>
+codepoint = 57758
+    = = = =    
+glyph = <Glyph luk.d.9.16 in font SteMiAlfa-Regular>
+codepoint = 57759
+    = = = =    
+glyph = <Glyph luk.v.9.16 in font SteMiAlfa-Regular>
+codepoint = 57760
+    = = = =    
+glyph = <Glyph luk.x.9.16 in font SteMiAlfa-Regular>
+codepoint = 57761
+    = = = =    
+glyph = <Glyph luk.q.9.16 in font SteMiAlfa-Regular>
+codepoint = 57762
+    = = = =    
+glyph = <Glyph luk.s.13.19 in font SteMiAlfa-Regular>
+codepoint = 57764
+    = = = =    
+glyph = <Glyph luk.f.13.19 in font SteMiAlfa-Regular>
+codepoint = 57765
+    = = = =    
+glyph = <Glyph luk.t.13.19 in font SteMiAlfa-Regular>
+codepoint = 57766
+    = = = =    
+glyph = <Glyph luk.w.13.19 in font SteMiAlfa-Regular>
+codepoint = 57767
+    = = = =    
+glyph = <Glyph luk.d.13.19 in font SteMiAlfa-Regular>
+codepoint = 57768
+    = = = =    
+glyph = <Glyph luk.v.13.19 in font SteMiAlfa-Regular>
+codepoint = 57769
+    = = = =    
+glyph = <Glyph luk.x.13.19 in font SteMiAlfa-Regular>
+codepoint = 57770
+    = = = =    
+glyph = <Glyph luk.q.13.19 in font SteMiAlfa-Regular>
+codepoint = 57771
+    = = = =    
+glyph = <Glyph luk.s.16.30 in font SteMiAlfa-Regular>
+codepoint = 57773
+    = = = =    
+glyph = <Glyph luk.f.16.30 in font SteMiAlfa-Regular>
+codepoint = 57774
+    = = = =    
+glyph = <Glyph luk.t.16.30 in font SteMiAlfa-Regular>
+codepoint = 57775
+    = = = =    
+glyph = <Glyph luk.w.16.30 in font SteMiAlfa-Regular>
+codepoint = 57776
+    = = = =    
+glyph = <Glyph luk.d.16.30 in font SteMiAlfa-Regular>
+codepoint = 57777
+    = = = =    
+glyph = <Glyph luk.v.16.30 in font SteMiAlfa-Regular>
+codepoint = 57778
+    = = = =    
+glyph = <Glyph luk.x.16.30 in font SteMiAlfa-Regular>
+codepoint = 57779
+    = = = =    
+glyph = <Glyph luk.q.16.30 in font SteMiAlfa-Regular>
+codepoint = 57780
+    = = = =    
+glyph = <Glyph luk.s.6.0 in font SteMiAlfa-Regular>
+codepoint = 57782
+    = = = =    
+glyph = <Glyph luk.f.6.0 in font SteMiAlfa-Regular>
+codepoint = 57783
+    = = = =    
+glyph = <Glyph luk.t.6.0 in font SteMiAlfa-Regular>
+codepoint = 57784
+    = = = =    
+glyph = <Glyph luk.w.6.0 in font SteMiAlfa-Regular>
+codepoint = 57785
+    = = = =    
+glyph = <Glyph luk.d.6.0 in font SteMiAlfa-Regular>
+codepoint = 57786
+    = = = =    
+glyph = <Glyph luk.v.6.0 in font SteMiAlfa-Regular>
+codepoint = 57787
+    = = = =    
+glyph = <Glyph luk.x.6.0 in font SteMiAlfa-Regular>
+codepoint = 57788
+    = = = =    
+glyph = <Glyph luk.q.6.0 in font SteMiAlfa-Regular>
+codepoint = 57789
+    = = = =    
+glyph = <Glyph luk.s.9.3 in font SteMiAlfa-Regular>
+codepoint = 57791
+    = = = =    
+glyph = <Glyph luk.f.9.3 in font SteMiAlfa-Regular>
+codepoint = 57792
+    = = = =    
+glyph = <Glyph luk.t.9.3 in font SteMiAlfa-Regular>
+codepoint = 57793
+    = = = =    
+glyph = <Glyph luk.w.9.3 in font SteMiAlfa-Regular>
+codepoint = 57794
+    = = = =    
+glyph = <Glyph luk.d.9.3 in font SteMiAlfa-Regular>
+codepoint = 57795
+    = = = =    
+glyph = <Glyph luk.v.9.3 in font SteMiAlfa-Regular>
+codepoint = 57796
+    = = = =    
+glyph = <Glyph luk.x.9.3 in font SteMiAlfa-Regular>
+codepoint = 57797
+    = = = =    
+glyph = <Glyph luk.q.9.3 in font SteMiAlfa-Regular>
+codepoint = 57798
+    = = = =    
+glyph = <Glyph luk.s.13.6 in font SteMiAlfa-Regular>
+codepoint = 57800
+    = = = =    
+glyph = <Glyph luk.f.13.6 in font SteMiAlfa-Regular>
+codepoint = 57801
+    = = = =    
+glyph = <Glyph luk.t.13.6 in font SteMiAlfa-Regular>
+codepoint = 57802
+    = = = =    
+glyph = <Glyph luk.w.13.6 in font SteMiAlfa-Regular>
+codepoint = 57803
+    = = = =    
+glyph = <Glyph luk.d.13.6 in font SteMiAlfa-Regular>
+codepoint = 57804
+    = = = =    
+glyph = <Glyph luk.v.13.6 in font SteMiAlfa-Regular>
+codepoint = 57805
+    = = = =    
+glyph = <Glyph luk.x.13.6 in font SteMiAlfa-Regular>
+codepoint = 57806
+    = = = =    
+glyph = <Glyph luk.q.13.6 in font SteMiAlfa-Regular>
+codepoint = 57807
+    = = = =    
+glyph = <Glyph luk.s.16.9 in font SteMiAlfa-Regular>
+codepoint = 57809
+    = = = =    
+glyph = <Glyph luk.f.16.9 in font SteMiAlfa-Regular>
+codepoint = 57810
+    = = = =    
+glyph = <Glyph luk.t.16.9 in font SteMiAlfa-Regular>
+codepoint = 57811
+    = = = =    
+glyph = <Glyph luk.w.16.9 in font SteMiAlfa-Regular>
+codepoint = 57812
+    = = = =    
+glyph = <Glyph luk.d.16.9 in font SteMiAlfa-Regular>
+codepoint = 57813
+    = = = =    
+glyph = <Glyph luk.v.16.9 in font SteMiAlfa-Regular>
+codepoint = 57814
+    = = = =    
+glyph = <Glyph luk.x.16.9 in font SteMiAlfa-Regular>
+codepoint = 57815
+    = = = =    
+glyph = <Glyph luk.q.16.9 in font SteMiAlfa-Regular>
+codepoint = 57816
+    = = = =    
+glyph = <Glyph luk.s.19.13 in font SteMiAlfa-Regular>
+codepoint = 57818
+    = = = =    
+glyph = <Glyph luk.f.19.13 in font SteMiAlfa-Regular>
+codepoint = 57819
+    = = = =    
+glyph = <Glyph luk.t.19.13 in font SteMiAlfa-Regular>
+codepoint = 57820
+    = = = =    
+glyph = <Glyph luk.w.19.13 in font SteMiAlfa-Regular>
+codepoint = 57821
+    = = = =    
+glyph = <Glyph luk.d.19.13 in font SteMiAlfa-Regular>
+codepoint = 57822
+    = = = =    
+glyph = <Glyph luk.v.19.13 in font SteMiAlfa-Regular>
+codepoint = 57823
+    = = = =    
+glyph = <Glyph luk.x.19.13 in font SteMiAlfa-Regular>
+codepoint = 57824
+    = = = =    
+glyph = <Glyph luk.q.19.13 in font SteMiAlfa-Regular>
+codepoint = 57825
+    = = = =    
+glyph = <Glyph luk.s.30.16 in font SteMiAlfa-Regular>
+codepoint = 57827
+    = = = =    
+glyph = <Glyph luk.f.30.16 in font SteMiAlfa-Regular>
+codepoint = 57828
+    = = = =    
+glyph = <Glyph luk.t.30.16 in font SteMiAlfa-Regular>
+codepoint = 57829
+    = = = =    
+glyph = <Glyph luk.w.30.16 in font SteMiAlfa-Regular>
+codepoint = 57830
+    = = = =    
+glyph = <Glyph luk.d.30.16 in font SteMiAlfa-Regular>
+codepoint = 57831
+    = = = =    
+glyph = <Glyph luk.v.30.16 in font SteMiAlfa-Regular>
+codepoint = 57832
+    = = = =    
+glyph = <Glyph luk.x.30.16 in font SteMiAlfa-Regular>
+codepoint = 57833
+    = = = =    
+glyph = <Glyph luk.q.30.16 in font SteMiAlfa-Regular>
+codepoint = 57834
+    = = = =    
+glyph = <Glyph luk.s.4.14 in font SteMiAlfa-Regular>
+codepoint = 57845
+    = = = =    
+glyph = <Glyph luk.f.4.14 in font SteMiAlfa-Regular>
+codepoint = 57846
+    = = = =    
+glyph = <Glyph luk.t.4.14 in font SteMiAlfa-Regular>
+codepoint = 57847
+    = = = =    
+glyph = <Glyph luk.w.4.14 in font SteMiAlfa-Regular>
+codepoint = 57848
+    = = = =    
+glyph = <Glyph luk.d.4.14 in font SteMiAlfa-Regular>
+codepoint = 57849
+    = = = =    
+glyph = <Glyph luk.v.4.14 in font SteMiAlfa-Regular>
+codepoint = 57850
+    = = = =    
+glyph = <Glyph luk.x.4.14 in font SteMiAlfa-Regular>
+codepoint = 57851
+    = = = =    
+glyph = <Glyph luk.q.4.14 in font SteMiAlfa-Regular>
+codepoint = 57852
+    = = = =    
+glyph = <Glyph luk.s.9.19 in font SteMiAlfa-Regular>
+codepoint = 57854
+    = = = =    
+glyph = <Glyph luk.f.9.19 in font SteMiAlfa-Regular>
+codepoint = 57855
+    = = = =    
+glyph = <Glyph luk.t.9.19 in font SteMiAlfa-Regular>
+codepoint = 57856
+    = = = =    
+glyph = <Glyph luk.w.9.19 in font SteMiAlfa-Regular>
+codepoint = 57857
+    = = = =    
+glyph = <Glyph luk.d.9.19 in font SteMiAlfa-Regular>
+codepoint = 57858
+    = = = =    
+glyph = <Glyph luk.v.9.19 in font SteMiAlfa-Regular>
+codepoint = 57859
+    = = = =    
+glyph = <Glyph luk.x.9.19 in font SteMiAlfa-Regular>
+codepoint = 57860
+    = = = =    
+glyph = <Glyph luk.q.9.19 in font SteMiAlfa-Regular>
+codepoint = 57861
+    = = = =    
+glyph = <Glyph luk.s.14.40 in font SteMiAlfa-Regular>
+codepoint = 57863
+    = = = =    
+glyph = <Glyph luk.f.14.40 in font SteMiAlfa-Regular>
+codepoint = 57864
+    = = = =    
+glyph = <Glyph luk.t.14.40 in font SteMiAlfa-Regular>
+codepoint = 57865
+    = = = =    
+glyph = <Glyph luk.w.14.40 in font SteMiAlfa-Regular>
+codepoint = 57866
+    = = = =    
+glyph = <Glyph luk.d.14.40 in font SteMiAlfa-Regular>
+codepoint = 57867
+    = = = =    
+glyph = <Glyph luk.v.14.40 in font SteMiAlfa-Regular>
+codepoint = 57868
+    = = = =    
+glyph = <Glyph luk.x.14.40 in font SteMiAlfa-Regular>
+codepoint = 57869
+    = = = =    
+glyph = <Glyph luk.q.14.40 in font SteMiAlfa-Regular>
+codepoint = 57870
+    = = = =    
+glyph = <Glyph luk.s.9.0 in font SteMiAlfa-Regular>
+codepoint = 57872
+    = = = =    
+glyph = <Glyph luk.f.9.0 in font SteMiAlfa-Regular>
+codepoint = 57873
+    = = = =    
+glyph = <Glyph luk.t.9.0 in font SteMiAlfa-Regular>
+codepoint = 57874
+    = = = =    
+glyph = <Glyph luk.w.9.0 in font SteMiAlfa-Regular>
+codepoint = 57875
+    = = = =    
+glyph = <Glyph luk.d.9.0 in font SteMiAlfa-Regular>
+codepoint = 57876
+    = = = =    
+glyph = <Glyph luk.v.9.0 in font SteMiAlfa-Regular>
+codepoint = 57877
+    = = = =    
+glyph = <Glyph luk.x.9.0 in font SteMiAlfa-Regular>
+codepoint = 57878
+    = = = =    
+glyph = <Glyph luk.q.9.0 in font SteMiAlfa-Regular>
+codepoint = 57879
+    = = = =    
+glyph = <Glyph luk.s.14.4 in font SteMiAlfa-Regular>
+codepoint = 57881
+    = = = =    
+glyph = <Glyph luk.f.14.4 in font SteMiAlfa-Regular>
+codepoint = 57882
+    = = = =    
+glyph = <Glyph luk.t.14.4 in font SteMiAlfa-Regular>
+codepoint = 57883
+    = = = =    
+glyph = <Glyph luk.w.14.4 in font SteMiAlfa-Regular>
+codepoint = 57884
+    = = = =    
+glyph = <Glyph luk.d.14.4 in font SteMiAlfa-Regular>
+codepoint = 57885
+    = = = =    
+glyph = <Glyph luk.v.14.4 in font SteMiAlfa-Regular>
+codepoint = 57886
+    = = = =    
+glyph = <Glyph luk.x.14.4 in font SteMiAlfa-Regular>
+codepoint = 57887
+    = = = =    
+glyph = <Glyph luk.q.14.4 in font SteMiAlfa-Regular>
+codepoint = 57888
+    = = = =    
+glyph = <Glyph luk.s.19.9 in font SteMiAlfa-Regular>
+codepoint = 57890
+    = = = =    
+glyph = <Glyph luk.f.19.9 in font SteMiAlfa-Regular>
+codepoint = 57891
+    = = = =    
+glyph = <Glyph luk.t.19.9 in font SteMiAlfa-Regular>
+codepoint = 57892
+    = = = =    
+glyph = <Glyph luk.w.19.9 in font SteMiAlfa-Regular>
+codepoint = 57893
+    = = = =    
+glyph = <Glyph luk.d.19.9 in font SteMiAlfa-Regular>
+codepoint = 57894
+    = = = =    
+glyph = <Glyph luk.v.19.9 in font SteMiAlfa-Regular>
+codepoint = 57895
+    = = = =    
+glyph = <Glyph luk.x.19.9 in font SteMiAlfa-Regular>
+codepoint = 57896
+    = = = =    
+glyph = <Glyph luk.q.19.9 in font SteMiAlfa-Regular>
+codepoint = 57897
+    = = = =    
+glyph = <Glyph luk.s.40.14 in font SteMiAlfa-Regular>
+codepoint = 57899
+    = = = =    
+glyph = <Glyph luk.f.40.14 in font SteMiAlfa-Regular>
+codepoint = 57900
+    = = = =    
+glyph = <Glyph luk.t.40.14 in font SteMiAlfa-Regular>
+codepoint = 57901
+    = = = =    
+glyph = <Glyph luk.w.40.14 in font SteMiAlfa-Regular>
+codepoint = 57902
+    = = = =    
+glyph = <Glyph luk.d.40.14 in font SteMiAlfa-Regular>
+codepoint = 57903
+    = = = =    
+glyph = <Glyph luk.v.40.14 in font SteMiAlfa-Regular>
+codepoint = 57904
+    = = = =    
+glyph = <Glyph luk.x.40.14 in font SteMiAlfa-Regular>
+codepoint = 57905
+    = = = =    
+glyph = <Glyph luk.q.40.14 in font SteMiAlfa-Regular>
+codepoint = 57906
+    = = = =    
+glyph = <Glyph konCONbis in font SteMiAlfa-Regular>
+codepoint = 57359
+    = = = =    
+glyph = <Glyph konCON.krzyz in font SteMiAlfa-Regular>
+codepoint = 57360
+    * * * *    
+glyph = <Glyph poczPUA in font SteMiAlfa-Regular>
+codepoint = 57344
+last_codepoint = 57344
+    * * * *    
+glyph = <Glyph konVOW in font SteMiAlfa-Regular>
+codepoint = 57345
+last_codepoint = 57345
+    * * * *    
+glyph = <Glyph konCONS in font SteMiAlfa-Regular>
+codepoint = 57346
+last_codepoint = 57346
+    * * * *    
+glyph = <Glyph prostaCONS in font SteMiAlfa-Regular>
+codepoint = 57347
+last_codepoint = 57347
+    * * * *    
+glyph = <Glyph prostaVOW in font SteMiAlfa-Regular>
+codepoint = 57348
+last_codepoint = 57348
+    * * * *    
+glyph = <Glyph malaspacja in font SteMiAlfa-Regular>
+codepoint = 57349
+last_codepoint = 57349
+    * * * *    
+glyph = <Glyph stm.k in font SteMiAlfa-Regular>
+codepoint = 57352
+new_codepoint = 57350
+new_codepoint = 57350
+glyph.glyphname = uniE006
+last_codepoint = 57350
+    * * * *    
+glyph = <Glyph stm.k.krt in font SteMiAlfa-Regular>
+codepoint = 57353
+new_codepoint = 57351
+new_codepoint = 57351
+glyph.glyphname = uniE007
+last_codepoint = 57351
+    * * * *    
+glyph = <Glyph stm.g in font SteMiAlfa-Regular>
+codepoint = 57354
+new_codepoint = 57352
+new_codepoint = 57352
+glyph.glyphname = uniE008
+last_codepoint = 57352

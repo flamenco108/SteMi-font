@@ -84,7 +84,7 @@ pre_b_rules = [
 # Define pre-transformation rules for -w flag
 pre_w_rules = [
     (r'kw/kf/kow/kof/ków/kuw/kuf', 'ƙ'),
-    (r'pw/pf/pow/pof/pów/puw/puf', 'Þ'),
+    (r'pw/pf/pow/pof/pów/puw/puf', 'ṗ'),
     (r'chow/hw/chf/hf/chow/how/chof/hof/chów/hów/chuf/huf', 'ƕ'),
     (r'tw/tf/tow/tof/tów/tóf/tuf', 'ƫ'),
     (r'szw/szf/szef/szew/szów/szuf', 'ş'),

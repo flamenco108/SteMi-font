@@ -1,0 +1,5 @@
+Error generating OTF font: Font generation failed
+Traceback (most recent call last):
+  File "/home/flamenco/steno/SteMi-font/theory-dev/skrypty/generuj-font07.py", line 131, in generate_otf_font
+    font.generate(path)
+OSError: Font generation failed

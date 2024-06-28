@@ -25,9 +25,14 @@ nazwa=${isfd%.*} && echo "Nazwa (bez rozszerzenia): $nazwa"
 
 
 # Execute the commands
-#../skrypty/generuj-font03.py "$isfd" "$osfd" "$ootf" && \
-../skrypty/generuj-font03.py $isfd $nazwa-wyn.sfd $nazwa.otf && \
-../skrypty/dodaj-fea-otf.py $fea_file $nazwa.otf && \
+# stary działający skrypt
+../skrypty/generuj-font03.py $isfd $nazwa-wyn.sfd $nazwa-wyn.otf && \
+# nowy skrypt
+echo "Generujem... "
+#../skrypty/generuj-font08.py $isfd $nazwa-wyn.sfd $nazwa-wyn.otf && \
+echo "Dodajem fea... " && \
+#../skrypty/dodaj-fea-otf.py $fea_file $nazwa.otf && \
+../skrypty/dodaj-fea-otf02.py $nazwa-wyn.otf $fea_file $nazwa.otf && \
 echo "" && \
 echo "$ttxt" && \
 #hb-shape --ned --no-positions "$ootf" "$ttxt" && \

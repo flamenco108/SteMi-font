@@ -1,0 +1,2266 @@
+References detached.
+References replaced with splines.
+# # # # # # # #
+
+# # # # # # # #
+
+All essential glyphs are present.
+Validation errors in glyph 'exclam': 526346
+Validation errors in glyph 'quotedbl': 526378
+Validation errors in glyph 'numbersign': 526346
+Validation errors in glyph 'dollar': 527402
+Validation errors in glyph 'percent': 527402
+Validation errors in glyph 'ampersand': 524330
+Validation errors in glyph 'quotesingle': 526378
+Validation errors in glyph 'parenleft': 526378
+Validation errors in glyph 'parenright': 526378
+Validation errors in glyph 'asterisk': 526346
+Validation errors in glyph 'plus': 526346
+Validation errors in glyph 'comma': 526346
+Validation errors in glyph 'hyphen': 526346
+Validation errors in glyph 'period': 526346
+Validation errors in glyph 'slash': 524298
+Validation errors in glyph 'colon': 526346
+Validation errors in glyph 'semicolon': 526346
+Validation errors in glyph 'less': 526346
+Validation errors in glyph 'greater': 526346
+Validation errors in glyph 'question': 526378
+Validation errors in glyph 'at': 524330
+Validation errors in glyph 'A': 526346
+Validation errors in glyph 'B': 526378
+Validation errors in glyph 'C': 524298
+Validation errors in glyph 'D': 526346
+Validation errors in glyph 'E': 526346
+Validation errors in glyph 'F': 526346
+Validation errors in glyph 'G': 526346
+Validation errors in glyph 'H': 526346
+Validation errors in glyph 'I': 524298
+Validation errors in glyph 'J': 524298
+Validation errors in glyph 'K': 526346
+Validation errors in glyph 'L': 524298
+Validation errors in glyph 'M': 526346
+Validation errors in glyph 'N': 524298
+Validation errors in glyph 'P': 526378
+Validation errors in glyph 'Q': 526346
+Validation errors in glyph 'R': 524298
+Validation errors in glyph 'S': 524298
+Validation errors in glyph 'T': 524298
+Validation errors in glyph 'U': 526346
+Validation errors in glyph 'V': 526346
+Validation errors in glyph 'W': 526346
+Validation errors in glyph 'X': 526346
+Validation errors in glyph 'Y': 526346
+Validation errors in glyph 'Z': 524298
+Validation errors in glyph 'bracketleft': 10
+Validation errors in glyph 'backslash': 524298
+Validation errors in glyph 'bracketright': 10
+Validation errors in glyph 'asciicircum': 524298
+Validation errors in glyph 'underscore': 10
+Validation errors in glyph 'grave': 10
+Validation errors in glyph 'a': 524298
+Validation errors in glyph 'b': 526378
+Validation errors in glyph 'd': 524298
+Validation errors in glyph 'e': 524298
+Validation errors in glyph 'f': 10
+Validation errors in glyph 'g': 10
+Validation errors in glyph 'h': 10
+Validation errors in glyph 'j': 4
+Validation errors in glyph 'k': 524298
+Validation errors in glyph 'm': 524298
+Validation errors in glyph 'o': 524298
+Validation errors in glyph 'p': 526378
+Validation errors in glyph 'q': 524298
+Validation errors in glyph 's': 524288
+Validation errors in glyph 'u': 524298
+Validation errors in glyph 'v': 10
+Validation errors in glyph 'w': 10
+Validation errors in glyph 'x': 524298
+Validation errors in glyph 'y': 10
+Validation errors in glyph 'braceleft': 524330
+Validation errors in glyph 'bar': 10
+Validation errors in glyph 'braceright': 524330
+Validation errors in glyph 'asciitilde': 526378
+Validation errors in glyph 'copyright': 524330
+Validation errors in glyph 'questiondown': 526378
+Validation errors in glyph 'Oacute': 526346
+Validation errors in glyph 'multiply': 526346
+Validation errors in glyph 'oacute': 524298
+Validation errors in glyph 'Aogonek': 526378
+Validation errors in glyph 'aogonek': 524330
+Validation errors in glyph 'Cacute': 524330
+Validation errors in glyph 'cacute': 32
+Validation errors in glyph 'Ccaron': 526378
+Validation errors in glyph 'ccaron': 526378
+Validation errors in glyph 'Dcaron': 526378
+Validation errors in glyph 'dcaron': 526378
+Validation errors in glyph 'Eogonek': 526346
+Validation errors in glyph 'eogonek': 524298
+Validation errors in glyph 'Lslash': 524298
+Validation errors in glyph 'lslash': 4
+Validation errors in glyph 'Nacute': 524298
+Validation errors in glyph 'Sacute': 527402
+Validation errors in glyph 'sacute': 526378
+Validation errors in glyph 'Scaron': 526378
+Validation errors in glyph 'scaron': 526378
+Validation errors in glyph 'Zacute': 524330
+Validation errors in glyph 'zacute': 32
+Validation errors in glyph 'Zdotaccent': 526378
+Validation errors in glyph 'zdotaccent': 526378
+Validation errors in glyph 'Zcaron': 526378
+Validation errors in glyph 'zcaron': 526378
+Validation errors in glyph 'Dz': 524298
+Validation errors in glyph 'circumflex': 524298
+Validation errors in glyph 'uni02E0': 32
+Validation errors in glyph 'uni0313': 32
+Validation errors in glyph 'uni0343': 32
+Validation errors in glyph 'stm.k': 10
+Validation errors in glyph 'stem.i.krt': 10
+Validation errors in glyph 'stem.krt': 10
+Validation errors in glyph 'luTJ': 524330
+Validation errors in glyph 'stm.k.krt': 10
+Validation errors in glyph 'stm.g': 10
+Validation errors in glyph 'luKL': 524330
+Validation errors in glyph 'luSJ': 524330
+Validation errors in glyph 'luCJ': 524298
+Validation errors in glyph 'poczPUA': 2084
+Validation errors in glyph 'koniecPUA': 524320
+Validation errors in glyph 'stm.g.krt': 10
+Validation errors in glyph 'stem.i': 10
+Validation errors in glyph 'lu0': 524298
+Validation errors in glyph 'lu1': 524330
+Validation errors in glyph 'lu3': 524330
+Validation errors in glyph 'lu2': 524330
+Validation errors in glyph 'kolo.s': 526378
+Validation errors in glyph 'kolo.z': 526378
+Validation errors in glyph 'eprost3': 524298
+Validation errors in glyph 'eprost4': 524298
+Validation errors in glyph 'e.org': 524298
+Validation errors in glyph 'u.org': 524298
+Validation errors in glyph 'i.org': 10
+Validation errors in glyph 'y.org': 524298
+Validation errors in glyph 'polokrM.1': 524330
+Validation errors in glyph 'polokrM.2': 524330
+Validation errors in glyph 'polokrM.3': 524330
+Validation errors in glyph 'polokrM.4': 524330
+Validation errors in glyph 'polokrD.1': 524330
+Validation errors in glyph 'polokrD.2': 524330
+Validation errors in glyph 'polokrD.3': 524330
+Validation errors in glyph 'polokrD.4': 524330
+Validation errors in glyph 'okroci': 524330
+Validation errors in glyph 'prostaCONS': 524288
+Validation errors in glyph 'konCONS': 2
+Validation errors in glyph 'endash': 526346
+Validation errors in glyph 'eprost2': 524298
+Validation errors in glyph 'luGL': 524330
+Validation errors in glyph 'dolTW': 42
+Validation errors in glyph 'dolMK30': 524298
+Validation errors in glyph 'dolETW': 524330
+Validation errors in glyph 'dolMKE': 10
+Validation errors in glyph 'luU0': 524298
+Validation errors in glyph 'luU2': 524330
+Validation errors in glyph 'luNdol': 524330
+Validation errors in glyph 'dolKszMKE': 524298
+Validation errors in glyph 'dolKszMK': 10
+Validation errors in glyph 'dolLUK30': 42
+Validation errors in glyph 'eprost0': 524298
+Validation errors in glyph 'eprost1': 524298
+Validation errors in glyph 'eprost5': 524298
+Validation errors in glyph 'eprost6': 524298
+Validation errors in glyph 'gorMKE': 10
+Validation errors in glyph 'kolo.l': 524320
+Validation errors in glyph 'E.org': 526346
+Validation errors in glyph 'e90': 524298
+Validation errors in glyph 'e85.krt': 524298
+Validation errors in glyph 'e90.krt': 524298
+Validation errors in glyph 'e85r': 524298
+Validation errors in glyph 'e90r': 524298
+Validation errors in glyph 're85': 524298
+Validation errors in glyph 're90': 524298
+Validation errors in glyph 're85r': 524298
+Validation errors in glyph 're90r': 524298
+Validation errors in glyph 'luU1': 42
+Validation errors in glyph 'luU3': 524298
+Validation errors in glyph 'luU4': 524330
+Validation errors in glyph 'luU5': 524330
+Validation errors in glyph 'luUa0': 524298
+Validation errors in glyph 'luUa1': 524330
+Validation errors in glyph 'luUa2': 524330
+Validation errors in glyph 'luUa3': 524298
+Validation errors in glyph 'luUa4': 524330
+Validation errors in glyph 'U.org': 526346
+Validation errors in glyph 'u.alt': 524298
+Validation errors in glyph 'U.alt': 526346
+Validation errors in glyph 'u30': 42
+Validation errors in glyph 'u30.alt': 524330
+Validation errors in glyph 'u45': 524330
+Validation errors in glyph 'u45.alt': 524330
+Validation errors in glyph 'u55': 524298
+Validation errors in glyph 'u55.alt': 524298
+Validation errors in glyph 'u.krt': 524330
+Validation errors in glyph 'u.alt.krt': 524330
+Validation errors in glyph 'u.lft': 524330
+Validation errors in glyph 'u30r': 524330
+Validation errors in glyph 'U30r': 526378
+Validation errors in glyph 'u30r.alt': 524330
+Validation errors in glyph 'U30r.alt': 526378
+Validation errors in glyph 'u45r': 524330
+Validation errors in glyph 'U45r': 526378
+Validation errors in glyph 'u45r.alt': 524330
+Validation errors in glyph 'U45r.alt': 526378
+Validation errors in glyph 'u55r': 524298
+Validation errors in glyph 'U55r': 526346
+Validation errors in glyph 'u55r.alt': 524298
+Validation errors in glyph 'U55r.alt': 526346
+Validation errors in glyph 'ru30': 42
+Validation errors in glyph 'ru30.alt': 524330
+Validation errors in glyph 'ru45': 524330
+Validation errors in glyph 'ru45.alt': 524330
+Validation errors in glyph 'ru55': 524298
+Validation errors in glyph 'ru55.alt': 524298
+Validation errors in glyph 'ru45r': 524330
+Validation errors in glyph 'ru45r.alt': 524330
+Validation errors in glyph 'ru55r': 524298
+Validation errors in glyph 'ru55r.alt': 524298
+Validation errors in glyph 'I.org': 526346
+Validation errors in glyph 'i.alt': 10
+Validation errors in glyph 'I.alt': 526346
+Validation errors in glyph 'i.45': 526346
+Validation errors in glyph 'luKLY': 524330
+Validation errors in glyph 'dolMK45': 524298
+Validation errors in glyph 'i.225': 526346
+Validation errors in glyph 'i.prw.45': 526346
+Validation errors in glyph 'I.prw.45': 527370
+Validation errors in glyph 'i.ful45': 527370
+Validation errors in glyph 'i.135': 524298
+Validation errors in glyph 'i.lew45': 526346
+Validation errors in glyph 'i.fin': 526346
+Validation errors in glyph 'dolKszTWE': 524298
+Validation errors in glyph 'gorMK45': 524298
+Validation errors in glyph 'kolo.z.krt': 526378
+Validation errors in glyph 'okredzi': 524330
+Validation errors in glyph 'okrodzi': 524330
+Validation errors in glyph 'i.krt': 10
+Validation errors in glyph 'i.tin': 10
+Validation errors in glyph 'i.krt.alt': 10
+Validation errors in glyph 'i.tin.alt': 10
+Validation errors in glyph 'Y.org': 526346
+Validation errors in glyph 'y20': 524298
+Validation errors in glyph 'y45': 524298
+Validation errors in glyph 'y55': 524298
+Validation errors in glyph 'y30.krt': 524298
+Validation errors in glyph 'y20.krt': 524298
+Validation errors in glyph 'y45.krt': 524298
+Validation errors in glyph 'y55.krt': 524298
+Validation errors in glyph 'ry30': 524298
+Validation errors in glyph 'ry30.krt': 524298
+Validation errors in glyph 'ry20': 524298
+Validation errors in glyph 'ry20.krt': 524298
+Validation errors in glyph 'ry45': 524298
+Validation errors in glyph 'ry45.krt': 524298
+Validation errors in glyph 'ry55': 524298
+Validation errors in glyph 'ry55.krt': 524298
+Validation errors in glyph 'y30r': 524298
+Validation errors in glyph 'y30r.krt': 524298
+Validation errors in glyph 'y20r': 524298
+Validation errors in glyph 'y20r.krt': 524298
+Validation errors in glyph 'y45r': 524298
+Validation errors in glyph 'y45r.krt': 524298
+Validation errors in glyph 'y55r': 524298
+Validation errors in glyph 'y55r.krt': 524298
+Validation errors in glyph 'ry30r': 524298
+Validation errors in glyph 'ry30r.krt': 524298
+Validation errors in glyph 'ry20r': 524298
+Validation errors in glyph 'ry20r.krt': 524298
+Validation errors in glyph 'ry45r': 524298
+Validation errors in glyph 'ry45r.krt': 524298
+Validation errors in glyph 'ry55r': 524298
+Validation errors in glyph 'ry55r.krt': 524298
+Validation errors in glyph 'u.lft.alt': 524330
+Validation errors in glyph 'i.ful30': 527402
+Validation errors in glyph 'i30': 526346
+Validation errors in glyph 'okreci': 524330
+Validation errors in glyph 'luNgor': 524330
+Validation errors in glyph 'luNOdol': 524330
+Validation errors in glyph 'luONgor': 524330
+Validation errors in glyph 'OstrI': 10
+Validation errors in glyph 'gorLUK30': 4718634
+Validation errors in glyph 'gorOMluk30': 42
+Validation errors in glyph 'dolMOluk30': 524330
+Validation errors in glyph 'dolLUK45': 524330
+Validation errors in glyph 'gorLUK45': 524330
+Validation errors in glyph 'gorOMluk45': 524330
+Validation errors in glyph 'dolMOluk45': 524330
+Validation errors in glyph 'luk.s.0.9': 524330
+Validation errors in glyph 'luk.v.0.9': 524330
+Validation errors in glyph 'luk.f.0.9': 524330
+Validation errors in glyph 'lu4': 524298
+Validation errors in glyph 'brh.p.4.19': 524330
+Validation errors in glyph 'brh.p.3.19': 524330
+Validation errors in glyph 'brh.p.6.19': 524298
+Validation errors in glyph 'brh.p.8.19': 524330
+Validation errors in glyph 'brh.b.4.19': 524330
+Validation errors in glyph 'brh.b.3.19': 524330
+Validation errors in glyph 'brh.b.6.19': 524330
+Validation errors in glyph 'brh.b.9.19': 524330
+Validation errors in glyph 'brh.sp.4.19': 524330
+Validation errors in glyph 'brh.sp.3.19': 524330
+Validation errors in glyph 'brh.sp.6.19': 524330
+Validation errors in glyph 'brh.sp.9.19': 42
+Validation errors in glyph 'brh.st.4.16': 524330
+Validation errors in glyph 'brh.st.3.16': 524330
+Validation errors in glyph 'brh.st.6.16': 524330
+Validation errors in glyph 'brh.st.8.16': 524330
+Validation errors in glyph 'brh.zd.4.16': 524298
+Validation errors in glyph 'brh.st.4.19': 524330
+Validation errors in glyph 'brh.st.3.19': 524330
+Validation errors in glyph 'st.bre.6.19': 524330
+Validation errors in glyph 'brh.st.9.19': 524330
+Validation errors in glyph 'brh.zd.3.16': 524298
+Validation errors in glyph 'brh.zd.6.16': 524298
+Validation errors in glyph 'brh.zd.8.16': 524298
+Validation errors in glyph 'kp.brh': 524330
+Validation errors in glyph 'uniE05E': 524330
+Validation errors in glyph 'brh.zd.4.19': 524330
+Validation errors in glyph 'brh.zd.3.19': 524330
+Validation errors in glyph 'brh.zd.6.19': 524330
+Validation errors in glyph 'brh.zd.9.19': 524330
+Validation errors in glyph 'gb.brh': 524330
+Validation errors in glyph 'luk.d.0.3': 524330
+Validation errors in glyph 'luk.s.0.6': 524330
+Validation errors in glyph 'brh.p.3.17': 524330
+Validation errors in glyph 'brh.p.4.17': 524330
+Validation errors in glyph 'brh.p.6.17': 524330
+Validation errors in glyph 'luk.t.0.4': 524298
+Validation errors in glyph 'luk.w.0.4': 524330
+Validation errors in glyph 'luk.d.0.4': 524330
+Validation errors in glyph 'luk.v.0.4': 524330
+Validation errors in glyph 'luk.f.0.4': 524298
+Validation errors in glyph 'luk.s.0.4': 524330
+Validation errors in glyph 'luk.s.0.3': 524330
+Validation errors in glyph 'luk.f.0.3': 524330
+Validation errors in glyph 'luk.t.0.3': 524330
+Validation errors in glyph 'luk.w.0.3': 524330
+Validation errors in glyph 'luk.v.0.3': 524330
+Validation errors in glyph 'luk.t.0.9': 524330
+Validation errors in glyph 'luk.w.0.9': 524330
+Validation errors in glyph 'luk.f.0.6': 524330
+Validation errors in glyph 'luk.t.0.6': 524330
+Validation errors in glyph 'luk.w.0.6': 524330
+Validation errors in glyph 'luk.d.0.6': 524330
+Validation errors in glyph 'luk.v.0.6': 524330
+Validation errors in glyph 'brh.b.3.17': 524330
+Validation errors in glyph 'brh.b.4.17': 524330
+Validation errors in glyph 'brh.b.6.17': 524330
+Validation errors in glyph 'brh.b.6.20': 524330
+Validation errors in glyph 'brh.b.4.20': 524330
+Validation errors in glyph 'brh.b.9.20': 524330
+Validation errors in glyph 'brh.p.6.20': 524330
+Validation errors in glyph 'brh.4.20': 524330
+Validation errors in glyph 'brh.p.8.20': 524330
+Validation errors in glyph 'brh.sp.3.17': 524330
+Validation errors in glyph 'brh.sp.4.17': 524330
+Validation errors in glyph 'brh.sp.6.17': 524330
+Validation errors in glyph 'brh.sp.6.20': 524330
+Validation errors in glyph 'brh.sp.4.20': 524330
+Validation errors in glyph 'brh.sp.9.20': 524330
+Validation errors in glyph 'brh.p.40.3': 524330
+Validation errors in glyph 'brh.sp.40.3': 524330
+Validation errors in glyph 'brh.p.140.9': 524330
+Validation errors in glyph 'brh.sp.140.9': 524330
+Validation errors in glyph 'luk.d.0.9': 524330
+Validation errors in glyph 'luk.x.0.4': 524330
+Validation errors in glyph 'luk.x.0.3': 524330
+Validation errors in glyph 'luk.x.0.6': 524330
+Validation errors in glyph 'luk.x.0.9': 524330
+Validation errors in glyph 'luk.q.0.4': 524330
+Validation errors in glyph 'luk.q.0.3': 524330
+Validation errors in glyph 'luk.q.0.6': 524330
+Validation errors in glyph 'luk.q.0.9': 524330
+Validation errors in glyph 'luk.f.0.2': 524330
+Validation errors in glyph 'luk.q.0.2': 524330
+Validation errors in glyph 'luk.s.0.2': 524330
+Validation errors in glyph 'luk.t.0.2': 524330
+Validation errors in glyph 'luk.w.0.2': 524330
+Validation errors in glyph 'luk.d.0.2': 524330
+Validation errors in glyph 'luk.v.0.2': 524330
+Validation errors in glyph 'luk.x.0.2': 524330
+Validation errors in glyph 'kat.18.3': 524298
+Validation errors in glyph 'kat.18.4': 524298
+Validation errors in glyph 'kat.18.6': 524298
+Validation errors in glyph 'kat.18.8': 524298
+Validation errors in glyph 'luk.s.0.7': 524330
+Validation errors in glyph 'luk.f.0.7': 524330
+Validation errors in glyph 'luk.t.0.7': 524330
+Validation errors in glyph 'luk.w.0.7': 524330
+Validation errors in glyph 'luk.d.0.7': 524330
+Validation errors in glyph 'luk.v.0.7': 524330
+Validation errors in glyph 'luk.x.0.7': 524330
+Validation errors in glyph 'luk.q.0.7': 524330
+Validation errors in glyph 'luk.s.4.9': 524330
+Validation errors in glyph 'luk.f.4.9': 524330
+Validation errors in glyph 'luk.t.4.9': 524330
+Validation errors in glyph 'luk.w.4.9': 524330
+Validation errors in glyph 'luk.d.4.9': 524330
+Validation errors in glyph 'luk.v.4.9': 524298
+Validation errors in glyph 'luk.x.4.9': 524298
+Validation errors in glyph 'luk.q.4.9': 524298
+Validation errors in glyph 'luk.s.9.14': 524330
+Validation errors in glyph 'luk.f.9.14': 524298
+Validation errors in glyph 'luk.t.9.14': 524298
+Validation errors in glyph 'luk.w.9.14': 524330
+Validation errors in glyph 'luk.d.9.14': 524330
+Validation errors in glyph 'luk.v.9.14': 524330
+Validation errors in glyph 'luk.x.9.14': 524330
+Validation errors in glyph 'luk.q.9.14': 524330
+Validation errors in glyph 'luk.s.14.19': 524330
+Validation errors in glyph 'luk.f.14.19': 524330
+Validation errors in glyph 'luk.t.14.19': 524330
+Validation errors in glyph 'luk.w.14.19': 524330
+Validation errors in glyph 'luk.d.14.19': 524330
+Validation errors in glyph 'luk.v.14.19': 524298
+Validation errors in glyph 'luk.x.14.19': 524298
+Validation errors in glyph 'luk.q.14.19': 524298
+Validation errors in glyph 'luk.s.4.0': 524330
+Validation errors in glyph 'luk.f.4.0': 524298
+Validation errors in glyph 'luk.t.4.0': 524298
+Validation errors in glyph 'luk.w.4.0': 524330
+Validation errors in glyph 'luk.d.4.0': 524330
+Validation errors in glyph 'luk.v.4.0': 524330
+Validation errors in glyph 'luk.x.4.0': 524330
+Validation errors in glyph 'luk.q.4.0': 524330
+Validation errors in glyph 'luk.s.9.4': 524330
+Validation errors in glyph 'luk.f.9.4': 524330
+Validation errors in glyph 'luk.t.9.4': 524330
+Validation errors in glyph 'luk.w.9.4': 524330
+Validation errors in glyph 'luk.d.9.4': 524330
+Validation errors in glyph 'luk.v.9.4': 524298
+Validation errors in glyph 'luk.x.9.4': 524298
+Validation errors in glyph 'luk.q.9.4': 524298
+Validation errors in glyph 'luk.s.14.9': 524330
+Validation errors in glyph 'luk.f.14.9': 524298
+Validation errors in glyph 'luk.t.14.9': 524298
+Validation errors in glyph 'luk.w.14.9': 524330
+Validation errors in glyph 'luk.d.14.9': 524330
+Validation errors in glyph 'luk.v.14.9': 524330
+Validation errors in glyph 'luk.x.14.9': 524330
+Validation errors in glyph 'luk.q.14.9': 524330
+Validation errors in glyph 'luk.s.19.14': 524330
+Validation errors in glyph 'luk.f.19.14': 524330
+Validation errors in glyph 'luk.t.19.14': 524330
+Validation errors in glyph 'luk.w.19.14': 524330
+Validation errors in glyph 'luk.d.19.14': 524330
+Validation errors in glyph 'luk.v.19.14': 524298
+Validation errors in glyph 'luk.x.19.14': 524298
+Validation errors in glyph 'luk.q.19.14': 524298
+Validation errors in glyph 'luk.s.3.6': 524298
+Validation errors in glyph 'luk.f.3.6': 524298
+Validation errors in glyph 'luk.t.3.6': 524298
+Validation errors in glyph 'luk.w.3.6': 524298
+Validation errors in glyph 'luk.d.3.6': 524298
+Validation errors in glyph 'luk.v.3.6': 524298
+Validation errors in glyph 'luk.x.3.6': 524298
+Validation errors in glyph 'luk.q.3.6': 524298
+Validation errors in glyph 'luk.s.6.9': 524330
+Validation errors in glyph 'luk.f.6.9': 524330
+Validation errors in glyph 'luk.t.6.9': 524298
+Validation errors in glyph 'luk.w.6.9': 524298
+Validation errors in glyph 'luk.d.6.9': 524298
+Validation errors in glyph 'luk.v.6.9': 524330
+Validation errors in glyph 'luk.x.6.9': 524298
+Validation errors in glyph 'luk.q.6.9': 524298
+Validation errors in glyph 'luk.s.9.13': 524330
+Validation errors in glyph 'luk.f.9.13': 524330
+Validation errors in glyph 'luk.t.9.13': 524330
+Validation errors in glyph 'luk.w.9.13': 524330
+Validation errors in glyph 'luk.d.9.13': 524330
+Validation errors in glyph 'luk.v.9.13': 524330
+Validation errors in glyph 'luk.x.9.13': 524330
+Validation errors in glyph 'luk.q.9.13': 524330
+Validation errors in glyph 'luk.s.13.16': 524298
+Validation errors in glyph 'luk.f.13.16': 524298
+Validation errors in glyph 'luk.t.13.16': 524298
+Validation errors in glyph 'luk.w.13.16': 524298
+Validation errors in glyph 'luk.d.13.16': 524298
+Validation errors in glyph 'luk.v.13.16': 524298
+Validation errors in glyph 'luk.x.13.16': 524298
+Validation errors in glyph 'luk.q.13.16': 524298
+Validation errors in glyph 'luk.s.16.19': 524330
+Validation errors in glyph 'luk.f.16.19': 524330
+Validation errors in glyph 'luk.t.16.19': 524298
+Validation errors in glyph 'luk.w.16.19': 524298
+Validation errors in glyph 'luk.d.16.19': 524298
+Validation errors in glyph 'luk.v.16.19': 524330
+Validation errors in glyph 'luk.x.16.19': 524298
+Validation errors in glyph 'luk.q.16.19': 524298
+Validation errors in glyph 'luk.s.3.0': 524330
+Validation errors in glyph 'luk.f.3.0': 524330
+Validation errors in glyph 'luk.t.3.0': 524330
+Validation errors in glyph 'luk.w.3.0': 524330
+Validation errors in glyph 'luk.d.3.0': 524330
+Validation errors in glyph 'luk.v.3.0': 524330
+Validation errors in glyph 'luk.x.3.0': 524330
+Validation errors in glyph 'luk.q.3.0': 524330
+Validation errors in glyph 'luk.s.6.3': 524298
+Validation errors in glyph 'luk.f.6.3': 524298
+Validation errors in glyph 'luk.t.6.3': 524298
+Validation errors in glyph 'luk.w.6.3': 524298
+Validation errors in glyph 'luk.d.6.3': 524298
+Validation errors in glyph 'luk.v.6.3': 524298
+Validation errors in glyph 'luk.x.6.3': 524298
+Validation errors in glyph 'luk.q.6.3': 524298
+Validation errors in glyph 'luk.s.9.6': 524330
+Validation errors in glyph 'luk.f.9.6': 524330
+Validation errors in glyph 'luk.t.9.6': 524298
+Validation errors in glyph 'luk.w.9.6': 524298
+Validation errors in glyph 'luk.d.9.6': 524298
+Validation errors in glyph 'luk.v.9.6': 524330
+Validation errors in glyph 'luk.x.9.6': 524298
+Validation errors in glyph 'luk.q.9.6': 524298
+Validation errors in glyph 'luk.s.13.9': 524330
+Validation errors in glyph 'luk.f.13.9': 524330
+Validation errors in glyph 'luk.t.13.9': 524330
+Validation errors in glyph 'luk.w.13.9': 524330
+Validation errors in glyph 'luk.d.13.9': 524330
+Validation errors in glyph 'luk.v.13.9': 524330
+Validation errors in glyph 'luk.x.13.9': 524330
+Validation errors in glyph 'luk.q.13.9': 524330
+Validation errors in glyph 'luk.s.16.13': 524298
+Validation errors in glyph 'luk.f.16.13': 524298
+Validation errors in glyph 'luk.t.16.13': 524298
+Validation errors in glyph 'luk.w.16.13': 524298
+Validation errors in glyph 'luk.d.16.13': 524298
+Validation errors in glyph 'luk.v.16.13': 524298
+Validation errors in glyph 'luk.x.16.13': 524298
+Validation errors in glyph 'luk.q.16.13': 524298
+Validation errors in glyph 'luk.s.19.16': 524330
+Validation errors in glyph 'luk.f.19.16': 524330
+Validation errors in glyph 'luk.t.19.16': 524298
+Validation errors in glyph 'luk.w.19.16': 524298
+Validation errors in glyph 'luk.d.19.16': 524298
+Validation errors in glyph 'luk.v.19.16': 524330
+Validation errors in glyph 'luk.x.19.16': 524298
+Validation errors in glyph 'luk.q.19.16': 524298
+Validation errors in glyph 'luk.s.3.9': 524330
+Validation errors in glyph 'luk.f.3.9': 524330
+Validation errors in glyph 'luk.t.3.9': 524298
+Validation errors in glyph 'luk.w.3.9': 524298
+Validation errors in glyph 'luk.d.3.9': 524298
+Validation errors in glyph 'luk.v.3.9': 524298
+Validation errors in glyph 'luk.x.3.9': 524298
+Validation errors in glyph 'luk.q.3.9': 524330
+Validation errors in glyph 'luk.s.6.13': 524330
+Validation errors in glyph 'luk.f.6.13': 524330
+Validation errors in glyph 'luk.t.6.13': 524330
+Validation errors in glyph 'luk.w.6.13': 524330
+Validation errors in glyph 'luk.d.6.13': 524330
+Validation errors in glyph 'luk.v.6.13': 524330
+Validation errors in glyph 'luk.x.6.13': 524330
+Validation errors in glyph 'luk.q.6.13': 524330
+Validation errors in glyph 'luk.s.9.16': 524330
+Validation errors in glyph 'luk.f.9.16': 524330
+Validation errors in glyph 'luk.t.9.16': 524330
+Validation errors in glyph 'luk.w.9.16': 524330
+Validation errors in glyph 'luk.d.9.16': 524330
+Validation errors in glyph 'luk.v.9.16': 524330
+Validation errors in glyph 'luk.x.9.16': 524330
+Validation errors in glyph 'luk.q.9.16': 524330
+Validation errors in glyph 'luk.s.13.19': 524330
+Validation errors in glyph 'luk.f.13.19': 524330
+Validation errors in glyph 'luk.t.13.19': 524298
+Validation errors in glyph 'luk.w.13.19': 524298
+Validation errors in glyph 'luk.d.13.19': 524298
+Validation errors in glyph 'luk.v.13.19': 524298
+Validation errors in glyph 'luk.x.13.19': 524298
+Validation errors in glyph 'luk.q.13.19': 524330
+Validation errors in glyph 'luk.s.16.30': 524330
+Validation errors in glyph 'luk.f.16.30': 524330
+Validation errors in glyph 'luk.t.16.30': 524330
+Validation errors in glyph 'luk.w.16.30': 524330
+Validation errors in glyph 'luk.d.16.30': 524330
+Validation errors in glyph 'luk.v.16.30': 524330
+Validation errors in glyph 'luk.x.16.30': 524330
+Validation errors in glyph 'luk.q.16.30': 524330
+Validation errors in glyph 'luk.s.6.0': 524330
+Validation errors in glyph 'luk.f.6.0': 524330
+Validation errors in glyph 'luk.t.6.0': 524330
+Validation errors in glyph 'luk.w.6.0': 524330
+Validation errors in glyph 'luk.d.6.0': 524330
+Validation errors in glyph 'luk.v.6.0': 524330
+Validation errors in glyph 'luk.x.6.0': 524330
+Validation errors in glyph 'luk.q.6.0': 524330
+Validation errors in glyph 'luk.s.9.3': 524330
+Validation errors in glyph 'luk.f.9.3': 524330
+Validation errors in glyph 'luk.t.9.3': 524298
+Validation errors in glyph 'luk.w.9.3': 524298
+Validation errors in glyph 'luk.d.9.3': 524298
+Validation errors in glyph 'luk.v.9.3': 524298
+Validation errors in glyph 'luk.x.9.3': 524298
+Validation errors in glyph 'luk.q.9.3': 524330
+Validation errors in glyph 'luk.s.13.6': 524330
+Validation errors in glyph 'luk.f.13.6': 524330
+Validation errors in glyph 'luk.t.13.6': 524330
+Validation errors in glyph 'luk.w.13.6': 524330
+Validation errors in glyph 'luk.d.13.6': 524330
+Validation errors in glyph 'luk.v.13.6': 524330
+Validation errors in glyph 'luk.x.13.6': 524330
+Validation errors in glyph 'luk.q.13.6': 524330
+Validation errors in glyph 'luk.s.16.9': 524330
+Validation errors in glyph 'luk.f.16.9': 524330
+Validation errors in glyph 'luk.t.16.9': 524330
+Validation errors in glyph 'luk.w.16.9': 524330
+Validation errors in glyph 'luk.d.16.9': 524330
+Validation errors in glyph 'luk.v.16.9': 524330
+Validation errors in glyph 'luk.x.16.9': 524330
+Validation errors in glyph 'luk.q.16.9': 524330
+Validation errors in glyph 'luk.s.19.13': 524330
+Validation errors in glyph 'luk.f.19.13': 524330
+Validation errors in glyph 'luk.t.19.13': 524298
+Validation errors in glyph 'luk.w.19.13': 524298
+Validation errors in glyph 'luk.d.19.13': 524298
+Validation errors in glyph 'luk.v.19.13': 524298
+Validation errors in glyph 'luk.x.19.13': 524298
+Validation errors in glyph 'luk.q.19.13': 524330
+Validation errors in glyph 'luk.s.30.16': 524330
+Validation errors in glyph 'luk.f.30.16': 524330
+Validation errors in glyph 'luk.t.30.16': 524330
+Validation errors in glyph 'luk.w.30.16': 524330
+Validation errors in glyph 'luk.d.30.16': 524330
+Validation errors in glyph 'luk.v.30.16': 524330
+Validation errors in glyph 'luk.x.30.16': 524330
+Validation errors in glyph 'luk.q.30.16': 524330
+Validation errors in glyph 'luk.s.4.14': 524330
+Validation errors in glyph 'luk.f.4.14': 524330
+Validation errors in glyph 'luk.t.4.14': 524330
+Validation errors in glyph 'luk.w.4.14': 524330
+Validation errors in glyph 'luk.d.4.14': 524330
+Validation errors in glyph 'luk.v.4.14': 524330
+Validation errors in glyph 'luk.x.4.14': 524330
+Validation errors in glyph 'luk.q.4.14': 524330
+Validation errors in glyph 'luk.s.9.19': 524330
+Validation errors in glyph 'luk.f.9.19': 524330
+Validation errors in glyph 'luk.t.9.19': 524330
+Validation errors in glyph 'luk.w.9.19': 524330
+Validation errors in glyph 'luk.d.9.19': 524330
+Validation errors in glyph 'luk.v.9.19': 524330
+Validation errors in glyph 'luk.x.9.19': 524330
+Validation errors in glyph 'luk.q.9.19': 524330
+Validation errors in glyph 'luk.s.14.40': 524330
+Validation errors in glyph 'luk.f.14.40': 524330
+Validation errors in glyph 'luk.t.14.40': 524330
+Validation errors in glyph 'luk.w.14.40': 524330
+Validation errors in glyph 'luk.d.14.40': 524330
+Validation errors in glyph 'luk.v.14.40': 524330
+Validation errors in glyph 'luk.x.14.40': 524330
+Validation errors in glyph 'luk.q.14.40': 524330
+Validation errors in glyph 'luk.s.9.0': 524330
+Validation errors in glyph 'luk.f.9.0': 524330
+Validation errors in glyph 'luk.t.9.0': 524330
+Validation errors in glyph 'luk.w.9.0': 524330
+Validation errors in glyph 'luk.d.9.0': 524330
+Validation errors in glyph 'luk.v.9.0': 524330
+Validation errors in glyph 'luk.x.9.0': 524330
+Validation errors in glyph 'luk.q.9.0': 524330
+Validation errors in glyph 'luk.s.14.4': 524330
+Validation errors in glyph 'luk.f.14.4': 524330
+Validation errors in glyph 'luk.t.14.4': 524330
+Validation errors in glyph 'luk.w.14.4': 524330
+Validation errors in glyph 'luk.d.14.4': 524330
+Validation errors in glyph 'luk.v.14.4': 524330
+Validation errors in glyph 'luk.x.14.4': 524330
+Validation errors in glyph 'luk.q.14.4': 524330
+Validation errors in glyph 'luk.s.19.9': 524330
+Validation errors in glyph 'luk.f.19.9': 524330
+Validation errors in glyph 'luk.t.19.9': 524330
+Validation errors in glyph 'luk.w.19.9': 524330
+Validation errors in glyph 'luk.d.19.9': 524330
+Validation errors in glyph 'luk.v.19.9': 524330
+Validation errors in glyph 'luk.x.19.9': 524330
+Validation errors in glyph 'luk.q.19.9': 524330
+Validation errors in glyph 'luk.s.40.14': 524330
+Validation errors in glyph 'luk.f.40.14': 524330
+Validation errors in glyph 'luk.t.40.14': 524330
+Validation errors in glyph 'luk.w.40.14': 524330
+Validation errors in glyph 'luk.d.40.14': 524330
+Validation errors in glyph 'luk.v.40.14': 524330
+Validation errors in glyph 'luk.x.40.14': 524330
+Validation errors in glyph 'luk.q.40.14': 524330
+Validation errors in glyph 'konCONbis': 2
+Validation errors in glyph 'konCON.krzyz': 2
+Processing glyph: .notdef
+Processing glyph: .null
+Processing glyph: uni000D
+Processing glyph: uni000A
+Processing glyph: space
+Processing glyph: exclam
+Validation errors in glyph 'exclam': 2058
+Processing glyph: quotedbl
+Validation errors in glyph 'quotedbl': 527362
+Processing glyph: numbersign
+Validation errors in glyph 'numbersign': 3074
+Processing glyph: dollar
+Validation errors in glyph 'dollar': 527370
+Processing glyph: percent
+Validation errors in glyph 'percent': 527402
+Processing glyph: ampersand
+Validation errors in glyph 'ampersand': 524290
+Processing glyph: quotesingle
+Validation errors in glyph 'quotesingle': 526338
+Processing glyph: parenleft
+Validation errors in glyph 'parenleft': 526338
+Processing glyph: parenright
+Validation errors in glyph 'parenright': 526338
+Processing glyph: asterisk
+Validation errors in glyph 'asterisk': 526346
+Processing glyph: plus
+Validation errors in glyph 'plus': 2050
+Processing glyph: comma
+Validation errors in glyph 'comma': 526338
+Processing glyph: hyphen
+Validation errors in glyph 'hyphen': 2050
+Processing glyph: period
+Validation errors in glyph 'period': 2058
+Processing glyph: slash
+Validation errors in glyph 'slash': 10
+Processing glyph: zero
+Validation errors in glyph 'zero': 524288
+Processing glyph: one
+Processing glyph: two
+Processing glyph: three
+Validation errors in glyph 'three': 524288
+Processing glyph: four
+Processing glyph: five
+Validation errors in glyph 'five': 524288
+Processing glyph: six
+Validation errors in glyph 'six': 524288
+Processing glyph: seven
+Processing glyph: eight
+Validation errors in glyph 'eight': 524288
+Processing glyph: nine
+Validation errors in glyph 'nine': 524288
+Processing glyph: colon
+Validation errors in glyph 'colon': 3082
+Processing glyph: semicolon
+Validation errors in glyph 'semicolon': 527370
+Processing glyph: less
+Validation errors in glyph 'less': 526346
+Processing glyph: equal
+Processing glyph: greater
+Validation errors in glyph 'greater': 2058
+Processing glyph: question
+Validation errors in glyph 'question': 526346
+Processing glyph: at
+Validation errors in glyph 'at': 524290
+Processing glyph: A
+Validation errors in glyph 'A': 526338
+Processing glyph: B
+Validation errors in glyph 'B': 526346
+Processing glyph: C
+Validation errors in glyph 'C': 526338
+Processing glyph: D
+Validation errors in glyph 'D': 526338
+Processing glyph: E
+Validation errors in glyph 'E': 526338
+Processing glyph: F
+Validation errors in glyph 'F': 526338
+Processing glyph: G
+Validation errors in glyph 'G': 526338
+Processing glyph: H
+Validation errors in glyph 'H': 526346
+Processing glyph: I
+Validation errors in glyph 'I': 2050
+Processing glyph: J
+Validation errors in glyph 'J': 2058
+Processing glyph: K
+Validation errors in glyph 'K': 526338
+Processing glyph: L
+Validation errors in glyph 'L': 526370
+Processing glyph: M
+Validation errors in glyph 'M': 526338
+Processing glyph: N
+Validation errors in glyph 'N': 524290
+Processing glyph: O
+Processing glyph: P
+Validation errors in glyph 'P': 526338
+Processing glyph: Q
+Validation errors in glyph 'Q': 526338
+Processing glyph: R
+Validation errors in glyph 'R': 526338
+Processing glyph: S
+Validation errors in glyph 'S': 526338
+Processing glyph: T
+Validation errors in glyph 'T': 2
+Processing glyph: U
+Validation errors in glyph 'U': 526338
+Processing glyph: V
+Validation errors in glyph 'V': 526346
+Processing glyph: W
+Validation errors in glyph 'W': 526338
+Processing glyph: X
+Validation errors in glyph 'X': 526346
+Processing glyph: Y
+Validation errors in glyph 'Y': 2050
+Processing glyph: Z
+Validation errors in glyph 'Z': 526370
+Processing glyph: bracketleft
+Validation errors in glyph 'bracketleft': 2
+Processing glyph: backslash
+Validation errors in glyph 'backslash': 2
+Processing glyph: bracketright
+Validation errors in glyph 'bracketright': 2
+Processing glyph: asciicircum
+Validation errors in glyph 'asciicircum': 2
+Processing glyph: underscore
+Validation errors in glyph 'underscore': 2
+Processing glyph: grave
+Validation errors in glyph 'grave': 2
+Processing glyph: a
+Validation errors in glyph 'a': 524290
+Processing glyph: b
+Validation errors in glyph 'b': 524290
+Processing glyph: c
+Validation errors in glyph 'c': 524288
+Processing glyph: d
+Validation errors in glyph 'd': 524290
+Processing glyph: e
+Validation errors in glyph 'e': 2
+Processing glyph: f
+Validation errors in glyph 'f': 2
+Processing glyph: g
+Validation errors in glyph 'g': 2
+Processing glyph: h
+Validation errors in glyph 'h': 10
+Processing glyph: i
+Processing glyph: j
+Validation errors in glyph 'j': 4
+Processing glyph: k
+Validation errors in glyph 'k': 2
+Processing glyph: l
+Validation errors in glyph 'l': 524320
+Processing glyph: m
+Validation errors in glyph 'm': 2058
+Processing glyph: n
+Processing glyph: o
+Validation errors in glyph 'o': 524322
+Processing glyph: p
+Validation errors in glyph 'p': 524290
+Processing glyph: q
+Validation errors in glyph 'q': 2
+Processing glyph: r
+Processing glyph: s
+Validation errors in glyph 's': 524288
+Processing glyph: t
+Processing glyph: u
+Validation errors in glyph 'u': 2
+Processing glyph: v
+Validation errors in glyph 'v': 2
+Processing glyph: w
+Validation errors in glyph 'w': 2
+Processing glyph: x
+Validation errors in glyph 'x': 524298
+Processing glyph: y
+Validation errors in glyph 'y': 2
+Processing glyph: z
+Validation errors in glyph 'z': 524320
+Processing glyph: braceleft
+Validation errors in glyph 'braceleft': 524290
+Processing glyph: bar
+Validation errors in glyph 'bar': 2
+Processing glyph: braceright
+Validation errors in glyph 'braceright': 524290
+Processing glyph: asciitilde
+Validation errors in glyph 'asciitilde': 2
+Processing glyph: nbsp
+Processing glyph: exclamdown
+Processing glyph: cent
+Processing glyph: sterling
+Validation errors in glyph 'sterling': 524288
+Processing glyph: currency
+Processing glyph: yen
+Processing glyph: brokenbar
+Processing glyph: section
+Validation errors in glyph 'section': 524288
+Processing glyph: dieresis
+Processing glyph: copyright
+Validation errors in glyph 'copyright': 524290
+Processing glyph: ordfeminine
+Processing glyph: guillemotleft
+Processing glyph: logicalnot
+Processing glyph: uni00AD
+Processing glyph: registered
+Validation errors in glyph 'registered': 524288
+Processing glyph: macron
+Processing glyph: degree
+Validation errors in glyph 'degree': 524288
+Processing glyph: plusminus
+Processing glyph: uni00B2
+Validation errors in glyph 'uni00B2': 32
+Processing glyph: uni00B3
+Validation errors in glyph 'uni00B3': 524288
+Processing glyph: acute
+Processing glyph: mu
+Validation errors in glyph 'mu': 524288
+Processing glyph: paragraph
+Processing glyph: periodcentered
+Processing glyph: cedilla
+Processing glyph: uni00B9
+Processing glyph: ordmasculine
+Processing glyph: guillemotright
+Processing glyph: onequarter
+Processing glyph: onehalf
+Processing glyph: threequarters
+Validation errors in glyph 'threequarters': 524288
+Processing glyph: questiondown
+Validation errors in glyph 'questiondown': 526346
+Processing glyph: Oacute
+Validation errors in glyph 'Oacute': 526338
+Processing glyph: multiply
+Validation errors in glyph 'multiply': 2058
+Processing glyph: oacute
+Validation errors in glyph 'oacute': 2
+Processing glyph: divide
+Processing glyph: Aogonek
+Validation errors in glyph 'Aogonek': 526370
+Processing glyph: aogonek
+Validation errors in glyph 'aogonek': 524322
+Processing glyph: Cacute
+Validation errors in glyph 'Cacute': 526338
+Processing glyph: cacute
+Validation errors in glyph 'cacute': 524288
+Processing glyph: Ccaron
+Validation errors in glyph 'Ccaron': 527370
+Processing glyph: ccaron
+Validation errors in glyph 'ccaron': 526338
+Processing glyph: Dcaron
+Validation errors in glyph 'Dcaron': 527362
+Processing glyph: dcaron
+Validation errors in glyph 'dcaron': 526338
+Processing glyph: Eogonek
+Validation errors in glyph 'Eogonek': 526338
+Processing glyph: eogonek
+Validation errors in glyph 'eogonek': 2
+Processing glyph: Lslash
+Validation errors in glyph 'Lslash': 526338
+Processing glyph: lslash
+Validation errors in glyph 'lslash': 524292
+Processing glyph: Nacute
+Validation errors in glyph 'Nacute': 524290
+Processing glyph: nacute
+Processing glyph: Sacute
+Validation errors in glyph 'Sacute': 527370
+Processing glyph: sacute
+Validation errors in glyph 'sacute': 526346
+Processing glyph: Scaron
+Validation errors in glyph 'Scaron': 526346
+Processing glyph: scaron
+Validation errors in glyph 'scaron': 526338
+Processing glyph: Zacute
+Validation errors in glyph 'Zacute': 526338
+Processing glyph: zacute
+Validation errors in glyph 'zacute': 524288
+Processing glyph: Zdotaccent
+Validation errors in glyph 'Zdotaccent': 526338
+Processing glyph: zdotaccent
+Validation errors in glyph 'zdotaccent': 526338
+Processing glyph: Zcaron
+Validation errors in glyph 'Zcaron': 526338
+Processing glyph: zcaron
+Validation errors in glyph 'zcaron': 526338
+Processing glyph: Dz
+Validation errors in glyph 'Dz': 526370
+Processing glyph: dz
+Validation errors in glyph 'dz': 524320
+Processing glyph: uni02B9
+Processing glyph: uni02BB
+Processing glyph: afii57929
+Processing glyph: afii64937
+Processing glyph: uni02BE
+Validation errors in glyph 'uni02BE': 524288
+Processing glyph: uni02BF
+Validation errors in glyph 'uni02BF': 524288
+Processing glyph: uni02C0
+Processing glyph: uni02C1
+Processing glyph: circumflex
+Validation errors in glyph 'circumflex': 524290
+Processing glyph: caron
+Processing glyph: uni02C8
+Processing glyph: uni02C9
+Processing glyph: uni02CC
+Processing glyph: uni02CD
+Processing glyph: uni02D0
+Processing glyph: uni02D1
+Processing glyph: uni02D2
+Validation errors in glyph 'uni02D2': 524288
+Processing glyph: uni02D3
+Validation errors in glyph 'uni02D3': 524288
+Processing glyph: uni02D6
+Processing glyph: uni02D7
+Processing glyph: breve
+Processing glyph: dotaccent
+Processing glyph: ring
+Validation errors in glyph 'ring': 524288
+Processing glyph: ogonek
+Processing glyph: tilde
+Processing glyph: hungarumlaut
+Processing glyph: uni02DE
+Processing glyph: uni02E0
+Validation errors in glyph 'uni02E0': 524288
+Processing glyph: uni02E1
+Processing glyph: uni02E2
+Validation errors in glyph 'uni02E2': 524288
+Processing glyph: uni02E3
+Processing glyph: uni02E4
+Processing glyph: uni02E5
+Processing glyph: uni02E6
+Processing glyph: uni02E7
+Processing glyph: uni02E8
+Processing glyph: uni02E9
+Processing glyph: uni02EE
+Processing glyph: uni02F3
+Processing glyph: gravecomb
+Processing glyph: acutecomb
+Processing glyph: uni0302
+Processing glyph: tildecomb
+Processing glyph: uni0304
+Processing glyph: uni0305
+Processing glyph: uni0306
+Processing glyph: uni0307
+Processing glyph: uni0308
+Processing glyph: hookabovecomb
+Processing glyph: uni030A
+Validation errors in glyph 'uni030A': 524288
+Processing glyph: uni030B
+Processing glyph: uni030C
+Processing glyph: uni030D
+Processing glyph: uni030E
+Processing glyph: uni030F
+Processing glyph: uni0310
+Processing glyph: uni0311
+Processing glyph: uni0312
+Processing glyph: uni0313
+Validation errors in glyph 'uni0313': 524288
+Processing glyph: uni0314
+Processing glyph: uni0315
+Processing glyph: uni0316
+Processing glyph: uni0317
+Processing glyph: uni0318
+Processing glyph: uni0319
+Processing glyph: uni031A
+Processing glyph: uni031B
+Processing glyph: uni031C
+Validation errors in glyph 'uni031C': 524288
+Processing glyph: uni031D
+Processing glyph: uni031E
+Processing glyph: uni031F
+Processing glyph: uni0320
+Processing glyph: uni0321
+Validation errors in glyph 'uni0321': 32
+Processing glyph: uni0322
+Processing glyph: dotbelowcomb
+Processing glyph: uni0324
+Processing glyph: uni0325
+Processing glyph: uni0326
+Processing glyph: uni0327
+Processing glyph: uni0328
+Processing glyph: uni0329
+Processing glyph: uni032A
+Processing glyph: uni032B
+Processing glyph: uni032C
+Processing glyph: uni032D
+Processing glyph: uni032E
+Processing glyph: uni032F
+Processing glyph: uni0330
+Processing glyph: uni0331
+Processing glyph: uni0332
+Processing glyph: uni0333
+Processing glyph: uni0334
+Validation errors in glyph 'uni0334': 524288
+Processing glyph: uni0335
+Processing glyph: uni0336
+Processing glyph: uni0337
+Processing glyph: uni0338
+Processing glyph: uni0339
+Validation errors in glyph 'uni0339': 524288
+Processing glyph: uni033A
+Processing glyph: uni033B
+Processing glyph: uni033C
+Processing glyph: uni033D
+Processing glyph: uni033E
+Processing glyph: uni033F
+Processing glyph: uni0343
+Validation errors in glyph 'uni0343': 524288
+Processing glyph: uni0358
+Processing glyph: uni0361
+Processing glyph: uni0374
+Processing glyph: uni0375
+Processing glyph: uni037E
+Processing glyph: tonos
+Processing glyph: dieresistonos
+Processing glyph: anoteleia
+Processing glyph: uni0609
+Processing glyph: uni060A
+Processing glyph: quoteright
+Processing glyph: quotesinglbase
+Processing glyph: quotedblright
+Processing glyph: quotedblbase
+Processing glyph: uni2029
+Processing glyph: malaspacja
+Processing glyph: stm.k
+Validation errors in glyph 'stm.k': 2
+Processing glyph: stem.i.krt
+Validation errors in glyph 'stem.i.krt': 2
+Processing glyph: stem.krt
+Validation errors in glyph 'stem.krt': 2
+Processing glyph: luTJ
+Validation errors in glyph 'luTJ': 524290
+Processing glyph: stm.k.krt
+Validation errors in glyph 'stm.k.krt': 2
+Processing glyph: stm.g
+Validation errors in glyph 'stm.g': 2
+Processing glyph: luKL
+Validation errors in glyph 'luKL': 524290
+Processing glyph: luSJ
+Validation errors in glyph 'luSJ': 524290
+Processing glyph: luCJ
+Validation errors in glyph 'luCJ': 2
+Processing glyph: brzuchST.bak
+Validation errors in glyph 'brzuchST.bak': 524288
+Processing glyph: poczPUA
+Validation errors in glyph 'poczPUA': 526372
+Processing glyph: koniecPUA
+Validation errors in glyph 'koniecPUA': 524288
+Processing glyph: stm.g.krt
+Validation errors in glyph 'stm.g.krt': 2
+Processing glyph: stem.i
+Validation errors in glyph 'stem.i': 2
+Processing glyph: lu0
+Validation errors in glyph 'lu0': 524290
+Processing glyph: lu1
+Validation errors in glyph 'lu1': 34
+Processing glyph: lu3
+Validation errors in glyph 'lu3': 2
+Processing glyph: lu2
+Validation errors in glyph 'lu2': 524290
+Processing glyph: luUs
+Processing glyph: kolo.s
+Validation errors in glyph 'kolo.s': 2
+Processing glyph: kolo.z
+Validation errors in glyph 'kolo.z': 2
+Processing glyph: eprost3
+Validation errors in glyph 'eprost3': 2
+Processing glyph: eprost4
+Validation errors in glyph 'eprost4': 2
+Processing glyph: e.org
+Validation errors in glyph 'e.org': 2
+Processing glyph: u.org
+Validation errors in glyph 'u.org': 2
+Processing glyph: i.org
+Validation errors in glyph 'i.org': 10
+Processing glyph: y.org
+Validation errors in glyph 'y.org': 10
+Processing glyph: polokrM.1
+Validation errors in glyph 'polokrM.1': 10
+Processing glyph: polokrM.2
+Validation errors in glyph 'polokrM.2': 2
+Processing glyph: polokrM.3
+Validation errors in glyph 'polokrM.3': 2
+Processing glyph: polokrM.4
+Validation errors in glyph 'polokrM.4': 524290
+Processing glyph: polokrD.1
+Validation errors in glyph 'polokrD.1': 2
+Processing glyph: polokrD.2
+Validation errors in glyph 'polokrD.2': 2
+Processing glyph: polokrD.3
+Validation errors in glyph 'polokrD.3': 2
+Processing glyph: polokrD.4
+Validation errors in glyph 'polokrD.4': 2
+Processing glyph: okroci
+Validation errors in glyph 'okroci': 524290
+Processing glyph: prostaVOW
+Processing glyph: prostaCONS
+Processing glyph: konCONS
+Validation errors in glyph 'konCONS': 2
+Processing glyph: endash
+Validation errors in glyph 'endash': 2050
+Processing glyph: konVOW
+Processing glyph: eprost2
+Validation errors in glyph 'eprost2': 2
+Processing glyph: luGL
+Validation errors in glyph 'luGL': 10
+Processing glyph: dolTW
+Validation errors in glyph 'dolTW': 524290
+Processing glyph: dolMK30
+Validation errors in glyph 'dolMK30': 10
+Processing glyph: dolETW
+Validation errors in glyph 'dolETW': 2
+Processing glyph: dolMKE
+Validation errors in glyph 'dolMKE': 2
+Processing glyph: luU0
+Validation errors in glyph 'luU0': 2
+Processing glyph: luU2
+Validation errors in glyph 'luU2': 524298
+Processing glyph: luNdol
+Validation errors in glyph 'luNdol': 524290
+Processing glyph: dolKszMKE
+Validation errors in glyph 'dolKszMKE': 2
+Processing glyph: dolKszMK
+Validation errors in glyph 'dolKszMK': 2
+Processing glyph: dolLUK30
+Validation errors in glyph 'dolLUK30': 524322
+Processing glyph: eprost0
+Validation errors in glyph 'eprost0': 2
+Processing glyph: eprost1
+Validation errors in glyph 'eprost1': 2
+Processing glyph: eprost5
+Validation errors in glyph 'eprost5': 2
+Processing glyph: eprost6
+Validation errors in glyph 'eprost6': 2
+Processing glyph: gorMKE
+Validation errors in glyph 'gorMKE': 2
+Processing glyph: kolo.l
+Processing glyph: E.org
+Validation errors in glyph 'E.org': 526338
+Processing glyph: e90
+Validation errors in glyph 'e90': 2
+Processing glyph: e85.krt
+Validation errors in glyph 'e85.krt': 2
+Processing glyph: e90.krt
+Validation errors in glyph 'e90.krt': 524290
+Processing glyph: e85r
+Validation errors in glyph 'e85r': 2
+Processing glyph: e90r
+Validation errors in glyph 'e90r': 2
+Processing glyph: re85
+Validation errors in glyph 're85': 2
+Processing glyph: re90
+Validation errors in glyph 're90': 2
+Processing glyph: re85r
+Validation errors in glyph 're85r': 2
+Processing glyph: re90r
+Validation errors in glyph 're90r': 2
+Processing glyph: luU1
+Validation errors in glyph 'luU1': 524290
+Processing glyph: luU3
+Validation errors in glyph 'luU3': 2
+Processing glyph: luU4
+Validation errors in glyph 'luU4': 524322
+Processing glyph: luU5
+Validation errors in glyph 'luU5': 526338
+Processing glyph: luUa0
+Validation errors in glyph 'luUa0': 2
+Processing glyph: luUa1
+Validation errors in glyph 'luUa1': 524290
+Processing glyph: luUa2
+Validation errors in glyph 'luUa2': 524322
+Processing glyph: luUa3
+Validation errors in glyph 'luUa3': 2
+Processing glyph: luUa4
+Validation errors in glyph 'luUa4': 524322
+Processing glyph: U.org
+Validation errors in glyph 'U.org': 526338
+Processing glyph: u.alt
+Validation errors in glyph 'u.alt': 2
+Processing glyph: U.alt
+Validation errors in glyph 'U.alt': 526338
+Processing glyph: u30
+Validation errors in glyph 'u30': 524290
+Processing glyph: u30.alt
+Validation errors in glyph 'u30.alt': 524290
+Processing glyph: u45
+Validation errors in glyph 'u45': 524298
+Processing glyph: u45.alt
+Validation errors in glyph 'u45.alt': 524322
+Processing glyph: u55
+Validation errors in glyph 'u55': 10
+Processing glyph: u55.alt
+Validation errors in glyph 'u55.alt': 2
+Processing glyph: u.krt
+Validation errors in glyph 'u.krt': 524322
+Processing glyph: u.alt.krt
+Validation errors in glyph 'u.alt.krt': 524322
+Processing glyph: u.lft
+Validation errors in glyph 'u.lft': 526346
+Processing glyph: u30r
+Validation errors in glyph 'u30r': 524330
+Processing glyph: U30r
+Validation errors in glyph 'U30r': 526378
+Processing glyph: u30r.alt
+Validation errors in glyph 'u30r.alt': 524290
+Processing glyph: U30r.alt
+Validation errors in glyph 'U30r.alt': 526338
+Processing glyph: u45r
+Validation errors in glyph 'u45r': 524330
+Processing glyph: U45r
+Validation errors in glyph 'U45r': 526378
+Processing glyph: u45r.alt
+Validation errors in glyph 'u45r.alt': 524322
+Processing glyph: U45r.alt
+Validation errors in glyph 'U45r.alt': 526370
+Processing glyph: u55r
+Validation errors in glyph 'u55r': 10
+Processing glyph: U55r
+Validation errors in glyph 'U55r': 2058
+Processing glyph: u55r.alt
+Validation errors in glyph 'u55r.alt': 2
+Processing glyph: U55r.alt
+Validation errors in glyph 'U55r.alt': 2050
+Processing glyph: ru30
+Validation errors in glyph 'ru30': 524290
+Processing glyph: ru30.alt
+Validation errors in glyph 'ru30.alt': 524290
+Processing glyph: ru45
+Validation errors in glyph 'ru45': 524330
+Processing glyph: ru45.alt
+Validation errors in glyph 'ru45.alt': 524322
+Processing glyph: ru55
+Validation errors in glyph 'ru55': 10
+Processing glyph: ru55.alt
+Validation errors in glyph 'ru55.alt': 2
+Processing glyph: ru45r
+Validation errors in glyph 'ru45r': 524330
+Processing glyph: ru45r.alt
+Validation errors in glyph 'ru45r.alt': 524322
+Processing glyph: ru55r
+Validation errors in glyph 'ru55r': 10
+Processing glyph: ru55r.alt
+Validation errors in glyph 'ru55r.alt': 2
+Processing glyph: I.org
+Validation errors in glyph 'I.org': 526338
+Processing glyph: i.alt
+Validation errors in glyph 'i.alt': 10
+Processing glyph: I.alt
+Validation errors in glyph 'I.alt': 526346
+Processing glyph: i.45
+Validation errors in glyph 'i.45': 526346
+Processing glyph: luKLY
+Validation errors in glyph 'luKLY': 524290
+Processing glyph: dolMK45
+Validation errors in glyph 'dolMK45': 2
+Processing glyph: i.225
+Validation errors in glyph 'i.225': 526346
+Processing glyph: i.prw.45
+Validation errors in glyph 'i.prw.45': 526346
+Processing glyph: I.prw.45
+Validation errors in glyph 'I.prw.45': 527362
+Processing glyph: i.ful45
+Validation errors in glyph 'i.ful45': 527370
+Processing glyph: i.135
+Validation errors in glyph 'i.135': 2
+Processing glyph: i.lew45
+Validation errors in glyph 'i.lew45': 526346
+Processing glyph: i.fin
+Validation errors in glyph 'i.fin': 2
+Processing glyph: dolKszTWE
+Validation errors in glyph 'dolKszTWE': 2
+Processing glyph: gorMK45
+Validation errors in glyph 'gorMK45': 10
+Processing glyph: o.kolb
+Processing glyph: o.kol.altb
+Processing glyph: kolo.z.krt
+Validation errors in glyph 'kolo.z.krt': 2
+Processing glyph: okredzi
+Validation errors in glyph 'okredzi': 2
+Processing glyph: okrodzi
+Validation errors in glyph 'okrodzi': 524290
+Processing glyph: i.krt
+Validation errors in glyph 'i.krt': 2
+Processing glyph: i.tin
+Validation errors in glyph 'i.tin': 10
+Processing glyph: i.krt.alt
+Validation errors in glyph 'i.krt.alt': 2
+Processing glyph: i.tin.alt
+Validation errors in glyph 'i.tin.alt': 2
+Processing glyph: Y.org
+Validation errors in glyph 'Y.org': 2058
+Processing glyph: y20
+Validation errors in glyph 'y20': 2
+Processing glyph: y45
+Validation errors in glyph 'y45': 10
+Processing glyph: y55
+Validation errors in glyph 'y55': 10
+Processing glyph: y30.krt
+Validation errors in glyph 'y30.krt': 10
+Processing glyph: y20.krt
+Validation errors in glyph 'y20.krt': 2
+Processing glyph: y45.krt
+Validation errors in glyph 'y45.krt': 10
+Processing glyph: y55.krt
+Validation errors in glyph 'y55.krt': 2
+Processing glyph: ry30
+Validation errors in glyph 'ry30': 10
+Processing glyph: ry30.krt
+Validation errors in glyph 'ry30.krt': 10
+Processing glyph: ry20
+Validation errors in glyph 'ry20': 2
+Processing glyph: ry20.krt
+Validation errors in glyph 'ry20.krt': 2
+Processing glyph: ry45
+Validation errors in glyph 'ry45': 10
+Processing glyph: ry45.krt
+Validation errors in glyph 'ry45.krt': 10
+Processing glyph: ry55
+Validation errors in glyph 'ry55': 10
+Processing glyph: ry55.krt
+Validation errors in glyph 'ry55.krt': 2
+Processing glyph: y30r
+Validation errors in glyph 'y30r': 10
+Processing glyph: y30r.krt
+Validation errors in glyph 'y30r.krt': 10
+Processing glyph: y20r
+Validation errors in glyph 'y20r': 2
+Processing glyph: y20r.krt
+Validation errors in glyph 'y20r.krt': 2
+Processing glyph: y45r
+Validation errors in glyph 'y45r': 10
+Processing glyph: y45r.krt
+Validation errors in glyph 'y45r.krt': 10
+Processing glyph: y55r
+Validation errors in glyph 'y55r': 10
+Processing glyph: y55r.krt
+Validation errors in glyph 'y55r.krt': 2
+Processing glyph: ry30r
+Validation errors in glyph 'ry30r': 10
+Processing glyph: ry30r.krt
+Validation errors in glyph 'ry30r.krt': 10
+Processing glyph: ry20r
+Validation errors in glyph 'ry20r': 2
+Processing glyph: ry20r.krt
+Validation errors in glyph 'ry20r.krt': 2
+Processing glyph: ry45r
+Validation errors in glyph 'ry45r': 10
+Processing glyph: ry45r.krt
+Validation errors in glyph 'ry45r.krt': 10
+Processing glyph: ry55r
+Validation errors in glyph 'ry55r': 10
+Processing glyph: ry55r.krt
+Validation errors in glyph 'ry55r.krt': 2
+Processing glyph: u.lft.alt
+Validation errors in glyph 'u.lft.alt': 524298
+Processing glyph: i.ful30
+Validation errors in glyph 'i.ful30': 527370
+Processing glyph: i30
+Validation errors in glyph 'i30': 2
+Processing glyph: okreci
+Validation errors in glyph 'okreci': 2
+Processing glyph: luNgor
+Validation errors in glyph 'luNgor': 524290
+Processing glyph: luNOdol
+Validation errors in glyph 'luNOdol': 524290
+Processing glyph: luONgor
+Validation errors in glyph 'luONgor': 524290
+Processing glyph: OstrI
+Validation errors in glyph 'OstrI': 2
+Processing glyph: gorLUK30
+Validation errors in glyph 'gorLUK30': 4718594
+Processing glyph: gorOMluk30
+Validation errors in glyph 'gorOMluk30': 524290
+Processing glyph: dolMOluk30
+Validation errors in glyph 'dolMOluk30': 524290
+Processing glyph: dolLUK45
+Validation errors in glyph 'dolLUK45': 524290
+Processing glyph: gorLUK45
+Validation errors in glyph 'gorLUK45': 524298
+Processing glyph: gorOMluk45
+Validation errors in glyph 'gorOMluk45': 524298
+Processing glyph: dolMOluk45
+Validation errors in glyph 'dolMOluk45': 524290
+Processing glyph: luk.s.0.9
+Validation errors in glyph 'luk.s.0.9': 2
+Processing glyph: luk.v.0.9
+Validation errors in glyph 'luk.v.0.9': 2
+Processing glyph: luk.f.0.9
+Validation errors in glyph 'luk.f.0.9': 2
+Processing glyph: lu4
+Validation errors in glyph 'lu4': 524290
+Processing glyph: brh.p.4.19
+Validation errors in glyph 'brh.p.4.19': 524290
+Processing glyph: brh.p.3.19
+Validation errors in glyph 'brh.p.3.19': 524290
+Processing glyph: brh.p.6.19
+Validation errors in glyph 'brh.p.6.19': 2
+Processing glyph: brh.p.8.19
+Validation errors in glyph 'brh.p.8.19': 524322
+Processing glyph: brh.b.4.19
+Validation errors in glyph 'brh.b.4.19': 524290
+Processing glyph: brh.b.3.19
+Validation errors in glyph 'brh.b.3.19': 524290
+Processing glyph: brh.b.6.19
+Validation errors in glyph 'brh.b.6.19': 524290
+Processing glyph: brh.b.9.19
+Validation errors in glyph 'brh.b.9.19': 524290
+Processing glyph: brh.sp.4.19
+Validation errors in glyph 'brh.sp.4.19': 524290
+Processing glyph: brh.sp.3.19
+Validation errors in glyph 'brh.sp.3.19': 524322
+Processing glyph: brh.sp.6.19
+Validation errors in glyph 'brh.sp.6.19': 524290
+Processing glyph: brh.sp.9.19
+Validation errors in glyph 'brh.sp.9.19': 34
+Processing glyph: brh.st.4.16
+Validation errors in glyph 'brh.st.4.16': 524290
+Processing glyph: brh.st.3.16
+Validation errors in glyph 'brh.st.3.16': 524290
+Processing glyph: brh.st.6.16
+Validation errors in glyph 'brh.st.6.16': 524290
+Processing glyph: brh.st.8.16
+Validation errors in glyph 'brh.st.8.16': 524290
+Processing glyph: brh.zd.4.16
+Validation errors in glyph 'brh.zd.4.16': 524290
+Processing glyph: brh.st.4.19
+Validation errors in glyph 'brh.st.4.19': 524290
+Processing glyph: brh.st.3.19
+Validation errors in glyph 'brh.st.3.19': 524290
+Processing glyph: st.bre.6.19
+Validation errors in glyph 'st.bre.6.19': 524290
+Processing glyph: brh.st.9.19
+Validation errors in glyph 'brh.st.9.19': 524290
+Processing glyph: brh.zd.3.16
+Validation errors in glyph 'brh.zd.3.16': 524290
+Processing glyph: brh.zd.6.16
+Validation errors in glyph 'brh.zd.6.16': 524290
+Processing glyph: brh.zd.8.16
+Validation errors in glyph 'brh.zd.8.16': 524290
+Processing glyph: kp.brh
+Validation errors in glyph 'kp.brh': 2
+Processing glyph: uniE05E
+Validation errors in glyph 'uniE05E': 2
+Processing glyph: brh.zd.4.19
+Validation errors in glyph 'brh.zd.4.19': 524290
+Processing glyph: brh.zd.3.19
+Validation errors in glyph 'brh.zd.3.19': 524290
+Processing glyph: brh.zd.6.19
+Validation errors in glyph 'brh.zd.6.19': 524290
+Processing glyph: brh.zd.9.19
+Validation errors in glyph 'brh.zd.9.19': 524290
+Processing glyph: gb.brh
+Validation errors in glyph 'gb.brh': 2
+Processing glyph: luk.d.0.3
+Validation errors in glyph 'luk.d.0.3': 10
+Processing glyph: luk.s.0.6
+Validation errors in glyph 'luk.s.0.6': 10
+Processing glyph: brh.p.3.17
+Validation errors in glyph 'brh.p.3.17': 524290
+Processing glyph: brh.p.4.17
+Validation errors in glyph 'brh.p.4.17': 524298
+Processing glyph: brh.p.6.17
+Validation errors in glyph 'brh.p.6.17': 524290
+Processing glyph: luk.t.0.4
+Validation errors in glyph 'luk.t.0.4': 10
+Processing glyph: luk.w.0.4
+Validation errors in glyph 'luk.w.0.4': 42
+Processing glyph: luk.d.0.4
+Validation errors in glyph 'luk.d.0.4': 2
+Processing glyph: luk.v.0.4
+Validation errors in glyph 'luk.v.0.4': 10
+Processing glyph: luk.f.0.4
+Validation errors in glyph 'luk.f.0.4': 2
+Processing glyph: luk.s.0.4
+Validation errors in glyph 'luk.s.0.4': 10
+Processing glyph: luk.s.0.3
+Validation errors in glyph 'luk.s.0.3': 10
+Processing glyph: luk.f.0.3
+Validation errors in glyph 'luk.f.0.3': 10
+Processing glyph: luk.t.0.3
+Validation errors in glyph 'luk.t.0.3': 2
+Processing glyph: luk.w.0.3
+Validation errors in glyph 'luk.w.0.3': 34
+Processing glyph: luk.v.0.3
+Validation errors in glyph 'luk.v.0.3': 10
+Processing glyph: luk.t.0.9
+Validation errors in glyph 'luk.t.0.9': 2
+Processing glyph: luk.w.0.9
+Validation errors in glyph 'luk.w.0.9': 34
+Processing glyph: luk.f.0.6
+Validation errors in glyph 'luk.f.0.6': 10
+Processing glyph: luk.t.0.6
+Validation errors in glyph 'luk.t.0.6': 2
+Processing glyph: luk.w.0.6
+Validation errors in glyph 'luk.w.0.6': 34
+Processing glyph: luk.d.0.6
+Validation errors in glyph 'luk.d.0.6': 10
+Processing glyph: luk.v.0.6
+Validation errors in glyph 'luk.v.0.6': 10
+Processing glyph: brh.b.3.17
+Validation errors in glyph 'brh.b.3.17': 524322
+Processing glyph: brh.b.4.17
+Validation errors in glyph 'brh.b.4.17': 524330
+Processing glyph: brh.b.6.17
+Validation errors in glyph 'brh.b.6.17': 524330
+Processing glyph: brh.b.6.20
+Validation errors in glyph 'brh.b.6.20': 524290
+Processing glyph: brh.b.4.20
+Validation errors in glyph 'brh.b.4.20': 524290
+Processing glyph: brh.b.9.20
+Validation errors in glyph 'brh.b.9.20': 524330
+Processing glyph: brh.p.6.20
+Validation errors in glyph 'brh.p.6.20': 524290
+Processing glyph: brh.4.20
+Validation errors in glyph 'brh.4.20': 524298
+Processing glyph: brh.p.8.20
+Validation errors in glyph 'brh.p.8.20': 524298
+Processing glyph: brh.sp.3.17
+Validation errors in glyph 'brh.sp.3.17': 524298
+Processing glyph: brh.sp.4.17
+Validation errors in glyph 'brh.sp.4.17': 524298
+Processing glyph: brh.sp.6.17
+Validation errors in glyph 'brh.sp.6.17': 524290
+Processing glyph: brh.sp.6.20
+Validation errors in glyph 'brh.sp.6.20': 524290
+Processing glyph: brh.sp.4.20
+Validation errors in glyph 'brh.sp.4.20': 524298
+Processing glyph: brh.sp.9.20
+Validation errors in glyph 'brh.sp.9.20': 524290
+Processing glyph: brh.p.40.3
+Validation errors in glyph 'brh.p.40.3': 524290
+Processing glyph: brh.sp.40.3
+Validation errors in glyph 'brh.sp.40.3': 524298
+Processing glyph: brh.p.140.9
+Validation errors in glyph 'brh.p.140.9': 2
+Processing glyph: brh.sp.140.9
+Validation errors in glyph 'brh.sp.140.9': 524290
+Processing glyph: luk.d.0.9
+Validation errors in glyph 'luk.d.0.9': 2
+Processing glyph: luk.x.0.4
+Validation errors in glyph 'luk.x.0.4': 10
+Processing glyph: luk.x.0.3
+Validation errors in glyph 'luk.x.0.3': 524290
+Processing glyph: luk.x.0.6
+Validation errors in glyph 'luk.x.0.6': 10
+Processing glyph: luk.x.0.9
+Validation errors in glyph 'luk.x.0.9': 2
+Processing glyph: luk.q.0.4
+Validation errors in glyph 'luk.q.0.4': 2
+Processing glyph: luk.q.0.3
+Validation errors in glyph 'luk.q.0.3': 2
+Processing glyph: luk.q.0.6
+Validation errors in glyph 'luk.q.0.6': 2
+Processing glyph: luk.q.0.9
+Validation errors in glyph 'luk.q.0.9': 2
+Processing glyph: luk.f.0.2
+Validation errors in glyph 'luk.f.0.2': 524298
+Processing glyph: luk.q.0.2
+Validation errors in glyph 'luk.q.0.2': 2
+Processing glyph: luk.s.0.2
+Validation errors in glyph 'luk.s.0.2': 10
+Processing glyph: luk.t.0.2
+Validation errors in glyph 'luk.t.0.2': 10
+Processing glyph: luk.w.0.2
+Validation errors in glyph 'luk.w.0.2': 524298
+Processing glyph: luk.d.0.2
+Validation errors in glyph 'luk.d.0.2': 10
+Processing glyph: luk.v.0.2
+Validation errors in glyph 'luk.v.0.2': 2
+Processing glyph: luk.x.0.2
+Validation errors in glyph 'luk.x.0.2': 2
+Processing glyph: kat.18.3
+Validation errors in glyph 'kat.18.3': 2
+Processing glyph: kat.18.4
+Validation errors in glyph 'kat.18.4': 2
+Processing glyph: kat.18.6
+Validation errors in glyph 'kat.18.6': 524290
+Processing glyph: kat.18.8
+Validation errors in glyph 'kat.18.8': 2
+Processing glyph: luk.s.0.7
+Validation errors in glyph 'luk.s.0.7': 2
+Processing glyph: luk.f.0.7
+Validation errors in glyph 'luk.f.0.7': 2
+Processing glyph: luk.t.0.7
+Validation errors in glyph 'luk.t.0.7': 10
+Processing glyph: luk.w.0.7
+Validation errors in glyph 'luk.w.0.7': 42
+Processing glyph: luk.d.0.7
+Validation errors in glyph 'luk.d.0.7': 10
+Processing glyph: luk.v.0.7
+Validation errors in glyph 'luk.v.0.7': 2
+Processing glyph: luk.x.0.7
+Validation errors in glyph 'luk.x.0.7': 2
+Processing glyph: luk.q.0.7
+Validation errors in glyph 'luk.q.0.7': 2
+Processing glyph: luk.s.4.9
+Validation errors in glyph 'luk.s.4.9': 2
+Processing glyph: luk.f.4.9
+Validation errors in glyph 'luk.f.4.9': 2
+Processing glyph: luk.t.4.9
+Validation errors in glyph 'luk.t.4.9': 2
+Processing glyph: luk.w.4.9
+Validation errors in glyph 'luk.w.4.9': 524290
+Processing glyph: luk.d.4.9
+Validation errors in glyph 'luk.d.4.9': 524290
+Processing glyph: luk.v.4.9
+Validation errors in glyph 'luk.v.4.9': 2
+Processing glyph: luk.x.4.9
+Validation errors in glyph 'luk.x.4.9': 10
+Processing glyph: luk.q.4.9
+Validation errors in glyph 'luk.q.4.9': 524290
+Processing glyph: luk.s.9.14
+Validation errors in glyph 'luk.s.9.14': 2
+Processing glyph: luk.f.9.14
+Validation errors in glyph 'luk.f.9.14': 524290
+Processing glyph: luk.t.9.14
+Validation errors in glyph 'luk.t.9.14': 2
+Processing glyph: luk.w.9.14
+Validation errors in glyph 'luk.w.9.14': 2
+Processing glyph: luk.d.9.14
+Validation errors in glyph 'luk.d.9.14': 2
+Processing glyph: luk.v.9.14
+Validation errors in glyph 'luk.v.9.14': 2
+Processing glyph: luk.x.9.14
+Validation errors in glyph 'luk.x.9.14': 2
+Processing glyph: luk.q.9.14
+Validation errors in glyph 'luk.q.9.14': 2
+Processing glyph: luk.s.14.19
+Validation errors in glyph 'luk.s.14.19': 2
+Processing glyph: luk.f.14.19
+Validation errors in glyph 'luk.f.14.19': 10
+Processing glyph: luk.t.14.19
+Validation errors in glyph 'luk.t.14.19': 2
+Processing glyph: luk.w.14.19
+Validation errors in glyph 'luk.w.14.19': 524298
+Processing glyph: luk.d.14.19
+Validation errors in glyph 'luk.d.14.19': 524322
+Processing glyph: luk.v.14.19
+Validation errors in glyph 'luk.v.14.19': 2
+Processing glyph: luk.x.14.19
+Validation errors in glyph 'luk.x.14.19': 2
+Processing glyph: luk.q.14.19
+Validation errors in glyph 'luk.q.14.19': 524290
+Processing glyph: luk.s.4.0
+Validation errors in glyph 'luk.s.4.0': 2
+Processing glyph: luk.f.4.0
+Validation errors in glyph 'luk.f.4.0': 10
+Processing glyph: luk.t.4.0
+Validation errors in glyph 'luk.t.4.0': 2
+Processing glyph: luk.w.4.0
+Validation errors in glyph 'luk.w.4.0': 34
+Processing glyph: luk.d.4.0
+Validation errors in glyph 'luk.d.4.0': 2
+Processing glyph: luk.v.4.0
+Validation errors in glyph 'luk.v.4.0': 2
+Processing glyph: luk.x.4.0
+Validation errors in glyph 'luk.x.4.0': 2
+Processing glyph: luk.q.4.0
+Validation errors in glyph 'luk.q.4.0': 2
+Processing glyph: luk.s.9.4
+Validation errors in glyph 'luk.s.9.4': 10
+Processing glyph: luk.f.9.4
+Validation errors in glyph 'luk.f.9.4': 2
+Processing glyph: luk.t.9.4
+Validation errors in glyph 'luk.t.9.4': 2
+Processing glyph: luk.w.9.4
+Validation errors in glyph 'luk.w.9.4': 524290
+Processing glyph: luk.d.9.4
+Validation errors in glyph 'luk.d.9.4': 524290
+Processing glyph: luk.v.9.4
+Validation errors in glyph 'luk.v.9.4': 2
+Processing glyph: luk.x.9.4
+Validation errors in glyph 'luk.x.9.4': 2
+Processing glyph: luk.q.9.4
+Validation errors in glyph 'luk.q.9.4': 524290
+Processing glyph: luk.s.14.9
+Validation errors in glyph 'luk.s.14.9': 2
+Processing glyph: luk.f.14.9
+Validation errors in glyph 'luk.f.14.9': 10
+Processing glyph: luk.t.14.9
+Validation errors in glyph 'luk.t.14.9': 10
+Processing glyph: luk.w.14.9
+Validation errors in glyph 'luk.w.14.9': 10
+Processing glyph: luk.d.14.9
+Validation errors in glyph 'luk.d.14.9': 10
+Processing glyph: luk.v.14.9
+Validation errors in glyph 'luk.v.14.9': 10
+Processing glyph: luk.x.14.9
+Validation errors in glyph 'luk.x.14.9': 10
+Processing glyph: luk.q.14.9
+Validation errors in glyph 'luk.q.14.9': 2
+Processing glyph: luk.s.19.14
+Validation errors in glyph 'luk.s.19.14': 42
+Processing glyph: luk.f.19.14
+Validation errors in glyph 'luk.f.19.14': 2
+Processing glyph: luk.t.19.14
+Validation errors in glyph 'luk.t.19.14': 2
+Processing glyph: luk.w.19.14
+Validation errors in glyph 'luk.w.19.14': 524290
+Processing glyph: luk.d.19.14
+Validation errors in glyph 'luk.d.19.14': 42
+Processing glyph: luk.v.19.14
+Validation errors in glyph 'luk.v.19.14': 10
+Processing glyph: luk.x.19.14
+Validation errors in glyph 'luk.x.19.14': 10
+Processing glyph: luk.q.19.14
+Validation errors in glyph 'luk.q.19.14': 524322
+Processing glyph: luk.s.3.6
+Validation errors in glyph 'luk.s.3.6': 10
+Processing glyph: luk.f.3.6
+Validation errors in glyph 'luk.f.3.6': 10
+Processing glyph: luk.t.3.6
+Validation errors in glyph 'luk.t.3.6': 10
+Processing glyph: luk.w.3.6
+Validation errors in glyph 'luk.w.3.6': 2
+Processing glyph: luk.d.3.6
+Validation errors in glyph 'luk.d.3.6': 10
+Processing glyph: luk.v.3.6
+Validation errors in glyph 'luk.v.3.6': 2
+Processing glyph: luk.x.3.6
+Validation errors in glyph 'luk.x.3.6': 524290
+Processing glyph: luk.q.3.6
+Validation errors in glyph 'luk.q.3.6': 524290
+Processing glyph: luk.s.6.9
+Validation errors in glyph 'luk.s.6.9': 2
+Processing glyph: luk.f.6.9
+Validation errors in glyph 'luk.f.6.9': 524290
+Processing glyph: luk.t.6.9
+Validation errors in glyph 'luk.t.6.9': 2
+Processing glyph: luk.w.6.9
+Validation errors in glyph 'luk.w.6.9': 10
+Processing glyph: luk.d.6.9
+Validation errors in glyph 'luk.d.6.9': 10
+Processing glyph: luk.v.6.9
+Validation errors in glyph 'luk.v.6.9': 2
+Processing glyph: luk.x.6.9
+Validation errors in glyph 'luk.x.6.9': 2
+Processing glyph: luk.q.6.9
+Validation errors in glyph 'luk.q.6.9': 2
+Processing glyph: luk.s.9.13
+Validation errors in glyph 'luk.s.9.13': 2
+Processing glyph: luk.f.9.13
+Validation errors in glyph 'luk.f.9.13': 2
+Processing glyph: luk.t.9.13
+Validation errors in glyph 'luk.t.9.13': 524290
+Processing glyph: luk.w.9.13
+Validation errors in glyph 'luk.w.9.13': 524290
+Processing glyph: luk.d.9.13
+Validation errors in glyph 'luk.d.9.13': 2
+Processing glyph: luk.v.9.13
+Validation errors in glyph 'luk.v.9.13': 2
+Processing glyph: luk.x.9.13
+Validation errors in glyph 'luk.x.9.13': 2
+Processing glyph: luk.q.9.13
+Validation errors in glyph 'luk.q.9.13': 2
+Processing glyph: luk.s.13.16
+Validation errors in glyph 'luk.s.13.16': 2
+Processing glyph: luk.f.13.16
+Validation errors in glyph 'luk.f.13.16': 2
+Processing glyph: luk.t.13.16
+Validation errors in glyph 'luk.t.13.16': 2
+Processing glyph: luk.w.13.16
+Validation errors in glyph 'luk.w.13.16': 2
+Processing glyph: luk.d.13.16
+Validation errors in glyph 'luk.d.13.16': 2
+Processing glyph: luk.v.13.16
+Validation errors in glyph 'luk.v.13.16': 2
+Processing glyph: luk.x.13.16
+Validation errors in glyph 'luk.x.13.16': 2
+Processing glyph: luk.q.13.16
+Validation errors in glyph 'luk.q.13.16': 524290
+Processing glyph: luk.s.16.19
+Validation errors in glyph 'luk.s.16.19': 2
+Processing glyph: luk.f.16.19
+Validation errors in glyph 'luk.f.16.19': 34
+Processing glyph: luk.t.16.19
+Validation errors in glyph 'luk.t.16.19': 2
+Processing glyph: luk.w.16.19
+Validation errors in glyph 'luk.w.16.19': 2
+Processing glyph: luk.d.16.19
+Validation errors in glyph 'luk.d.16.19': 2
+Processing glyph: luk.v.16.19
+Validation errors in glyph 'luk.v.16.19': 34
+Processing glyph: luk.x.16.19
+Validation errors in glyph 'luk.x.16.19': 2
+Processing glyph: luk.q.16.19
+Validation errors in glyph 'luk.q.16.19': 2
+Processing glyph: luk.s.3.0
+Validation errors in glyph 'luk.s.3.0': 10
+Processing glyph: luk.f.3.0
+Validation errors in glyph 'luk.f.3.0': 10
+Processing glyph: luk.t.3.0
+Validation errors in glyph 'luk.t.3.0': 524298
+Processing glyph: luk.w.3.0
+Validation errors in glyph 'luk.w.3.0': 10
+Processing glyph: luk.d.3.0
+Validation errors in glyph 'luk.d.3.0': 42
+Processing glyph: luk.v.3.0
+Validation errors in glyph 'luk.v.3.0': 2
+Processing glyph: luk.x.3.0
+Validation errors in glyph 'luk.x.3.0': 524290
+Processing glyph: luk.q.3.0
+Validation errors in glyph 'luk.q.3.0': 2
+Processing glyph: luk.s.6.3
+Validation errors in glyph 'luk.s.6.3': 10
+Processing glyph: luk.f.6.3
+Validation errors in glyph 'luk.f.6.3': 10
+Processing glyph: luk.t.6.3
+Validation errors in glyph 'luk.t.6.3': 10
+Processing glyph: luk.w.6.3
+Validation errors in glyph 'luk.w.6.3': 2
+Processing glyph: luk.d.6.3
+Validation errors in glyph 'luk.d.6.3': 2
+Processing glyph: luk.v.6.3
+Validation errors in glyph 'luk.v.6.3': 2
+Processing glyph: luk.x.6.3
+Validation errors in glyph 'luk.x.6.3': 524290
+Processing glyph: luk.q.6.3
+Validation errors in glyph 'luk.q.6.3': 524290
+Processing glyph: luk.s.9.6
+Validation errors in glyph 'luk.s.9.6': 2
+Processing glyph: luk.f.9.6
+Validation errors in glyph 'luk.f.9.6': 524290
+Processing glyph: luk.t.9.6
+Validation errors in glyph 'luk.t.9.6': 10
+Processing glyph: luk.w.9.6
+Validation errors in glyph 'luk.w.9.6': 2
+Processing glyph: luk.d.9.6
+Validation errors in glyph 'luk.d.9.6': 2
+Processing glyph: luk.v.9.6
+Validation errors in glyph 'luk.v.9.6': 2
+Processing glyph: luk.x.9.6
+Validation errors in glyph 'luk.x.9.6': 2
+Processing glyph: luk.q.9.6
+Validation errors in glyph 'luk.q.9.6': 2
+Processing glyph: luk.s.13.9
+Validation errors in glyph 'luk.s.13.9': 10
+Processing glyph: luk.f.13.9
+Validation errors in glyph 'luk.f.13.9': 10
+Processing glyph: luk.t.13.9
+Validation errors in glyph 'luk.t.13.9': 2
+Processing glyph: luk.w.13.9
+Validation errors in glyph 'luk.w.13.9': 524290
+Processing glyph: luk.d.13.9
+Validation errors in glyph 'luk.d.13.9': 2
+Processing glyph: luk.v.13.9
+Validation errors in glyph 'luk.v.13.9': 2
+Processing glyph: luk.x.13.9
+Validation errors in glyph 'luk.x.13.9': 2
+Processing glyph: luk.q.13.9
+Validation errors in glyph 'luk.q.13.9': 2
+Processing glyph: luk.s.16.13
+Validation errors in glyph 'luk.s.16.13': 10
+Processing glyph: luk.f.16.13
+Validation errors in glyph 'luk.f.16.13': 10
+Processing glyph: luk.t.16.13
+Validation errors in glyph 'luk.t.16.13': 10
+Processing glyph: luk.w.16.13
+Validation errors in glyph 'luk.w.16.13': 2
+Processing glyph: luk.d.16.13
+Validation errors in glyph 'luk.d.16.13': 2
+Processing glyph: luk.v.16.13
+Validation errors in glyph 'luk.v.16.13': 2
+Processing glyph: luk.x.16.13
+Validation errors in glyph 'luk.x.16.13': 524290
+Processing glyph: luk.q.16.13
+Validation errors in glyph 'luk.q.16.13': 524290
+Processing glyph: luk.s.19.16
+Validation errors in glyph 'luk.s.19.16': 42
+Processing glyph: luk.f.19.16
+Validation errors in glyph 'luk.f.19.16': 42
+Processing glyph: luk.t.19.16
+Validation errors in glyph 'luk.t.19.16': 2
+Processing glyph: luk.w.19.16
+Validation errors in glyph 'luk.w.19.16': 2
+Processing glyph: luk.d.19.16
+Validation errors in glyph 'luk.d.19.16': 10
+Processing glyph: luk.v.19.16
+Validation errors in glyph 'luk.v.19.16': 42
+Processing glyph: luk.x.19.16
+Validation errors in glyph 'luk.x.19.16': 2
+Processing glyph: luk.q.19.16
+Validation errors in glyph 'luk.q.19.16': 2
+Processing glyph: luk.s.3.9
+Validation errors in glyph 'luk.s.3.9': 2
+Processing glyph: luk.f.3.9
+Validation errors in glyph 'luk.f.3.9': 2
+Processing glyph: luk.t.3.9
+Validation errors in glyph 'luk.t.3.9': 2
+Processing glyph: luk.w.3.9
+Validation errors in glyph 'luk.w.3.9': 10
+Processing glyph: luk.d.3.9
+Validation errors in glyph 'luk.d.3.9': 2
+Processing glyph: luk.v.3.9
+Validation errors in glyph 'luk.v.3.9': 2
+Processing glyph: luk.x.3.9
+Validation errors in glyph 'luk.x.3.9': 2
+Processing glyph: luk.q.3.9
+Validation errors in glyph 'luk.q.3.9': 524298
+Processing glyph: luk.s.6.13
+Validation errors in glyph 'luk.s.6.13': 524298
+Processing glyph: luk.f.6.13
+Validation errors in glyph 'luk.f.6.13': 524290
+Processing glyph: luk.t.6.13
+Validation errors in glyph 'luk.t.6.13': 524290
+Processing glyph: luk.w.6.13
+Validation errors in glyph 'luk.w.6.13': 524298
+Processing glyph: luk.d.6.13
+Validation errors in glyph 'luk.d.6.13': 524290
+Processing glyph: luk.v.6.13
+Validation errors in glyph 'luk.v.6.13': 524290
+Processing glyph: luk.x.6.13
+Validation errors in glyph 'luk.x.6.13': 524290
+Processing glyph: luk.q.6.13
+Validation errors in glyph 'luk.q.6.13': 524290
+Processing glyph: luk.s.9.16
+Validation errors in glyph 'luk.s.9.16': 2
+Processing glyph: luk.f.9.16
+Validation errors in glyph 'luk.f.9.16': 2
+Processing glyph: luk.t.9.16
+Validation errors in glyph 'luk.t.9.16': 2
+Processing glyph: luk.w.9.16
+Validation errors in glyph 'luk.w.9.16': 524290
+Processing glyph: luk.d.9.16
+Validation errors in glyph 'luk.d.9.16': 2
+Processing glyph: luk.v.9.16
+Validation errors in glyph 'luk.v.9.16': 2
+Processing glyph: luk.x.9.16
+Validation errors in glyph 'luk.x.9.16': 2
+Processing glyph: luk.q.9.16
+Validation errors in glyph 'luk.q.9.16': 2
+Processing glyph: luk.s.13.19
+Validation errors in glyph 'luk.s.13.19': 10
+Processing glyph: luk.f.13.19
+Validation errors in glyph 'luk.f.13.19': 10
+Processing glyph: luk.t.13.19
+Validation errors in glyph 'luk.t.13.19': 2
+Processing glyph: luk.w.13.19
+Validation errors in glyph 'luk.w.13.19': 2
+Processing glyph: luk.d.13.19
+Validation errors in glyph 'luk.d.13.19': 2
+Processing glyph: luk.v.13.19
+Validation errors in glyph 'luk.v.13.19': 34
+Processing glyph: luk.x.13.19
+Validation errors in glyph 'luk.x.13.19': 2
+Processing glyph: luk.q.13.19
+Validation errors in glyph 'luk.q.13.19': 2
+Processing glyph: luk.s.16.30
+Validation errors in glyph 'luk.s.16.30': 524298
+Processing glyph: luk.f.16.30
+Validation errors in glyph 'luk.f.16.30': 524298
+Processing glyph: luk.t.16.30
+Validation errors in glyph 'luk.t.16.30': 524298
+Processing glyph: luk.w.16.30
+Validation errors in glyph 'luk.w.16.30': 524290
+Processing glyph: luk.d.16.30
+Validation errors in glyph 'luk.d.16.30': 524298
+Processing glyph: luk.v.16.30
+Validation errors in glyph 'luk.v.16.30': 524298
+Processing glyph: luk.x.16.30
+Validation errors in glyph 'luk.x.16.30': 524298
+Processing glyph: luk.q.16.30
+Validation errors in glyph 'luk.q.16.30': 524290
+Processing glyph: luk.s.6.0
+Validation errors in glyph 'luk.s.6.0': 10
+Processing glyph: luk.f.6.0
+Validation errors in glyph 'luk.f.6.0': 10
+Processing glyph: luk.t.6.0
+Validation errors in glyph 'luk.t.6.0': 524290
+Processing glyph: luk.w.6.0
+Validation errors in glyph 'luk.w.6.0': 34
+Processing glyph: luk.d.6.0
+Validation errors in glyph 'luk.d.6.0': 10
+Processing glyph: luk.v.6.0
+Validation errors in glyph 'luk.v.6.0': 2
+Processing glyph: luk.x.6.0
+Validation errors in glyph 'luk.x.6.0': 2
+Processing glyph: luk.q.6.0
+Validation errors in glyph 'luk.q.6.0': 2
+Processing glyph: luk.s.9.3
+Validation errors in glyph 'luk.s.9.3': 2
+Processing glyph: luk.f.9.3
+Validation errors in glyph 'luk.f.9.3': 2
+Processing glyph: luk.t.9.3
+Validation errors in glyph 'luk.t.9.3': 10
+Processing glyph: luk.w.9.3
+Validation errors in glyph 'luk.w.9.3': 10
+Processing glyph: luk.d.9.3
+Validation errors in glyph 'luk.d.9.3': 2
+Processing glyph: luk.v.9.3
+Validation errors in glyph 'luk.v.9.3': 2
+Processing glyph: luk.x.9.3
+Validation errors in glyph 'luk.x.9.3': 2
+Processing glyph: luk.q.9.3
+Validation errors in glyph 'luk.q.9.3': 2
+Processing glyph: luk.s.13.6
+Validation errors in glyph 'luk.s.13.6': 524298
+Processing glyph: luk.f.13.6
+Validation errors in glyph 'luk.f.13.6': 524298
+Processing glyph: luk.t.13.6
+Validation errors in glyph 'luk.t.13.6': 524290
+Processing glyph: luk.w.13.6
+Validation errors in glyph 'luk.w.13.6': 524290
+Processing glyph: luk.d.13.6
+Validation errors in glyph 'luk.d.13.6': 524290
+Processing glyph: luk.v.13.6
+Validation errors in glyph 'luk.v.13.6': 524290
+Processing glyph: luk.x.13.6
+Validation errors in glyph 'luk.x.13.6': 524290
+Processing glyph: luk.q.13.6
+Validation errors in glyph 'luk.q.13.6': 524290
+Processing glyph: luk.s.16.9
+Validation errors in glyph 'luk.s.16.9': 10
+Processing glyph: luk.f.16.9
+Validation errors in glyph 'luk.f.16.9': 10
+Processing glyph: luk.t.16.9
+Validation errors in glyph 'luk.t.16.9': 2
+Processing glyph: luk.w.16.9
+Validation errors in glyph 'luk.w.16.9': 2
+Processing glyph: luk.d.16.9
+Validation errors in glyph 'luk.d.16.9': 2
+Processing glyph: luk.v.16.9
+Validation errors in glyph 'luk.v.16.9': 2
+Processing glyph: luk.x.16.9
+Validation errors in glyph 'luk.x.16.9': 2
+Processing glyph: luk.q.16.9
+Validation errors in glyph 'luk.q.16.9': 2
+Processing glyph: luk.s.19.13
+Validation errors in glyph 'luk.s.19.13': 2
+Processing glyph: luk.f.19.13
+Validation errors in glyph 'luk.f.19.13': 10
+Processing glyph: luk.t.19.13
+Validation errors in glyph 'luk.t.19.13': 2
+Processing glyph: luk.w.19.13
+Validation errors in glyph 'luk.w.19.13': 2
+Processing glyph: luk.d.19.13
+Validation errors in glyph 'luk.d.19.13': 10
+Processing glyph: luk.v.19.13
+Validation errors in glyph 'luk.v.19.13': 42
+Processing glyph: luk.x.19.13
+Validation errors in glyph 'luk.x.19.13': 10
+Processing glyph: luk.q.19.13
+Validation errors in glyph 'luk.q.19.13': 524290
+Processing glyph: luk.s.30.16
+Validation errors in glyph 'luk.s.30.16': 524298
+Processing glyph: luk.f.30.16
+Validation errors in glyph 'luk.f.30.16': 524290
+Processing glyph: luk.t.30.16
+Validation errors in glyph 'luk.t.30.16': 524298
+Processing glyph: luk.w.30.16
+Validation errors in glyph 'luk.w.30.16': 524290
+Processing glyph: luk.d.30.16
+Validation errors in glyph 'luk.d.30.16': 524290
+Processing glyph: luk.v.30.16
+Validation errors in glyph 'luk.v.30.16': 524290
+Processing glyph: luk.x.30.16
+Validation errors in glyph 'luk.x.30.16': 524290
+Processing glyph: luk.q.30.16
+Validation errors in glyph 'luk.q.30.16': 524290
+Processing glyph: luk.s.4.14
+Validation errors in glyph 'luk.s.4.14': 524290
+Processing glyph: luk.f.4.14
+Validation errors in glyph 'luk.f.4.14': 524298
+Processing glyph: luk.t.4.14
+Validation errors in glyph 'luk.t.4.14': 524298
+Processing glyph: luk.w.4.14
+Validation errors in glyph 'luk.w.4.14': 524298
+Processing glyph: luk.d.4.14
+Validation errors in glyph 'luk.d.4.14': 524290
+Processing glyph: luk.v.4.14
+Validation errors in glyph 'luk.v.4.14': 524298
+Processing glyph: luk.x.4.14
+Validation errors in glyph 'luk.x.4.14': 524290
+Processing glyph: luk.q.4.14
+Validation errors in glyph 'luk.q.4.14': 524290
+Processing glyph: luk.s.9.19
+Validation errors in glyph 'luk.s.9.19': 2
+Processing glyph: luk.f.9.19
+Validation errors in glyph 'luk.f.9.19': 10
+Processing glyph: luk.t.9.19
+Validation errors in glyph 'luk.t.9.19': 2
+Processing glyph: luk.w.9.19
+Validation errors in glyph 'luk.w.9.19': 2
+Processing glyph: luk.d.9.19
+Validation errors in glyph 'luk.d.9.19': 2
+Processing glyph: luk.v.9.19
+Validation errors in glyph 'luk.v.9.19': 2
+Processing glyph: luk.x.9.19
+Validation errors in glyph 'luk.x.9.19': 2
+Processing glyph: luk.q.9.19
+Validation errors in glyph 'luk.q.9.19': 2
+Processing glyph: luk.s.14.40
+Validation errors in glyph 'luk.s.14.40': 524298
+Processing glyph: luk.f.14.40
+Validation errors in glyph 'luk.f.14.40': 524290
+Processing glyph: luk.t.14.40
+Validation errors in glyph 'luk.t.14.40': 524290
+Processing glyph: luk.w.14.40
+Validation errors in glyph 'luk.w.14.40': 524290
+Processing glyph: luk.d.14.40
+Validation errors in glyph 'luk.d.14.40': 524298
+Processing glyph: luk.v.14.40
+Validation errors in glyph 'luk.v.14.40': 524298
+Processing glyph: luk.x.14.40
+Validation errors in glyph 'luk.x.14.40': 524290
+Processing glyph: luk.q.14.40
+Validation errors in glyph 'luk.q.14.40': 524290
+Processing glyph: luk.s.9.0
+Validation errors in glyph 'luk.s.9.0': 2
+Processing glyph: luk.f.9.0
+Validation errors in glyph 'luk.f.9.0': 2
+Processing glyph: luk.t.9.0
+Validation errors in glyph 'luk.t.9.0': 524290
+Processing glyph: luk.w.9.0
+Validation errors in glyph 'luk.w.9.0': 34
+Processing glyph: luk.d.9.0
+Validation errors in glyph 'luk.d.9.0': 2
+Processing glyph: luk.v.9.0
+Validation errors in glyph 'luk.v.9.0': 2
+Processing glyph: luk.x.9.0
+Validation errors in glyph 'luk.x.9.0': 2
+Processing glyph: luk.q.9.0
+Validation errors in glyph 'luk.q.9.0': 2
+Processing glyph: luk.s.14.4
+Validation errors in glyph 'luk.s.14.4': 524298
+Processing glyph: luk.f.14.4
+Validation errors in glyph 'luk.f.14.4': 524298
+Processing glyph: luk.t.14.4
+Validation errors in glyph 'luk.t.14.4': 524298
+Processing glyph: luk.w.14.4
+Validation errors in glyph 'luk.w.14.4': 524298
+Processing glyph: luk.d.14.4
+Validation errors in glyph 'luk.d.14.4': 524290
+Processing glyph: luk.v.14.4
+Validation errors in glyph 'luk.v.14.4': 524298
+Processing glyph: luk.x.14.4
+Validation errors in glyph 'luk.x.14.4': 524290
+Processing glyph: luk.q.14.4
+Validation errors in glyph 'luk.q.14.4': 524290
+Processing glyph: luk.s.19.9
+Validation errors in glyph 'luk.s.19.9': 42
+Processing glyph: luk.f.19.9
+Validation errors in glyph 'luk.f.19.9': 2
+Processing glyph: luk.t.19.9
+Validation errors in glyph 'luk.t.19.9': 2
+Processing glyph: luk.w.19.9
+Validation errors in glyph 'luk.w.19.9': 524290
+Processing glyph: luk.d.19.9
+Validation errors in glyph 'luk.d.19.9': 524298
+Processing glyph: luk.v.19.9
+Validation errors in glyph 'luk.v.19.9': 2
+Processing glyph: luk.x.19.9
+Validation errors in glyph 'luk.x.19.9': 34
+Processing glyph: luk.q.19.9
+Validation errors in glyph 'luk.q.19.9': 2
+Processing glyph: luk.s.40.14
+Validation errors in glyph 'luk.s.40.14': 524298
+Processing glyph: luk.f.40.14
+Validation errors in glyph 'luk.f.40.14': 524298
+Processing glyph: luk.t.40.14
+Validation errors in glyph 'luk.t.40.14': 524290
+Processing glyph: luk.w.40.14
+Validation errors in glyph 'luk.w.40.14': 524290
+Processing glyph: luk.d.40.14
+Validation errors in glyph 'luk.d.40.14': 524290
+Processing glyph: luk.v.40.14
+Validation errors in glyph 'luk.v.40.14': 524298
+Processing glyph: luk.x.40.14
+Validation errors in glyph 'luk.x.40.14': 524290
+Processing glyph: luk.q.40.14
+Validation errors in glyph 'luk.q.40.14': 524290
+Processing glyph: konCONbis
+Validation errors in glyph 'konCONbis': 2
+Processing glyph: konCON.krzyz
+Validation errors in glyph 'konCON.krzyz': 2
+Contours simplified.
+Rounding of point coordinates completed.
+Overlaps and references removed.
+Missing extrema points added.
+MaxBearing and MinBearing setting finished.
+Validation errors: 4721710
+Validation errors logged to validation_errors.log
+SFD file successfully saved as test02/stemi3.sfd
+Error generating OTF font: Font generation failed

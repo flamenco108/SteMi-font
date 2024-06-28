@@ -127,7 +127,7 @@ lookup CVnVC {
 
 } CVnVC;
 
-# stemy plus twarde samogłoski
+# stemy plus twarde samogoski
 lookup ccmp-dolTW { 
     sub k by k dolTW;
     sub g by g dolTW;
