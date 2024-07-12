@@ -1,11 +1,14 @@
 #!/bin/bash
 
+# czas w sekundach do wprowadzenia domyślnej wiadomości do komitu
+CZAS=30
+
 # Domyślna wiadomość komitu
 default_message="$USER@$(hostname -s) AUTO-KOMIT $(date)"
 
 # Funkcja do odliczania czasu w tle
 countdown() {
-    local end=$((SECONDS+30))
+    local end=$((SECONDS+$CZAS))
     while [ $SECONDS -lt $end ]; do
         sleep 1
     done
@@ -22,7 +25,7 @@ countdown &
 countdown_pid=$!
 
 # Oczekiwanie na input użytkownika
-read -t 30 komitmessage
+read -t $CZAS komitmessage
 
 # Zatrzymanie procesu odliczania
 kill $countdown_pid 2>/dev/null
