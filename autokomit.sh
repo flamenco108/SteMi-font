@@ -7,7 +7,7 @@ default_message="$USER@$(hostname -s) AUTO-KOMIT $(date)"
 countdown() {
     local seconds=$1
     while [ $seconds -gt 0 ]; do
-        echo -ne "\rCzas na wprowadzenie wiadomości: $seconds s "
+        echo -ne "\rCzas na wprowadzenie wiadomości: $seconds s \n"
         sleep 1
         : $((seconds--))
     done
