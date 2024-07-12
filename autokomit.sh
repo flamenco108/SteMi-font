@@ -3,29 +3,26 @@
 # Domyślna wiadomość komitu
 default_message="$USER@$(hostname -s) AUTO-KOMIT $(date)"
 
-CZAS=30
-
-# Funkcja do odliczania czasu
+# Funkcja do odliczania czasu w tle
 countdown() {
-    local seconds=$1
-    while [ $seconds -gt 0 ]; do
-        echo -ne "\rCzas na wprowadzenie wiadomości: $seconds s"
+    local end=$((SECONDS+30))
+    while [ $SECONDS -lt $end ]; do
         sleep 1
-        : $((seconds--))
     done
-    echo
+    echo -e "\nCzas minął. Używam domyślnej wiadomości."
 }
 
 # Prośba o wprowadzenie wiadomości komitu
 echo "Wprowadź wiadomość komitu (lub naciśnij Enter dla domyślnej wiadomości):"
 echo "Domyślna wiadomość: $default_message"
+echo "Masz 30 sekund na wprowadzenie wiadomości."
 
 # Uruchomienie odliczania w tle
-countdown $CZAS &
+countdown &
 countdown_pid=$!
 
-# Oczekiwanie na input użytkownika z timeoutem
-read -t $CZAS komitmessage
+# Oczekiwanie na input użytkownika
+read -t 30 komitmessage
 
 # Zatrzymanie procesu odliczania
 kill $countdown_pid 2>/dev/null
