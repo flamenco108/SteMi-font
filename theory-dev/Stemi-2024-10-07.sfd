@@ -27,7 +27,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1728307379
+ModificationTime: 1728387308
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -759,7 +759,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 57330 18 14
+WinInfo: 57906 18 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -12029,7 +12029,7 @@ Refer: 320 57346 N 1.11022e-16 1 -1 1.11022e-16 120 -0.363952 2
 Refer: 320 57346 N -0.939692 0.34202 -0.34202 -0.939692 158.52 214.894 2
 EndChar
 
-StartChar: kat.18.3
+StartChar: kat.19.3
 Encoding: 58075 58075 560
 Width: 120
 VWidth: 3000
@@ -12037,18 +12037,18 @@ Flags: W
 LayerCount: 3
 Fore
 SplineSet
-113 28 m 29,0,-1
- 0 -166 l 5,1,-1
- 0 67 l 5,2,3
- 30 67 30 67 60 67 c 5,4,5
- 90 67 90 67 120 67 c 5,6,-1
- 113 28 l 29,0,-1
+113 33 m 25,0,-1
+ 0 -151 l 1,1,-1
+ 0 67 l 1,2,3
+ 30 67 30 67 60 67 c 1,4,5
+ 90 67 90 67 120 67 c 1,6,-1
+ 113 33 l 25,0,-1
 EndSplineSet
-Refer: 320 57346 S 1 0 0 1 0.46875 7 2
-Refer: 320 57346 S 1 0 0 1 0.4688 2 2
+Refer: 320 57346 N 1 0 0 1 0.46875 7 2
+Refer: 320 57346 N 1 0 0 1 0.4688 2 2
 EndChar
 
-StartChar: kat.18.4
+StartChar: kat.19.4
 Encoding: 58076 58076 561
 Width: 122
 VWidth: 3000
@@ -12056,18 +12056,17 @@ Flags: W
 LayerCount: 3
 Fore
 SplineSet
-113 28 m 25,0,-1
- 0 -87 l 1,1,-1
- 0 67 l 1,2,3
- 30 67 30 67 60 67 c 1,4,5
- 90 67 90 67 120 67 c 1,6,-1
- 113 28 l 25,0,-1
+106 21 m 25,0,-1
+ 0 -85 l 1,1,-1
+ 0 60 l 1,2,3
+ 60 60 60 60 120 60 c 1,6,-1
+ 106 21 l 25,0,-1
 EndSplineSet
-Refer: 320 57346 N 1 0 0 1 0.46875 7 2
-Refer: 320 57346 N 1 0 0 1 2.4688 2 2
+Refer: 320 57346 N 1 0 0 1 0.46875 2 2
+Refer: 320 57346 N 1 0 0 1 0.4688 0 2
 EndChar
 
-StartChar: kat.18.6
+StartChar: kat.19.6
 Encoding: 58077 58077 562
 Width: 122
 VWidth: 3000
@@ -12075,18 +12074,18 @@ Flags: W
 LayerCount: 3
 Fore
 SplineSet
-99 11 m 25,0,-1
- 0 -47 l 1,1,-1
+91 13 m 25,0,-1
+ 0 -39 l 1,1,-1
  0 67 l 1,2,3
  30 67 30 67 60 67 c 1,4,5
  90 67 90 67 120 67 c 1,6,-1
- 99 11 l 25,0,-1
+ 91 13 l 25,0,-1
 EndSplineSet
-Refer: 320 57346 N 1 0 0 1 2.4688 2 2
+Refer: 320 57346 N 1 0 0 1 0.4688 5 2
 Refer: 320 57346 N 1 0 0 1 0.46875 7 2
 EndChar
 
-StartChar: kat.18.8
+StartChar: kat.19.9
 Encoding: 58078 58078 563
 Width: 129
 VWidth: 3000
@@ -12095,13 +12094,13 @@ LayerCount: 3
 Fore
 SplineSet
 84 3 m 25,0,-1
- 0 -9 l 1,1,-1
- 8 89 l 1,2,3
+ 0 -13 l 1,1,-1
+ 9 64 l 1,2,3
  67 67 67 67 67 67 c 1,4,5
  97 67 97 67 127 67 c 1,6,-1
  84 3 l 25,0,-1
 EndSplineSet
-Refer: 320 57346 N 1 0 0 1 7.46875 18 2
+Refer: 320 57346 N 1 0 0 1 9.46875 4 2
 Refer: 320 57346 N 1 0 0 1 9.4688 2 2
 EndChar
 
