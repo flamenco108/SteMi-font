@@ -27,7 +27,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1379607424
-ModificationTime: 1733225740
+ModificationTime: 1733227274
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 3
@@ -759,7 +759,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 57312 18 14
+WinInfo: 57852 18 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -7372,7 +7372,7 @@ Comment: "wys 240"
 EndChar
 
 StartChar: luTJ
-Encoding: 58108 58108 284
+Encoding: 58188 58188 284
 Width: 497
 VWidth: 0
 GlyphClass: 2
@@ -7442,7 +7442,7 @@ Comment: "wys 800"
 EndChar
 
 StartChar: luKL
-Encoding: 58105 58105 287
+Encoding: 58185 58185 287
 Width: 463
 VWidth: 0
 GlyphClass: 2
@@ -7481,7 +7481,7 @@ Refer: 320 57346 N 1 0 0 1 187.016 0 2
 EndChar
 
 StartChar: luSJ
-Encoding: 58106 58106 288
+Encoding: 58186 58186 288
 Width: 459
 VWidth: 0
 GlyphClass: 2
@@ -7540,7 +7540,7 @@ Refer: 320 57346 S 1 0 0 1 215 552 2
 EndChar
 
 StartChar: luCJ
-Encoding: 58107 58107 289
+Encoding: 58187 58187 289
 Width: 454
 VWidth: 0
 GlyphClass: 2
@@ -7702,7 +7702,7 @@ Validated: 2085
 EndChar
 
 StartChar: koniecPUA
-Encoding: 63743 63743 292
+Encoding: 63823 63823 292
 Width: 1592
 VWidth: 3000
 Flags: W
@@ -7760,7 +7760,7 @@ Comment: "wys 400"
 EndChar
 
 StartChar: lu0
-Encoding: 57489 57489 295
+Encoding: 57569 57569 295
 Width: 308
 VWidth: 0
 GlyphClass: 2
@@ -7783,7 +7783,7 @@ Refer: 320 57346 N 1 0 0 1 188 1588 2
 EndChar
 
 StartChar: lu1
-Encoding: 57490 57490 296
+Encoding: 57570 57570 296
 Width: 263
 VWidth: 0
 GlyphClass: 2
@@ -7806,7 +7806,7 @@ Refer: 320 57346 N 1 0 0 1 143.261 1170.04 2
 EndChar
 
 StartChar: lu3
-Encoding: 57492 57492 297
+Encoding: 57572 57572 297
 Width: 189
 VWidth: 0
 GlyphClass: 2
@@ -7827,7 +7827,7 @@ Refer: 320 57346 N 1 0 0 1 67.9195 0.359375 2
 EndChar
 
 StartChar: lu2
-Encoding: 57491 57491 298
+Encoding: 57571 57571 298
 Width: 210
 VWidth: 0
 GlyphClass: 2
@@ -7848,7 +7848,7 @@ Refer: 320 57346 N 1 0 0 1 90.0019 780.168 2
 EndChar
 
 StartChar: luUs
-Encoding: 57499 57499 299
+Encoding: 57579 57579 299
 Width: 0
 VWidth: 0
 GlyphClass: 2
@@ -7857,7 +7857,7 @@ LayerCount: 3
 EndChar
 
 StartChar: kolo.s
-Encoding: 57500 57500 300
+Encoding: 57580 57580 300
 Width: 600
 VWidth: 0
 GlyphClass: 2
@@ -7891,7 +7891,7 @@ Refer: 320 57346 S 1 0 0 1 0 240 2
 EndChar
 
 StartChar: kolo.z
-Encoding: 57501 57501 301
+Encoding: 57581 57581 301
 Width: 481
 VWidth: 300
 GlyphClass: 2
@@ -7925,7 +7925,7 @@ Refer: 320 57346 N 1 0 0 1 3.125e-07 179.854 2
 EndChar
 
 StartChar: eprost3
-Encoding: 58175 58175 302
+Encoding: 58255 58255 302
 Width: 698
 VWidth: 3000
 GlyphClass: 2
@@ -7936,7 +7936,7 @@ Refer: 293 57355 S 0.0871557 -0.996195 0.996195 0.0871557 -4.80851 115.266 2
 EndChar
 
 StartChar: eprost4
-Encoding: 58176 58176 303
+Encoding: 58256 58256 303
 Width: 498
 VWidth: 3000
 GlyphClass: 2
@@ -7947,7 +7947,7 @@ Refer: 294 57356 S 0.0871557 -0.996195 0.996195 0.0871557 -4.80908 114.982 2
 EndChar
 
 StartChar: e.org
-Encoding: 58460 58460 304
+Encoding: 58540 58540 304
 Width: 698
 VWidth: 3000
 GlyphClass: 2
@@ -7958,7 +7958,7 @@ Refer: 302 58175 S 1 0 0 1 -0.000172627 0 2
 EndChar
 
 StartChar: u.org
-Encoding: 58590 58590 305
+Encoding: 58670 58670 305
 Width: 455
 VWidth: 3000
 GlyphClass: 2
@@ -7969,7 +7969,7 @@ Refer: 329 58217 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: i.org
-Encoding: 58662 58662 306
+Encoding: 58742 58742 306
 Width: 121
 VWidth: 3000
 GlyphClass: 2
@@ -7980,7 +7980,7 @@ Refer: 294 57356 S 1 0 0 1 1 0 2
 EndChar
 
 StartChar: y.org
-Encoding: 58742 58742 307
+Encoding: 58822 58822 307
 Width: 920
 VWidth: 3000
 GlyphClass: 2
@@ -7991,7 +7991,7 @@ Refer: 281 57352 S 0.866025 -0.5 0.5 0.866025 -19.0192 43.3567 2
 EndChar
 
 StartChar: polokrM.1
-Encoding: 58180 58180 308
+Encoding: 58260 58260 308
 Width: 265
 VWidth: 3000
 GlyphClass: 2
@@ -8016,7 +8016,7 @@ Refer: 320 57346 S 1 0 0 1 -60 331 2
 EndChar
 
 StartChar: polokrM.2
-Encoding: 58181 58181 309
+Encoding: 58261 58261 309
 Width: 532
 VWidth: 3000
 GlyphClass: 2
@@ -8027,7 +8027,7 @@ Refer: 308 58180 S 0 -1 1 0 -1.71875e-05 265.978 2
 EndChar
 
 StartChar: polokrM.3
-Encoding: 58182 58182 310
+Encoding: 58262 58262 310
 Width: 265
 VWidth: 3000
 GlyphClass: 2
@@ -8038,7 +8038,7 @@ Refer: 308 58180 S -1 0 0 -1 265.66 532.295 2
 EndChar
 
 StartChar: polokrM.4
-Encoding: 58183 58183 311
+Encoding: 58263 58263 311
 Width: 532
 VWidth: 3000
 GlyphClass: 2
@@ -8049,7 +8049,7 @@ Refer: 308 58180 S 0 1 -1 0 532.295 -0.0029 2
 EndChar
 
 StartChar: polokrD.1
-Encoding: 58184 58184 312
+Encoding: 58264 58264 312
 Width: 410
 VWidth: 3000
 GlyphClass: 2
@@ -8075,7 +8075,7 @@ Refer: 320 57346 N 1 0 0 1 0 658 2
 EndChar
 
 StartChar: polokrD.2
-Encoding: 58185 58185 313
+Encoding: 58265 58265 313
 Width: 821
 VWidth: 3000
 GlyphClass: 2
@@ -8086,7 +8086,7 @@ Refer: 312 58184 S 0 -1 1 0 -9.375e-05 409.875 2
 EndChar
 
 StartChar: polokrD.3
-Encoding: 58186 58186 314
+Encoding: 58266 58266 314
 Width: 410
 VWidth: 3000
 GlyphClass: 2
@@ -8097,7 +8097,7 @@ Refer: 312 58184 S -1 0 0 -1 410.261 821.754 2
 EndChar
 
 StartChar: polokrD.4
-Encoding: 58187 58187 315
+Encoding: 58267 58267 315
 Width: 821
 VWidth: 3000
 GlyphClass: 2
@@ -8108,7 +8108,7 @@ Refer: 312 58184 N 0 1 -1 0 821.754 0.879 2
 EndChar
 
 StartChar: okroci
-Encoding: 58196 58196 316
+Encoding: 58276 58276 316
 Width: 542
 VWidth: 3000
 GlyphClass: 2
@@ -8292,7 +8292,7 @@ EndSplineSet
 EndChar
 
 StartChar: eprost2
-Encoding: 58174 58174 323
+Encoding: 58254 58254 323
 Width: 947
 VWidth: 3000
 Flags: W
@@ -8302,7 +8302,7 @@ Refer: 286 57354 S 0.0871557 -0.996195 0.996195 0.0871557 -4.80892 117.372 2
 EndChar
 
 StartChar: luGL
-Encoding: 58109 58109 324
+Encoding: 58189 58189 324
 Width: 355
 VWidth: 3000
 Flags: W
@@ -8313,7 +8313,7 @@ Refer: 340 57502 N 1 0 0 1 0 163 2
 EndChar
 
 StartChar: dolTW
-Encoding: 58288 58288 325
+Encoding: 58368 58368 325
 Width: 237
 VWidth: 3000
 Flags: W
@@ -8333,7 +8333,7 @@ Refer: 320 57346 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: dolMK30
-Encoding: 58289 58289 326
+Encoding: 58369 58369 326
 Width: 434
 VWidth: 3000
 Flags: W
@@ -8352,7 +8352,7 @@ Refer: 320 57346 N 1 0 0 1 2.4688 0 2
 EndChar
 
 StartChar: dolETW
-Encoding: 58290 58290 327
+Encoding: 58370 58370 327
 Width: 335
 VWidth: 3000
 Flags: W
@@ -8372,7 +8372,7 @@ Refer: 320 57346 N 1 0 0 1 122 20 2
 EndChar
 
 StartChar: dolMKE
-Encoding: 58291 58291 328
+Encoding: 58371 58371 328
 Width: 120
 VWidth: 3000
 Flags: W
@@ -8391,7 +8391,7 @@ Refer: 320 57346 N 1 0 0 1 0 6 2
 EndChar
 
 StartChar: luU0
-Encoding: 58217 58217 329
+Encoding: 58297 58297 329
 Width: 549
 VWidth: 3000
 Flags: W
@@ -8413,7 +8413,7 @@ Refer: 320 57346 N 1 0 0 1 429 720 2
 EndChar
 
 StartChar: luU2
-Encoding: 58219 58219 330
+Encoding: 58299 58299 330
 Width: 773
 VWidth: 3000
 Flags: W
@@ -8435,7 +8435,7 @@ Refer: 320 57346 N 0.999999 -2.17497e-07 2.17497e-07 0.999999 0.437626 0.0811802
 EndChar
 
 StartChar: luNdol
-Encoding: 58278 58278 331
+Encoding: 58358 58358 331
 Width: 452
 VWidth: 3000
 Flags: W
@@ -8457,7 +8457,7 @@ Refer: 320 57346 N 1 0 0 1 0 -65 2
 EndChar
 
 StartChar: dolKszMKE
-Encoding: 58293 58293 332
+Encoding: 58373 58373 332
 Width: 924
 VWidth: 3000
 Flags: W
@@ -8477,7 +8477,7 @@ Refer: 320 57346 N 2.22045e-16 -1 1 2.22045e-16 99 60 2
 EndChar
 
 StartChar: dolKszMK
-Encoding: 58294 58294 333
+Encoding: 58374 58374 333
 Width: 711
 VWidth: 3000
 Flags: W
@@ -8497,7 +8497,7 @@ Refer: 320 57346 N 1 0 0 1 134 -14 2
 EndChar
 
 StartChar: dolLUK30
-Encoding: 58295 58295 334
+Encoding: 58375 58375 334
 Width: 462
 VWidth: 3000
 Flags: W
@@ -8519,7 +8519,7 @@ Refer: 320 57346 N 1 0 0 1 342 -29 2
 EndChar
 
 StartChar: eprost0
-Encoding: 58172 58172 335
+Encoding: 58252 58252 335
 Width: 1703
 VWidth: 3000
 Flags: W
@@ -8529,7 +8529,7 @@ Refer: 281 57352 S 0.0871557 -0.996195 0.996195 0.0871557 -4.80861 114.76 2
 EndChar
 
 StartChar: eprost1
-Encoding: 58173 58173 336
+Encoding: 58253 58253 336
 Width: 1304
 VWidth: 3000
 Flags: W
@@ -8539,7 +8539,7 @@ Refer: 285 57353 S 0.0871557 -0.996195 0.996195 0.0871557 -4.80886 114.192 2
 EndChar
 
 StartChar: eprost5
-Encoding: 58177 58177 337
+Encoding: 58257 58257 337
 Width: 299
 VWidth: 3000
 Flags: W
@@ -8549,7 +8549,7 @@ Refer: 282 57357 S 0.0871557 -0.996195 0.996195 0.0871557 -4.72193 114.662 2
 EndChar
 
 StartChar: eprost6
-Encoding: 58178 58178 338
+Encoding: 58258 58258 338
 Width: 200
 VWidth: 3000
 Flags: W
@@ -8559,7 +8559,7 @@ Refer: 283 57358 S 0.0871557 -0.996195 0.996195 0.0871557 -4.7218 115.019 2
 EndChar
 
 StartChar: gorMKE
-Encoding: 58301 58301 339
+Encoding: 58381 58381 339
 Width: 448
 VWidth: 3000
 Flags: W
@@ -8569,7 +8569,7 @@ Refer: 328 58291 S -1 0 0 -1 120 200 2
 EndChar
 
 StartChar: kolo.l
-Encoding: 57502 57502 340
+Encoding: 57582 57582 340
 Width: 280
 VWidth: 3000
 Flags: W
@@ -8589,7 +8589,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniE07F
-Encoding: 58296 58296 341
+Encoding: 58376 58376 341
 Width: 3000
 VWidth: 3000
 LayerCount: 3
@@ -8598,7 +8598,7 @@ Refer: 320 57346 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: E.org
-Encoding: 58461 58461 342
+Encoding: 58541 58541 342
 Width: 701
 VWidth: 3000
 Flags: W
@@ -8609,7 +8609,7 @@ Refer: 304 58460 S 1 0 0 1 1 0 2
 EndChar
 
 StartChar: e90
-Encoding: 58462 58462 343
+Encoding: 58542 58542 343
 Width: 700
 VWidth: 3000
 Flags: W
@@ -8619,7 +8619,7 @@ Refer: 304 58460 S 0.996195 -0.0871557 0.0871557 0.996195 -5.25608 4.2775 2
 EndChar
 
 StartChar: e85.krt
-Encoding: 58463 58463 344
+Encoding: 58543 58543 344
 Width: 498
 VWidth: 3000
 Flags: W
@@ -8629,7 +8629,7 @@ Refer: 303 58176 N 1 0 0 1 -3.98146e-05 0 2
 EndChar
 
 StartChar: e90.krt
-Encoding: 58464 58464 345
+Encoding: 58544 58544 345
 Width: 500
 VWidth: 3000
 Flags: W
@@ -8639,7 +8639,7 @@ Refer: 344 58463 S 0.996195 -0.0871557 0.0871557 0.996195 -5.23087 4.897 2
 EndChar
 
 StartChar: e85r
-Encoding: 58465 58465 346
+Encoding: 58545 58545 346
 Width: 698
 VWidth: 3000
 Flags: W
@@ -8649,7 +8649,7 @@ Refer: 304 58460 N 1 0 0 1 -0.000157002 0 2
 EndChar
 
 StartChar: e90r
-Encoding: 58466 58466 347
+Encoding: 58546 58546 347
 Width: 700
 VWidth: 3000
 Flags: W
@@ -8659,7 +8659,7 @@ Refer: 343 58462 N 1 0 0 1 -0.000296135 0 2
 EndChar
 
 StartChar: re85
-Encoding: 58467 58467 348
+Encoding: 58547 58547 348
 Width: 698
 VWidth: 3000
 Flags: W
@@ -8669,7 +8669,7 @@ Refer: 346 58465 N 1 0 0 1 -0.000496055 0 2
 EndChar
 
 StartChar: re90
-Encoding: 58468 58468 349
+Encoding: 58548 58548 349
 Width: 700
 VWidth: 3000
 Flags: W
@@ -8679,7 +8679,7 @@ Refer: 347 58466 N 1 0 0 1 -0.000178948 0 2
 EndChar
 
 StartChar: re85r
-Encoding: 58469 58469 350
+Encoding: 58549 58549 350
 Width: 698
 VWidth: 3000
 Flags: W
@@ -8689,7 +8689,7 @@ Refer: 348 58467 N 1 0 0 1 -0.000496055 0 2
 EndChar
 
 StartChar: re90r
-Encoding: 58470 58470 351
+Encoding: 58550 58550 351
 Width: 700
 VWidth: 3000
 Flags: W
@@ -8699,7 +8699,7 @@ Refer: 349 58468 N 1 0 0 1 -0.000178948 0 2
 EndChar
 
 StartChar: luU1
-Encoding: 58218 58218 352
+Encoding: 58298 58298 352
 Width: 587
 VWidth: 3000
 Flags: W
@@ -8719,7 +8719,7 @@ Refer: 320 57346 N 1 0 0 1 466 720 2
 EndChar
 
 StartChar: luU3
-Encoding: 58220 58220 353
+Encoding: 58300 58300 353
 Width: 882
 VWidth: 3000
 Flags: W
@@ -8741,7 +8741,7 @@ Refer: 320 57346 N 0.866025 -0.5 0.5 0.866025 736.372 496.268 2
 EndChar
 
 StartChar: luU4
-Encoding: 58221 58221 354
+Encoding: 58301 58301 354
 Width: 500
 VWidth: 3000
 Flags: W
@@ -8765,7 +8765,7 @@ Refer: 320 57346 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: luU5
-Encoding: 58222 58222 355
+Encoding: 58302 58302 355
 Width: 455
 VWidth: 3000
 Flags: W
@@ -8790,7 +8790,7 @@ Refer: 320 57346 N 0.866025 -0.5 0.5 0.866025 301.577 597.038 2
 EndChar
 
 StartChar: luUa0
-Encoding: 58223 58223 356
+Encoding: 58303 58303 356
 Width: 455
 VWidth: 3000
 Flags: W
@@ -8800,7 +8800,7 @@ Refer: 329 58217 S -1 0 0 -1 455 839.973 2
 EndChar
 
 StartChar: luUa1
-Encoding: 58224 58224 357
+Encoding: 58304 58304 357
 Width: 587
 VWidth: 3000
 Flags: W
@@ -8810,7 +8810,7 @@ Refer: 352 58218 S -1 0 0 -1 587 839.95 2
 EndChar
 
 StartChar: luUa2
-Encoding: 58225 58225 358
+Encoding: 58305 58305 358
 Width: 813
 VWidth: 3000
 Flags: W
@@ -8820,7 +8820,7 @@ Refer: 330 58219 S -1 0 0 -1 773.497 578.435 2
 EndChar
 
 StartChar: luUa3
-Encoding: 58226 58226 359
+Encoding: 58306 58306 359
 Width: 882
 VWidth: 3000
 Flags: W
@@ -8830,7 +8830,7 @@ Refer: 353 58220 S -1 0 0 -1 881.275 582.325 2
 EndChar
 
 StartChar: luUa4
-Encoding: 58227 58227 360
+Encoding: 58307 58307 360
 Width: 451
 VWidth: 3000
 Flags: W
@@ -8840,7 +8840,7 @@ Refer: 354 58221 N -1 0 0 -1 451 139 2
 EndChar
 
 StartChar: U.org
-Encoding: 58591 58591 361
+Encoding: 58671 58671 361
 Width: 455
 VWidth: 3000
 Flags: W
@@ -8851,7 +8851,7 @@ Refer: 305 58590 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u.alt
-Encoding: 58592 58592 362
+Encoding: 58672 58672 362
 Width: 455
 VWidth: 3000
 Flags: W
@@ -8861,7 +8861,7 @@ Refer: 356 58223 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: U.alt
-Encoding: 58593 58593 363
+Encoding: 58673 58673 363
 Width: 455
 VWidth: 3000
 Flags: W
@@ -8872,7 +8872,7 @@ Refer: 362 58592 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u30
-Encoding: 58594 58594 364
+Encoding: 58674 58674 364
 Width: 587
 VWidth: 3000
 Flags: W
@@ -8882,7 +8882,7 @@ Refer: 352 58218 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u30.alt
-Encoding: 58595 58595 365
+Encoding: 58675 58675 365
 Width: 587
 VWidth: 3000
 Flags: W
@@ -8892,7 +8892,7 @@ Refer: 357 58224 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u45
-Encoding: 58596 58596 366
+Encoding: 58676 58676 366
 Width: 812
 VWidth: 3000
 Flags: W
@@ -8902,7 +8902,7 @@ Refer: 330 58219 S 1 0 0 1 40.0001 0 2
 EndChar
 
 StartChar: u45.alt
-Encoding: 58597 58597 367
+Encoding: 58677 58677 367
 Width: 813
 VWidth: 3000
 Flags: W
@@ -8912,7 +8912,7 @@ Refer: 358 58225 N 1 0 0 1 -0.000604592 0 2
 EndChar
 
 StartChar: u55
-Encoding: 58598 58598 368
+Encoding: 58678 58678 368
 Width: 883
 VWidth: 3000
 Flags: W
@@ -8922,7 +8922,7 @@ Refer: 353 58220 N 1 0 0 1 1 0 2
 EndChar
 
 StartChar: u55.alt
-Encoding: 58599 58599 369
+Encoding: 58679 58679 369
 Width: 883
 VWidth: 3000
 Flags: W
@@ -8932,7 +8932,7 @@ Refer: 359 58226 N 1 0 0 1 -0.133548 0 2
 EndChar
 
 StartChar: u.krt
-Encoding: 58600 58600 370
+Encoding: 58680 58680 370
 Width: 452
 VWidth: 3000
 Flags: W
@@ -8942,7 +8942,7 @@ Refer: 354 58221 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u.alt.krt
-Encoding: 58601 58601 371
+Encoding: 58681 58681 371
 Width: 452
 VWidth: 3000
 Flags: W
@@ -8952,7 +8952,7 @@ Refer: 360 58227 N 1 0 0 1 1 0 2
 EndChar
 
 StartChar: u.lft
-Encoding: 58602 58602 372
+Encoding: 58682 58682 372
 Width: 455
 VWidth: 3000
 Flags: W
@@ -8962,7 +8962,7 @@ Refer: 355 58222 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: u30r
-Encoding: 58605 58605 373
+Encoding: 58685 58685 373
 Width: 773
 VWidth: 3000
 Flags: W
@@ -8972,7 +8972,7 @@ Refer: 366 58596 N 1 0 0 1 -38.4784 0 2
 EndChar
 
 StartChar: U30r
-Encoding: 58606 58606 374
+Encoding: 58686 58686 374
 Width: 788
 VWidth: 3000
 Flags: W
@@ -8983,7 +8983,7 @@ Refer: 373 58605 N 1 0 0 1 -0.000360071 210 2
 EndChar
 
 StartChar: u30r.alt
-Encoding: 58607 58607 375
+Encoding: 58687 58687 375
 Width: 586
 VWidth: 3000
 Flags: W
@@ -8993,7 +8993,7 @@ Refer: 365 58595 S 1 0 0 1 -1 0 2
 EndChar
 
 StartChar: U30r.alt
-Encoding: 58608 58608 376
+Encoding: 58688 58688 376
 Width: 795
 VWidth: 3000
 Flags: W
@@ -9004,7 +9004,7 @@ Refer: 375 58607 N 1 0 0 1 -0.000363187 -1 2
 EndChar
 
 StartChar: u45r
-Encoding: 58609 58609 377
+Encoding: 58689 58689 377
 Width: 773
 VWidth: 3000
 Flags: W
@@ -9014,7 +9014,7 @@ Refer: 366 58596 S 1 0 0 1 -38.4784 0 2
 EndChar
 
 StartChar: U45r
-Encoding: 58610 58610 378
+Encoding: 58690 58690 378
 Width: 797
 VWidth: 3000
 Flags: W
@@ -9025,7 +9025,7 @@ Refer: 377 58609 N 1 0 0 1 4.34503e-05 0 2
 EndChar
 
 StartChar: u45r.alt
-Encoding: 58611 58611 379
+Encoding: 58691 58691 379
 Width: 773
 VWidth: 3000
 Flags: W
@@ -9035,7 +9035,7 @@ Refer: 367 58597 S 1 0 0 1 -1.97485 0 2
 EndChar
 
 StartChar: U45r.alt
-Encoding: 58612 58612 380
+Encoding: 58692 58692 380
 Width: 773
 VWidth: 3000
 Flags: W
@@ -9046,7 +9046,7 @@ Refer: 379 58611 N 1 0 0 1 -0.000608033 -2 2
 EndChar
 
 StartChar: u55r
-Encoding: 58613 58613 381
+Encoding: 58693 58693 381
 Width: 881
 VWidth: 3000
 Flags: W
@@ -9056,7 +9056,7 @@ Refer: 368 58598 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: U55r
-Encoding: 58614 58614 382
+Encoding: 58694 58694 382
 Width: 881
 VWidth: 3000
 Flags: W
@@ -9067,7 +9067,7 @@ Refer: 368 58598 N 1 0 0 1 0.17593 0 2
 EndChar
 
 StartChar: u55r.alt
-Encoding: 58615 58615 383
+Encoding: 58695 58695 383
 Width: 881
 VWidth: 3000
 Flags: W
@@ -9077,7 +9077,7 @@ Refer: 369 58599 N 1 0 0 1 -0.975588 0 2
 EndChar
 
 StartChar: U55r.alt
-Encoding: 58616 58616 384
+Encoding: 58696 58696 384
 Width: 881
 VWidth: 3000
 Flags: W
@@ -9088,7 +9088,7 @@ Refer: 383 58615 N 1 0 0 1 -2.27219e-06 0 2
 EndChar
 
 StartChar: ru30
-Encoding: 58617 58617 385
+Encoding: 58697 58697 385
 Width: 586
 VWidth: 3000
 Flags: W
@@ -9098,7 +9098,7 @@ Refer: 364 58594 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ru30.alt
-Encoding: 58618 58618 386
+Encoding: 58698 58698 386
 Width: 586
 VWidth: 3000
 Flags: W
@@ -9108,7 +9108,7 @@ Refer: 365 58595 N 1 0 0 1 -1 0 2
 EndChar
 
 StartChar: ru45
-Encoding: 58619 58619 387
+Encoding: 58699 58699 387
 Width: 773
 VWidth: 3000
 Flags: W
@@ -9118,7 +9118,7 @@ Refer: 366 58596 N 1 0 0 1 -38.4784 0 2
 EndChar
 
 StartChar: ru45.alt
-Encoding: 58620 58620 388
+Encoding: 58700 58700 388
 Width: 773
 VWidth: 3000
 Flags: W
@@ -9128,7 +9128,7 @@ Refer: 367 58597 N 1 0 0 1 -1.97448 0 2
 EndChar
 
 StartChar: ru55
-Encoding: 58621 58621 389
+Encoding: 58701 58701 389
 Width: 881
 VWidth: 3000
 Flags: W
@@ -9138,7 +9138,7 @@ Refer: 368 58598 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ru55.alt
-Encoding: 58622 58622 390
+Encoding: 58702 58702 390
 Width: 881
 VWidth: 3000
 Flags: W
@@ -9148,7 +9148,7 @@ Refer: 369 58599 N 1 0 0 1 -0.975588 0 2
 EndChar
 
 StartChar: ru45r
-Encoding: 58623 58623 391
+Encoding: 58703 58703 391
 Width: 773
 VWidth: 3000
 Flags: W
@@ -9158,7 +9158,7 @@ Refer: 387 58619 N 1 0 0 1 7.1179e-05 0 2
 EndChar
 
 StartChar: ru45r.alt
-Encoding: 58624 58624 392
+Encoding: 58704 58704 392
 Width: 773
 VWidth: 3000
 Flags: W
@@ -9168,7 +9168,7 @@ Refer: 388 58620 N 1 0 0 1 0.000128563 0 2
 EndChar
 
 StartChar: ru55r
-Encoding: 58625 58625 393
+Encoding: 58705 58705 393
 Width: 881
 VWidth: 3000
 Flags: W
@@ -9178,7 +9178,7 @@ Refer: 389 58621 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ru55r.alt
-Encoding: 58626 58626 394
+Encoding: 58706 58706 394
 Width: 881
 VWidth: 3000
 Flags: W
@@ -9188,7 +9188,7 @@ Refer: 390 58622 N 1 0 0 1 -2.27219e-06 0 2
 EndChar
 
 StartChar: I.org
-Encoding: 58663 58663 395
+Encoding: 58743 58743 395
 Width: 639
 VWidth: 3000
 Flags: W
@@ -9199,7 +9199,7 @@ Refer: 306 58662 N 1 0 0 1 270.918 0 2
 EndChar
 
 StartChar: i.alt
-Encoding: 58664 58664 396
+Encoding: 58744 58744 396
 Width: 121
 VWidth: 3000
 Flags: W
@@ -9209,7 +9209,7 @@ Refer: 306 58662 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: I.alt
-Encoding: 58665 58665 397
+Encoding: 58745 58745 397
 Width: 121
 VWidth: 3000
 Flags: W
@@ -9220,7 +9220,7 @@ Refer: 396 58664 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: i.45
-Encoding: 58666 58666 398
+Encoding: 58746 58746 398
 Width: 296
 VWidth: 3000
 Flags: W
@@ -9231,7 +9231,7 @@ Refer: 294 57356 N 0.707107 -0.707107 0.707107 0.707107 -20.9597 64.3549 2
 EndChar
 
 StartChar: luKLY
-Encoding: 58104 58104 399
+Encoding: 58184 58184 399
 Width: 333
 VWidth: 3000
 Flags: W
@@ -9272,7 +9272,7 @@ Refer: 320 57346 N 1 0 0 1 0.46875 20 2
 EndChar
 
 StartChar: i.225
-Encoding: 58667 58667 401
+Encoding: 58747 58747 401
 Width: 395
 VWidth: 3000
 Flags: W
@@ -9282,7 +9282,7 @@ Refer: 398 58666 S 1 0 0 1 -0.253418 -1 2
 EndChar
 
 StartChar: i.prw.45
-Encoding: 58668 58668 402
+Encoding: 58748 58748 402
 Width: 272
 VWidth: 3000
 Flags: W
@@ -9294,7 +9294,7 @@ Refer: 398 58666 S -1 0 0 -1 359.496 354 2
 EndChar
 
 StartChar: I.prw.45
-Encoding: 58669 58669 403
+Encoding: 58749 58749 403
 Width: 639
 VWidth: 3000
 Flags: W
@@ -9305,7 +9305,7 @@ Refer: 402 58668 N 1 0 0 1 266 0 2
 EndChar
 
 StartChar: i.ful45
-Encoding: 58670 58670 404
+Encoding: 58750 58750 404
 Width: 284
 VWidth: 3000
 Flags: W
@@ -9317,7 +9317,7 @@ Refer: 402 58668 S 1 0 0 1 0 23 2
 EndChar
 
 StartChar: i.135
-Encoding: 58676 58676 405
+Encoding: 58756 58756 405
 Width: 284
 VWidth: 3000
 Flags: W
@@ -9327,7 +9327,7 @@ Refer: 294 57356 S 0.707107 0.707107 -0.707107 0.707107 332.414 -21.1482 2
 EndChar
 
 StartChar: i.lew45
-Encoding: 58677 58677 406
+Encoding: 58757 58757 406
 Width: 396
 VWidth: 3000
 Flags: W
@@ -9339,7 +9339,7 @@ Refer: 282 57357 N 1 0 0 1 271.001 46 2
 EndChar
 
 StartChar: i.fin
-Encoding: 58678 58678 407
+Encoding: 58758 58758 407
 Width: 236
 VWidth: 3000
 Flags: W
@@ -9350,7 +9350,7 @@ Refer: 326 58289 N 1 0 0 1 0.555813 0 2
 EndChar
 
 StartChar: dolKszTWE
-Encoding: 58292 58292 408
+Encoding: 58372 58372 408
 Width: 218
 VWidth: 3000
 Flags: W
@@ -9369,7 +9369,7 @@ Refer: 320 57346 N 0.9999 0 0 0.9999 108.297 0.000996289 2
 EndChar
 
 StartChar: gorMK45
-Encoding: 58302 58302 409
+Encoding: 58382 58382 409
 Width: 120
 VWidth: 3000
 Flags: W
@@ -9379,7 +9379,7 @@ Refer: 400 7 N -1 0 0 -1 121.469 140 2
 EndChar
 
 StartChar: o.kolb
-Encoding: 58488 58488 410
+Encoding: 58568 58568 410
 Width: 778
 VWidth: 3000
 Flags: W
@@ -9387,7 +9387,7 @@ LayerCount: 3
 EndChar
 
 StartChar: o.kol.altb
-Encoding: 58489 58489 411
+Encoding: 58569 58569 411
 Width: 778
 VWidth: 3000
 Flags: W
@@ -9395,7 +9395,7 @@ LayerCount: 3
 EndChar
 
 StartChar: kolo.z.krt
-Encoding: 57503 57503 412
+Encoding: 57583 57583 412
 Width: 399
 VWidth: 3000
 Flags: W
@@ -9428,7 +9428,7 @@ Refer: 320 57346 S 1 0 0 1 139.856 -4.54747e-13 2
 EndChar
 
 StartChar: okredzi
-Encoding: 58204 58204 413
+Encoding: 58284 58284 413
 Width: 301
 VWidth: 3000
 Flags: W
@@ -9453,7 +9453,7 @@ Refer: 320 57346 N 1 0 0 1 0 376 2
 EndChar
 
 StartChar: okrodzi
-Encoding: 58205 58205 414
+Encoding: 58285 58285 414
 Width: 386
 VWidth: 3000
 Flags: W
@@ -9478,7 +9478,7 @@ Refer: 320 57346 N 1 0 0 1 0 331 2
 EndChar
 
 StartChar: i.krt
-Encoding: 58679 58679 415
+Encoding: 58759 58759 415
 Width: 121
 VWidth: 3000
 Flags: W
@@ -9488,7 +9488,7 @@ Refer: 282 57357 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: i.tin
-Encoding: 58680 58680 416
+Encoding: 58760 58760 416
 Width: 121
 VWidth: 3000
 Flags: W
@@ -9498,7 +9498,7 @@ Refer: 283 57358 N 1 0 0 1 1 0 2
 EndChar
 
 StartChar: i.krt.alt
-Encoding: 58681 58681 417
+Encoding: 58761 58761 417
 Width: 121
 VWidth: 3000
 Flags: W
@@ -9508,7 +9508,7 @@ Refer: 415 58679 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: i.tin.alt
-Encoding: 58682 58682 418
+Encoding: 58762 58762 418
 Width: 121
 VWidth: 3000
 Flags: W
@@ -9518,7 +9518,7 @@ Refer: 416 58680 N 1 0 0 1 1 0 2
 EndChar
 
 StartChar: Y.org
-Encoding: 58743 58743 419
+Encoding: 58823 58823 419
 Width: 920
 VWidth: 3000
 Flags: W
@@ -9529,7 +9529,7 @@ Refer: 307 58742 N 1 0 0 1 0.176171 0 2
 EndChar
 
 StartChar: y20
-Encoding: 58744 58744 420
+Encoding: 58824 58824 420
 Width: 667
 VWidth: 3000
 Flags: W
@@ -9539,7 +9539,7 @@ Refer: 307 58742 S 0.984808 0.173648 -0.173648 0.984808 11.2144 -13.4484 2
 EndChar
 
 StartChar: y45
-Encoding: 58745 58745 421
+Encoding: 58825 58825 421
 Width: 1250
 VWidth: 3000
 Flags: W
@@ -9549,7 +9549,7 @@ Refer: 307 58742 S 0.965926 -0.258819 0.258819 0.965926 -14.063 19.7535 2
 EndChar
 
 StartChar: y55
-Encoding: 58746 58746 422
+Encoding: 58826 58826 422
 Width: 1428
 VWidth: 3000
 Flags: W
@@ -9559,7 +9559,7 @@ Refer: 307 58742 S 0.906308 -0.422618 0.422618 0.906308 -21.3269 27.0346 2
 EndChar
 
 StartChar: y30.krt
-Encoding: 58747 58747 423
+Encoding: 58827 58827 423
 Width: 720
 VWidth: 3000
 Flags: W
@@ -9569,7 +9569,7 @@ Refer: 285 57353 S 0.866025 -0.5 0.5 0.866025 -19.0192 42.5618 2
 EndChar
 
 StartChar: y20.krt
-Encoding: 58748 58748 424
+Encoding: 58828 58828 424
 Width: 530
 VWidth: 3000
 Flags: W
@@ -9579,7 +9579,7 @@ Refer: 423 58747 S 0.984808 0.173648 -0.173648 0.984808 11.076 -15.0638 2
 EndChar
 
 StartChar: y45.krt
-Encoding: 58749 58749 425
+Encoding: 58829 58829 425
 Width: 967
 VWidth: 3000
 Flags: W
@@ -9589,7 +9589,7 @@ Refer: 423 58747 S 0.965926 -0.258819 0.258819 0.965926 -13.8573 16.4446 2
 EndChar
 
 StartChar: y55.krt
-Encoding: 58750 58750 426
+Encoding: 58830 58830 426
 Width: 1100
 VWidth: 3000
 Flags: W
@@ -9599,7 +9599,7 @@ Refer: 423 58747 S 0.906308 -0.422618 0.422618 0.906308 -20.9913 30.29 2
 EndChar
 
 StartChar: ry30
-Encoding: 58751 58751 427
+Encoding: 58831 58831 427
 Width: 920
 VWidth: 3000
 Flags: W
@@ -9609,7 +9609,7 @@ Refer: 307 58742 S 1 0 0 1 0.000482272 0 2
 EndChar
 
 StartChar: ry30.krt
-Encoding: 58752 58752 428
+Encoding: 58832 58832 428
 Width: 720
 VWidth: 3000
 Flags: W
@@ -9619,7 +9619,7 @@ Refer: 423 58747 S 1 0 0 1 0.000482272 0 2
 EndChar
 
 StartChar: ry20
-Encoding: 58753 58753 429
+Encoding: 58833 58833 429
 Width: 667
 VWidth: 3000
 Flags: W
@@ -9629,7 +9629,7 @@ Refer: 420 58744 S 1 0 0 1 9.29472e-06 0 2
 EndChar
 
 StartChar: ry20.krt
-Encoding: 58754 58754 430
+Encoding: 58834 58834 430
 Width: 530
 VWidth: 3000
 Flags: W
@@ -9639,7 +9639,7 @@ Refer: 424 58748 S 1 0 0 1 -0.000372809 0 2
 EndChar
 
 StartChar: ry45
-Encoding: 58755 58755 431
+Encoding: 58835 58835 431
 Width: 1250
 VWidth: 3000
 Flags: W
@@ -9649,7 +9649,7 @@ Refer: 421 58745 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ry45.krt
-Encoding: 58756 58756 432
+Encoding: 58836 58836 432
 Width: 967
 VWidth: 3000
 Flags: W
@@ -9659,7 +9659,7 @@ Refer: 425 58749 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ry55
-Encoding: 58757 58757 433
+Encoding: 58837 58837 433
 Width: 1428
 VWidth: 3000
 Flags: W
@@ -9669,7 +9669,7 @@ Refer: 422 58746 S 1 0 0 1 -0.000630928 0 2
 EndChar
 
 StartChar: ry55.krt
-Encoding: 58758 58758 434
+Encoding: 58838 58838 434
 Width: 1100
 VWidth: 3000
 Flags: W
@@ -9679,7 +9679,7 @@ Refer: 426 58750 S 1 0 0 1 -0.000293103 0 2
 EndChar
 
 StartChar: y30r
-Encoding: 58759 58759 435
+Encoding: 58839 58839 435
 Width: 920
 VWidth: 3000
 Flags: W
@@ -9689,7 +9689,7 @@ Refer: 427 58751 N 1 0 0 1 0.000241136 0 2
 EndChar
 
 StartChar: y30r.krt
-Encoding: 58760 58760 436
+Encoding: 58840 58840 436
 Width: 720
 VWidth: 3000
 Flags: W
@@ -9699,7 +9699,7 @@ Refer: 428 58752 N 1 0 0 1 0.000241136 0 2
 EndChar
 
 StartChar: y20r
-Encoding: 58761 58761 437
+Encoding: 58841 58841 437
 Width: 667
 VWidth: 3000
 Flags: W
@@ -9709,7 +9709,7 @@ Refer: 429 58753 N 1 0 0 1 0.00045816 0 2
 EndChar
 
 StartChar: y20r.krt
-Encoding: 58762 58762 438
+Encoding: 58842 58842 438
 Width: 530
 VWidth: 3000
 Flags: W
@@ -9719,7 +9719,7 @@ Refer: 430 58754 N 1 0 0 1 -0.00089773 0 2
 EndChar
 
 StartChar: y45r
-Encoding: 58763 58763 439
+Encoding: 58843 58843 439
 Width: 1250
 VWidth: 3000
 Flags: W
@@ -9729,7 +9729,7 @@ Refer: 431 58755 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: y45r.krt
-Encoding: 58764 58764 440
+Encoding: 58844 58844 440
 Width: 967
 VWidth: 3000
 Flags: W
@@ -9739,7 +9739,7 @@ Refer: 432 58756 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: y55r
-Encoding: 58765 58765 441
+Encoding: 58845 58845 441
 Width: 1428
 VWidth: 3000
 Flags: W
@@ -9749,7 +9749,7 @@ Refer: 433 58757 N 1 0 0 1 -0.000398283 0 2
 EndChar
 
 StartChar: y55r.krt
-Encoding: 58766 58766 442
+Encoding: 58846 58846 442
 Width: 1100
 VWidth: 3000
 Flags: W
@@ -9759,7 +9759,7 @@ Refer: 434 58758 N 1 0 0 1 0.00010518 0 2
 EndChar
 
 StartChar: ry30r
-Encoding: 58767 58767 443
+Encoding: 58847 58847 443
 Width: 920
 VWidth: 3000
 Flags: W
@@ -9769,7 +9769,7 @@ Refer: 435 58759 N 1 0 0 1 0.000482272 0 2
 EndChar
 
 StartChar: ry30r.krt
-Encoding: 58768 58768 444
+Encoding: 58848 58848 444
 Width: 720
 VWidth: 3000
 Flags: W
@@ -9779,7 +9779,7 @@ Refer: 436 58760 N 1 0 0 1 0.000482272 0 2
 EndChar
 
 StartChar: ry20r
-Encoding: 58769 58769 445
+Encoding: 58849 58849 445
 Width: 667
 VWidth: 3000
 Flags: W
@@ -9789,7 +9789,7 @@ Refer: 437 58761 N 1 0 0 1 9.29472e-06 0 2
 EndChar
 
 StartChar: ry20r.krt
-Encoding: 58770 58770 446
+Encoding: 58850 58850 446
 Width: 530
 VWidth: 3000
 Flags: W
@@ -9799,7 +9799,7 @@ Refer: 438 58762 N 1 0 0 1 7.6056e-05 0 2
 EndChar
 
 StartChar: ry45r
-Encoding: 58771 58771 447
+Encoding: 58851 58851 447
 Width: 1250
 VWidth: 3000
 Flags: W
@@ -9809,7 +9809,7 @@ Refer: 439 58763 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ry45r.krt
-Encoding: 58772 58772 448
+Encoding: 58852 58852 448
 Width: 967
 VWidth: 3000
 Flags: W
@@ -9819,7 +9819,7 @@ Refer: 440 58764 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ry55r
-Encoding: 58773 58773 449
+Encoding: 58853 58853 449
 Width: 1428
 VWidth: 3000
 Flags: W
@@ -9829,7 +9829,7 @@ Refer: 441 58765 N 1 0 0 1 -0.000232645 0 2
 EndChar
 
 StartChar: ry55r.krt
-Encoding: 58774 58774 450
+Encoding: 58854 58854 450
 Width: 1100
 VWidth: 3000
 Flags: W
@@ -9839,7 +9839,7 @@ Refer: 442 58766 N 1 0 0 1 -0.000398283 0 2
 EndChar
 
 StartChar: u.lft.alt
-Encoding: 58603 58603 451
+Encoding: 58683 58683 451
 Width: 834
 VWidth: 3000
 Flags: W
@@ -9849,7 +9849,7 @@ Refer: 372 58602 N -1 0 0 -1 834.123 779.409 2
 EndChar
 
 StartChar: i.ful30
-Encoding: 58671 58671 452
+Encoding: 58751 58751 452
 Width: 508
 VWidth: 3000
 Flags: W
@@ -9896,7 +9896,7 @@ Refer: 294 57356 S 0.866025 -0.5 0.5 0.866025 -19.0194 -51.6042 2
 EndChar
 
 StartChar: i30
-Encoding: 58672 58672 453
+Encoding: 58752 58752 453
 Width: 316
 VWidth: 3000
 Flags: W
@@ -9907,7 +9907,7 @@ Refer: 326 58289 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: okreci
-Encoding: 58197 58197 454
+Encoding: 58277 58277 454
 Width: 411
 VWidth: 3000
 Flags: W
@@ -9917,7 +9917,7 @@ Refer: 312 58184 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: luNgor
-Encoding: 58279 58279 455
+Encoding: 58359 58359 455
 Width: 452
 VWidth: 2998
 Flags: W
@@ -9927,7 +9927,7 @@ Refer: 331 58278 N -1 0 0 -1 452 -44.0053 2
 EndChar
 
 StartChar: luNOdol
-Encoding: 58280 58280 456
+Encoding: 58360 58360 456
 Width: 776
 VWidth: 3000
 Flags: W
@@ -9949,7 +9949,7 @@ Refer: 320 57346 N 1 0 0 1 656 -20 2
 EndChar
 
 StartChar: luONgor
-Encoding: 58281 58281 457
+Encoding: 58361 58361 457
 Width: 776
 VWidth: 3000
 Flags: W
@@ -9959,7 +9959,7 @@ Refer: 456 58280 S -1 0 0 -1 776 -129.413 2
 EndChar
 
 StartChar: OstrI
-Encoding: 58303 58303 458
+Encoding: 58383 58383 458
 Width: 120
 VWidth: 3000
 Flags: W
@@ -9979,7 +9979,7 @@ Refer: 320 57346 S 1 0 0 1 0 -1 2
 EndChar
 
 StartChar: gorLUK30
-Encoding: 58296 58296 459
+Encoding: 58376 58376 459
 Width: 450
 VWidth: 3000
 Flags: W
@@ -9989,7 +9989,7 @@ Refer: 334 58295 N -1 0 0 -1 450 119.994 2
 EndChar
 
 StartChar: gorOMluk30
-Encoding: 58297 58297 460
+Encoding: 58377 58377 460
 Width: 780
 VWidth: 3000
 Flags: W
@@ -10011,7 +10011,7 @@ Refer: 320 57346 N -1 0 0 -1 120 119 2
 EndChar
 
 StartChar: dolMOluk30
-Encoding: 58298 58298 461
+Encoding: 58378 58378 461
 Width: 780
 VWidth: 3000
 Flags: W
@@ -10021,7 +10021,7 @@ Refer: 460 58297 S -1 0 0 -1 780 294.015 2
 EndChar
 
 StartChar: dolLUK45
-Encoding: 58299 58299 462
+Encoding: 58379 58379 462
 Width: 460
 VWidth: 3000
 Flags: W
@@ -10043,7 +10043,7 @@ Refer: 320 57346 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: gorLUK45
-Encoding: 58300 58300 463
+Encoding: 58380 58380 463
 Width: 432
 VWidth: 3000
 Flags: W
@@ -10053,7 +10053,7 @@ Refer: 462 58299 N -1 0 0 -1 432.818 90.9946 2
 EndChar
 
 StartChar: gorOMluk45
-Encoding: 58304 58304 464
+Encoding: 58384 58384 464
 Width: 780
 VWidth: 3000
 Flags: W
@@ -10075,7 +10075,7 @@ Refer: 320 57346 N -0.965926 0.258819 -0.258819 -0.965926 134.27 101.454 2
 EndChar
 
 StartChar: dolMOluk45
-Encoding: 58305 58305 465
+Encoding: 58385 58385 465
 Width: 780
 VWidth: 3000
 Flags: W
@@ -10085,7 +10085,7 @@ Refer: 464 58304 S -1 0 0 -1 780.818 83.0148 2
 EndChar
 
 StartChar: luk.s.0.9
-Encoding: 57535 57535 466
+Encoding: 57615 57615 466
 Width: 1600
 VWidth: 3000
 Flags: W
@@ -10103,7 +10103,7 @@ Refer: 320 57346 N -2.01892e-07 1 -1 -2.01892e-07 1600.69 1480.46 2
 EndChar
 
 StartChar: luk.v.0.9
-Encoding: 57540 57540 467
+Encoding: 57620 57620 467
 Width: 299
 VWidth: 3000
 Flags: W
@@ -10121,7 +10121,7 @@ Refer: 320 57346 S -2.01892e-07 1 -1 -2.01892e-07 299.646 179.931 2
 EndChar
 
 StartChar: luk.f.0.9
-Encoding: 57536 57536 468
+Encoding: 57616 57616 468
 Width: 1199
 VWidth: 3000
 Flags: W
@@ -10139,7 +10139,7 @@ Refer: 320 57346 S -2.01892e-07 1 -1 -2.01892e-07 1199.74 1079.73 2
 EndChar
 
 StartChar: lu4
-Encoding: 57493 57493 469
+Encoding: 57573 57573 469
 Width: 163
 VWidth: 3000
 Flags: W
@@ -10159,7 +10159,7 @@ Refer: 320 57346 N 1 0 0 1 41.9192 0.359375 2
 EndChar
 
 StartChar: brh.p.4.19
-Encoding: 57380 57380 470
+Encoding: 57400 57400 470
 Width: 480
 VWidth: 3000
 Flags: W
@@ -10209,7 +10209,7 @@ Refer: 320 57346 S 1 0 0 1 -0.0497442 598.334 2
 EndChar
 
 StartChar: brh.p.3.19
-Encoding: 57381 57381 471
+Encoding: 57401 57401 471
 Width: 482
 VWidth: 3000
 Flags: W
@@ -10259,7 +10259,7 @@ Refer: 320 57346 S 1 0 0 1 183 479.109 2
 EndChar
 
 StartChar: brh.p.6.19
-Encoding: 57382 57382 472
+Encoding: 57402 57402 472
 Width: 481
 VWidth: 3000
 Flags: W
@@ -10309,7 +10309,7 @@ Refer: 320 57346 S 1 0 0 1 180.04 420 2
 EndChar
 
 StartChar: brh.p.8.19
-Encoding: 57383 57383 473
+Encoding: 57403 57403 473
 Width: 480
 VWidth: 3000
 Flags: W
@@ -10359,7 +10359,7 @@ Refer: 320 57346 S 1 0 0 1 179.808 419 2
 EndChar
 
 StartChar: brh.b.4.19
-Encoding: 57388 57388 474
+Encoding: 57428 57428 474
 Width: 452
 VWidth: 3000
 Flags: W
@@ -10390,7 +10390,7 @@ Refer: 320 57346 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: brh.b.3.19
-Encoding: 57389 57389 475
+Encoding: 57429 57429 475
 Width: 430
 VWidth: 3000
 Flags: W
@@ -10416,7 +10416,7 @@ Refer: 320 57346 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: brh.b.6.19
-Encoding: 57390 57390 476
+Encoding: 57430 57430 476
 Width: 453
 VWidth: 3000
 Flags: W
@@ -10440,7 +10440,7 @@ Refer: 320 57346 S 1 0 0 1 0 4.54747e-13 2
 EndChar
 
 StartChar: brh.b.9.19
-Encoding: 57391 57391 477
+Encoding: 57431 57431 477
 Width: 446
 VWidth: 3000
 Flags: W
@@ -10464,7 +10464,7 @@ Refer: 320 57346 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: brh.sp.4.19
-Encoding: 57396 57396 478
+Encoding: 57456 57456 478
 Width: 601
 VWidth: 3000
 Flags: W
@@ -10515,7 +10515,7 @@ Refer: 320 57346 S 1 0 0 1 1 724 2
 EndChar
 
 StartChar: brh.sp.3.19
-Encoding: 57397 57397 479
+Encoding: 57457 57457 479
 Width: 600
 VWidth: 3000
 Flags: W
@@ -10566,7 +10566,7 @@ Refer: 320 57346 S 1 0 0 1 240 1079.21 2
 EndChar
 
 StartChar: brh.sp.6.19
-Encoding: 57398 57398 480
+Encoding: 57458 57458 480
 Width: 600
 VWidth: 3000
 Flags: W
@@ -10615,7 +10615,7 @@ Refer: 320 57346 S 1 0 0 1 240 842.713 2
 EndChar
 
 StartChar: brh.sp.9.19
-Encoding: 57399 57399 481
+Encoding: 57459 57459 481
 Width: 600
 VWidth: 3000
 Flags: W
@@ -10664,7 +10664,7 @@ Refer: 320 57346 S 1 0 0 1 240 779 2
 EndChar
 
 StartChar: brh.st.4.16
-Encoding: 57404 57404 482
+Encoding: 57484 57484 482
 Width: 595
 VWidth: 3000
 Flags: W
@@ -10692,7 +10692,7 @@ Refer: 320 57346 S 0.819152 -0.573577 0.573577 0.819152 57.2873 48.408 2
 EndChar
 
 StartChar: brh.st.3.16
-Encoding: 57405 57405 483
+Encoding: 57485 57485 483
 Width: 503
 VWidth: 3000
 Flags: W
@@ -10719,7 +10719,7 @@ Refer: 320 57346 S 0.819152 -0.573577 0.573577 0.819152 107.686 48.408 2
 EndChar
 
 StartChar: brh.st.6.16
-Encoding: 57406 57406 484
+Encoding: 57486 57486 484
 Width: 571
 VWidth: 3000
 Flags: W
@@ -10747,7 +10747,7 @@ Refer: 320 57346 S 0.819152 -0.573577 0.573577 0.819152 59.913 48.408 2
 EndChar
 
 StartChar: brh.st.8.16
-Encoding: 57407 57407 485
+Encoding: 57487 57487 485
 Width: 570
 VWidth: 3000
 Flags: W
@@ -10775,7 +10775,7 @@ Refer: 320 57346 S 0.819152 -0.573577 0.573577 0.819152 31.8241 48.408 2
 EndChar
 
 StartChar: brh.zd.4.16
-Encoding: 57420 57420 486
+Encoding: 57500 57500 486
 Width: 360
 VWidth: 3000
 Flags: W
@@ -10799,7 +10799,7 @@ Refer: 320 57346 S 0.866025 -0.5 0.5 0.866025 58.0042 40.404 2
 EndChar
 
 StartChar: brh.st.4.19
-Encoding: 57412 57412 487
+Encoding: 57492 57492 487
 Width: 539
 VWidth: 3000
 Flags: W
@@ -10826,7 +10826,7 @@ Refer: 320 57346 S 0.642787 -0.766044 0.766044 0.642787 -21.6112 76.653 2
 EndChar
 
 StartChar: brh.st.3.19
-Encoding: 57413 57413 488
+Encoding: 57493 57493 488
 Width: 432
 VWidth: 3000
 Flags: W
@@ -10852,7 +10852,7 @@ Refer: 320 57346 S 0.642787 -0.766044 0.766044 0.642787 -21.6112 76.07 2
 EndChar
 
 StartChar: st.bre.6.19
-Encoding: 57414 57414 489
+Encoding: 57494 57494 489
 Width: 548
 VWidth: 3000
 Flags: W
@@ -10878,7 +10878,7 @@ Refer: 320 57346 S 0.642787 -0.766044 0.766044 0.642787 -21.6112 76.653 2
 EndChar
 
 StartChar: brh.st.9.19
-Encoding: 57415 57415 490
+Encoding: 57495 57495 490
 Width: 549
 VWidth: 3000
 Flags: W
@@ -10904,7 +10904,7 @@ Refer: 320 57346 S -0.996194 -0.0871555 0.0871555 -0.996194 115.715 155.413 2
 EndChar
 
 StartChar: brh.zd.3.16
-Encoding: 57421 57421 491
+Encoding: 57501 57501 491
 Width: 330
 VWidth: 3000
 Flags: W
@@ -10928,7 +10928,7 @@ Refer: 320 57346 S 0.866025 -0.5 0.5 0.866025 87.0037 40.404 2
 EndChar
 
 StartChar: brh.zd.6.16
-Encoding: 57422 57422 492
+Encoding: 57502 57502 492
 Width: 370
 VWidth: 3000
 Flags: W
@@ -10952,7 +10952,7 @@ Refer: 320 57346 S 0.866025 -0.5 0.5 0.866025 58.0037 40.404 2
 EndChar
 
 StartChar: brh.zd.8.16
-Encoding: 57423 57423 493
+Encoding: 57503 57503 493
 Width: 396
 VWidth: 3000
 Flags: W
@@ -10976,7 +10976,7 @@ Refer: 320 57346 S 0.866025 0.5 -0.5 0.866025 116.027 -19.34 2
 EndChar
 
 StartChar: kp.brh
-Encoding: 57436 57436 494
+Encoding: 57516 57516 494
 Width: 481
 VWidth: 3000
 Flags: W
@@ -11000,7 +11000,7 @@ Refer: 320 57346 S 1 0 0 1 2 231 2
 EndChar
 
 StartChar: uniE05E
-Encoding: 57438 57438 495
+Encoding: 57518 57518 495
 Width: 394
 VWidth: 3000
 Flags: W
@@ -11024,7 +11024,7 @@ Refer: 320 57346 N 1 0 0 1 0.5 1059 2
 EndChar
 
 StartChar: brh.zd.4.19
-Encoding: 57428 57428 496
+Encoding: 57508 57508 496
 Width: 385
 VWidth: 3000
 Flags: W
@@ -11048,7 +11048,7 @@ Refer: 320 57346 S 0.866025 -0.5 0.5 0.866025 -19.6558 40.404 2
 EndChar
 
 StartChar: brh.zd.3.19
-Encoding: 57429 57429 497
+Encoding: 57509 57509 497
 Width: 381
 VWidth: 3000
 Flags: W
@@ -11072,7 +11072,7 @@ Refer: 320 57346 S 0.866025 -0.5 0.5 0.866025 -14.5933 40.404 2
 EndChar
 
 StartChar: brh.zd.6.19
-Encoding: 57430 57430 498
+Encoding: 57510 57510 498
 Width: 494
 VWidth: 3000
 Flags: W
@@ -11096,7 +11096,7 @@ Refer: 320 57346 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: brh.zd.9.19
-Encoding: 57431 57431 499
+Encoding: 57511 57511 499
 Width: 551
 VWidth: 3000
 Flags: W
@@ -11120,7 +11120,7 @@ Refer: 320 57346 S 1 0 0 1 0 -0.419922 2
 EndChar
 
 StartChar: gb.brh
-Encoding: 57437 57437 500
+Encoding: 57517 57517 500
 Width: 400
 VWidth: 3000
 Flags: W
@@ -11144,7 +11144,7 @@ Refer: 320 57346 N 1 0 0 1 1.46875 186.02 2
 EndChar
 
 StartChar: luk.d.0.3
-Encoding: 57521 57521 501
+Encoding: 57601 57601 501
 Width: 199
 VWidth: 3000
 Flags: W
@@ -11162,7 +11162,7 @@ Refer: 320 57346 N -0.866025 0.5 -0.5 -0.866025 221.468 359.079 2
 EndChar
 
 StartChar: luk.s.0.6
-Encoding: 57526 57526 502
+Encoding: 57606 57606 502
 Width: 973
 VWidth: 3000
 Flags: W
@@ -11180,7 +11180,7 @@ Refer: 320 57346 N -0.5 0.866025 -0.866025 -0.5 995.314 1515.85 2
 EndChar
 
 StartChar: brh.p.3.17
-Encoding: 57464 57464 503
+Encoding: 57544 57544 503
 Width: 490
 VWidth: 3000
 Flags: W
@@ -11190,7 +11190,7 @@ Refer: 470 57380 S 0.939693 0.34202 -0.34202 0.939693 229.496 -13.9767 2
 EndChar
 
 StartChar: brh.p.4.17
-Encoding: 57465 57465 504
+Encoding: 57545 57545 504
 Width: 510
 VWidth: 3000
 Flags: W
@@ -11200,7 +11200,7 @@ Refer: 472 57382 S 0.939693 0.34202 -0.34202 0.939693 227.663 -14.1175 2
 EndChar
 
 StartChar: brh.p.6.17
-Encoding: 57466 57466 505
+Encoding: 57546 57546 505
 Width: 547
 VWidth: 3000
 Flags: W
@@ -11210,7 +11210,7 @@ Refer: 473 57383 N 0.939693 0.34202 -0.34202 0.939693 238.634 -15.9461 2
 EndChar
 
 StartChar: luk.t.0.4
-Encoding: 57510 57510 506
+Encoding: 57590 57590 506
 Width: 406
 VWidth: 3000
 Flags: W
@@ -11228,7 +11228,7 @@ Refer: 320 57346 N -0.707107 0.707107 -0.707107 -0.707107 432.06 736.94 2
 EndChar
 
 StartChar: luk.w.0.4
-Encoding: 57511 57511 507
+Encoding: 57591 57591 507
 Width: 335
 VWidth: 3000
 Flags: W
@@ -11246,7 +11246,7 @@ Refer: 320 57346 N -0.707107 0.707107 -0.707107 -0.707107 361.151 537.264 2
 EndChar
 
 StartChar: luk.d.0.4
-Encoding: 57512 57512 508
+Encoding: 57592 57592 508
 Width: 272
 VWidth: 3000
 Flags: W
@@ -11264,7 +11264,7 @@ Refer: 320 57346 N -0.707107 0.707107 -0.707107 -0.707107 298.06 417.264 2
 EndChar
 
 StartChar: luk.v.0.4
-Encoding: 57513 57513 509
+Encoding: 57593 57593 509
 Width: 194
 VWidth: 3000
 Flags: W
@@ -11282,7 +11282,7 @@ Refer: 320 57346 S -0.707107 0.707107 -0.707107 -0.707107 220.036 238.163 2
 EndChar
 
 StartChar: luk.f.0.4
-Encoding: 57509 57509 510
+Encoding: 57589 57589 510
 Width: 555
 VWidth: 3000
 Flags: W
@@ -11300,7 +11300,7 @@ Refer: 320 57346 N -0.707107 0.707107 -0.707107 -0.707107 581.052 1137.05 2
 EndChar
 
 StartChar: luk.s.0.4
-Encoding: 57508 57508 511
+Encoding: 57588 57588 511
 Width: 732
 VWidth: 3000
 Flags: W
@@ -11318,7 +11318,7 @@ Refer: 320 57346 N -0.707107 0.707107 -0.707107 -0.707107 758.062 1536.94 2
 EndChar
 
 StartChar: luk.s.0.3
-Encoding: 57517 57517 512
+Encoding: 57597 57597 512
 Width: 478
 VWidth: 3000
 Flags: W
@@ -11336,7 +11336,7 @@ Refer: 320 57346 S -0.866025 0.5 -0.5 -0.866025 500.309 1559.6 2
 EndChar
 
 StartChar: luk.f.0.3
-Encoding: 57518 57518 513
+Encoding: 57598 57598 513
 Width: 390
 VWidth: 3000
 Flags: W
@@ -11354,7 +11354,7 @@ Refer: 320 57346 N -0.866025 0.5 -0.5 -0.866025 412.999 1158.99 2
 EndChar
 
 StartChar: luk.t.0.3
-Encoding: 57519 57519 514
+Encoding: 57599 57599 514
 Width: 318
 VWidth: 3000
 Flags: W
@@ -11372,7 +11372,7 @@ Refer: 320 57346 N -0.866025 0.5 -0.5 -0.866025 341 761.28 2
 EndChar
 
 StartChar: luk.w.0.3
-Encoding: 57520 57520 515
+Encoding: 57600 57600 515
 Width: 258
 VWidth: 3000
 Flags: W
@@ -11390,7 +11390,7 @@ Refer: 320 57346 N -0.866025 0.5 -0.5 -0.866025 280.559 559.079 2
 EndChar
 
 StartChar: luk.v.0.3
-Encoding: 57522 57522 516
+Encoding: 57602 57602 516
 Width: 170
 VWidth: 3000
 Flags: W
@@ -11408,7 +11408,7 @@ Refer: 320 57346 S -0.866025 0.5 -0.5 -0.866025 192.434 260.079 2
 EndChar
 
 StartChar: luk.t.0.9
-Encoding: 57537 57537 517
+Encoding: 57617 57617 517
 Width: 798
 VWidth: 3000
 Flags: W
@@ -11426,7 +11426,7 @@ Refer: 320 57346 N -2.01892e-07 1 -1 -2.01892e-07 798.942 680.451 2
 EndChar
 
 StartChar: luk.w.0.9
-Encoding: 57538 57538 518
+Encoding: 57618 57618 518
 Width: 599
 VWidth: 3000
 Flags: W
@@ -11444,7 +11444,7 @@ Refer: 320 57346 S -2.01892e-07 1 -1 -2.01892e-07 599.809 479.829 2
 EndChar
 
 StartChar: luk.f.0.6
-Encoding: 57527 57527 519
+Encoding: 57607 57607 519
 Width: 741
 VWidth: 3000
 Flags: W
@@ -11462,7 +11462,7 @@ Refer: 320 57346 N -0.5 0.866025 -0.866025 -0.5 763.315 1115.85 2
 EndChar
 
 StartChar: luk.t.0.6
-Encoding: 57528 57528 520
+Encoding: 57608 57608 520
 Width: 513
 VWidth: 3000
 Flags: W
@@ -11480,7 +11480,7 @@ Refer: 320 57346 S -0.5 0.866025 -0.866025 -0.5 535.918 718.197 2
 EndChar
 
 StartChar: luk.w.0.6
-Encoding: 57529 57529 521
+Encoding: 57609 57609 521
 Width: 395
 VWidth: 3000
 Flags: W
@@ -11498,7 +11498,7 @@ Refer: 320 57346 N -0.5 0.866025 -0.866025 -0.5 417.037 515.528 2
 EndChar
 
 StartChar: luk.d.0.6
-Encoding: 57530 57530 522
+Encoding: 57610 57610 522
 Width: 281
 VWidth: 3000
 Flags: W
@@ -11516,7 +11516,7 @@ Refer: 320 57346 N -0.5 0.866025 -0.866025 -0.5 303.909 315.631 2
 EndChar
 
 StartChar: luk.v.0.6
-Encoding: 57531 57531 523
+Encoding: 57611 57611 523
 Width: 222
 VWidth: 3000
 Flags: W
@@ -11534,7 +11534,7 @@ Refer: 320 57346 N -0.5 0.866025 -0.866025 -0.5 244.855 215.523 2
 EndChar
 
 StartChar: brh.b.3.17
-Encoding: 57460 57460 524
+Encoding: 57540 57540 524
 Width: 452
 VWidth: 3000
 Flags: W
@@ -11544,7 +11544,7 @@ Refer: 474 57388 S 0.939693 0.34202 -0.34202 0.939693 179.241 -14.6789 2
 EndChar
 
 StartChar: brh.b.4.17
-Encoding: 57461 57461 525
+Encoding: 57541 57541 525
 Width: 459
 VWidth: 3000
 Flags: W
@@ -11554,7 +11554,7 @@ Refer: 476 57390 S 0.939693 0.34202 -0.34202 0.939693 163.408 -15.5993 2
 EndChar
 
 StartChar: brh.b.6.17
-Encoding: 57462 57462 526
+Encoding: 57542 57542 526
 Width: 474
 VWidth: 3000
 Flags: W
@@ -11564,7 +11564,7 @@ Refer: 477 57391 S 0.939693 0.34202 -0.34202 0.939693 153.317 -15.5508 2
 EndChar
 
 StartChar: brh.b.6.20
-Encoding: 57468 57468 527
+Encoding: 57548 57548 527
 Width: 587
 VWidth: 3000
 Flags: W
@@ -11574,7 +11574,7 @@ Refer: 474 57388 N 0.939693 -0.34202 0.34202 0.939693 -16.8007 25.9843 2
 EndChar
 
 StartChar: brh.b.4.20
-Encoding: 57469 57469 528
+Encoding: 57549 57549 528
 Width: 640
 VWidth: 3000
 Flags: W
@@ -11584,7 +11584,7 @@ Refer: 475 57389 N 0.939693 -0.34202 0.34202 0.939693 -16.8007 25.6671 2
 EndChar
 
 StartChar: brh.b.9.20
-Encoding: 57470 57470 529
+Encoding: 57550 57550 529
 Width: 574
 VWidth: 3000
 Flags: W
@@ -11594,7 +11594,7 @@ Refer: 476 57390 N 0.939693 -0.34202 0.34202 0.939693 -16.8008 25.3418 2
 EndChar
 
 StartChar: brh.p.6.20
-Encoding: 57472 57472 530
+Encoding: 57552 57552 530
 Width: 671
 VWidth: 3000
 Flags: W
@@ -11604,7 +11604,7 @@ Refer: 470 57380 N 0.939693 -0.34202 0.34202 0.939693 -16.6881 25.2919 2
 EndChar
 
 StartChar: brh.4.20
-Encoding: 57473 57473 531
+Encoding: 57553 57553 531
 Width: 719
 VWidth: 3000
 Flags: W
@@ -11614,7 +11614,7 @@ Refer: 471 57381 S 0.939693 -0.34202 0.34202 0.939693 -15.0485 26.3641 2
 EndChar
 
 StartChar: brh.p.8.20
-Encoding: 57474 57474 532
+Encoding: 57554 57554 532
 Width: 672
 VWidth: 3000
 Flags: W
@@ -11624,7 +11624,7 @@ Refer: 472 57382 S 0.939693 -0.34202 0.34202 0.939693 -16.4169 26.3942 2
 EndChar
 
 StartChar: brh.sp.3.17
-Encoding: 57476 57476 533
+Encoding: 57556 57556 533
 Width: 602
 VWidth: 3000
 Flags: W
@@ -11634,7 +11634,7 @@ Refer: 478 57396 S 0.939693 0.34202 -0.34202 0.939693 281.953 -15.2751 2
 EndChar
 
 StartChar: brh.sp.4.17
-Encoding: 57477 57477 534
+Encoding: 57557 57557 534
 Width: 621
 VWidth: 3000
 Flags: W
@@ -11644,7 +11644,7 @@ Refer: 480 57398 S 0.939693 0.34202 -0.34202 0.939693 243.122 -14.8397 2
 EndChar
 
 StartChar: brh.sp.6.17
-Encoding: 57478 57478 535
+Encoding: 57558 57558 535
 Width: 640
 VWidth: 3000
 Flags: W
@@ -11654,7 +11654,7 @@ Refer: 481 57399 S 0.939693 0.34202 -0.34202 0.939693 224.013 -16.5622 2
 EndChar
 
 StartChar: brh.sp.6.20
-Encoding: 57480 57480 536
+Encoding: 57560 57560 536
 Width: 845
 VWidth: 3000
 Flags: W
@@ -11664,7 +11664,7 @@ Refer: 478 57396 S 0.939693 -0.34202 0.34202 0.939693 -16.4586 26.2173 2
 EndChar
 
 StartChar: brh.sp.4.20
-Encoding: 57481 57481 537
+Encoding: 57561 57561 537
 Width: 899
 VWidth: 3000
 Flags: W
@@ -11674,7 +11674,7 @@ Refer: 479 57397 S 0.939693 -0.34202 0.34202 0.939693 -17.5753 25.9009 2
 EndChar
 
 StartChar: brh.sp.9.20
-Encoding: 57482 57482 538
+Encoding: 57562 57562 538
 Width: 789
 VWidth: 3000
 Flags: W
@@ -11684,7 +11684,7 @@ Refer: 480 57398 S 0.939693 -0.34202 0.34202 0.939693 -17.387 25.7992 2
 EndChar
 
 StartChar: brh.p.40.3
-Encoding: 57484 57484 539
+Encoding: 57564 57564 539
 Width: 755
 VWidth: 3000
 Flags: W
@@ -11694,7 +11694,7 @@ Refer: 470 57380 S -0.866025 0.5 -0.5 -0.866025 777.665 693.354 2
 EndChar
 
 StartChar: brh.sp.40.3
-Encoding: 57485 57485 540
+Encoding: 57565 57565 540
 Width: 947
 VWidth: 3000
 Flags: W
@@ -11704,7 +11704,7 @@ Refer: 478 57396 S -0.866025 0.5 -0.5 -0.866025 969.423 835.054 2
 EndChar
 
 StartChar: brh.p.140.9
-Encoding: 57486 57486 541
+Encoding: 57566 57566 541
 Width: 899
 VWidth: 3000
 Flags: W
@@ -11714,7 +11714,7 @@ Refer: 470 57380 S 0 1 -1 0 899 0.210937 2
 EndChar
 
 StartChar: brh.sp.140.9
-Encoding: 57487 57487 542
+Encoding: 57567 57567 542
 Width: 1083
 VWidth: 3000
 Flags: W
@@ -11724,7 +11724,7 @@ Refer: 478 57396 S 0 1 -1 0 1082.5 -0.249559 2
 EndChar
 
 StartChar: luk.d.0.9
-Encoding: 57539 57539 543
+Encoding: 57619 57619 543
 Width: 399
 VWidth: 3000
 Flags: W
@@ -11742,7 +11742,7 @@ Refer: 320 57346 N -2.01892e-07 1 -1 -2.01892e-07 399.59 279.977 2
 EndChar
 
 StartChar: luk.x.0.4
-Encoding: 57514 57514 544
+Encoding: 57594 57594 544
 Width: 165
 VWidth: 3000
 Flags: W
@@ -11760,7 +11760,7 @@ Refer: 320 57346 S -0.707107 0.707107 -0.707107 -0.707107 191.036 177.163 2
 EndChar
 
 StartChar: luk.x.0.3
-Encoding: 57523 57523 545
+Encoding: 57603 57603 545
 Width: 142
 VWidth: 3000
 Flags: W
@@ -11778,7 +11778,7 @@ Refer: 320 57346 N -0.866025 0.5 -0.5 -0.866025 164.434 200.079 2
 EndChar
 
 StartChar: luk.x.0.6
-Encoding: 57532 57532 546
+Encoding: 57612 57612 546
 Width: 187
 VWidth: 3000
 Flags: W
@@ -11796,7 +11796,7 @@ Refer: 320 57346 N 1.11022e-16 1 -1 1.11022e-16 120 -0.363952 2
 EndChar
 
 StartChar: luk.x.0.9
-Encoding: 57541 57541 547
+Encoding: 57621 57621 547
 Width: 239
 VWidth: 3000
 Flags: W
@@ -11814,7 +11814,7 @@ Refer: 320 57346 N 1.11022e-16 1 -1 1.11022e-16 120 -0.363952 2
 EndChar
 
 StartChar: luk.q.0.4
-Encoding: 57515 57515 548
+Encoding: 57595 57595 548
 Width: 133
 VWidth: 3000
 Flags: W
@@ -11832,7 +11832,7 @@ Refer: 320 57346 N -0.707107 0.691973 -0.707107 -0.691973 159.036 118.51 2
 EndChar
 
 StartChar: luk.q.0.3
-Encoding: 57524 57524 549
+Encoding: 57604 57604 549
 Width: 137
 VWidth: 3000
 Flags: W
@@ -11850,7 +11850,7 @@ Refer: 320 57346 N 1.11022e-16 1 -1 1.11022e-16 120 -0.363952 2
 EndChar
 
 StartChar: luk.q.0.6
-Encoding: 57533 57533 550
+Encoding: 57613 57613 550
 Width: 153
 VWidth: 3000
 Flags: W
@@ -11868,7 +11868,7 @@ Refer: 320 57346 N -0.5 0.866025 -0.866025 -0.5 175.855 96.523 2
 EndChar
 
 StartChar: luk.q.0.9
-Encoding: 57542 57542 551
+Encoding: 57622 57622 551
 Width: 179
 VWidth: 3000
 Flags: W
@@ -11886,7 +11886,7 @@ Refer: 320 57346 N -2.01892e-07 1 -1 -2.01892e-07 179.646 59.931 2
 EndChar
 
 StartChar: luk.f.0.2
-Encoding: 57545 57545 552
+Encoding: 57625 57625 552
 Width: 305
 VWidth: 3000
 Flags: W
@@ -11904,7 +11904,7 @@ Refer: 320 57346 N -0.939692 0.34202 -0.34202 -0.939692 322.047 1174.32 2
 EndChar
 
 StartChar: luk.q.0.2
-Encoding: 57551 57551 553
+Encoding: 57631 57631 553
 Width: 129
 VWidth: 3000
 Flags: W
@@ -11922,7 +11922,7 @@ Refer: 320 57346 N 1.11022e-16 1 -1 1.11022e-16 120 -0.363952 2
 EndChar
 
 StartChar: luk.s.0.2
-Encoding: 57544 57544 554
+Encoding: 57624 57624 554
 Width: 369
 VWidth: 3000
 Flags: W
@@ -11940,7 +11940,7 @@ Refer: 320 57346 N -0.939692 0.34202 -0.34202 -0.939692 386.351 1573.93 2
 EndChar
 
 StartChar: luk.t.0.2
-Encoding: 57546 57546 555
+Encoding: 57626 57626 555
 Width: 243
 VWidth: 3000
 Flags: W
@@ -11958,7 +11958,7 @@ Refer: 320 57346 N -0.939692 0.34202 -0.34202 -0.939692 260.081 774.161 2
 EndChar
 
 StartChar: luk.w.0.2
-Encoding: 57547 57547 556
+Encoding: 57627 57627 556
 Width: 200
 VWidth: 3000
 Flags: W
@@ -11976,7 +11976,7 @@ Refer: 320 57346 N -0.939692 0.34202 -0.34202 -0.939692 217.645 574.894 2
 EndChar
 
 StartChar: luk.d.0.2
-Encoding: 57548 57548 557
+Encoding: 57628 57628 557
 Width: 169
 VWidth: 3000
 Flags: W
@@ -11994,7 +11994,7 @@ Refer: 320 57346 N -0.939692 0.34202 -0.34202 -0.939692 186.554 374.894 2
 EndChar
 
 StartChar: luk.v.0.2
-Encoding: 57549 57549 558
+Encoding: 57629 57629 558
 Width: 150
 VWidth: 3000
 Flags: W
@@ -12012,7 +12012,7 @@ Refer: 320 57346 N -0.939692 0.34202 -0.34202 -0.939692 167.52 273.894 2
 EndChar
 
 StartChar: luk.x.0.2
-Encoding: 57550 57550 559
+Encoding: 57630 57630 559
 Width: 141
 VWidth: 3000
 Flags: W
@@ -12030,7 +12030,7 @@ Refer: 320 57346 N -0.939692 0.34202 -0.34202 -0.939692 158.52 214.894 2
 EndChar
 
 StartChar: kat.19.3
-Encoding: 58075 58075 560
+Encoding: 58155 58155 560
 Width: 120
 VWidth: 3000
 Flags: W
@@ -12048,7 +12048,7 @@ Refer: 320 57346 S 1 0 0 1 -0.5312 0 2
 EndChar
 
 StartChar: kat.19.4
-Encoding: 58076 58076 561
+Encoding: 58156 58156 561
 Width: 120
 VWidth: 3000
 Flags: W
@@ -12065,7 +12065,7 @@ Refer: 320 57346 N 1 0 0 1 -0.5312 0 2
 EndChar
 
 StartChar: kat.19.6
-Encoding: 58077 58077 562
+Encoding: 58157 58157 562
 Width: 120
 VWidth: 3000
 Flags: W
@@ -12082,7 +12082,7 @@ Refer: 320 57346 N 1 0 0 1 -0.5312 0 2
 EndChar
 
 StartChar: kat.19.9
-Encoding: 58078 58078 563
+Encoding: 58158 58158 563
 Width: 120
 VWidth: 3000
 Flags: W
@@ -12099,7 +12099,7 @@ Refer: 320 57346 S 1 0 0 1 -0.5312 0 2
 EndChar
 
 StartChar: luk.s.0.7
-Encoding: 57553 57553 564
+Encoding: 57633 57633 564
 Width: 1120
 VWidth: 3000
 Flags: W
@@ -12117,7 +12117,7 @@ Refer: 320 57346 N -0.34202 0.939692 -0.939692 -0.34202 1137.71 1502 2
 EndChar
 
 StartChar: luk.f.0.7
-Encoding: 57554 57554 565
+Encoding: 57634 57634 565
 Width: 830
 VWidth: 3000
 Flags: W
@@ -12135,7 +12135,7 @@ Refer: 320 57346 N -0.34202 0.939692 -0.939692 -0.34202 847.72 1102 2
 EndChar
 
 StartChar: luk.t.0.7
-Encoding: 57555 57555 566
+Encoding: 57635 57635 566
 Width: 538
 VWidth: 3000
 Flags: W
@@ -12153,7 +12153,7 @@ Refer: 320 57346 N -0.34202 0.939692 -0.939692 -0.34202 554.837 702.394 2
 EndChar
 
 StartChar: luk.w.0.7
-Encoding: 57556 57556 567
+Encoding: 57636 57636 567
 Width: 430
 VWidth: 3000
 Flags: W
@@ -12171,7 +12171,7 @@ Refer: 320 57346 N -0.34202 0.939692 -0.939692 -0.34202 446.837 502.736 2
 EndChar
 
 StartChar: luk.d.0.7
-Encoding: 57557 57557 568
+Encoding: 57637 57637 568
 Width: 293
 VWidth: 3000
 Flags: W
@@ -12189,7 +12189,7 @@ Refer: 320 57346 N -0.34202 0.939692 -0.939692 -0.34202 310.709 302.839 2
 EndChar
 
 StartChar: luk.v.0.7
-Encoding: 57558 57558 569
+Encoding: 57638 57638 569
 Width: 242
 VWidth: 3000
 Flags: W
@@ -12207,7 +12207,7 @@ Refer: 320 57346 N -0.34202 0.939692 -0.939692 -0.34202 259.655 202.731 2
 EndChar
 
 StartChar: luk.x.0.7
-Encoding: 57559 57559 570
+Encoding: 57639 57639 570
 Width: 198
 VWidth: 3000
 Flags: W
@@ -12225,7 +12225,7 @@ Refer: 320 57346 N 1.11022e-16 1 -1 1.11022e-16 120 -0.363952 2
 EndChar
 
 StartChar: luk.q.0.7
-Encoding: 57560 57560 571
+Encoding: 57640 57640 571
 Width: 153
 VWidth: 3000
 Flags: W
@@ -12243,7 +12243,7 @@ Refer: 320 57346 N -0.34202 0.939692 -0.939692 -0.34202 170.656 82.7309 2
 EndChar
 
 StartChar: luk.s.4.9
-Encoding: 57567 57567 572
+Encoding: 57647 57647 572
 Width: 1597
 VWidth: 3000
 Flags: W
@@ -12253,7 +12253,7 @@ Refer: 511 57508 S 0.707107 -0.707107 0.707107 0.707107 -25.2369 60.521 2
 EndChar
 
 StartChar: luk.f.4.9
-Encoding: 57568 57568 573
+Encoding: 57648 57648 573
 Width: 1189
 VWidth: 3000
 Flags: W
@@ -12263,7 +12263,7 @@ Refer: 510 57509 S 0.707107 -0.707107 0.707107 0.707107 -25.2366 59.3634 2
 EndChar
 
 StartChar: luk.t.4.9
-Encoding: 57569 57569 574
+Encoding: 57649 57649 574
 Width: 801
 VWidth: 3000
 Flags: W
@@ -12273,7 +12273,7 @@ Refer: 506 57510 S 0.707107 -0.707107 0.707107 0.707107 -25.2357 59.2511 2
 EndChar
 
 StartChar: luk.w.4.9
-Encoding: 57570 57570 575
+Encoding: 57650 57650 575
 Width: 609
 VWidth: 3000
 Flags: W
@@ -12283,7 +12283,7 @@ Refer: 507 57511 S 0.707107 -0.707107 0.707107 0.707107 -25.9668 59.9259 2
 EndChar
 
 StartChar: luk.d.4.9
-Encoding: 57571 57571 576
+Encoding: 57651 57651 576
 Width: 480
 VWidth: 3000
 Flags: W
@@ -12293,7 +12293,7 @@ Refer: 508 57512 S 0.707107 -0.707107 0.707107 0.707107 -25.195 59.8999 2
 EndChar
 
 StartChar: luk.v.4.9
-Encoding: 57572 57572 577
+Encoding: 57652 57652 577
 Width: 298
 VWidth: 3000
 Flags: W
@@ -12303,7 +12303,7 @@ Refer: 509 57513 S 0.707107 -0.707107 0.707107 0.707107 -25.1708 60.0857 2
 EndChar
 
 StartChar: luk.x.4.9
-Encoding: 57573 57573 578
+Encoding: 57653 57653 578
 Width: 235
 VWidth: 3000
 Flags: W
@@ -12313,7 +12313,7 @@ Refer: 544 57514 S 0.707107 -0.707107 0.707107 0.707107 -25.1713 59.8994 2
 EndChar
 
 StartChar: luk.q.4.9
-Encoding: 57574 57574 579
+Encoding: 57654 57654 579
 Width: 170
 VWidth: 3000
 Flags: W
@@ -12323,7 +12323,7 @@ Refer: 548 57515 S 0.707107 -0.707107 0.707107 0.707107 -25.1708 58.799 2
 EndChar
 
 StartChar: luk.s.9.14
-Encoding: 57576 57576 580
+Encoding: 57656 57656 580
 Width: 1596
 VWidth: 3000
 Flags: W
@@ -12333,7 +12333,7 @@ Refer: 511 57508 S 0 -1 1 0 0.27493 732.87 2
 EndChar
 
 StartChar: luk.f.9.14
-Encoding: 57577 57577 581
+Encoding: 57657 57657 581
 Width: 1197
 VWidth: 3000
 Flags: W
@@ -12343,7 +12343,7 @@ Refer: 510 57509 S 0 -1 1 0 0.27493 556.37 2
 EndChar
 
 StartChar: luk.t.9.14
-Encoding: 57578 57578 582
+Encoding: 57658 57658 582
 Width: 796
 VWidth: 3000
 Flags: W
@@ -12353,7 +12353,7 @@ Refer: 506 57510 S 0 -1 1 0 0.274906 407.369 2
 EndChar
 
 StartChar: luk.w.9.14
-Encoding: 57579 57579 583
+Encoding: 57659 57659 583
 Width: 596
 VWidth: 3000
 Flags: W
@@ -12363,7 +12363,7 @@ Refer: 507 57511 S 0 -1 1 0 -0.635761 336.031 2
 EndChar
 
 StartChar: luk.d.9.14
-Encoding: 57580 57580 584
+Encoding: 57660 57660 584
 Width: 477
 VWidth: 3000
 Flags: W
@@ -12373,7 +12373,7 @@ Refer: 508 57512 S 0 -1 1 0 0.364737 272.986 2
 EndChar
 
 StartChar: luk.v.9.14
-Encoding: 57581 57581 585
+Encoding: 57661 57661 585
 Width: 298
 VWidth: 3000
 Flags: W
@@ -12383,7 +12383,7 @@ Refer: 509 57513 S 0 -1 1 0 0.364255 195.424 2
 EndChar
 
 StartChar: luk.x.9.14
-Encoding: 57582 57582 586
+Encoding: 57662 57662 586
 Width: 237
 VWidth: 3000
 Flags: W
@@ -12393,7 +12393,7 @@ Refer: 544 57514 S 0 -1 1 0 0.364275 166.424 2
 EndChar
 
 StartChar: luk.q.9.14
-Encoding: 57583 57583 587
+Encoding: 57663 57663 587
 Width: 177
 VWidth: 3000
 Flags: W
@@ -12403,7 +12403,7 @@ Refer: 548 57515 S 0 -1 1 0 0.364061 134.424 2
 EndChar
 
 StartChar: luk.s.14.19
-Encoding: 57585 57585 588
+Encoding: 57665 57665 588
 Width: 730
 VWidth: 3000
 Flags: W
@@ -12413,7 +12413,7 @@ Refer: 511 57508 S -0.707107 -0.707107 0.707107 -0.707107 59.6217 1623.61 2
 EndChar
 
 StartChar: luk.f.14.19
-Encoding: 57586 57586 589
+Encoding: 57666 57666 589
 Width: 572
 VWidth: 3000
 Flags: W
@@ -12423,7 +12423,7 @@ Refer: 510 57509 N -0.707107 -0.707107 0.707107 -0.707107 59.6214 1214.61 2
 EndChar
 
 StartChar: luk.t.14.19
-Encoding: 57587 57587 590
+Encoding: 57667 57667 590
 Width: 395
 VWidth: 3000
 Flags: W
@@ -12433,7 +12433,7 @@ Refer: 506 57510 S -0.707107 -0.707107 0.707107 -0.707107 59.6204 826.359 2
 EndChar
 
 StartChar: luk.w.14.19
-Encoding: 57588 57588 591
+Encoding: 57668 57668 591
 Width: 303
 VWidth: 3000
 Flags: W
@@ -12443,7 +12443,7 @@ Refer: 507 57511 S -0.707107 -0.707107 0.707107 -0.707107 59.0632 634.778 2
 EndChar
 
 StartChar: luk.d.14.19
-Encoding: 57589 57589 592
+Encoding: 57669 57669 592
 Width: 264
 VWidth: 3000
 Flags: W
@@ -12453,7 +12453,7 @@ Refer: 508 57512 S -0.707107 -0.707107 0.707107 -0.707107 59.7056 506.192 2
 EndChar
 
 StartChar: luk.v.14.19
-Encoding: 57590 57590 593
+Encoding: 57670 57670 593
 Width: 192
 VWidth: 3000
 Flags: W
@@ -12463,7 +12463,7 @@ Refer: 509 57513 S -0.707107 -0.707107 0.707107 -0.707107 59.682 323.735 2
 EndChar
 
 StartChar: luk.x.14.19
-Encoding: 57591 57591 594
+Encoding: 57671 57671 594
 Width: 170
 VWidth: 3000
 Flags: W
@@ -12473,7 +12473,7 @@ Refer: 544 57514 S -0.707107 -0.707107 0.707107 -0.707107 59.6822 260.415 2
 EndChar
 
 StartChar: luk.q.14.19
-Encoding: 57592 57592 595
+Encoding: 57672 57672 595
 Width: 150
 VWidth: 3000
 Flags: W
@@ -12483,7 +12483,7 @@ Refer: 548 57515 S -0.707107 -0.707107 0.707107 -0.707107 59.6822 194.889 2
 EndChar
 
 StartChar: luk.s.4.0
-Encoding: 57594 57594 596
+Encoding: 57674 57674 596
 Width: 732
 VWidth: 3000
 Flags: W
@@ -12493,7 +12493,7 @@ Refer: 511 57508 S -1 0 0 -1 732.634 1596.6 2
 EndChar
 
 StartChar: luk.f.4.0
-Encoding: 57595 57595 597
+Encoding: 57675 57675 597
 Width: 555
 VWidth: 3000
 Flags: W
@@ -12503,7 +12503,7 @@ Refer: 510 57509 S -1 0 0 -1 555.623 1196.6 2
 EndChar
 
 StartChar: luk.t.4.0
-Encoding: 57596 57596 598
+Encoding: 57676 57676 598
 Width: 406
 VWidth: 3000
 Flags: W
@@ -12513,7 +12513,7 @@ Refer: 506 57510 S -1 0 0 -1 406.632 796.598 2
 EndChar
 
 StartChar: luk.w.4.0
-Encoding: 57597 57597 599
+Encoding: 57677 57677 599
 Width: 335
 VWidth: 3000
 Flags: W
@@ -12523,7 +12523,7 @@ Refer: 507 57511 S -1 0 0 -1 335.723 596.832 2
 EndChar
 
 StartChar: luk.d.4.0
-Encoding: 57598 57598 600
+Encoding: 57678 57678 600
 Width: 272
 VWidth: 3000
 Flags: W
@@ -12533,7 +12533,7 @@ Refer: 508 57512 S -1 0 0 -1 272.632 476.832 2
 EndChar
 
 StartChar: luk.v.4.0
-Encoding: 57599 57599 601
+Encoding: 57679 57679 601
 Width: 194
 VWidth: 3000
 Flags: W
@@ -12543,7 +12543,7 @@ Refer: 509 57513 S -1 0 0 -1 194.608 297.731 2
 EndChar
 
 StartChar: luk.x.4.0
-Encoding: 57600 57600 602
+Encoding: 57680 57680 602
 Width: 165
 VWidth: 3000
 Flags: W
@@ -12553,7 +12553,7 @@ Refer: 544 57514 N -1 0 0 -1 165.608 239.731 2
 EndChar
 
 StartChar: luk.q.4.0
-Encoding: 57601 57601 603
+Encoding: 57681 57681 603
 Width: 133
 VWidth: 3000
 Flags: W
@@ -12563,7 +12563,7 @@ Refer: 548 57515 S -1 0 0 -1 133.608 176.732 2
 EndChar
 
 StartChar: luk.s.9.4
-Encoding: 57603 57603 604
+Encoding: 57683 57683 604
 Width: 1597
 VWidth: 3000
 Flags: W
@@ -12573,7 +12573,7 @@ Refer: 511 57508 S -0.707107 0.707107 -0.707107 -0.707107 1622.81 671.266 2
 EndChar
 
 StartChar: luk.f.9.4
-Encoding: 57604 57604 605
+Encoding: 57684 57684 605
 Width: 1189
 VWidth: 3000
 Flags: W
@@ -12583,7 +12583,7 @@ Refer: 510 57509 S -0.707107 0.707107 -0.707107 -0.707107 1214.88 513.234 2
 EndChar
 
 StartChar: luk.t.9.4
-Encoding: 57605 57605 606
+Encoding: 57685 57685 606
 Width: 801
 VWidth: 3000
 Flags: W
@@ -12593,7 +12593,7 @@ Refer: 506 57510 S -0.707107 0.707107 -0.707107 -0.707107 826.608 336.347 2
 EndChar
 
 StartChar: luk.w.9.4
-Encoding: 57606 57606 607
+Encoding: 57686 57686 607
 Width: 609
 VWidth: 3000
 Flags: W
@@ -12603,7 +12603,7 @@ Refer: 507 57511 S -0.707107 0.707107 -0.707107 -0.707107 635.276 244.906 2
 EndChar
 
 StartChar: luk.d.9.4
-Encoding: 57607 57607 608
+Encoding: 57687 57687 608
 Width: 480
 VWidth: 3000
 Flags: W
@@ -12613,7 +12613,7 @@ Refer: 508 57512 S -0.707107 0.707107 -0.707107 -0.707107 505.811 203.932 2
 EndChar
 
 StartChar: luk.v.9.4
-Encoding: 57608 57608 609
+Encoding: 57688 57688 609
 Width: 298
 VWidth: 3000
 Flags: W
@@ -12623,7 +12623,7 @@ Refer: 509 57513 S -0.707107 0.707107 -0.707107 -0.707107 323.996 133.646 2
 EndChar
 
 StartChar: luk.x.9.4
-Encoding: 57609 57609 610
+Encoding: 57689 57689 610
 Width: 235
 VWidth: 3000
 Flags: W
@@ -12633,7 +12633,7 @@ Refer: 544 57514 S -0.707107 0.707107 -0.707107 -0.707107 260.356 109.832 2
 EndChar
 
 StartChar: luk.q.9.4
-Encoding: 57610 57610 611
+Encoding: 57690 57690 611
 Width: 170
 VWidth: 3000
 Flags: W
@@ -12643,7 +12643,7 @@ Refer: 548 57515 S -0.707107 0.707107 -0.707107 -0.707107 195.616 89.9328 2
 EndChar
 
 StartChar: luk.s.14.9
-Encoding: 57612 57612 612
+Encoding: 57692 57692 612
 Width: 1596
 VWidth: 3000
 Flags: W
@@ -12653,7 +12653,7 @@ Refer: 511 57508 S 0 1 -1 0 1596.7 0.728027 2
 EndChar
 
 StartChar: luk.f.14.9
-Encoding: 57613 57613 613
+Encoding: 57693 57693 613
 Width: 1197
 VWidth: 3000
 Flags: W
@@ -12663,7 +12663,7 @@ Refer: 510 57509 S 0 1 -1 0 1196.81 0.228027 2
 EndChar
 
 StartChar: luk.t.14.9
-Encoding: 57614 57614 614
+Encoding: 57694 57694 614
 Width: 796
 VWidth: 3000
 Flags: W
@@ -12673,7 +12673,7 @@ Refer: 506 57510 S 0 1 -1 0 796.697 0.229003 2
 EndChar
 
 StartChar: luk.w.14.9
-Encoding: 57615 57615 615
+Encoding: 57695 57695 615
 Width: 596
 VWidth: 3000
 Flags: W
@@ -12683,7 +12683,7 @@ Refer: 507 57511 S 0 1 -1 0 597.022 -0.199219 2
 EndChar
 
 StartChar: luk.d.14.9
-Encoding: 57616 57616 616
+Encoding: 57696 57696 616
 Width: 477
 VWidth: 3000
 Flags: W
@@ -12693,7 +12693,7 @@ Refer: 508 57512 S 0 1 -1 0 477.022 0.846191 2
 EndChar
 
 StartChar: luk.v.14.9
-Encoding: 57617 57617 617
+Encoding: 57697 57697 617
 Width: 298
 VWidth: 3000
 Flags: W
@@ -12703,7 +12703,7 @@ Refer: 509 57513 S 0 1 -1 0 297.92 0.307618 2
 EndChar
 
 StartChar: luk.x.14.9
-Encoding: 57618 57618 618
+Encoding: 57698 57698 618
 Width: 237
 VWidth: 3000
 Flags: W
@@ -12713,7 +12713,7 @@ Refer: 544 57514 S 0 1 -1 0 236.92 0.307618 2
 EndChar
 
 StartChar: luk.q.14.9
-Encoding: 57619 57619 619
+Encoding: 57699 57699 619
 Width: 177
 VWidth: 3000
 Flags: W
@@ -12723,7 +12723,7 @@ Refer: 548 57515 S 0 1 -1 0 176.989 0.307814 2
 EndChar
 
 StartChar: luk.s.19.14
-Encoding: 57621 57621 620
+Encoding: 57701 57701 620
 Width: 730
 VWidth: 3000
 Flags: W
@@ -12733,7 +12733,7 @@ Refer: 511 57508 S 0.707107 0.707107 -0.707107 0.707107 670.9 -25.0097 2
 EndChar
 
 StartChar: luk.f.19.14
-Encoding: 57622 57622 621
+Encoding: 57702 57702 621
 Width: 572
 VWidth: 3000
 Flags: W
@@ -12743,7 +12743,7 @@ Refer: 510 57509 S 0.707107 0.707107 -0.707107 0.707107 513.299 -25.0094 2
 EndChar
 
 StartChar: luk.t.19.14
-Encoding: 57623 57623 622
+Encoding: 57703 57703 622
 Width: 395
 VWidth: 3000
 Flags: W
@@ -12753,7 +12753,7 @@ Refer: 506 57510 S 0.707107 0.707107 -0.707107 0.707107 335.583 -25.7614 2
 EndChar
 
 StartChar: luk.w.19.14
-Encoding: 57624 57624 623
+Encoding: 57704 57704 623
 Width: 303
 VWidth: 3000
 Flags: W
@@ -12763,7 +12763,7 @@ Refer: 507 57511 S 0.707107 0.707107 -0.707107 0.707107 244.555 -25.9463 2
 EndChar
 
 StartChar: luk.d.19.14
-Encoding: 57625 57625 624
+Encoding: 57705 57705 624
 Width: 264
 VWidth: 3000
 Flags: W
@@ -12773,7 +12773,7 @@ Refer: 508 57512 S 0.707107 0.707107 -0.707107 0.707107 204.563 -24.3603 2
 EndChar
 
 StartChar: luk.v.19.14
-Encoding: 57626 57626 625
+Encoding: 57706 57706 625
 Width: 192
 VWidth: 3000
 Flags: W
@@ -12783,7 +12783,7 @@ Refer: 509 57513 S 0.707107 0.707107 -0.707107 0.707107 133.207 -25.0036 2
 EndChar
 
 StartChar: luk.x.19.14
-Encoding: 57627 57627 626
+Encoding: 57707 57707 626
 Width: 170
 VWidth: 3000
 Flags: W
@@ -12793,7 +12793,7 @@ Refer: 544 57514 S 0.707107 0.707107 -0.707107 0.707107 110.58 -25.6837 2
 EndChar
 
 StartChar: luk.q.19.14
-Encoding: 57628 57628 627
+Encoding: 57708 57708 627
 Width: 150
 VWidth: 3000
 Flags: W
@@ -12803,7 +12803,7 @@ Refer: 548 57515 S 0.707107 0.707107 -0.707107 0.707107 90.7812 -25.1568 2
 EndChar
 
 StartChar: luk.s.3.6
-Encoding: 57634 57634 628
+Encoding: 57714 57714 628
 Width: 1168
 VWidth: 3000
 Flags: W
@@ -12813,7 +12813,7 @@ Refer: 512 57517 S 0.866025 -0.5 0.5 0.866025 -22.1192 38.332 2
 EndChar
 
 StartChar: luk.f.3.6
-Encoding: 57635 57635 629
+Encoding: 57715 57715 629
 Width: 893
 VWidth: 3000
 Flags: W
@@ -12823,7 +12823,7 @@ Refer: 513 57518 S 0.866025 -0.5 0.5 0.866025 -22.1191 37.6688 2
 EndChar
 
 StartChar: luk.t.3.6
-Encoding: 57636 57636 630
+Encoding: 57716 57716 630
 Width: 631
 VWidth: 3000
 Flags: W
@@ -12833,7 +12833,7 @@ Refer: 514 57519 S 0.866025 -0.5 0.5 0.866025 -22.1175 38.2106 2
 EndChar
 
 StartChar: luk.w.3.6
-Encoding: 57637 57637 631
+Encoding: 57717 57717 631
 Width: 478
 VWidth: 3000
 Flags: W
@@ -12843,7 +12843,7 @@ Refer: 515 57520 S 0.866025 -0.5 0.5 0.866025 -22.1794 38.3664 2
 EndChar
 
 StartChar: luk.d.3.6
-Encoding: 57638 57638 632
+Encoding: 57718 57718 632
 Width: 327
 VWidth: 3000
 Flags: W
@@ -12853,7 +12853,7 @@ Refer: 501 57521 S 0.866025 -0.5 0.5 0.866025 -22.101 38.1962 2
 EndChar
 
 StartChar: luk.v.3.6
-Encoding: 57639 57639 633
+Encoding: 57719 57719 633
 Width: 252
 VWidth: 3000
 Flags: W
@@ -12863,7 +12863,7 @@ Refer: 516 57522 S 0.866025 -0.5 0.5 0.866025 -22.0714 38.3059 2
 EndChar
 
 StartChar: luk.x.3.6
-Encoding: 57640 57640 634
+Encoding: 57720 57720 634
 Width: 198
 VWidth: 3000
 Flags: W
@@ -12873,7 +12873,7 @@ Refer: 545 57523 S 0.866025 -0.5 0.5 0.866025 -22.0711 38.2867 2
 EndChar
 
 StartChar: luk.q.3.6
-Encoding: 57641 57641 635
+Encoding: 57721 57721 635
 Width: 164
 VWidth: 3000
 Flags: W
@@ -12883,7 +12883,7 @@ Refer: 549 57524 S 0.866025 -0.5 0.5 0.866025 -22.0711 39.0174 2
 EndChar
 
 StartChar: luk.s.6.9
-Encoding: 57643 57643 636
+Encoding: 57723 57723 636
 Width: 1579
 VWidth: 3000
 Flags: W
@@ -12893,7 +12893,7 @@ Refer: 512 57517 S 0.5 -0.866025 0.866025 0.5 -21.7869 82.0884 2
 EndChar
 
 StartChar: luk.f.6.9
-Encoding: 57644 57644 637
+Encoding: 57724 57724 637
 Width: 1188
 VWidth: 3000
 Flags: W
@@ -12903,7 +12903,7 @@ Refer: 513 57518 S 0.5 -0.866025 0.866025 0.5 -21.7869 82.1297 2
 EndChar
 
 StartChar: luk.t.6.9
-Encoding: 57645 57645 638
+Encoding: 57725 57725 638
 Width: 808
 VWidth: 3000
 Flags: W
@@ -12913,7 +12913,7 @@ Refer: 514 57519 S 0.5 -0.866025 0.866025 0.5 -21.786 81.9767 2
 EndChar
 
 StartChar: luk.w.6.9
-Encoding: 57646 57646 639
+Encoding: 57726 57726 639
 Width: 602
 VWidth: 3000
 Flags: W
@@ -12923,7 +12923,7 @@ Refer: 515 57520 S 0.5 -0.866025 0.866025 0.5 -21.7707 82.7813 2
 EndChar
 
 StartChar: luk.d.6.9
-Encoding: 57647 57647 640
+Encoding: 57727 57727 640
 Width: 399
 VWidth: 3000
 Flags: W
@@ -12933,7 +12933,7 @@ Refer: 501 57521 S 0.5 -0.866025 0.866025 0.5 -21.725 82.1943 2
 EndChar
 
 StartChar: luk.v.6.9
-Encoding: 57648 57648 641
+Encoding: 57728 57728 641
 Width: 299
 VWidth: 3000
 Flags: W
@@ -12943,7 +12943,7 @@ Refer: 516 57522 S 0.5 -0.866025 0.866025 0.5 -21.708 81.8721 2
 EndChar
 
 StartChar: luk.x.6.9
-Encoding: 57649 57649 642
+Encoding: 57729 57729 642
 Width: 233
 VWidth: 3000
 Flags: W
@@ -12953,7 +12953,7 @@ Refer: 545 57523 S 0.5 -0.866025 0.866025 0.5 -21.7078 81.7477 2
 EndChar
 
 StartChar: luk.q.6.9
-Encoding: 57650 57650 643
+Encoding: 57730 57730 643
 Width: 179
 VWidth: 3000
 Flags: W
@@ -12963,7 +12963,7 @@ Refer: 549 57524 S 0.5 -0.866025 0.866025 0.5 -21.708 81.5827 2
 EndChar
 
 StartChar: luk.s.9.13
-Encoding: 57652 57652 644
+Encoding: 57732 57732 644
 Width: 1597
 VWidth: 3000
 Flags: W
@@ -12973,7 +12973,7 @@ Refer: 512 57517 S 0 -1 1 0 0.275164 478.246 2
 EndChar
 
 StartChar: luk.f.9.13
-Encoding: 57653 57653 645
+Encoding: 57733 57733 645
 Width: 1197
 VWidth: 3000
 Flags: W
@@ -12983,7 +12983,7 @@ Refer: 513 57518 S 0 -1 1 0 0.27575 391.006 2
 EndChar
 
 StartChar: luk.t.9.13
-Encoding: 57654 57654 646
+Encoding: 57734 57734 646
 Width: 799
 VWidth: 3000
 Flags: W
@@ -12993,7 +12993,7 @@ Refer: 514 57519 S 0 -1 1 0 0.275681 319.431 2
 EndChar
 
 StartChar: luk.w.9.13
-Encoding: 57655 57655 647
+Encoding: 57735 57735 647
 Width: 597
 VWidth: 3000
 Flags: W
@@ -13003,7 +13003,7 @@ Refer: 515 57520 S 0 -1 1 0 0.364144 259.066 2
 EndChar
 
 StartChar: luk.d.9.13
-Encoding: 57656 57656 648
+Encoding: 57736 57736 648
 Width: 397
 VWidth: 3000
 Flags: W
@@ -13013,7 +13013,7 @@ Refer: 501 57521 S 0 -1 1 0 0.364642 198.52 2
 EndChar
 
 StartChar: luk.v.9.13
-Encoding: 57657 57657 649
+Encoding: 57737 57737 649
 Width: 298
 VWidth: 3000
 Flags: W
@@ -13023,7 +13023,7 @@ Refer: 516 57522 S 0 -1 1 0 0.363844 169.503 2
 EndChar
 
 StartChar: luk.x.9.13
-Encoding: 57658 57658 650
+Encoding: 57738 57738 650
 Width: 238
 VWidth: 3000
 Flags: W
@@ -13033,7 +13033,7 @@ Refer: 545 57523 S 0 -1 1 0 0.364144 141.503 2
 EndChar
 
 StartChar: luk.q.9.13
-Encoding: 57659 57659 651
+Encoding: 57739 57739 651
 Width: 178
 VWidth: 3000
 Flags: W
@@ -13043,7 +13043,7 @@ Refer: 549 57524 S 0 -1 1 0 0.364114 137.003 2
 EndChar
 
 StartChar: luk.s.13.16
-Encoding: 57661 57661 652
+Encoding: 57741 57741 652
 Width: 1220
 VWidth: 3000
 Flags: W
@@ -13053,7 +13053,7 @@ Refer: 512 57517 S -0.5 -0.866025 0.866025 -0.5 38.2171 1191.01 2
 EndChar
 
 StartChar: luk.f.13.16
-Encoding: 57662 57662 653
+Encoding: 57742 57742 653
 Width: 917
 VWidth: 3000
 Flags: W
@@ -13063,7 +13063,7 @@ Refer: 513 57518 S -0.5 -0.866025 0.866025 -0.5 38.2171 914.744 2
 EndChar
 
 StartChar: luk.t.13.16
-Encoding: 57663 57663 654
+Encoding: 57743 57743 654
 Width: 608
 VWidth: 3000
 Flags: W
@@ -13073,7 +13073,7 @@ Refer: 514 57519 S -0.5 -0.866025 0.866025 -0.5 38.2163 654.236 2
 EndChar
 
 StartChar: luk.w.13.16
-Encoding: 57664 57664 655
+Encoding: 57744 57744 655
 Width: 464
 VWidth: 3000
 Flags: W
@@ -13083,7 +13083,7 @@ Refer: 515 57520 S -0.5 -0.866025 0.866025 -0.5 38.3544 500.396 2
 EndChar
 
 StartChar: luk.d.13.16
-Encoding: 57665 57665 656
+Encoding: 57745 57745 656
 Width: 320
 VWidth: 3000
 Flags: W
@@ -13093,7 +13093,7 @@ Refer: 501 57521 S -0.5 -0.866025 0.866025 -0.5 38.3093 348.809 2
 EndChar
 
 StartChar: luk.v.13.16
-Encoding: 57666 57666 657
+Encoding: 57746 57746 657
 Width: 249
 VWidth: 3000
 Flags: W
@@ -13103,7 +13103,7 @@ Refer: 516 57522 S -0.5 -0.866025 0.866025 -0.5 38.2921 274.987 2
 EndChar
 
 StartChar: luk.x.13.16
-Encoding: 57667 57667 658
+Encoding: 57747 57747 658
 Width: 211
 VWidth: 3000
 Flags: W
@@ -13113,7 +13113,7 @@ Refer: 545 57523 S -0.5 -0.866025 0.866025 -0.5 38.292 219.862 2
 EndChar
 
 StartChar: luk.q.13.16
-Encoding: 57668 57668 659
+Encoding: 57748 57748 659
 Width: 161
 VWidth: 3000
 Flags: W
@@ -13123,7 +13123,7 @@ Refer: 549 57524 S -0.5 -0.866025 0.866025 -0.5 38.2922 185.697 2
 EndChar
 
 StartChar: luk.s.16.19
-Encoding: 57670 57670 660
+Encoding: 57750 57750 660
 Width: 548
 VWidth: 3000
 Flags: W
@@ -13133,7 +13133,7 @@ Refer: 512 57517 S -0.866025 -0.5 0.5 -0.866025 82.0408 1600.83 2
 EndChar
 
 StartChar: luk.f.16.19
-Encoding: 57671 57671 661
+Encoding: 57751 57751 661
 Width: 424
 VWidth: 3000
 Flags: W
@@ -13143,7 +13143,7 @@ Refer: 513 57518 S -0.866025 -0.5 0.5 -0.866025 82.0406 1210.23 2
 EndChar
 
 StartChar: luk.t.16.19
-Encoding: 57672 57672 662
+Encoding: 57752 57752 662
 Width: 287
 VWidth: 3000
 Flags: W
@@ -13153,7 +13153,7 @@ Refer: 514 57519 S -0.866025 -0.5 0.5 -0.866025 82.039 829.48 2
 EndChar
 
 StartChar: luk.w.16.19
-Encoding: 57673 57673 663
+Encoding: 57753 57753 663
 Width: 238
 VWidth: 3000
 Flags: W
@@ -13163,7 +13163,7 @@ Refer: 515 57520 S -0.866025 -0.5 0.5 -0.866025 82.19 624.314 2
 EndChar
 
 StartChar: luk.d.16.19
-Encoding: 57674 57674 664
+Encoding: 57754 57754 664
 Width: 190
 VWidth: 3000
 Flags: W
@@ -13173,7 +13173,7 @@ Refer: 501 57521 S -0.866025 -0.5 0.5 -0.866025 82.1114 421.939 2
 EndChar
 
 StartChar: luk.v.16.19
-Encoding: 57675 57675 665
+Encoding: 57755 57755 665
 Width: 165
 VWidth: 3000
 Flags: W
@@ -13183,7 +13183,7 @@ Refer: 516 57522 S -0.866025 -0.5 0.5 -0.866025 82.0818 321.312 2
 EndChar
 
 StartChar: luk.x.16.19
-Encoding: 57676 57676 666
+Encoding: 57756 57756 666
 Width: 160
 VWidth: 3000
 Flags: W
@@ -13193,7 +13193,7 @@ Refer: 545 57523 S -0.866025 -0.5 0.5 -0.866025 82.0818 255.331 2
 EndChar
 
 StartChar: luk.q.16.19
-Encoding: 57677 57677 667
+Encoding: 57757 57757 667
 Width: 134
 VWidth: 3000
 Flags: W
@@ -13203,7 +13203,7 @@ Refer: 549 57524 S -0.866025 -0.5 0.5 -0.866025 82.0818 201.1 2
 EndChar
 
 StartChar: luk.s.3.0
-Encoding: 57679 57679 668
+Encoding: 57759 57759 668
 Width: 478
 VWidth: 3000
 Flags: W
@@ -13213,7 +13213,7 @@ Refer: 512 57517 S -1 0 0 -1 478.285 1597.84 2
 EndChar
 
 StartChar: luk.f.3.0
-Encoding: 57680 57680 669
+Encoding: 57760 57760 669
 Width: 390
 VWidth: 3000
 Flags: W
@@ -13223,7 +13223,7 @@ Refer: 513 57518 S -1 0 0 -1 390.976 1196.23 2
 EndChar
 
 StartChar: luk.t.3.0
-Encoding: 57681 57681 670
+Encoding: 57761 57761 670
 Width: 318
 VWidth: 3000
 Flags: W
@@ -13233,7 +13233,7 @@ Refer: 514 57519 S -1 0 0 -1 318.977 799.519 2
 EndChar
 
 StartChar: luk.w.3.0
-Encoding: 57682 57682 671
+Encoding: 57762 57762 671
 Width: 258
 VWidth: 3000
 Flags: W
@@ -13243,7 +13243,7 @@ Refer: 515 57520 S -1 0 0 -1 258.535 597.229 2
 EndChar
 
 StartChar: luk.d.3.0
-Encoding: 57683 57683 672
+Encoding: 57763 57763 672
 Width: 199
 VWidth: 3000
 Flags: W
@@ -13253,7 +13253,7 @@ Refer: 501 57521 S -1 0 0 -1 199.444 397.229 2
 EndChar
 
 StartChar: luk.v.3.0
-Encoding: 57684 57684 673
+Encoding: 57764 57764 673
 Width: 170
 VWidth: 3000
 Flags: W
@@ -13263,7 +13263,7 @@ Refer: 516 57522 S -1 0 0 -1 170.41 298.229 2
 EndChar
 
 StartChar: luk.x.3.0
-Encoding: 57685 57685 674
+Encoding: 57765 57765 674
 Width: 142
 VWidth: 3000
 Flags: W
@@ -13273,7 +13273,7 @@ Refer: 545 57523 S -1 0 0 -1 142.41 238.229 2
 EndChar
 
 StartChar: luk.q.3.0
-Encoding: 57686 57686 675
+Encoding: 57766 57766 675
 Width: 137
 VWidth: 3000
 Flags: W
@@ -13283,7 +13283,7 @@ Refer: 549 57524 N -1 0 0 -1 137.41 180.229 2
 EndChar
 
 StartChar: luk.s.6.3
-Encoding: 57688 57688 676
+Encoding: 57768 57768 676
 Width: 1168
 VWidth: 3000
 Flags: W
@@ -13293,7 +13293,7 @@ Refer: 512 57517 S -0.866025 0.5 -0.5 -0.866025 1191.06 1182.51 2
 EndChar
 
 StartChar: luk.f.6.3
-Encoding: 57689 57689 677
+Encoding: 57769 57769 677
 Width: 893
 VWidth: 3000
 Flags: W
@@ -13303,7 +13303,7 @@ Refer: 513 57518 S -0.866025 0.5 -0.5 -0.866025 915.139 878.56 2
 EndChar
 
 StartChar: luk.t.6.3
-Encoding: 57690 57690 678
+Encoding: 57770 57770 678
 Width: 631
 VWidth: 3000
 Flags: W
@@ -13313,7 +13313,7 @@ Refer: 514 57519 S -0.866025 0.5 -0.5 -0.866025 653.931 570.308 2
 EndChar
 
 StartChar: luk.w.6.3
-Encoding: 57691 57691 679
+Encoding: 57771 57771 679
 Width: 478
 VWidth: 3000
 Flags: W
@@ -13323,7 +13323,7 @@ Refer: 515 57520 S -0.866025 0.5 -0.5 -0.866025 500.487 425.582 2
 EndChar
 
 StartChar: luk.d.6.3
-Encoding: 57692 57692 680
+Encoding: 57772 57772 680
 Width: 327
 VWidth: 3000
 Flags: W
@@ -13333,7 +13333,7 @@ Refer: 501 57521 S -0.866025 0.5 -0.5 -0.866025 349.313 282.033 2
 EndChar
 
 StartChar: luk.v.6.3
-Encoding: 57693 57693 681
+Encoding: 57773 57773 681
 Width: 252
 VWidth: 3000
 Flags: W
@@ -13343,7 +13343,7 @@ Refer: 516 57522 S -0.866025 0.5 -0.5 -0.866025 274.669 210.923 2
 EndChar
 
 StartChar: luk.x.6.3
-Encoding: 57694 57694 682
+Encoding: 57774 57774 682
 Width: 198
 VWidth: 3000
 Flags: W
@@ -13353,7 +13353,7 @@ Refer: 545 57523 S -0.866025 0.5 -0.5 -0.866025 220.42 172.942 2
 EndChar
 
 StartChar: luk.q.6.3
-Encoding: 57695 57695 683
+Encoding: 57775 57775 683
 Width: 164
 VWidth: 3000
 Flags: W
@@ -13363,7 +13363,7 @@ Refer: 549 57524 S -0.866025 0.5 -0.5 -0.866025 186.09 123.212 2
 EndChar
 
 StartChar: luk.s.9.6
-Encoding: 57697 57697 684
+Encoding: 57777 57777 684
 Width: 1579
 VWidth: 3000
 Flags: W
@@ -13373,7 +13373,7 @@ Refer: 512 57517 S -0.5 0.866025 -0.866025 -0.5 1600.81 466.751 2
 EndChar
 
 StartChar: luk.f.9.6
-Encoding: 57698 57698 685
+Encoding: 57778 57778 685
 Width: 1188
 VWidth: 3000
 Flags: W
@@ -13383,7 +13383,7 @@ Refer: 513 57518 S -0.5 0.866025 -0.866025 -0.5 1210.21 342.099 2
 EndChar
 
 StartChar: luk.t.9.6
-Encoding: 57699 57699 686
+Encoding: 57779 57779 686
 Width: 808
 VWidth: 3000
 Flags: W
@@ -13393,7 +13393,7 @@ Refer: 514 57519 S -0.5 0.866025 -0.866025 -0.5 829.787 204.542 2
 EndChar
 
 StartChar: luk.w.9.6
-Encoding: 57700 57700 687
+Encoding: 57780 57780 687
 Width: 602
 VWidth: 3000
 Flags: W
@@ -13403,7 +13403,7 @@ Refer: 515 57520 S -0.5 0.866025 -0.866025 -0.5 624.456 156.448 2
 EndChar
 
 StartChar: luk.d.9.6
-Encoding: 57701 57701 688
+Encoding: 57781 57781 688
 Width: 399
 VWidth: 3000
 Flags: W
@@ -13413,7 +13413,7 @@ Refer: 501 57521 S -0.5 0.866025 -0.866025 -0.5 421.706 108.035 2
 EndChar
 
 StartChar: luk.v.9.6
-Encoding: 57702 57702 689
+Encoding: 57782 57782 689
 Width: 299
 VWidth: 3000
 Flags: W
@@ -13423,7 +13423,7 @@ Refer: 516 57522 S -0.5 0.866025 -0.866025 -0.5 321.452 84.3569 2
 EndChar
 
 StartChar: luk.x.9.6
-Encoding: 57703 57703 690
+Encoding: 57783 57783 690
 Width: 233
 VWidth: 3000
 Flags: W
@@ -13433,7 +13433,7 @@ Refer: 545 57523 S -0.5 0.866025 -0.866025 -0.5 255.491 77.4812 2
 EndChar
 
 StartChar: luk.q.9.6
-Encoding: 57704 57704 691
+Encoding: 57784 57784 691
 Width: 179
 VWidth: 3000
 Flags: W
@@ -13443,7 +13443,7 @@ Refer: 549 57524 S -0.5 0.866025 -0.866025 -0.5 201.029 51.6463 2
 EndChar
 
 StartChar: luk.s.13.9
-Encoding: 57706 57706 692
+Encoding: 57786 57786 692
 Width: 1597
 VWidth: 3000
 Flags: W
@@ -13453,7 +13453,7 @@ Refer: 512 57517 S 0 1 -1 0 1597.68 -0.40763 2
 EndChar
 
 StartChar: luk.f.13.9
-Encoding: 57707 57707 693
+Encoding: 57787 57787 693
 Width: 1197
 VWidth: 3000
 Flags: W
@@ -13463,7 +13463,7 @@ Refer: 513 57518 S 0 1 -1 0 1197.07 -0.0569802 2
 EndChar
 
 StartChar: luk.t.13.9
-Encoding: 57708 57708 694
+Encoding: 57788 57788 694
 Width: 799
 VWidth: 3000
 Flags: W
@@ -13473,7 +13473,7 @@ Refer: 514 57519 S 0 1 -1 0 799.36 0.0875511 2
 EndChar
 
 StartChar: luk.w.13.9
-Encoding: 57709 57709 695
+Encoding: 57789 57789 695
 Width: 597
 VWidth: 3000
 Flags: W
@@ -13483,7 +13483,7 @@ Refer: 515 57520 S 0 1 -1 0 597.159 0.163235 2
 EndChar
 
 StartChar: luk.d.13.9
-Encoding: 57710 57710 696
+Encoding: 57790 57790 696
 Width: 397
 VWidth: 3000
 Flags: W
@@ -13493,7 +13493,7 @@ Refer: 501 57521 S 0 1 -1 0 397.159 -0.291355 2
 EndChar
 
 StartChar: luk.v.13.9
-Encoding: 57711 57711 697
+Encoding: 57791 57791 697
 Width: 298
 VWidth: 3000
 Flags: W
@@ -13503,7 +13503,7 @@ Refer: 516 57522 S 0 1 -1 0 298.159 -0.274265 2
 EndChar
 
 StartChar: luk.x.13.9
-Encoding: 57712 57712 698
+Encoding: 57792 57792 698
 Width: 238
 VWidth: 3000
 Flags: W
@@ -13513,7 +13513,7 @@ Refer: 545 57523 S 0 1 -1 0 238.159 -0.274265 2
 EndChar
 
 StartChar: luk.q.13.9
-Encoding: 57713 57713 699
+Encoding: 57793 57793 699
 Width: 178
 VWidth: 3000
 Flags: W
@@ -13523,7 +13523,7 @@ Refer: 549 57524 S 0 1 -1 0 178.159 -0.774265 2
 EndChar
 
 StartChar: luk.s.16.13
-Encoding: 57715 57715 700
+Encoding: 57795 57795 700
 Width: 1220
 VWidth: 3000
 Flags: W
@@ -13533,7 +13533,7 @@ Refer: 512 57517 S 0.5 0.866025 -0.866025 0.5 1182.32 -22.1689 2
 EndChar
 
 StartChar: luk.f.16.13
-Encoding: 57716 57716 701
+Encoding: 57796 57796 701
 Width: 917
 VWidth: 3000
 Flags: W
@@ -13543,7 +13543,7 @@ Refer: 513 57518 S 0.5 0.866025 -0.866025 0.5 879.041 -20.5152 2
 EndChar
 
 StartChar: luk.t.16.13
-Encoding: 57717 57717 702
+Encoding: 57797 57797 702
 Width: 608
 VWidth: 3000
 Flags: W
@@ -13553,7 +13553,7 @@ Refer: 514 57519 S 0.5 0.866025 -0.866025 0.5 570.614 -21.7172 2
 EndChar
 
 StartChar: luk.w.16.13
-Encoding: 57718 57718 703
+Encoding: 57798 57798 703
 Width: 464
 VWidth: 3000
 Flags: W
@@ -13563,7 +13563,7 @@ Refer: 515 57520 S 0.5 0.866025 -0.866025 0.5 425.723 -22.1669 2
 EndChar
 
 StartChar: luk.d.16.13
-Encoding: 57719 57719 704
+Encoding: 57799 57799 704
 Width: 320
 VWidth: 3000
 Flags: W
@@ -13573,7 +13573,7 @@ Refer: 501 57521 S 0.5 0.866025 -0.866025 0.5 282.064 -22.5798 2
 EndChar
 
 StartChar: luk.v.16.13
-Encoding: 57720 57720 705
+Encoding: 57800 57800 705
 Width: 249
 VWidth: 3000
 Flags: W
@@ -13583,7 +13583,7 @@ Refer: 516 57522 S 0.5 0.866025 -0.866025 0.5 210.844 -21.7576 2
 EndChar
 
 StartChar: luk.x.16.13
-Encoding: 57721 57721 706
+Encoding: 57801 57801 706
 Width: 211
 VWidth: 3000
 Flags: W
@@ -13593,7 +13593,7 @@ Refer: 545 57523 S 0.5 0.866025 -0.866025 0.5 172.883 -22.6333 2
 EndChar
 
 StartChar: luk.q.16.13
-Encoding: 57722 57722 707
+Encoding: 57802 57802 707
 Width: 161
 VWidth: 3000
 Flags: W
@@ -13603,7 +13603,7 @@ Refer: 549 57524 S 0.5 0.866025 -0.866025 0.5 123.421 -22.4682 2
 EndChar
 
 StartChar: luk.s.19.16
-Encoding: 57724 57724 708
+Encoding: 57804 57804 708
 Width: 548
 VWidth: 3000
 Flags: W
@@ -13613,7 +13613,7 @@ Refer: 512 57517 S 0.866025 0.5 -0.5 0.866025 466.667 -21.9942 2
 EndChar
 
 StartChar: luk.f.19.16
-Encoding: 57725 57725 709
+Encoding: 57805 57805 709
 Width: 424
 VWidth: 3000
 Flags: W
@@ -13623,7 +13623,7 @@ Refer: 513 57518 S 0.866025 0.5 -0.5 0.866025 341.975 -22.0026 2
 EndChar
 
 StartChar: luk.t.19.16
-Encoding: 57726 57726 710
+Encoding: 57806 57806 710
 Width: 287
 VWidth: 3000
 Flags: W
@@ -13633,7 +13633,7 @@ Refer: 514 57519 S 0.866025 0.5 -0.5 0.866025 205.325 -21.9614 2
 EndChar
 
 StartChar: luk.w.19.16
-Encoding: 57727 57727 711
+Encoding: 57807 57807 711
 Width: 238
 VWidth: 3000
 Flags: W
@@ -13643,7 +13643,7 @@ Refer: 515 57520 S 0.866025 0.5 -0.5 0.866025 156.569 -21.0849 2
 EndChar
 
 StartChar: luk.d.19.16
-Encoding: 57728 57728 712
+Encoding: 57808 57808 712
 Width: 190
 VWidth: 3000
 Flags: W
@@ -13653,7 +13653,7 @@ Refer: 501 57521 S 0.866025 0.5 -0.5 0.866025 108.016 -21.7096 2
 EndChar
 
 StartChar: luk.v.19.16
-Encoding: 57729 57729 713
+Encoding: 57809 57809 713
 Width: 165
 VWidth: 3000
 Flags: W
@@ -13663,7 +13663,7 @@ Refer: 516 57522 S 0.866025 0.5 -0.5 0.866025 83.7766 -21.0828 2
 EndChar
 
 StartChar: luk.x.19.16
-Encoding: 57730 57730 714
+Encoding: 57810 57810 714
 Width: 160
 VWidth: 3000
 Flags: W
@@ -13673,7 +13673,7 @@ Refer: 545 57523 S 0.866025 0.5 -0.5 0.866025 78.026 -21.1021 2
 EndChar
 
 StartChar: luk.q.19.16
-Encoding: 57731 57731 715
+Encoding: 57811 57811 715
 Width: 134
 VWidth: 3000
 Flags: W
@@ -13683,7 +13683,7 @@ Refer: 549 57524 S 0.866025 0.5 -0.5 0.866025 51.9655 -21.8713 2
 EndChar
 
 StartChar: luk.s.3.9
-Encoding: 57737 57737 716
+Encoding: 57817 57817 716
 Width: 1597
 VWidth: 3000
 Flags: W
@@ -13693,7 +13693,7 @@ Refer: 502 57526 S 0.866025 -0.5 0.5 0.866025 -22.119 37.3751 2
 EndChar
 
 StartChar: luk.f.3.9
-Encoding: 57738 57738 717
+Encoding: 57818 57818 717
 Width: 1196
 VWidth: 3000
 Flags: W
@@ -13703,7 +13703,7 @@ Refer: 519 57527 S 0.866025 -0.5 0.5 0.866025 -22.1192 38.5815 2
 EndChar
 
 StartChar: luk.t.3.9
-Encoding: 57739 57739 718
+Encoding: 57819 57819 718
 Width: 801
 VWidth: 3000
 Flags: W
@@ -13713,7 +13713,7 @@ Refer: 520 57528 S 0.866025 -0.5 0.5 0.866025 -22.1173 38.4605 2
 EndChar
 
 StartChar: luk.w.3.9
-Encoding: 57740 57740 719
+Encoding: 57820 57820 719
 Width: 596
 VWidth: 3000
 Flags: W
@@ -13723,7 +13723,7 @@ Refer: 521 57529 S 0.866025 -0.5 0.5 0.866025 -22.6796 36.859 2
 EndChar
 
 StartChar: luk.d.3.9
-Encoding: 57741 57741 720
+Encoding: 57821 57821 720
 Width: 398
 VWidth: 3000
 Flags: W
@@ -13733,7 +13733,7 @@ Refer: 522 57530 S 0.866025 -0.5 0.5 0.866025 -22.1009 38.1195 2
 EndChar
 
 StartChar: luk.v.3.9
-Encoding: 57742 57742 721
+Encoding: 57822 57822 721
 Width: 297
 VWidth: 3000
 Flags: W
@@ -13743,7 +13743,7 @@ Refer: 523 57531 S 0.866025 -0.5 0.5 0.866025 -22.0712 38.1501 2
 EndChar
 
 StartChar: luk.x.3.9
-Encoding: 57743 57743 722
+Encoding: 57823 57823 722
 Width: 237
 VWidth: 3000
 Flags: W
@@ -13753,7 +13753,7 @@ Refer: 546 57532 S 0.866025 -0.5 0.5 0.866025 -22.0713 37.6309 2
 EndChar
 
 StartChar: luk.q.3.9
-Encoding: 57744 57744 723
+Encoding: 57824 57824 723
 Width: 178
 VWidth: 3000
 Flags: W
@@ -13763,7 +13763,7 @@ Refer: 550 57533 S 0.866025 -0.5 0.5 0.866025 -22.0711 38.1786 2
 EndChar
 
 StartChar: luk.s.6.13
-Encoding: 57746 57746 724
+Encoding: 57826 57826 724
 Width: 1826
 VWidth: 3000
 Flags: W
@@ -13773,7 +13773,7 @@ Refer: 502 57526 S 0.5 -0.866025 0.866025 0.5 -21.7869 82.193 2
 EndChar
 
 StartChar: luk.f.6.13
-Encoding: 57747 57747 725
+Encoding: 57827 57827 725
 Width: 1364
 VWidth: 3000
 Flags: W
@@ -13783,7 +13783,7 @@ Refer: 519 57527 S 0.5 -0.866025 0.866025 0.5 -21.7869 82.2849 2
 EndChar
 
 StartChar: luk.t.6.13
-Encoding: 57748 57748 726
+Encoding: 57828 57828 726
 Width: 906
 VWidth: 3000
 Flags: W
@@ -13793,7 +13793,7 @@ Refer: 520 57528 S 0.5 -0.866025 0.866025 0.5 -21.7858 82.7717 2
 EndChar
 
 StartChar: luk.w.6.13
-Encoding: 57749 57749 727
+Encoding: 57829 57829 727
 Width: 670
 VWidth: 3000
 Flags: W
@@ -13803,7 +13803,7 @@ Refer: 521 57529 S 0.5 -0.866025 0.866025 0.5 -22.6364 81.2213 2
 EndChar
 
 StartChar: luk.d.6.13
-Encoding: 57750 57750 728
+Encoding: 57830 57830 728
 Width: 441
 VWidth: 3000
 Flags: W
@@ -13813,7 +13813,7 @@ Refer: 522 57530 S 0.5 -0.866025 0.866025 0.5 -21.7251 84.0111 2
 EndChar
 
 StartChar: luk.v.6.13
-Encoding: 57751 57751 729
+Encoding: 57831 57831 729
 Width: 325
 VWidth: 3000
 Flags: W
@@ -13823,7 +13823,7 @@ Refer: 523 57531 S 0.5 -0.866025 0.866025 0.5 -21.7081 82.5473 2
 EndChar
 
 StartChar: luk.x.6.13
-Encoding: 57752 57752 730
+Encoding: 57832 57832 730
 Width: 255
 VWidth: 3000
 Flags: W
@@ -13833,7 +13833,7 @@ Refer: 546 57532 S 0.5 -0.866025 0.866025 0.5 -21.708 81.8248 2
 EndChar
 
 StartChar: luk.q.6.13
-Encoding: 57753 57753 731
+Encoding: 57833 57833 731
 Width: 187
 VWidth: 3000
 Flags: W
@@ -13843,7 +13843,7 @@ Refer: 550 57533 S 0.5 -0.866025 0.866025 0.5 -21.7079 82.3524 2
 EndChar
 
 StartChar: luk.s.9.16
-Encoding: 57755 57755 732
+Encoding: 57835 57835 732
 Width: 1597
 VWidth: 3000
 Flags: W
@@ -13853,7 +13853,7 @@ Refer: 502 57526 S 0 -1 1 0 0.27518 972.833 2
 EndChar
 
 StartChar: luk.f.9.16
-Encoding: 57756 57756 733
+Encoding: 57836 57836 733
 Width: 1197
 VWidth: 3000
 Flags: W
@@ -13863,7 +13863,7 @@ Refer: 519 57527 S 0 -1 1 0 0.27525 740.836 2
 EndChar
 
 StartChar: luk.t.9.16
-Encoding: 57757 57757 734
+Encoding: 57837 57837 734
 Width: 800
 VWidth: 3000
 Flags: W
@@ -13873,7 +13873,7 @@ Refer: 520 57528 S 0 -1 1 0 0.27532 513.81 2
 EndChar
 
 StartChar: luk.w.9.16
-Encoding: 57758 57758 735
+Encoding: 57838 57838 735
 Width: 596
 VWidth: 3000
 Flags: W
@@ -13883,7 +13883,7 @@ Refer: 521 57529 S 0 -1 1 0 -0.636079 394.991 2
 EndChar
 
 StartChar: luk.d.9.16
-Encoding: 57759 57759 736
+Encoding: 57839 57839 736
 Width: 397
 VWidth: 3000
 Flags: W
@@ -13893,7 +13893,7 @@ Refer: 522 57530 S 0 -1 1 0 0.363945 281.978 2
 EndChar
 
 StartChar: luk.v.9.16
-Encoding: 57760 57760 737
+Encoding: 57840 57840 737
 Width: 297
 VWidth: 3000
 Flags: W
@@ -13903,7 +13903,7 @@ Refer: 523 57531 S 0 -1 1 0 0.364378 223.398 2
 EndChar
 
 StartChar: luk.x.9.16
-Encoding: 57761 57761 738
+Encoding: 57841 57841 738
 Width: 237
 VWidth: 3000
 Flags: W
@@ -13913,7 +13913,7 @@ Refer: 546 57532 S 0 -1 1 0 0.364378 187.898 2
 EndChar
 
 StartChar: luk.q.9.16
-Encoding: 57762 57762 739
+Encoding: 57842 57842 739
 Width: 178
 VWidth: 3000
 Flags: W
@@ -13923,7 +13923,7 @@ Refer: 550 57533 S 0 -1 1 0 0.364378 154.398 2
 EndChar
 
 StartChar: luk.s.13.19
-Encoding: 57764 57764 740
+Encoding: 57844 57844 740
 Width: 973
 VWidth: 3000
 Flags: W
@@ -13933,7 +13933,7 @@ Refer: 502 57526 S -0.5 -0.866025 0.866025 -0.5 38.217 1620.43 2
 EndChar
 
 StartChar: luk.f.13.19
-Encoding: 57765 57765 741
+Encoding: 57845 57845 741
 Width: 743
 VWidth: 3000
 Flags: W
@@ -13943,7 +13943,7 @@ Refer: 519 57527 S -0.5 -0.866025 0.866025 -0.5 38.2171 1218.97 2
 EndChar
 
 StartChar: luk.t.13.19
-Encoding: 57766 57766 742
+Encoding: 57846 57846 742
 Width: 512
 VWidth: 3000
 Flags: W
@@ -13953,7 +13953,7 @@ Refer: 520 57528 S -0.5 -0.866025 0.866025 -0.5 38.2159 823.33 2
 EndChar
 
 StartChar: luk.w.13.19
-Encoding: 57767 57767 743
+Encoding: 57847 57847 743
 Width: 395
 VWidth: 3000
 Flags: W
@@ -13963,7 +13963,7 @@ Refer: 521 57529 S -0.5 -0.866025 0.866025 -0.5 37.4886 618.468 2
 EndChar
 
 StartChar: luk.d.13.19
-Encoding: 57768 57768 744
+Encoding: 57848 57848 744
 Width: 279
 VWidth: 3000
 Flags: W
@@ -13973,7 +13973,7 @@ Refer: 522 57530 S -0.5 -0.866025 0.866025 -0.5 38.3092 420.809 2
 EndChar
 
 StartChar: luk.v.13.19
-Encoding: 57769 57769 745
+Encoding: 57849 57849 745
 Width: 222
 VWidth: 3000
 Flags: W
@@ -13983,7 +13983,7 @@ Refer: 523 57531 S -0.5 -0.866025 0.866025 -0.5 38.2919 320.157 2
 EndChar
 
 StartChar: luk.x.13.19
-Encoding: 57770 57770 746
+Encoding: 57850 57850 746
 Width: 188
 VWidth: 3000
 Flags: W
@@ -13993,7 +13993,7 @@ Refer: 546 57532 S -0.5 -0.866025 0.866025 -0.5 38.2921 259.002 2
 EndChar
 
 StartChar: luk.q.13.19
-Encoding: 57771 57771 747
+Encoding: 57851 57851 747
 Width: 153
 VWidth: 3000
 Flags: W
@@ -14003,7 +14003,7 @@ Refer: 550 57533 S -0.5 -0.866025 0.866025 -0.5 38.292 200.029 2
 EndChar
 
 StartChar: luk.s.16.30
-Encoding: 57773 57773 748
+Encoding: 57853 57853 748
 Width: 367
 VWidth: 3000
 Flags: W
@@ -14013,7 +14013,7 @@ Refer: 502 57526 S -0.866025 -0.5 0.5 -0.866025 82.0409 1848.63 2
 EndChar
 
 StartChar: luk.f.16.30
-Encoding: 57774 57774 749
+Encoding: 57854 57854 749
 Width: 300
 VWidth: 3000
 Flags: W
@@ -14023,7 +14023,7 @@ Refer: 519 57527 S -0.866025 -0.5 0.5 -0.866025 82.0407 1385.42 2
 EndChar
 
 StartChar: luk.t.16.30
-Encoding: 57775 57775 750
+Encoding: 57855 57855 750
 Width: 234
 VWidth: 3000
 Flags: W
@@ -14033,7 +14033,7 @@ Refer: 520 57528 S -0.866025 -0.5 0.5 -0.866025 82.9962 927.444 2
 EndChar
 
 StartChar: luk.w.16.30
-Encoding: 57776 57776 751
+Encoding: 57856 57856 751
 Width: 200
 VWidth: 3000
 Flags: W
@@ -14043,7 +14043,7 @@ Refer: 521 57529 S -0.866025 -0.5 0.5 -0.866025 81.6902 692.597 2
 EndChar
 
 StartChar: luk.d.16.30
-Encoding: 57777 57777 752
+Encoding: 57857 57857 752
 Width: 167
 VWidth: 3000
 Flags: W
@@ -14053,7 +14053,7 @@ Refer: 522 57530 S -0.866025 -0.5 0.5 -0.866025 83.3538 463.876 2
 EndChar
 
 StartChar: luk.v.16.30
-Encoding: 57778 57778 753
+Encoding: 57858 57858 753
 Width: 150
 VWidth: 3000
 Flags: W
@@ -14063,7 +14063,7 @@ Refer: 523 57531 S -0.866025 -0.5 0.5 -0.866025 82.2655 346.711 2
 EndChar
 
 StartChar: luk.x.16.30
-Encoding: 57779 57779 754
+Encoding: 57859 57859 754
 Width: 140
 VWidth: 3000
 Flags: W
@@ -14073,7 +14073,7 @@ Refer: 546 57532 S -0.866025 -0.5 0.5 -0.866025 82.0817 277.98 2
 EndChar
 
 StartChar: luk.q.16.30
-Encoding: 57780 57780 755
+Encoding: 57860 57860 755
 Width: 130
 VWidth: 3000
 Flags: W
@@ -14083,7 +14083,7 @@ Refer: 550 57533 S -0.866025 -0.5 0.5 -0.866025 82.0818 209.432 2
 EndChar
 
 StartChar: luk.s.6.0
-Encoding: 57782 57782 756
+Encoding: 57862 57862 756
 Width: 973
 VWidth: 3000
 Flags: W
@@ -14093,7 +14093,7 @@ Refer: 502 57526 S -1 0 0 -1 973.291 1597.84 2
 EndChar
 
 StartChar: luk.f.6.0
-Encoding: 57783 57783 757
+Encoding: 57863 57863 757
 Width: 741
 VWidth: 3000
 Flags: W
@@ -14103,7 +14103,7 @@ Refer: 519 57527 S -1 0 0 -1 741.292 1197.84 2
 EndChar
 
 StartChar: luk.t.6.0
-Encoding: 57784 57784 758
+Encoding: 57864 57864 758
 Width: 513
 VWidth: 3000
 Flags: W
@@ -14113,7 +14113,7 @@ Refer: 520 57528 N -1 0 0 -1 513.895 800.189 2
 EndChar
 
 StartChar: luk.w.6.0
-Encoding: 57785 57785 759
+Encoding: 57865 57865 759
 Width: 395
 VWidth: 3000
 Flags: W
@@ -14123,7 +14123,7 @@ Refer: 521 57529 S -1 0 0 -1 395.014 597.431 2
 EndChar
 
 StartChar: luk.d.6.0
-Encoding: 57786 57786 760
+Encoding: 57866 57866 760
 Width: 281
 VWidth: 3000
 Flags: W
@@ -14133,7 +14133,7 @@ Refer: 522 57530 S -1 0 0 -1 281.886 397.533 2
 EndChar
 
 StartChar: luk.v.6.0
-Encoding: 57787 57787 761
+Encoding: 57867 57867 761
 Width: 222
 VWidth: 3000
 Flags: W
@@ -14143,7 +14143,7 @@ Refer: 523 57531 S -1 0 0 -1 222.832 297.426 2
 EndChar
 
 StartChar: luk.x.6.0
-Encoding: 57788 57788 762
+Encoding: 57868 57868 762
 Width: 187
 VWidth: 3000
 Flags: W
@@ -14153,7 +14153,7 @@ Refer: 546 57532 S -1 0 0 -1 187.832 237.426 2
 EndChar
 
 StartChar: luk.q.6.0
-Encoding: 57789 57789 763
+Encoding: 57869 57869 763
 Width: 153
 VWidth: 3000
 Flags: W
@@ -14163,7 +14163,7 @@ Refer: 550 57533 S -1 0 0 -1 153.832 178.426 2
 EndChar
 
 StartChar: luk.s.9.3
-Encoding: 57791 57791 764
+Encoding: 57871 57871 764
 Width: 1597
 VWidth: 3000
 Flags: W
@@ -14173,7 +14173,7 @@ Refer: 502 57526 S -0.866025 0.5 -0.5 -0.866025 1619.89 934.716 2
 EndChar
 
 StartChar: luk.f.9.3
-Encoding: 57792 57792 765
+Encoding: 57872 57872 765
 Width: 1196
 VWidth: 3000
 Flags: W
@@ -14183,7 +14183,7 @@ Refer: 519 57527 S -0.866025 0.5 -0.5 -0.866025 1218.98 704.51 2
 EndChar
 
 StartChar: luk.t.9.3
-Encoding: 57793 57793 766
+Encoding: 57873 57873 766
 Width: 801
 VWidth: 3000
 Flags: W
@@ -14193,7 +14193,7 @@ Refer: 520 57528 S -0.866025 0.5 -0.5 -0.866025 823.216 473.728 2
 EndChar
 
 StartChar: luk.w.9.3
-Encoding: 57794 57794 767
+Encoding: 57874 57874 767
 Width: 596
 VWidth: 3000
 Flags: W
@@ -14203,7 +14203,7 @@ Refer: 521 57529 S -0.866025 0.5 -0.5 -0.866025 618.928 357.822 2
 EndChar
 
 StartChar: luk.d.9.3
-Encoding: 57795 57795 768
+Encoding: 57875 57875 768
 Width: 398
 VWidth: 3000
 Flags: W
@@ -14213,7 +14213,7 @@ Refer: 522 57530 S -0.866025 0.5 -0.5 -0.866025 421.009 241.664 2
 EndChar
 
 StartChar: luk.v.9.3
-Encoding: 57796 57796 769
+Encoding: 57876 57876 769
 Width: 297
 VWidth: 3000
 Flags: W
@@ -14223,7 +14223,7 @@ Refer: 523 57531 S -0.866025 0.5 -0.5 -0.866025 319.812 185.026 2
 EndChar
 
 StartChar: luk.x.9.3
-Encoding: 57797 57797 770
+Encoding: 57877 57877 770
 Width: 237
 VWidth: 3000
 Flags: W
@@ -14233,7 +14233,7 @@ Refer: 546 57532 S -0.866025 0.5 -0.5 -0.866025 259.502 149.795 2
 EndChar
 
 StartChar: luk.q.9.3
-Encoding: 57798 57798 771
+Encoding: 57878 57878 771
 Width: 178
 VWidth: 3000
 Flags: W
@@ -14243,7 +14243,7 @@ Refer: 550 57533 S -0.866025 0.5 -0.5 -0.866025 200.557 115.247 2
 EndChar
 
 StartChar: luk.s.13.6
-Encoding: 57800 57800 772
+Encoding: 57880 57880 772
 Width: 1826
 VWidth: 3000
 Flags: W
@@ -14253,7 +14253,7 @@ Refer: 502 57526 S -0.5 0.866025 -0.866025 -0.5 1848.5 285.337 2
 EndChar
 
 StartChar: luk.f.13.6
-Encoding: 57801 57801 773
+Encoding: 57881 57881 773
 Width: 1364
 VWidth: 3000
 Flags: W
@@ -14263,7 +14263,7 @@ Refer: 519 57527 S -0.5 0.866025 -0.866025 -0.5 1386.09 218.793 2
 EndChar
 
 StartChar: luk.t.13.6
-Encoding: 57802 57802 774
+Encoding: 57882 57882 774
 Width: 906
 VWidth: 3000
 Flags: W
@@ -14273,7 +14273,7 @@ Refer: 520 57528 S -0.5 0.866025 -0.866025 -0.5 928.015 150.953 2
 EndChar
 
 StartChar: luk.w.13.6
-Encoding: 57803 57803 775
+Encoding: 57883 57883 775
 Width: 670
 VWidth: 3000
 Flags: W
@@ -14283,7 +14283,7 @@ Refer: 521 57529 S -0.5 0.866025 -0.866025 -0.5 693.058 118.178 2
 EndChar
 
 StartChar: luk.d.13.6
-Encoding: 57804 57804 776
+Encoding: 57884 57884 776
 Width: 441
 VWidth: 3000
 Flags: W
@@ -14293,7 +14293,7 @@ Refer: 522 57530 S -0.5 0.866025 -0.866025 -0.5 463.379 84.4911 2
 EndChar
 
 StartChar: luk.v.13.6
-Encoding: 57805 57805 777
+Encoding: 57885 57885 777
 Width: 325
 VWidth: 3000
 Flags: W
@@ -14303,7 +14303,7 @@ Refer: 523 57531 S -0.5 0.866025 -0.866025 -0.5 347.155 67.9816 2
 EndChar
 
 StartChar: luk.x.13.6
-Encoding: 57806 57806 778
+Encoding: 57886 57886 778
 Width: 255
 VWidth: 3000
 Flags: W
@@ -14313,7 +14313,7 @@ Refer: 546 57532 S -0.5 0.866025 -0.866025 -0.5 277.694 58.137 2
 EndChar
 
 StartChar: luk.q.13.6
-Encoding: 57807 57807 779
+Encoding: 57887 57887 779
 Width: 187
 VWidth: 3000
 Flags: W
@@ -14323,7 +14323,7 @@ Refer: 550 57533 S -0.5 0.866025 -0.866025 -0.5 209.598 48.6094 2
 EndChar
 
 StartChar: luk.s.16.9
-Encoding: 57809 57809 780
+Encoding: 57889 57889 780
 Width: 1597
 VWidth: 3000
 Flags: W
@@ -14333,7 +14333,7 @@ Refer: 502 57526 S 0 1 -1 0 1597.68 0.008621 2
 EndChar
 
 StartChar: luk.f.16.9
-Encoding: 57810 57810 781
+Encoding: 57890 57890 781
 Width: 1197
 VWidth: 3000
 Flags: W
@@ -14343,7 +14343,7 @@ Refer: 519 57527 S 0 1 -1 0 1197.68 0.00596673 2
 EndChar
 
 StartChar: luk.t.16.9
-Encoding: 57811 57811 782
+Encoding: 57891 57891 782
 Width: 800
 VWidth: 3000
 Flags: W
@@ -14353,7 +14353,7 @@ Refer: 520 57528 S 0 1 -1 0 800.024 0.378269 2
 EndChar
 
 StartChar: luk.w.16.9
-Encoding: 57812 57812 783
+Encoding: 57892 57892 783
 Width: 596
 VWidth: 3000
 Flags: W
@@ -14363,7 +14363,7 @@ Refer: 521 57529 S 0 1 -1 0 597.355 0.439793 2
 EndChar
 
 StartChar: luk.d.16.9
-Encoding: 57813 57813 784
+Encoding: 57893 57893 784
 Width: 397
 VWidth: 3000
 Flags: W
@@ -14373,7 +14373,7 @@ Refer: 522 57530 S 0 1 -1 0 397.457 0.555027 2
 EndChar
 
 StartChar: luk.v.16.9
-Encoding: 57814 57814 785
+Encoding: 57894 57894 785
 Width: 297
 VWidth: 3000
 Flags: W
@@ -14383,7 +14383,7 @@ Refer: 523 57531 S 0 1 -1 0 297.35 0.0281716 2
 EndChar
 
 StartChar: luk.x.16.9
-Encoding: 57815 57815 786
+Encoding: 57895 57895 786
 Width: 237
 VWidth: 3000
 Flags: W
@@ -14393,7 +14393,7 @@ Refer: 546 57532 S 0 1 -1 0 237.35 0.528172 2
 EndChar
 
 StartChar: luk.q.16.9
-Encoding: 57816 57816 787
+Encoding: 57896 57896 787
 Width: 178
 VWidth: 3000
 Flags: W
@@ -14403,7 +14403,7 @@ Refer: 550 57533 S 0 1 -1 0 178.35 0.0281716 2
 EndChar
 
 StartChar: luk.s.19.13
-Encoding: 57818 57818 788
+Encoding: 57898 57898 788
 Width: 973
 VWidth: 3000
 Flags: W
@@ -14413,7 +14413,7 @@ Refer: 502 57526 S 0.5 0.866025 -0.866025 0.5 935.258 -21.5839 2
 EndChar
 
 StartChar: luk.f.19.13
-Encoding: 57819 57819 789
+Encoding: 57899 57899 789
 Width: 743
 VWidth: 3000
 Flags: W
@@ -14423,7 +14423,7 @@ Refer: 519 57527 S 0.5 0.866025 -0.866025 0.5 704.848 -22.1273 2
 EndChar
 
 StartChar: luk.t.19.13
-Encoding: 57820 57820 790
+Encoding: 57900 57900 790
 Width: 512
 VWidth: 3000
 Flags: W
@@ -14433,7 +14433,7 @@ Refer: 520 57528 S 0.5 0.866025 -0.866025 0.5 474.017 -22.1415 2
 EndChar
 
 StartChar: luk.w.19.13
-Encoding: 57821 57821 791
+Encoding: 57901 57901 791
 Width: 395
 VWidth: 3000
 Flags: W
@@ -14443,7 +14443,7 @@ Refer: 521 57529 S 0.5 0.866025 -0.866025 0.5 357.942 -23.037 2
 EndChar
 
 StartChar: luk.d.19.13
-Encoding: 57822 57822 792
+Encoding: 57902 57902 792
 Width: 279
 VWidth: 3000
 Flags: W
@@ -14453,7 +14453,7 @@ Refer: 522 57530 S 0.5 0.866025 -0.866025 0.5 241.663 -22.2756 2
 EndChar
 
 StartChar: luk.v.19.13
-Encoding: 57823 57823 793
+Encoding: 57903 57903 793
 Width: 222
 VWidth: 3000
 Flags: W
@@ -14463,7 +14463,7 @@ Refer: 523 57531 S 0.5 0.866025 -0.866025 0.5 184.611 -21.7314 2
 EndChar
 
 StartChar: luk.x.19.13
-Encoding: 57824 57824 794
+Encoding: 57904 57904 794
 Width: 188
 VWidth: 3000
 Flags: W
@@ -14473,7 +14473,7 @@ Refer: 546 57532 S 0.5 0.866025 -0.866025 0.5 150.15 -22.576 2
 EndChar
 
 StartChar: luk.q.19.13
-Encoding: 57825 57825 795
+Encoding: 57905 57905 795
 Width: 153
 VWidth: 3000
 Flags: W
@@ -14483,7 +14483,7 @@ Refer: 550 57533 S 0.5 0.866025 -0.866025 0.5 115.664 -22.6035 2
 EndChar
 
 StartChar: luk.s.30.16
-Encoding: 57827 57827 796
+Encoding: 57907 57907 796
 Width: 367
 VWidth: 3000
 Flags: W
@@ -14493,7 +14493,7 @@ Refer: 502 57526 S 0.866025 0.5 -0.5 0.866025 285.004 -21.787 2
 EndChar
 
 StartChar: luk.f.30.16
-Encoding: 57828 57828 797
+Encoding: 57908 57908 797
 Width: 300
 VWidth: 3000
 Flags: W
@@ -14503,7 +14503,7 @@ Refer: 519 57527 S 0.866025 0.5 -0.5 0.866025 218.734 -22.5832 2
 EndChar
 
 StartChar: luk.t.30.16
-Encoding: 57829 57829 798
+Encoding: 57909 57909 798
 Width: 234
 VWidth: 3000
 Flags: W
@@ -14513,7 +14513,7 @@ Refer: 520 57528 S 0.866025 0.5 -0.5 0.866025 151.442 -22.2555 2
 EndChar
 
 StartChar: luk.w.30.16
-Encoding: 57830 57830 799
+Encoding: 57910 57910 799
 Width: 200
 VWidth: 3000
 Flags: W
@@ -14523,7 +14523,7 @@ Refer: 521 57529 S 0.866025 0.5 -0.5 0.866025 118.5 -23.1666 2
 EndChar
 
 StartChar: luk.d.30.16
-Encoding: 57831 57831 800
+Encoding: 57911 57911 800
 Width: 167
 VWidth: 3000
 Flags: W
@@ -14533,7 +14533,7 @@ Refer: 522 57530 S 0.866025 0.5 -0.5 0.866025 84.1608 -21.3422 2
 EndChar
 
 StartChar: luk.v.30.16
-Encoding: 57832 57832 801
+Encoding: 57912 57912 801
 Width: 150
 VWidth: 3000
 Flags: W
@@ -14543,7 +14543,7 @@ Refer: 523 57531 S 0.866025 0.5 -0.5 0.866025 67.8678 -22.2847 2
 EndChar
 
 StartChar: luk.x.30.16
-Encoding: 57833 57833 802
+Encoding: 57913 57913 802
 Width: 140
 VWidth: 3000
 Flags: W
@@ -14553,7 +14553,7 @@ Refer: 546 57532 S 0.866025 0.5 -0.5 0.866025 58.1958 -21.5539 2
 EndChar
 
 StartChar: luk.q.30.16
-Encoding: 57834 57834 803
+Encoding: 57914 57914 803
 Width: 130
 VWidth: 3000
 Flags: W
@@ -14563,7 +14563,7 @@ Refer: 550 57533 S 0.866025 0.5 -0.5 0.866025 48.5573 -22.0062 2
 EndChar
 
 StartChar: luk.s.4.14
-Encoding: 57845 57845 804
+Encoding: 57925 57925 804
 Width: 2213
 VWidth: 3000
 Flags: W
@@ -14573,7 +14573,7 @@ Refer: 466 57535 S 0.707107 -0.707107 0.707107 0.707107 -25.2368 60.293 2
 EndChar
 
 StartChar: luk.f.4.14
-Encoding: 57846 57846 805
+Encoding: 57926 57926 805
 Width: 1646
 VWidth: 3000
 Flags: W
@@ -14583,7 +14583,7 @@ Refer: 468 57536 S 0.707107 -0.707107 0.707107 0.707107 -25.2365 59.2928 2
 EndChar
 
 StartChar: luk.t.4.14
-Encoding: 57847 57847 806
+Encoding: 57927 57927 806
 Width: 1080
 VWidth: 3000
 Flags: W
@@ -14593,7 +14593,7 @@ Refer: 517 57537 S 0.707107 -0.707107 0.707107 0.707107 -25.2355 59.6518 2
 EndChar
 
 StartChar: luk.w.4.14
-Encoding: 57848 57848 807
+Encoding: 57928 57928 807
 Width: 797
 VWidth: 3000
 Flags: W
@@ -14603,7 +14603,7 @@ Refer: 518 57538 S 0.707107 -0.707107 0.707107 0.707107 -25.9663 59.0004 2
 EndChar
 
 StartChar: luk.d.4.14
-Encoding: 57849 57849 808
+Encoding: 57929 57929 808
 Width: 515
 VWidth: 3000
 Flags: W
@@ -14613,7 +14613,7 @@ Refer: 543 57539 S 0.707107 -0.707107 0.707107 0.707107 -25.1952 58.8383 2
 EndChar
 
 StartChar: luk.v.4.14
-Encoding: 57850 57850 809
+Encoding: 57930 57930 809
 Width: 373
 VWidth: 3000
 Flags: W
@@ -14623,7 +14623,7 @@ Refer: 467 57540 S 0.707107 -0.707107 0.707107 0.707107 -25.1713 59.7975 2
 EndChar
 
 StartChar: luk.x.4.14
-Encoding: 57851 57851 810
+Encoding: 57931 57931 810
 Width: 288
 VWidth: 3000
 Flags: W
@@ -14633,7 +14633,7 @@ Refer: 547 57541 S 0.707107 -0.707107 0.707107 0.707107 -25.1706 59.8685 2
 EndChar
 
 StartChar: luk.q.4.14
-Encoding: 57852 57852 811
+Encoding: 57932 57932 811
 Width: 203
 VWidth: 3000
 Flags: W
@@ -14643,7 +14643,7 @@ Refer: 551 57542 S 0.707107 -0.707107 0.707107 0.707107 -25.1711 59.8112 2
 EndChar
 
 StartChar: luk.s.9.19
-Encoding: 57854 57854 812
+Encoding: 57934 57934 812
 Width: 1600
 VWidth: 3000
 Flags: W
@@ -14653,7 +14653,7 @@ Refer: 466 57535 S 0 -1 1 0 0.274903 1600.51 2
 EndChar
 
 StartChar: luk.f.9.19
-Encoding: 57855 57855 813
+Encoding: 57935 57935 813
 Width: 1200
 VWidth: 3000
 Flags: W
@@ -14663,7 +14663,7 @@ Refer: 468 57536 S 0 -1 1 0 0.275392 1199.6 2
 EndChar
 
 StartChar: luk.t.9.19
-Encoding: 57856 57856 814
+Encoding: 57936 57936 814
 Width: 800
 VWidth: 3000
 Flags: W
@@ -14673,7 +14673,7 @@ Refer: 517 57537 S 0 -1 1 0 0.274903 798.559 2
 EndChar
 
 StartChar: luk.w.9.19
-Encoding: 57857 57857 815
+Encoding: 57937 57937 815
 Width: 599
 VWidth: 3000
 Flags: W
@@ -14683,7 +14683,7 @@ Refer: 518 57538 S 0 -1 1 0 -0.635742 600.137 2
 EndChar
 
 StartChar: luk.d.9.19
-Encoding: 57858 57858 816
+Encoding: 57938 57938 816
 Width: 400
 VWidth: 3000
 Flags: W
@@ -14693,7 +14693,7 @@ Refer: 543 57539 S 0 -1 1 0 0.36377 399.738 2
 EndChar
 
 StartChar: luk.v.9.19
-Encoding: 57859 57859 817
+Encoding: 57939 57939 817
 Width: 300
 VWidth: 3000
 Flags: W
@@ -14703,7 +14703,7 @@ Refer: 467 57540 S 0 -1 1 0 0.364308 299.802 2
 EndChar
 
 StartChar: luk.x.9.19
-Encoding: 57860 57860 818
+Encoding: 57940 57940 818
 Width: 240
 VWidth: 3000
 Flags: W
@@ -14713,7 +14713,7 @@ Refer: 547 57541 S 0 -1 1 0 0.364258 239.802 2
 EndChar
 
 StartChar: luk.q.9.19
-Encoding: 57861 57861 819
+Encoding: 57941 57941 819
 Width: 180
 VWidth: 3000
 Flags: W
@@ -14723,7 +14723,7 @@ Refer: 551 57542 S 0 -1 1 0 0.36377 179.606 2
 EndChar
 
 StartChar: luk.s.14.40
-Encoding: 57863 57863 820
+Encoding: 57943 57943 820
 Width: 646
 VWidth: 3000
 Flags: W
@@ -14733,7 +14733,7 @@ Refer: 466 57535 S -0.707107 -0.707107 0.707107 -0.707107 59.6219 2237.9 2
 EndChar
 
 StartChar: luk.f.14.40
-Encoding: 57864 57864 821
+Encoding: 57944 57944 821
 Width: 505
 VWidth: 3000
 Flags: W
@@ -14743,7 +14743,7 @@ Refer: 468 57536 S -0.707107 -0.707107 0.707107 -0.707107 59.6221 1671.26 2
 EndChar
 
 StartChar: luk.t.14.40
-Encoding: 57865 57865 822
+Encoding: 57945 57945 822
 Width: 363
 VWidth: 3000
 Flags: W
@@ -14753,7 +14753,7 @@ Refer: 517 57537 S -0.707107 -0.707107 0.707107 -0.707107 59.6205 1105.46 2
 EndChar
 
 StartChar: luk.w.14.40
-Encoding: 57866 57866 823
+Encoding: 57946 57946 823
 Width: 292
 VWidth: 3000
 Flags: W
@@ -14763,7 +14763,7 @@ Refer: 518 57538 S -0.707107 -0.707107 0.707107 -0.707107 59.4099 822.593 2
 EndChar
 
 StartChar: luk.d.14.40
-Encoding: 57867 57867 824
+Encoding: 57947 57947 824
 Width: 222
 VWidth: 3000
 Flags: W
@@ -14773,7 +14773,7 @@ Refer: 543 57539 S -0.707107 -0.707107 0.707107 -0.707107 59.7062 539.6 2
 EndChar
 
 StartChar: luk.v.14.40
-Encoding: 57868 57868 825
+Encoding: 57948 57948 825
 Width: 186
 VWidth: 3000
 Flags: W
@@ -14783,7 +14783,7 @@ Refer: 467 57540 S -0.707107 -0.707107 0.707107 -0.707107 59.6815 398.9 2
 EndChar
 
 StartChar: luk.x.14.40
-Encoding: 57869 57869 826
+Encoding: 57949 57949 826
 Width: 165
 VWidth: 3000
 Flags: W
@@ -14793,7 +14793,7 @@ Refer: 547 57541 S -0.707107 -0.707107 0.707107 -0.707107 59.6814 313.544 2
 EndChar
 
 StartChar: luk.q.14.40
-Encoding: 57870 57870 827
+Encoding: 57950 57950 827
 Width: 143
 VWidth: 3000
 Flags: W
@@ -14803,7 +14803,7 @@ Refer: 551 57542 S -0.707107 -0.707107 0.707107 -0.707107 59.6814 228.784 2
 EndChar
 
 StartChar: luk.s.9.0
-Encoding: 57872 57872 828
+Encoding: 57952 57952 828
 Width: 1600
 VWidth: 3000
 Flags: W
@@ -14813,7 +14813,7 @@ Refer: 466 57535 S -1 0 0 -1 1600.69 1600.33 2
 EndChar
 
 StartChar: luk.f.9.0
-Encoding: 57873 57873 829
+Encoding: 57953 57953 829
 Width: 1199
 VWidth: 3000
 Flags: W
@@ -14823,7 +14823,7 @@ Refer: 468 57536 S -1 0 0 -1 1199.74 1199.46 2
 EndChar
 
 StartChar: luk.t.9.0
-Encoding: 57874 57874 830
+Encoding: 57954 57954 830
 Width: 798
 VWidth: 3000
 Flags: W
@@ -14833,7 +14833,7 @@ Refer: 517 57537 N -1 0 0 -1 798.942 800.176 2
 EndChar
 
 StartChar: luk.w.9.0
-Encoding: 57875 57875 831
+Encoding: 57955 57955 831
 Width: 599
 VWidth: 3000
 Flags: W
@@ -14843,7 +14843,7 @@ Refer: 518 57538 N -1 0 0 -1 599.809 600.465 2
 EndChar
 
 StartChar: luk.d.9.0
-Encoding: 57876 57876 832
+Encoding: 57956 57956 832
 Width: 399
 VWidth: 3000
 Flags: W
@@ -14853,7 +14853,7 @@ Refer: 543 57539 N -1 0 0 -1 399.59 399.886 2
 EndChar
 
 StartChar: luk.v.9.0
-Encoding: 57877 57877 833
+Encoding: 57957 57957 833
 Width: 299
 VWidth: 3000
 Flags: W
@@ -14863,7 +14863,7 @@ Refer: 467 57540 N -1 0 0 -1 299.645 299.958 2
 EndChar
 
 StartChar: luk.x.9.0
-Encoding: 57878 57878 834
+Encoding: 57958 57958 834
 Width: 239
 VWidth: 3000
 Flags: W
@@ -14873,7 +14873,7 @@ Refer: 547 57541 N -1 0 0 -1 239.645 239.958 2
 EndChar
 
 StartChar: luk.q.9.0
-Encoding: 57879 57879 835
+Encoding: 57959 57959 835
 Width: 179
 VWidth: 3000
 Flags: W
@@ -14883,7 +14883,7 @@ Refer: 551 57542 N -1 0 0 -1 179.645 179.566 2
 EndChar
 
 StartChar: luk.s.14.4
-Encoding: 57881 57881 836
+Encoding: 57961 57961 836
 Width: 2213
 VWidth: 3000
 Flags: W
@@ -14893,7 +14893,7 @@ Refer: 466 57535 S -0.707107 0.707107 -0.707107 -0.707107 2238.46 587.041 2
 EndChar
 
 StartChar: luk.f.14.4
-Encoding: 57882 57882 837
+Encoding: 57962 57962 837
 Width: 1646
 VWidth: 3000
 Flags: W
@@ -14903,7 +14903,7 @@ Refer: 468 57536 S -0.707107 0.707107 -0.707107 -0.707107 1671.59 444.755 2
 EndChar
 
 StartChar: luk.t.14.4
-Encoding: 57883 57883 838
+Encoding: 57963 57963 838
 Width: 1080
 VWidth: 3000
 Flags: W
@@ -14913,7 +14913,7 @@ Refer: 517 57537 S -0.707107 0.707107 -0.707107 -0.707107 1105.85 304.524 2
 EndChar
 
 StartChar: luk.w.14.4
-Encoding: 57884 57884 839
+Encoding: 57964 57964 839
 Width: 797
 VWidth: 3000
 Flags: W
@@ -14923,7 +14923,7 @@ Refer: 518 57538 S -0.707107 0.707107 -0.707107 -0.707107 823.177 233.464 2
 EndChar
 
 StartChar: luk.d.14.4
-Encoding: 57885 57885 840
+Encoding: 57965 57965 840
 Width: 515
 VWidth: 3000
 Flags: W
@@ -14933,7 +14933,7 @@ Refer: 543 57539 S -0.707107 0.707107 -0.707107 -0.707107 540.284 162.047 2
 EndChar
 
 StartChar: luk.v.14.4
-Encoding: 57886 57886 841
+Encoding: 57966 57966 841
 Width: 373
 VWidth: 3000
 Flags: W
@@ -14943,7 +14943,7 @@ Refer: 467 57540 S -0.707107 0.707107 -0.707107 -0.707107 398.869 127.161 2
 EndChar
 
 StartChar: luk.x.14.4
-Encoding: 57887 57887 842
+Encoding: 57967 57967 842
 Width: 288
 VWidth: 3000
 Flags: W
@@ -14953,7 +14953,7 @@ Refer: 547 57541 S -0.707107 0.707107 -0.707107 -0.707107 314.016 105.089 2
 EndChar
 
 StartChar: luk.q.14.4
-Encoding: 57888 57888 843
+Encoding: 57968 57968 843
 Width: 203
 VWidth: 3000
 Flags: W
@@ -14963,7 +14963,7 @@ Refer: 551 57542 S -0.707107 0.707107 -0.707107 -0.707107 229.164 83.7552 2
 EndChar
 
 StartChar: luk.s.19.9
-Encoding: 57890 57890 844
+Encoding: 57970 57970 844
 Width: 1600
 VWidth: 3000
 Flags: W
@@ -14973,7 +14973,7 @@ Refer: 466 57535 N 0 1 -1 0 1600.61 -0.178223 2
 EndChar
 
 StartChar: luk.f.19.9
-Encoding: 57891 57891 845
+Encoding: 57971 57971 845
 Width: 1200
 VWidth: 3000
 Flags: W
@@ -14983,7 +14983,7 @@ Refer: 468 57536 S 0 1 -1 0 1199.88 -0.0673766 2
 EndChar
 
 StartChar: luk.t.19.9
-Encoding: 57892 57892 846
+Encoding: 57972 57972 846
 Width: 800
 VWidth: 3000
 Flags: W
@@ -14993,7 +14993,7 @@ Refer: 517 57537 S 0 1 -1 0 800.451 -0.383301 2
 EndChar
 
 StartChar: luk.w.19.9
-Encoding: 57893 57893 847
+Encoding: 57973 57973 847
 Width: 599
 VWidth: 3000
 Flags: W
@@ -15003,7 +15003,7 @@ Refer: 518 57538 S 0 1 -1 0 599.829 0.328125 2
 EndChar
 
 StartChar: luk.d.19.9
-Encoding: 57894 57894 848
+Encoding: 57974 57974 848
 Width: 400
 VWidth: 3000
 Flags: W
@@ -15013,7 +15013,7 @@ Refer: 543 57539 S 0 1 -1 0 400.25 0.147949 2
 EndChar
 
 StartChar: luk.v.19.9
-Encoding: 57895 57895 849
+Encoding: 57975 57975 849
 Width: 300
 VWidth: 3000
 Flags: W
@@ -15023,7 +15023,7 @@ Refer: 467 57540 S 0 1 -1 0 300.322 -0.84375 2
 EndChar
 
 StartChar: luk.x.19.9
-Encoding: 57896 57896 850
+Encoding: 57976 57976 850
 Width: 240
 VWidth: 3000
 Flags: W
@@ -15033,7 +15033,7 @@ Refer: 547 57541 S 0 1 -1 0 240.322 -0.84375 2
 EndChar
 
 StartChar: luk.q.19.9
-Encoding: 57897 57897 851
+Encoding: 57977 57977 851
 Width: 180
 VWidth: 3000
 Flags: W
@@ -15043,7 +15043,7 @@ Refer: 551 57542 S 0 1 -1 0 179.931 -0.0395508 2
 EndChar
 
 StartChar: luk.s.40.14
-Encoding: 57899 57899 852
+Encoding: 57979 57979 852
 Width: 646
 VWidth: 3000
 Flags: W
@@ -15053,7 +15053,7 @@ Refer: 466 57535 S 0.707107 0.707107 -0.707107 0.707107 586.885 -25.566 2
 EndChar
 
 StartChar: luk.f.40.14
-Encoding: 57900 57900 853
+Encoding: 57980 57980 853
 Width: 505
 VWidth: 3000
 Flags: W
@@ -15063,7 +15063,7 @@ Refer: 468 57536 S 0.707107 0.707107 -0.707107 0.707107 445.505 -25.4941 2
 EndChar
 
 StartChar: luk.t.40.14
-Encoding: 57901 57901 854
+Encoding: 57981 57981 854
 Width: 363
 VWidth: 3000
 Flags: W
@@ -15073,7 +15073,7 @@ Refer: 517 57537 S 0.707107 0.707107 -0.707107 0.707107 304.274 -25.2858 2
 EndChar
 
 StartChar: luk.w.40.14
-Encoding: 57902 57902 855
+Encoding: 57982 57982 855
 Width: 292
 VWidth: 3000
 Flags: W
@@ -15083,7 +15083,7 @@ Refer: 518 57538 S 0.707107 0.707107 -0.707107 0.707107 233.517 -26.1283 2
 EndChar
 
 StartChar: luk.d.40.14
-Encoding: 57903 57903 856
+Encoding: 57983 57983 856
 Width: 222
 VWidth: 3000
 Flags: W
@@ -15093,7 +15093,7 @@ Refer: 543 57539 S 0.707107 0.707107 -0.707107 0.707107 162.698 -25.7144 2
 EndChar
 
 StartChar: luk.v.40.14
-Encoding: 57904 57904 857
+Encoding: 57984 57984 857
 Width: 186
 VWidth: 3000
 Flags: W
@@ -15103,7 +15103,7 @@ Refer: 467 57540 S 0.707107 0.707107 -0.707107 0.707107 127.243 -24.9418 2
 EndChar
 
 StartChar: luk.x.40.14
-Encoding: 57905 57905 858
+Encoding: 57985 57985 858
 Width: 165
 VWidth: 3000
 Flags: W
@@ -15113,7 +15113,7 @@ Refer: 547 57541 S 0.707107 0.707107 -0.707107 0.707107 106.029 -25.5864 2
 EndChar
 
 StartChar: luk.q.40.14
-Encoding: 57906 57906 859
+Encoding: 57986 57986 859
 Width: 143
 VWidth: 3000
 Flags: W
@@ -15174,19 +15174,20 @@ EndSplineSet
 EndChar
 
 StartChar: kat.17.3
-Encoding: 58079 58079 862
-Width: 2048
+Encoding: 58159 58159 862
+Width: 120
+Flags: WO
 LayerCount: 3
 Fore
 SplineSet
-112 31 m 1,0,-1
- 47 -81 l 1,1,-1
- 3 40 l 1,2,3
- 3 40 3 40 60 60 c 1,4,5
- 88 60 88 60 116 60 c 1,6,-1
- 112 31 l 1,0,-1
+112.53125 31 m 1,0,-1
+ 47.53125 -81 l 1,1,-1
+ 3.53125 40 l 1,2,3
+ 3.53125 40 3.53125 40 60.53125 60 c 1,4,5
+ 88.53125 60 88.53125 60 116.53125 60 c 1,6,-1
+ 112.53125 31 l 1,0,-1
 EndSplineSet
-Refer: 320 57346 N 1 0 0 1 -0.5312 0 2
+Refer: 320 57346 N 1 0 0 1 5e-05 0 2
 EndChar
 EndChars
 EndSplineFont
